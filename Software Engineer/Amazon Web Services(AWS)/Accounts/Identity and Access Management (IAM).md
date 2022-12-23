@@ -1,0 +1,1 @@
+With this, you can create other IAM [[identities]] inside an account.
