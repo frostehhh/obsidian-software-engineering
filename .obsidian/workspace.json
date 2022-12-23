@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "a93c96a744ff55e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "eff5b20868e84c51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e215e7cd70e8c04",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f41992da3c7f59e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b7a61d934b5e312",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd2714a80d3d3c1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0c2dedb11ea3190",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "670ffd857d1c699d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2e5b03630ad99a9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "893d8ad78ecdd498",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f96f2b92bce22dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6ccd2f876a599ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2c80372fbe8dfbc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d2667930fede267f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "24acdddef2d2cc0d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae0401dc0a3929a0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 421.5
+  },
+  "active": "ae0401dc0a3929a0",
+  "lastOpenFiles": [
+    "Software Engineer/Amazon Web Services(AWS)/Accounts/AWS Accounts.md",
+    "Software Engineer/Amazon Web Services(AWS)/Accounts/Identities.md",
+    "Software Engineer/Amazon Web Services(AWS)/Accounts/Resources.md",
+    "Software Engineer/Main.md",
+    "Software Engineer/Docker/Docker.md",
+    "_notion-like-tables/table-id-kCKfCz.md",
+    "Pasted image 20221218023231.png",
+    "_notion-like-tables/table-id-ETWYZa.md",
+    "2022-12-16.md",
+    "Open Forum.md"
+  ]
+}
