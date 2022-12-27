@@ -16,7 +16,7 @@
         ],
         "cells": [
           {
-            "id": "cell-id-14pqtACo",
+            "id": "cell-id-tD9eckkU",
             "columnId": "column-id-FlruZQJR",
             "rowId": "row-id-7dKFLK7k",
             "markdown": "New Column",
@@ -24,7 +24,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-tV0tZkiY",
+            "id": "cell-id-ikLHmg9C",
             "columnId": "column-id-h16jVVvK",
             "rowId": "row-id-7dKFLK7k",
             "markdown": "New Column",
@@ -32,7 +32,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-1Bv6jKeK",
+            "id": "cell-id-sBN7IWMu",
             "columnId": "column-id-OeuAEgwy",
             "rowId": "row-id-7dKFLK7k",
             "markdown": "New Column",
@@ -40,7 +40,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-YQuTD3qr",
+            "id": "cell-id-HfBsvTqQ",
             "columnId": "column-id-o4vMIrUM",
             "rowId": "row-id-7dKFLK7k",
             "markdown": "New Column",
@@ -48,7 +48,7 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-OrG4UsVS",
+            "id": "cell-id-eSYuSiaz",
             "columnId": "column-id-FlruZQJR",
             "rowId": "row-id-cmX4QRaX",
             "markdown": "",
@@ -56,7 +56,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-CXoMFJ2u",
+            "id": "cell-id-JKECKAUk",
             "columnId": "column-id-h16jVVvK",
             "rowId": "row-id-cmX4QRaX",
             "markdown": "",
@@ -64,7 +64,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-keO0dS2n",
+            "id": "cell-id-ZzwYrALu",
             "columnId": "column-id-OeuAEgwy",
             "rowId": "row-id-cmX4QRaX",
             "markdown": "",
@@ -72,7 +72,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-ynh1SrV5",
+            "id": "cell-id-vp53gnjh",
             "columnId": "column-id-o4vMIrUM",
             "rowId": "row-id-cmX4QRaX",
             "markdown": "",
@@ -80,7 +80,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-1L9wTiQO",
+            "id": "cell-id-NPkEmCzU",
             "columnId": "column-id-FlruZQJR",
             "rowId": "row-id-eztFXE9y",
             "markdown": "",
@@ -88,7 +88,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-bPjlYje2",
+            "id": "cell-id-Z6grJLCh",
             "columnId": "column-id-h16jVVvK",
             "rowId": "row-id-eztFXE9y",
             "markdown": "",
@@ -96,7 +96,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-BQPu2MBE",
+            "id": "cell-id-fxAFwXZX",
             "columnId": "column-id-OeuAEgwy",
             "rowId": "row-id-eztFXE9y",
             "markdown": "",
@@ -104,7 +104,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-PpIMgEht",
+            "id": "cell-id-7jRjcAlZ",
             "columnId": "column-id-o4vMIrUM",
             "rowId": "row-id-eztFXE9y",
             "markdown": "",
@@ -112,7 +112,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-YZCSbd0M",
+            "id": "cell-id-DZXMnfm0",
             "columnId": "column-id-FlruZQJR",
             "rowId": "row-id-sX6cmf1o",
             "markdown": "",
@@ -120,7 +120,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-Q7u0Mnct",
+            "id": "cell-id-baBugktj",
             "columnId": "column-id-h16jVVvK",
             "rowId": "row-id-sX6cmf1o",
             "markdown": "",
@@ -128,7 +128,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-FmR9c4RY",
+            "id": "cell-id-mda2E0x6",
             "columnId": "column-id-OeuAEgwy",
             "rowId": "row-id-sX6cmf1o",
             "markdown": "",
@@ -136,7 +136,7 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-Mb9jkHhF",
+            "id": "cell-id-AaHIUTOj",
             "columnId": "column-id-o4vMIrUM",
             "rowId": "row-id-sX6cmf1o",
             "markdown": "",
@@ -203,25 +203,16 @@
           "column-id-0fcHxCOE"
         ],
         "rowIds": [
-          "row-id-NeDgwQ5f",
-          "row-id-97ZuNj4Y"
+          "row-id-NeDgwQ5f"
         ],
         "cells": [
           {
-            "id": "cell-id-v7QzDwhZ",
+            "id": "cell-id-ngXu0uLh",
             "columnId": "column-id-0fcHxCOE",
             "rowId": "row-id-NeDgwQ5f",
             "markdown": "New Column",
             "html": "New Column",
             "isHeader": true
-          },
-          {
-            "id": "cell-id-YfHrgYS1",
-            "columnId": "column-id-0fcHxCOE",
-            "rowId": "row-id-97ZuNj4Y",
-            "markdown": "",
-            "html": "",
-            "isHeader": false
           }
         ]
       },
@@ -239,9 +230,6 @@
         "rows": {
           "row-id-NeDgwQ5f": {
             "creationDate": 1671256859707
-          },
-          "row-id-97ZuNj4Y": {
-            "creationDate": 1671256859708
           }
         }
       },
@@ -250,7 +238,7 @@
   },
   "tableFolder": "_notion-like-tables",
   "viewModeSync": {
-    "tableId": "table-id-ETWYZa",
+    "tableId": "table-id-kCKfCz",
     "viewModes": [],
     "eventType": "update-state"
   },
