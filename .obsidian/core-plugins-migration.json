@@ -19,7 +19,11 @@
   "random-note": false,
   "outline": true,
   "word-count": true,
+<<<<<<< HEAD
   "slides": true,
+=======
+  "slides": false,
+>>>>>>> origin/master
   "audio-recorder": false,
   "workspaces": true,
   "file-recovery": true,

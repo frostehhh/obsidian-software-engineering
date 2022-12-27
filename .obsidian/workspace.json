@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "703305c65f3ba7e3",
+        "id": "b7ae94dcdb9ac7ae",
         "type": "tabs",
         "children": [
           {
-            "id": "65e7408dd55ab1b1",
+            "id": "c893ce62b0b8d278",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,8 +157,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "ae0401dc0a3929a0",
+  "active": "c893ce62b0b8d278",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Software Engineer/Docker/Docker.md",
     "Amazon Web Services(AWS)/Accounts/Identity and Access Management (IAM)/Main Jobs/Main Jobs.md",
     "Amazon Web Services(AWS)/Accounts/Identity and Access Management (IAM)/Identity and Access Management (IAM).md",
@@ -167,7 +168,6 @@
     "Amazon Web Services(AWS)/Accounts/Identity and Access Management (IAM)/Identity Federation.md",
     "Amazon Web Services(AWS)/Accounts/Identity and Access Management (IAM)/Types of IAM users/Types of IAM Users.md",
     "Amazon Web Services(AWS)/Accounts/Identity and Access Management (IAM)/Types of IAM users/User.md",
-    "Amazon Web Services(AWS)/Accounts/Identity and Access Management (IAM)/Types of IAM users/Role.md",
-    "Amazon Web Services(AWS)/Accounts/Identity and Access Management (IAM)/Types of IAM users/Group.md"
+    "Amazon Web Services(AWS)/Accounts/Identity and Access Management (IAM)/Types of IAM users/Role.md"
   ]
 }
