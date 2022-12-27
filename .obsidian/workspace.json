@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accounts/Identity and Access Management (IAM)/Types of IAM users/Types of IAM Users.md",
+                "file": "Amazon Web Services/Accounts/Identities.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Accounts/Identity and Access Management (IAM)/Types of IAM users/Types of IAM Users.md",
+                "file": "Amazon Web Services/Accounts/Identities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Accounts/Identity and Access Management (IAM)/Types of IAM users/Types of IAM Users.md",
+                "file": "Amazon Web Services/Accounts/Identities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accounts/Identity and Access Management (IAM)/Types of IAM users/Types of IAM Users.md"
+                "file": "Amazon Web Services/Accounts/Identities.md"
               }
             }
           },
@@ -165,17 +165,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "bd2714a80d3d3c1d",
+  "active": "ebb255b176065553",
   "lastOpenFiles": [
-    "Accounts/Identity and Access Management (IAM)/Types of IAM users/Group.md",
-    "Accounts/Identity and Access Management (IAM)/Types of IAM users/Role.md",
-    "Accounts/Identity and Access Management (IAM)/Main Jobs/Main Jobs.md",
-    "Software Engineer/Amazon Web Services(AWS)/Accounts/Identities.md",
-    "Software Engineer/Amazon Web Services(AWS)/Accounts/AWS Accounts.md",
-    "Accounts/AWS Account.md",
-    "Software Engineer/Amazon Web Services(AWS)/Accounts/Identity and Access Management (IAM).md",
-    "Accounts/Resources.md",
-    "Accounts/New Account Practice.md",
-    "Accounts/Identity and Access Management (IAM)/Types of IAM users/Types of IAM Users.md"
+    "Amazon Web Services/Accounts/Resources.md",
+    "Amazon Web Services/Accounts/New Account Practice.md",
+    "Amazon Web Services/Accounts/AWS Account.md",
+    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Identity Federation.md",
+    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Main Jobs/Main Jobs.md",
+    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Types of IAM users/Group.md",
+    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Types of IAM users/Types of IAM Users.md",
+    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Identity and Access Management.md",
+    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/IAM Policy.md",
+    "Amazon Web Services/Accounts/Identities.md"
   ]
 }

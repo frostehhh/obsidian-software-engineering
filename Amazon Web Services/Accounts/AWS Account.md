@@ -4,4 +4,4 @@ The account must be given an account name. For example, we can name an account `
 
 Each AWS account requires a unique email address and a credit card.
 
-You can create more [[Identities]] within an account that may have restrictions. This uses a service call [[Identity and Access Management (IAM)]].
+You can create more [[Identities]] within an account that may have restrictions. This uses a service call [[Identity and Access Management]].
