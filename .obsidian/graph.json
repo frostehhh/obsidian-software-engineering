@@ -1,37 +1,44 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Software Engineer/Amazon Web Services(AWS)/Accounts/Identity and Access Management (IAM)\"",
+      "query": "path:\"Amazon Web Services\"",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16615482
+      }
+    },
+    {
+      "query": "path:\"Cloud Computing\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
       }
     },
     {
       "query": "",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 11657298
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.06979166666667,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
+  "centerStrength": 0.427083333333333,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224422,
-  "close": false
+  "scale": 0.36288736930121407,
+  "close": true
 }

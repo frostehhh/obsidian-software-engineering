@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6c5bafbd45b0451e",
+        "id": "24a94b89e7c6df5b",
         "type": "tabs",
         "children": [
           {
-            "id": "ebb255b176065553",
+            "id": "cecf252f5200c68e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Web Services/Accounts/Identities.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#cli",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293
+    "width": 200
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Accounts/Identities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Accounts/Identities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,33 +118,22 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Amazon Web Services/Accounts/Identities.md"
-              }
-            }
-          },
-          {
-            "id": "24acdddef2d2cc0d",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           },
           {
-            "id": "ae0401dc0a3929a0",
+            "id": "a903f2d6ed1420fd",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "side-panel-control-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,22 +143,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "ebb255b176065553",
+  "active": "cecf252f5200c68e",
   "lastOpenFiles": [
-    "Amazon Web Services/Accounts/Resources.md",
-    "Amazon Web Services/Accounts/New Account Practice.md",
-    "Amazon Web Services/Accounts/AWS Account.md",
-    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Identity Federation.md",
-    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Main Jobs/Main Jobs.md",
-    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Types of IAM users/Group.md",
-    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Types of IAM users/Types of IAM Users.md",
-    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Identity and Access Management.md",
-    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/IAM Policy.md",
-    "Amazon Web Services/Accounts/Identities.md"
+    "Networking/OSI 7-Layer Model/Physical.md",
+    "Networking/OSI 7-Layer Model/Data Link.md",
+    "2022-12-29.md",
+    "Networking/OSI 7-Layer Model/OSI 7-Layer Model.md",
+    "Networking/Networking.md",
+    "Networking/OSI 7-Layer Model/Application.md",
+    "Networking/OSI 7-Layer Model/Presentation.md",
+    "Networking/OSI 7-Layer Model/Session.md",
+    "Networking/OSI 7-Layer Model/Transport.md",
+    "Networking/OSI 7-Layer Model/Network.md"
   ]
 }

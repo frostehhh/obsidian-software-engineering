@@ -1,0 +1,1 @@
+It is a way of hiding data in something else. For example, we can hide sensitive data in an image file.

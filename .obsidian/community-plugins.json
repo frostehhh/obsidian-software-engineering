@@ -7,5 +7,9 @@
   "obsidian-icon-folder",
   "obsidian-git",
   "obsidian-tasks-plugin",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-linter",
+  "highlightr-plugin",
+  "obsidian-markdown-formatting-assistant-plugin",
+  "obsidian-mind-map"
 ]

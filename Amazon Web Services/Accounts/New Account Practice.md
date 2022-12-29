@@ -5,3 +5,4 @@
 - Activate cost explorer
 - Enable `IAM User & Role Access to Billing`
 	- Access via account name dropdown, then `Account`. Lastly, go to `IAM User and Role Access to Billing Information`
+- Setup Account Alias in [[Identity and Access Management|IAM]]
