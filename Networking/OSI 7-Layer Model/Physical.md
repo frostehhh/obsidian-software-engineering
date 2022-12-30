@@ -1,3 +1,7 @@
+---
+aliases: [layer 1]
+---
+
 - Physical shared medium
 - Standards for transmitting onto the medium
 - Standards for receiving from the medium
