@@ -10,6 +10,6 @@ Supported Types
 6. sequence or lists
 7. ...
 
-###### References
+### References
 [YAML Online Editor](https://codebeautify.org/yaml-editor-online)
 [YAML version 1.2 Specifications](https://yaml.org/spec/1.2.2/)

@@ -1,3 +1,0 @@
----
-aliases: [Layer 3]
----

@@ -14,6 +14,8 @@ There are 2 laptops that are connected by a network cable between the network in
 
 The network cable can be copper(electrical), fibre(light) or WIFI(RF)
 
+![[Pasted image 20230102032304.png]]
+
 The limitation of this example is that there can be a network of only 2 devices. In another example, we can have a physical network hub that allows 4 network cables to be connected to it.
 
 > [!note] 
