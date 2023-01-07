@@ -1,0 +1,1 @@
+![[TF-NET-IPAddressingAndSubnetting-3.png]]

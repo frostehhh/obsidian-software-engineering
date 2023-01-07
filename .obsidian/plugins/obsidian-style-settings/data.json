@@ -9,5 +9,6 @@
   "shimmering-focus@@show-file-explorer-navigation": false,
   "shimmering-focus@@no-tabbar-header-hybrid": false,
   "shimmering-focus@@no-floating-metadata": false,
-  "shimmering-focus@@mac-os-native": false
+  "shimmering-focus@@mac-os-native": false,
+  "shimmering-focus@@overlaying-right-sidebar": false
 }

@@ -1,7 +1,7 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -11,34 +11,41 @@
       "query": "path:\"Amazon Web Services\"",
       "color": {
         "a": 1,
-        "rgb": 16615482
+        "rgb": 14048348
       }
     },
     {
-      "query": "path:\"Cloud Computing\"",
+      "query": "path \"Cloud Computing\"",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 14069084
       }
     },
     {
-      "query": "",
+      "query": "path:\"Networking\"",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:\"Cybersecurity",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.06979166666667,
+  "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.427083333333333,
+  "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224499,
+  "scale": 0.25883865621816865,
   "close": true
 }
