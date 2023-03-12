@@ -15,7 +15,7 @@ aliases: [TCP]
 
 ### Related Topics
 [[TCP Connection 3-way Handshake]]
-[[Sessions & State]]
+[[Sessions & State - Firewalls]]
 
 ### References
 https://www.geeksforgeeks.org/services-and-segment-structure-in-tcp/

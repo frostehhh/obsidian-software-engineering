@@ -1,1 +1,0 @@
-Allows routers to communicate with each other to exchange which networks they know about

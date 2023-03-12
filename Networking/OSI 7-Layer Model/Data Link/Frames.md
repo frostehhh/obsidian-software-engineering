@@ -16,3 +16,6 @@ A frame is a unit of communication in the data link layer. Data link layer takes
 4. Frame Check Sequence (FCS)
 	Checks if there are any errors
 	32 bits
+
+# See Also
+[[Jumbo Frames]]
