@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "249fa935575b3c0c",
+        "id": "ac22d6ba39376622",
         "type": "tabs",
         "children": [
           {
-            "id": "f94c59a7a218261b",
+            "id": "bb10652aa3eb1a6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Overview.md",
-                "mode": "preview",
+                "file": "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Overview.md",
+                "file": "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Overview.md",
+                "file": "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Overview.md"
+                "file": "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5
+    "width": 212.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,10 +157,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "f94c59a7a218261b",
+  "active": "bb10652aa3eb1a6d",
   "lastOpenFiles": [
-    "Networking/Domain Name System/DNSSEC/DNSSEC.md",
+    "Amazon Web Services/Fundamentals/Public vs Private Services.md",
+    "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
+    "Amazon Web Services/Images/Pasted image 20230314043251.png",
+    "Amazon Web Services/Images/Pasted image 20230314043632.png",
+    "YAML/YAML.md",
     "Docker/Overview.md",
+    "Networking/Domain Name System/DNSSEC/DNSSEC.md",
     "Docker/Images/Pasted image 20230313012146.png",
     "Amazon Web Services/Images/Pasted image 20230313010129.png",
     "Pasted image 20230313012120.png",
@@ -173,14 +178,11 @@
     "Amazon Web Services/Accounts/Identities.md",
     "Amazon Web Services/Accounts/New Account Practice.md",
     "Amazon Web Services/Accounts/Resources.md",
-    "Amazon Web Services/Fundamentals/Public vs Private Services.md",
     "Networking/Domain Name System/Images/Pasted image 20230305220252.png",
     "Networking/Domain Name System/Images/Pasted image 20230305223008.png",
     "Networking/Domain Name System/Images/Pasted image 20230305222607.png",
     "Amazon Web Services/Fundamentals",
     "Networking/Domain Name System/Images/Pasted image 20230305223437.png",
-    "Networking/Domain Name System/Images/Pasted image 20230305222735.png",
-    "Networking/Domain Name System/Images/Pasted image 20230305163912.png",
     "Networking/Domain Name System/Registering a new domain.md",
     "Networking/Domain Name System/What do we want from DNS.md",
     "Networking/Domain Name System/Why does DNS need a complex architecture.md",
@@ -198,8 +200,6 @@
     "Networking/OSI 7-Layer Model/Transport/Sessions & State - Firewalls.md",
     "Networking/OSI 7-Layer Model/Data Link/Jumbo Frames.md",
     "Networking/OSI 7-Layer Model/Data Link/Frames.md",
-    "Networking/OSI 7-Layer Model/Data Link/Data Link.md",
-    "Networking/OSI 7-Layer Model/Physical.md",
-    "Networking/OSI 7-Layer Model/Network/Routing Protocol/Border Gateway Protocol.md"
+    "Networking/OSI 7-Layer Model/Data Link/Data Link.md"
   ]
 }
