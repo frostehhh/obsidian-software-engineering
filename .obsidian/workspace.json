@@ -11,11 +11,10 @@
             "id": "bb10652aa3eb1a6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
-                "mode": "source",
-                "source": false
+                "staged": false,
+                "file": "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md"
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,15 +147,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b6ccd2f876a599ff",
+  "active": "bb10652aa3eb1a6d",
   "lastOpenFiles": [
-    "Amazon Web Services/Fundamentals/Public vs Private Services.md",
     "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
+    "Amazon Web Services/Fundamentals/Public vs Private Services.md",
     "Amazon Web Services/Images/Pasted image 20230314043251.png",
     "Amazon Web Services/Images/Pasted image 20230314043632.png",
     "YAML/YAML.md",
