@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ac22d6ba39376622",
+        "id": "2eff92dc93061655",
         "type": "tabs",
         "children": [
           {
-            "id": "bb10652aa3eb1a6d",
+            "id": "0dc45d9576556f8a",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "staged": false,
-                "file": "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md"
+                "file": "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md"
+              }
             }
           },
           {
@@ -152,7 +157,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb10652aa3eb1a6d",
+  "active": "0dc45d9576556f8a",
   "lastOpenFiles": [
     "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
     "Amazon Web Services/Fundamentals/Public vs Private Services.md",
