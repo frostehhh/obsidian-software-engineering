@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 498.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,7 +157,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "bb10652aa3eb1a6d",
+  "active": "b6ccd2f876a599ff",
   "lastOpenFiles": [
     "Amazon Web Services/Fundamentals/Public vs Private Services.md",
     "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
