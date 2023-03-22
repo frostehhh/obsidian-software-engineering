@@ -1,0 +1,3 @@
+---
+aliases: [CloudWatch Basics]
+---

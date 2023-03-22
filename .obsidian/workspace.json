@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39e8324cb9ba88a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Web Services/Fundamentals/Virtual Private Cloud/Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55065362d95fdb2a",
+            "id": "0dc45d9576556f8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,61 +20,43 @@
             }
           },
           {
-            "id": "e02093e44ffb450e",
+            "id": "bc411677a0642450",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
+                "file": "Amazon Web Services/Fundamentals/CloudFormation/Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f0b0c0d0544b01ce",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230319220853.png"
-              }
-            }
-          },
-          {
-            "id": "28cdc6d3b1fb473d",
+            "id": "8a96e2ab80eaf7c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Fundamentals/Simple Storage Service/Basics.md",
+                "file": "Docker/Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a72e614c208ffb4a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "ec0c136d02a46c98",
+            "id": "34a8b9341c50c84f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Fundamentals/Fundamentals.md",
+                "file": "Amazon Web Services/Fundamentals/CloudWatch/Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ip address class",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Fundamentals/CloudFormation/Basics.md",
+                "file": "Amazon Web Services/Fundamentals/CloudWatch/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Fundamentals/CloudFormation/Basics.md",
+                "file": "Amazon Web Services/Fundamentals/CloudWatch/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Fundamentals/CloudFormation/Basics.md"
+                "file": "Amazon Web Services/Fundamentals/CloudWatch/Basics.md"
               }
             }
           },
@@ -205,12 +175,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,35 +194,36 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "55065362d95fdb2a",
+  "active": "34a8b9341c50c84f",
   "lastOpenFiles": [
-    "Amazon Web Services/Images/Pasted image 20230319223228.png",
     "Amazon Web Services/Fundamentals/CloudFormation/Basics.md",
-    "Amazon Web Services/Images/Pasted image 20230320014948.png",
-    "Amazon Web Services/Fundamentals/Virtual Private Cloud/Basics.md",
-    "Amazon Web Services/Fundamentals/CloudFormation",
+    "Amazon Web Services/Fundamentals/CloudWatch/Basics.md",
+    "Docker/Overview.md",
+    "Amazon Web Services/Fundamentals/CloudWatch",
     "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
-    "Amazon Web Services/Images/Pasted image 20230319220853.png",
-    "Amazon Web Services/Fundamentals/Simple Storage Service/Basics.md",
-    "Amazon Web Services/Fundamentals/Simple Storage Service/Patterns and Anti-Patterns.md",
-    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Main Jobs/Main Jobs.md",
-    "Amazon Web Services/Fundamentals/Fundamentals.md",
     "Amazon Web Services/Fundamentals/Amazon Resource Name.md",
+    "Amazon Web Services/Fundamentals/Virtual Private Cloud/Basics.md",
+    "Amazon Web Services/Fundamentals/Simple Storage Service/Basics.md",
+    "Amazon Web Services/Fundamentals/CloudFormation/Resource Type Identifiers.md",
+    "Pasted image 20230322092103.png",
+    "Pasted image 20230322091715.png",
+    "Amazon Web Services/Images/Pasted image 20230320014948.png",
+    "Amazon Web Services/Images/Pasted image 20230319223228.png",
     "Amazon Web Services/Images/Pasted image 20230319222840.png",
     "Amazon Web Services/Images/Pasted image 20230319222506.png",
     "Amazon Web Services/Images/Pasted image 20230319221246.png",
-    "Amazon Web Services/Fundamentals/Elastic Compute Cloud/Basics.md",
-    "Amazon Web Services/Fundamentals/Simple Storage Service",
-    "Amazon Web Services/Fundamentals/Public vs Private Services.md",
+    "Amazon Web Services/Images/Pasted image 20230319220853.png",
     "Amazon Web Services/Images/Pasted image 20230319131451.png",
     "Amazon Web Services/Images/Pasted image 20230319130936.png",
-    "Amazon Web Services/Images/Pasted image 20230319130451.png",
-    "Amazon Web Services/Images/Pasted image 20230319053642.png",
-    "Amazon Web Services/Fundamentals/Elastic Compute Cloud",
-    "Networking/OSI 7-Layer Model/Network/IP Addressing/IPv4 Addressing/IPv4 Address Space.md",
     "Amazon Web Services/Fundamentals/Virtual Private Cloud",
+    "Amazon Web Services/Fundamentals/Simple Storage Service/Patterns and Anti-Patterns.md",
+    "Amazon Web Services/Fundamentals/Simple Storage Service",
+    "Amazon Web Services/Fundamentals/Fundamentals.md",
+    "Amazon Web Services/Fundamentals/Elastic Compute Cloud/Basics.md",
+    "Amazon Web Services/Fundamentals/Elastic Compute Cloud",
+    "Amazon Web Services/Fundamentals/CloudFormation",
+    "Amazon Web Services/Fundamentals/Public vs Private Services.md",
     "YAML/YAML.md",
-    "Docker/Overview.md",
     "Networking/Domain Name System/DNSSEC/DNSSEC.md",
     "Docker/Images",
     "Docker",
@@ -269,8 +239,8 @@
     "Networking/Domain Name System/Why does DNS need a complex architecture.md",
     "Networking/Domain Name System/Domain Name System.md",
     "Networking/IP Sec VPN/IP Sec VPN.md",
-    "Networking/IP Sec VPN",
     "Networking/OSI 7-Layer Model/Application.md",
-    "Networking/Firewalls/Application (Layer 7) Firewalls.md"
+    "Networking/Firewalls/Application (Layer 7) Firewalls.md",
+    "Networking/OSI 7-Layer Model/OSI 7-Layer Model.md"
   ]
 }
