@@ -12,7 +12,7 @@ Creations of AWS that they have selected an inside this region is a full deploym
 - Region code
 	- e.g. ap-southeast-2
 - Region name
-	- e.g. Asia Pacific (Sydney)
+	- e.g. Asia Pacific (Sydney)test
 
 # AWS Edge Locations
 Local distribution points
