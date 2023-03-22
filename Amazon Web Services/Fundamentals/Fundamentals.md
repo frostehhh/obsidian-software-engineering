@@ -1,0 +1,6 @@
+[[AWS Global Infrastructure]]
+[[Public vs Private Services]]
+[[Amazon Resource Name]]
+[[Amazon Web Services/Fundamentals/Virtual Private Cloud/Basics|VPC Basics]]
+[[Amazon Web Services/Fundamentals/Simple Storage Service/Basics|S3]]
+[[Amazon Web Services/Fundamentals/Elastic Compute Cloud/Basics|EC2 Basics]]

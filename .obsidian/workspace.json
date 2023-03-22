@@ -8,7 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0dc45d9576556f8a",
+            "id": "39e8324cb9ba88a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Fundamentals/Virtual Private Cloud/Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55065362d95fdb2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Fundamentals/CloudFormation/Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e02093e44ffb450e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +42,51 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f0b0c0d0544b01ce",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Amazon Web Services/Images/Pasted image 20230319220853.png"
+              }
+            }
+          },
+          {
+            "id": "28cdc6d3b1fb473d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Fundamentals/Simple Storage Service/Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a72e614c208ffb4a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec0c136d02a46c98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Fundamentals/Fundamentals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ip address class",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
+                "file": "Amazon Web Services/Fundamentals/CloudFormation/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
+                "file": "Amazon Web Services/Fundamentals/CloudFormation/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md"
+                "file": "Amazon Web Services/Fundamentals/CloudFormation/Basics.md"
               }
             }
           },
@@ -138,11 +205,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 498.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,24 +220,41 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "0dc45d9576556f8a",
+  "active": "55065362d95fdb2a",
   "lastOpenFiles": [
+    "Amazon Web Services/Images/Pasted image 20230319223228.png",
+    "Amazon Web Services/Fundamentals/CloudFormation/Basics.md",
+    "Amazon Web Services/Images/Pasted image 20230320014948.png",
+    "Amazon Web Services/Fundamentals/Virtual Private Cloud/Basics.md",
+    "Amazon Web Services/Fundamentals/CloudFormation",
     "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
+    "Amazon Web Services/Images/Pasted image 20230319220853.png",
+    "Amazon Web Services/Fundamentals/Simple Storage Service/Basics.md",
+    "Amazon Web Services/Fundamentals/Simple Storage Service/Patterns and Anti-Patterns.md",
+    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Main Jobs/Main Jobs.md",
+    "Amazon Web Services/Fundamentals/Fundamentals.md",
+    "Amazon Web Services/Fundamentals/Amazon Resource Name.md",
+    "Amazon Web Services/Images/Pasted image 20230319222840.png",
+    "Amazon Web Services/Images/Pasted image 20230319222506.png",
+    "Amazon Web Services/Images/Pasted image 20230319221246.png",
+    "Amazon Web Services/Fundamentals/Elastic Compute Cloud/Basics.md",
+    "Amazon Web Services/Fundamentals/Simple Storage Service",
     "Amazon Web Services/Fundamentals/Public vs Private Services.md",
-    "Amazon Web Services/Images/Pasted image 20230314043251.png",
-    "Amazon Web Services/Images/Pasted image 20230314043632.png",
+    "Amazon Web Services/Images/Pasted image 20230319131451.png",
+    "Amazon Web Services/Images/Pasted image 20230319130936.png",
+    "Amazon Web Services/Images/Pasted image 20230319130451.png",
+    "Amazon Web Services/Images/Pasted image 20230319053642.png",
+    "Amazon Web Services/Fundamentals/Elastic Compute Cloud",
+    "Networking/OSI 7-Layer Model/Network/IP Addressing/IPv4 Addressing/IPv4 Address Space.md",
+    "Amazon Web Services/Fundamentals/Virtual Private Cloud",
     "YAML/YAML.md",
     "Docker/Overview.md",
     "Networking/Domain Name System/DNSSEC/DNSSEC.md",
-    "Docker/Images/Pasted image 20230313012146.png",
-    "Amazon Web Services/Images/Pasted image 20230313010129.png",
-    "Pasted image 20230313012120.png",
-    "Docker/Images/Pasted image 20230313011425.png",
     "Docker/Images",
     "Docker",
     "YAML/Untitled",
@@ -178,11 +263,7 @@
     "Amazon Web Services/Accounts/Identities.md",
     "Amazon Web Services/Accounts/New Account Practice.md",
     "Amazon Web Services/Accounts/Resources.md",
-    "Networking/Domain Name System/Images/Pasted image 20230305220252.png",
-    "Networking/Domain Name System/Images/Pasted image 20230305223008.png",
-    "Networking/Domain Name System/Images/Pasted image 20230305222607.png",
     "Amazon Web Services/Fundamentals",
-    "Networking/Domain Name System/Images/Pasted image 20230305223437.png",
     "Networking/Domain Name System/Registering a new domain.md",
     "Networking/Domain Name System/What do we want from DNS.md",
     "Networking/Domain Name System/Why does DNS need a complex architecture.md",
@@ -190,16 +271,6 @@
     "Networking/IP Sec VPN/IP Sec VPN.md",
     "Networking/IP Sec VPN",
     "Networking/OSI 7-Layer Model/Application.md",
-    "Networking/Firewalls/Application (Layer 7) Firewalls.md",
-    "Networking/OSI 7-Layer Model/OSI 7-Layer Model.md",
-    "Networking/Firewalls/Normal Firewalls (Layer 3,4,5).md",
-    "Networking/Firewalls/Stateful vs Stateless Firewalls.md",
-    "Networking/OSI 7-Layer Model/Network/IP Addressing/Address Resolution Protocol.md",
-    "Networking/OSI 7-Layer Model/Network/Network.md",
-    "Networking/Firewalls",
-    "Networking/OSI 7-Layer Model/Transport/Sessions & State - Firewalls.md",
-    "Networking/OSI 7-Layer Model/Data Link/Jumbo Frames.md",
-    "Networking/OSI 7-Layer Model/Data Link/Frames.md",
-    "Networking/OSI 7-Layer Model/Data Link/Data Link.md"
+    "Networking/Firewalls/Application (Layer 7) Firewalls.md"
   ]
 }
