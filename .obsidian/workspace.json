@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2eff92dc93061655",
+        "id": "5d64101542aee8ff",
         "type": "tabs",
         "children": [
           {
-            "id": "0dc45d9576556f8a",
+            "id": "b4ffc6566df3fba5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Fundamentals/CloudFormation/Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc411677a0642450",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Web Services/Fundamentals/CloudFormation/Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a96e2ab80eaf7c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34a8b9341c50c84f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Web Services/Fundamentals/CloudWatch/Basics.md",
+                "file": "Amazon Web Services/IAM, Accounts and AWS Organizations/IAM Roles.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Fundamentals/CloudWatch/Basics.md",
+                "file": "Amazon Web Services/IAM, Accounts and AWS Organizations/IAM Roles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Fundamentals/CloudWatch/Basics.md",
+                "file": "Amazon Web Services/IAM, Accounts and AWS Organizations/IAM Roles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Fundamentals/CloudWatch/Basics.md"
+                "file": "Amazon Web Services/IAM, Accounts and AWS Organizations/IAM Roles.md"
               }
             }
           },
           {
-            "id": "661eb1ebaf50b3e6",
+            "id": "a8026435152618c5",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -175,11 +138,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 297
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,53 +157,53 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "34a8b9341c50c84f",
+  "active": "b4ffc6566df3fba5",
   "lastOpenFiles": [
-    "Amazon Web Services/Fundamentals/CloudFormation/Basics.md",
-    "Amazon Web Services/Fundamentals/CloudWatch/Basics.md",
-    "Docker/Overview.md",
-    "Amazon Web Services/Fundamentals/CloudWatch",
-    "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
+    "Amazon Web Services/IAM, Accounts and AWS Organizations/IAM Groups.md",
+    "Amazon Web Services/Unsorted/Direct Connect.md",
+    "Amazon Web Services/IAM, Accounts and AWS Organizations/IAM Roles.md",
+    "Amazon Web Services/IAM, Accounts and AWS Organizations/IAM, Accounts and AWS Organizations.md",
+    "Pasted image 20230327070844.png",
+    "Pasted image 20230327063143.png",
+    "Pasted image 20230327070332.png",
+    "Pasted image 20230327070234.png",
+    "Amazon Web Services/Images/Pasted image 20230327011151.png",
+    "Amazon Web Services/IAM, Accounts and AWS Organizations/IAM Users.md",
+    "Amazon Web Services/IAM, Accounts and AWS Organizations/Resources Policies.md",
+    "Amazon Web Services/Images/Pasted image 20230327010945.png",
+    "Amazon Web Services/Images/Pasted image 20230327010631.png",
+    "Amazon Web Services/IAM, Accounts and AWS Organizations/Identity Policies.md",
+    "Amazon Web Services/Images/Pasted image 20230327004341.png",
+    "Amazon Web Services/Images/Pasted image 20230327010229.png",
     "Amazon Web Services/Fundamentals/Amazon Resource Name.md",
-    "Amazon Web Services/Fundamentals/Virtual Private Cloud/Basics.md",
-    "Amazon Web Services/Fundamentals/Simple Storage Service/Basics.md",
-    "Amazon Web Services/Fundamentals/CloudFormation/Resource Type Identifiers.md",
-    "Pasted image 20230322092103.png",
-    "Pasted image 20230322091715.png",
-    "Amazon Web Services/Images/Pasted image 20230320014948.png",
-    "Amazon Web Services/Images/Pasted image 20230319223228.png",
-    "Amazon Web Services/Images/Pasted image 20230319222840.png",
-    "Amazon Web Services/Images/Pasted image 20230319222506.png",
-    "Amazon Web Services/Images/Pasted image 20230319221246.png",
-    "Amazon Web Services/Images/Pasted image 20230319220853.png",
-    "Amazon Web Services/Images/Pasted image 20230319131451.png",
-    "Amazon Web Services/Images/Pasted image 20230319130936.png",
-    "Amazon Web Services/Fundamentals/Virtual Private Cloud",
-    "Amazon Web Services/Fundamentals/Simple Storage Service/Patterns and Anti-Patterns.md",
-    "Amazon Web Services/Fundamentals/Simple Storage Service",
+    "Amazon Web Services/Images/Pasted image 20230327004657.png",
     "Amazon Web Services/Fundamentals/Fundamentals.md",
-    "Amazon Web Services/Fundamentals/Elastic Compute Cloud/Basics.md",
+    "Amazon Web Services/Fundamentals/High-Availability vs Fault-Tolerance vs Disaster Recovery.md",
+    "Amazon Web Services/Fundamentals/Public vs Private Services.md",
+    "Amazon Web Services/Fundamentals/Route 53/Registering a Domain.md",
+    "Amazon Web Services/Fundamentals/Route 53/Supported DNS Record Type.md",
+    "Networking/Domain Name System/DNS Record Types.md",
+    "Networking/Domain Name System/Time To Live.md",
+    "Amazon Web Services/Images/Pasted image 20230327001921.png.md",
+    "Amazon Web Services/Fundamentals/Route 53/Basics.md",
+    "Networking/Domain Name System/DNSSEC/DNSSEC.md",
+    "Amazon Web Services/Services.md",
+    "Networking/Domain Name System/Domain Name System.md",
+    "Networking/Domain Name System/Registering a new domain.md",
+    "Networking/Domain Name System/Why does DNS need a complex architecture.md",
+    "Networking/Domain Name System/What do we want from DNS.md",
+    "Amazon Web Services/IAM, Accounts and AWS Organizations",
+    "Amazon Web Services/Fundamentals/Route 53",
+    "Amazon Web Services/Fundamentals/Shared Responsibility Model/Shared Responsibility Model.md",
+    "Networking/OSI 7-Layer Model/Transport/Sessions & State - Firewalls.md",
+    "Amazon Web Services/Fundamentals/Shared Responsibility Model",
+    "Amazon Web Services/Fundamentals/CloudWatch/Metrics.md",
+    "Amazon Web Services/Fundamentals/CloudWatch",
+    "Amazon Web Services/Fundamentals/Virtual Private Cloud",
+    "Amazon Web Services/Fundamentals/Simple Storage Service",
     "Amazon Web Services/Fundamentals/Elastic Compute Cloud",
     "Amazon Web Services/Fundamentals/CloudFormation",
-    "Amazon Web Services/Fundamentals/Public vs Private Services.md",
-    "YAML/YAML.md",
-    "Networking/Domain Name System/DNSSEC/DNSSEC.md",
     "Docker/Images",
-    "Docker",
-    "YAML/Untitled",
-    "Amazon Web Services/Accounts/AWS Account.md",
-    "Amazon Web Services/Images",
-    "Amazon Web Services/Accounts/Identities.md",
-    "Amazon Web Services/Accounts/New Account Practice.md",
-    "Amazon Web Services/Accounts/Resources.md",
-    "Amazon Web Services/Fundamentals",
-    "Networking/Domain Name System/Registering a new domain.md",
-    "Networking/Domain Name System/What do we want from DNS.md",
-    "Networking/Domain Name System/Why does DNS need a complex architecture.md",
-    "Networking/Domain Name System/Domain Name System.md",
-    "Networking/IP Sec VPN/IP Sec VPN.md",
-    "Networking/OSI 7-Layer Model/Application.md",
-    "Networking/Firewalls/Application (Layer 7) Firewalls.md",
-    "Networking/OSI 7-Layer Model/OSI 7-Layer Model.md"
+    "Docker"
   ]
 }

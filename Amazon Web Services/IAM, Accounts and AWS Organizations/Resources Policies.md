@@ -1,0 +1,3 @@
+- Can reference identities
+- Controls access to a specific resource and allows or denies certain identities to that resource
+- References identities using [[Amazon Resource Name|ARNs]]

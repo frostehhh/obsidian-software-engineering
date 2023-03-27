@@ -13,6 +13,7 @@ DNS converts DNS names into IP addresses
 # Hierachical Design
 ![[DNS101-4.png]]
 ## Root zone
+- Root name server
 - 13 root servers managed by organizations
 - a database assigned by IANA
 - management by the root zone and root servers is not IANA
@@ -20,6 +21,7 @@ DNS converts DNS names into IP addresses
 - Points to TLD registries
 
 ## Top Level Domains (TLD)
+- Top-level domain name server
 - Types of TLD
 	- generic like .com
 	- country code like .au
