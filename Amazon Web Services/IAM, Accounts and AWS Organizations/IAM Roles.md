@@ -12,6 +12,22 @@
 ## Permissions Policy
 
 # When to use IAM Roles
+![[Pasted image 20230402034039.png]]
+- AWS ServiceAWS Lambda
+	- Lambda execution role trusts Lambda Service
+![[Pasted image 20230402034425.png]]
+- Emergency situations
+
+### Existing Corporate Environment
+![[Pasted image 20230402034904.png]]
+existing corporate environment
+existing physical network
+existing identity provider
+External accounts can't be used in AWS directly - Facebook, google, etc. identities
+
+> [!info] 
+>  Identity Federation - giving permissions to external identity provider and allowing them to assume an AWS role
+
 
 
 # References
