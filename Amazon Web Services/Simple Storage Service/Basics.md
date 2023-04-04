@@ -5,8 +5,9 @@ aliases: [S3]
 ![[Pasted image 20230319220853.png]]
 # Objects
 ![[Pasted image 20230319221246.png]]
-Can think of them as files
-**Private by default**
+- Can think of them as files
+- **Private by default**
+	- Only account root user has default access to this
 ## Components
 1. key - similar to a filename. Identifies the object in a bucket
 2. value - data or contents of the object

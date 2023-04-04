@@ -4,5 +4,20 @@ AWS Control Tower offers a straightforward way to set up and govern an AWS multi
 
 AWS Control Tower orchestration extends the capabilities of AWS Organizations. To help keep your organizations and accounts from _drift_, which is divergence from best practices, AWS Control Tower applies preventive and detective controls (guardrails). For example, you can use guardrails to help ensure that security logs and necessary cross-account access permissions are created, and not altered.
 
-
+![[Pasted image 20230405011129.png]]
 - AWS Organizations but with super powers
+
+# Visual Architecture
+![[Pasted image 20230405014027.png]]
+- When created, the AWS account becomes management account
+- includes Control Tower, AWS Organizations, SSO
+
+
+# Landing Zone
+![[Pasted image 20230405014348.png]]
+
+# Guard Rails
+![[Pasted image 20230405015014.png]]
+
+# Account Factory
+![[Pasted image 20230405015313.png]]

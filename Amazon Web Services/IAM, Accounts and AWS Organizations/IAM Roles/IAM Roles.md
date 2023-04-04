@@ -9,7 +9,9 @@
 - Can reference identities in the same AWS account and other AWS accounts
 - Can allow anonymous usage
 - Can allow entities like Facebook, Google, etc.
+- A [JSON policy document](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_grammar.html) in which you define the principals that you _trust_ to assume the role. A role trust policy is a required [resource-based policy](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html#policies_resource-based) that is attached to a role in IAM. The [principals](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_principal.html) that you can specify in the trust policy include users, roles, accounts, and services.
 ## Permissions Policy
+- A permissions document in [JSON](http://www.json.org/) format in which you define what actions and resources the role can use. The document is written according to the rules of the [IAM policy language](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies.html).
 
 # When to use IAM Roles
 
@@ -44,3 +46,5 @@ Users in AWS Account A can be assigned a Role to access resources in AWS Account
 
 # References
 [AWS Documentation - IAM Roles](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html)
+[AWS IAM Roles terms and concepts
+](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_terms-and-concepts.html)
