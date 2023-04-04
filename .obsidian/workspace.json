@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/CloudTrail/Setting up organization trail.md",
+                "file": "Amazon Web Services/AWS Control Tower/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/CloudTrail/Setting up organization trail.md",
+                "file": "Amazon Web Services/AWS Control Tower/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/CloudTrail/Setting up organization trail.md",
+                "file": "Amazon Web Services/AWS Control Tower/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/CloudTrail/Setting up organization trail.md"
+                "file": "Amazon Web Services/AWS Control Tower/Basics.md"
               }
             }
           },
@@ -159,9 +159,9 @@
   },
   "active": "c0bc07af4b8850b5",
   "lastOpenFiles": [
+    "Amazon Web Services/CloudTrail/Setting up organization trail.md",
     "Pasted image 20230403025749.png",
     "Amazon Web Services/AWS Control Tower/Basics.md",
-    "Amazon Web Services/CloudTrail/Setting up organization trail.md",
     "Amazon Web Services/AWS Control Tower",
     "Amazon Web Services/Fundamentals/CloudWatch/Basics.md",
     "Amazon Web Services/Fundamentals/CloudWatch/CloudWatch Logs.md",
