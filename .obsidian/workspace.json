@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2eff92dc93061655",
+        "id": "fd70e2078420a392",
         "type": "tabs",
         "children": [
           {
-            "id": "55065362d95fdb2a",
+            "id": "c0bc07af4b8850b5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230402034904.png"
+                "file": "Amazon Web Services/CloudTrail/Setting up organization trail.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e76b22a98c81bdd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/AWS Control Tower/Basics.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -46,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ip address class",
+                "query": "related course",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230402034904.png",
+                "file": "Amazon Web Services/AWS Control Tower/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230402034904.png",
+                "file": "Amazon Web Services/AWS Control Tower/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230402034904.png"
+                "file": "Amazon Web Services/AWS Control Tower/Basics.md"
               }
             }
           },
@@ -155,52 +170,53 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "55065362d95fdb2a",
+  "active": "e76b22a98c81bdd3",
   "lastOpenFiles": [
-    "Amazon Web Services/IAM, Accounts and AWS Organizations/IAM Roles.md",
-    "Amazon Web Services/Images/Pasted image 20230402034904.png",
-    "Amazon Web Services/Images/Pasted image 20230402034425.png",
-    "Amazon Web Services/Images/Pasted image 20230402034039.png",
-    "Amazon Web Services/IAM, Accounts and AWS Organizations/IAM Users.md",
-    "Amazon Web Services/IAM, Accounts and AWS Organizations/Identity Policies.md",
-    "Amazon Web Services/IAM, Accounts and AWS Organizations/Resources Policies.md",
-    "Amazon Web Services/IAM, Accounts and AWS Organizations/IAM Groups.md",
-    "Amazon Web Services/IAM, Accounts and AWS Organizations/IAM, Accounts and AWS Organizations.md",
-    "Amazon Web Services/Images/Pasted image 20230327070844.png",
-    "Amazon Web Services/Images/Pasted image 20230327063143.png",
-    "Networking/Domain Name System/Time To Live.md",
-    "Networking/Domain Name System/DNS Record Types.md",
-    "Amazon Web Services/Images/Pasted image 20230327011151.png",
-    "Amazon Web Services/Images/Pasted image 20230327010945.png",
-    "Amazon Web Services/Images/Pasted image 20230327010229.png",
-    "Amazon Web Services/Images/Pasted image 20230327004657.png",
-    "Amazon Web Services/Images/Pasted image 20230327004341.png",
-    "Amazon Web Services/Images/Pasted image 20230327001921.png.md",
-    "Amazon Web Services/IAM, Accounts and AWS Organizations",
-    "Amazon Web Services/Fundamentals/Shared Responsibility Model/Shared Responsibility Model.md",
-    "Amazon Web Services/Fundamentals/Shared Responsibility Model",
-    "Amazon Web Services/Fundamentals/Route 53/Basics.md",
-    "Amazon Web Services/Fundamentals/Route 53/Supported DNS Record Type.md",
-    "Amazon Web Services/Fundamentals/Route 53/Registering a Domain.md",
-    "Amazon Web Services/Fundamentals/Route 53",
-    "Amazon Web Services/Fundamentals/High-Availability vs Fault-Tolerance vs Disaster Recovery.md",
-    "Amazon Web Services/Fundamentals/CloudWatch/Namespace.md",
-    "Amazon Web Services/Fundamentals/CloudWatch/Metrics.md",
-    "Amazon Web Services/Fundamentals/CloudWatch/Alarms.md",
+    "Amazon Web Services/CloudTrail/Setting up organization trail.md",
+    "Amazon Web Services/AWS Control Tower/Basics.md",
+    "Amazon Web Services/AWS Control Tower",
     "Amazon Web Services/Fundamentals/CloudWatch/Basics.md",
-    "Amazon Web Services/Fundamentals/CloudWatch",
-    "Amazon Web Services/Fundamentals/CloudFormation/Resource Type Identifiers.md",
-    "Amazon Web Services/Fundamentals/CloudFormation/Basics.md",
-    "Amazon Web Services/Fundamentals/Virtual Private Cloud/Basics.md",
-    "Amazon Web Services/Fundamentals/CloudFormation",
-    "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
+    "Amazon Web Services/Fundamentals/CloudWatch/CloudWatch Logs.md",
+    "Amazon Web Services/Fundamentals/CloudWatch/Alarms.md",
+    "Amazon Web Services/CloudTrail/Basics.md",
+    "--Template--/Related Courses.md",
+    "Amazon Web Services/IAM, Accounts and AWS Organizations/AWS Organizations/Creating an AWS Organization.md",
+    "--Template--",
+    "Pasted image 20230403025749.png",
+    "Pasted image 20230403023741.png",
+    "Amazon Web Services/CloudTrail",
+    "Pasted image 20230403023109.png",
+    "Amazon Web Services/Images/Pasted image 20230403022214.png",
+    "Amazon Web Services/Fundamentals/High-Availability vs Fault-Tolerance vs Disaster Recovery.md",
+    "Amazon Web Services/Fundamentals/Public vs Private Services.md",
     "Amazon Web Services/Fundamentals/Simple Storage Service/Basics.md",
-    "Amazon Web Services/Fundamentals/Simple Storage Service/Patterns and Anti-Patterns.md",
-    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Main Jobs/Main Jobs.md",
-    "Amazon Web Services/Fundamentals/Simple Storage Service",
-    "Amazon Web Services/Fundamentals/Elastic Compute Cloud",
-    "Amazon Web Services/Fundamentals/Virtual Private Cloud",
-    "Docker/Images",
-    "Docker"
+    "Amazon Web Services/IAM, Accounts and AWS Organizations/AWS Organizations/Using Service Control Policies.md",
+    "Amazon Web Services/IAM, Accounts and AWS Organizations/AWS Organizations/Service Control Policies.md",
+    "Amazon Web Services/Images/Pasted image 20230403003813.png",
+    "Amazon Web Services/Images/Pasted image 20230403003719.png",
+    "Amazon Web Services/Images/Pasted image 20230403003705.png",
+    "Amazon Web Services/Images/Pasted image 20230403003613.png",
+    "Amazon Web Services/Images/Pasted image 20230403003533.png",
+    "Amazon Web Services/IAM, Accounts and AWS Organizations/AWS Organizations/AWS Organizations.md",
+    "Amazon Web Services/IAM, Accounts and AWS Organizations/AWS Organizations",
+    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Creating a new Identity.md",
+    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/IAM Policy.md",
+    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Identity Federation.md",
+    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Identity and Access Management.md",
+    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Access Keys.md",
+    "Amazon Web Services/Accounts/AWS Account.md",
+    "Amazon Web Services/Accounts/Identities.md",
+    "Amazon Web Services/Accounts/New Account Practice.md",
+    "Amazon Web Services/Accounts/Resources.md",
+    "Amazon Web Services/Images/Pasted image 20230402190439.png",
+    "Amazon Web Services/IAM, Accounts and AWS Organizations/IAM Roles/Service-linked Roles.md",
+    "Amazon Web Services/IAM, Accounts and AWS Organizations/IAM Roles/IAM Roles.md",
+    "Amazon Web Services/IAM, Accounts and AWS Organizations/IAM Users.md",
+    "Amazon Web Services/IAM, Accounts and AWS Organizations/IAM Roles",
+    "Amazon Web Services/IAM, Accounts and AWS Organizations",
+    "Amazon Web Services/Fundamentals/Shared Responsibility Model",
+    "Amazon Web Services/Fundamentals/Route 53",
+    "Amazon Web Services/Fundamentals/CloudWatch",
+    "Amazon Web Services/Fundamentals/CloudFormation"
   ]
 }
