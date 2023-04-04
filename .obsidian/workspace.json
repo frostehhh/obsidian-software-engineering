@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7575ff1f558bc353",
+        "id": "bf22f2c8c67ee95d",
         "type": "tabs",
         "children": [
           {
-            "id": "b5cb0342e42092fa",
+            "id": "bfa148b72f4ee9ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,14 +157,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "b5cb0342e42092fa",
+  "active": "bfa148b72f4ee9ee",
   "lastOpenFiles": [
-    "Pasted image 20230405021707.png",
+    "Pasted image 20230405033101.png",
+    "Amazon Web Services/Simple Storage Service/Patterns and Anti-Patterns.md",
     "Amazon Web Services/IAM, Accounts and AWS Organizations/Identity Policies.md",
     "Amazon Web Services/Simple Storage Service/Security.md",
-    "Amazon Web Services/IAM, Accounts and AWS Organizations/Resources Policies.md",
+    "Pasted image 20230405031455.png",
     "Amazon Web Services/Simple Storage Service/Basics.md",
-    "Amazon Web Services/Simple Storage Service/Patterns and Anti-Patterns.md",
+    "Amazon Web Services/IAM, Accounts and AWS Organizations/IAM, Accounts and AWS Organizations.md",
+    "Amazon Web Services/IAM, Accounts and AWS Organizations/Resources Policies.md",
+    "Pasted image 20230405021707.png",
     "Amazon Web Services/Virtual Private Cloud/Basics.md",
     "Amazon Web Services/Fundamentals/Amazon Resource Name.md",
     "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
@@ -193,13 +195,10 @@
     "Amazon Web Services/IAM, Accounts and AWS Organizations/AWS Organizations/Creating an AWS Organization.md",
     "--Template--",
     "Amazon Web Services/CloudTrail",
-    "Amazon Web Services/Images/Pasted image 20230403022214.png",
     "Amazon Web Services/IAM, Accounts and AWS Organizations/AWS Organizations/Using Service Control Policies.md",
-    "Amazon Web Services/Images/Pasted image 20230403003813.png",
     "Amazon Web Services/IAM, Accounts and AWS Organizations/AWS Organizations/AWS Organizations.md",
     "Amazon Web Services/IAM, Accounts and AWS Organizations/AWS Organizations",
     "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Creating a new Identity.md",
-    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/IAM Policy.md",
     "Amazon Web Services/IAM, Accounts and AWS Organizations/IAM Roles",
     "Amazon Web Services/IAM, Accounts and AWS Organizations",
     "Amazon Web Services/Shared Responsibility Model",

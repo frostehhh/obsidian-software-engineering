@@ -34,3 +34,7 @@
 # Types
 1. [AWS managed policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html#aws-managed-policies)
 2. [Customer managed policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html#customer-managed-policies)
+
+# References
+[IAM JSON policy elements reference
+](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements.html)
