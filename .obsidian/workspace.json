@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e76b22a98c81bdd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Web Services/AWS Control Tower/Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/AWS Control Tower/Basics.md",
+                "file": "Amazon Web Services/CloudTrail/Setting up organization trail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/AWS Control Tower/Basics.md",
+                "file": "Amazon Web Services/CloudTrail/Setting up organization trail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/AWS Control Tower/Basics.md"
+                "file": "Amazon Web Services/CloudTrail/Setting up organization trail.md"
               }
             }
           },
@@ -170,10 +157,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "e76b22a98c81bdd3",
+  "active": "c0bc07af4b8850b5",
   "lastOpenFiles": [
-    "Amazon Web Services/CloudTrail/Setting up organization trail.md",
+    "Pasted image 20230403025749.png",
     "Amazon Web Services/AWS Control Tower/Basics.md",
+    "Amazon Web Services/CloudTrail/Setting up organization trail.md",
     "Amazon Web Services/AWS Control Tower",
     "Amazon Web Services/Fundamentals/CloudWatch/Basics.md",
     "Amazon Web Services/Fundamentals/CloudWatch/CloudWatch Logs.md",
@@ -182,7 +170,6 @@
     "--Template--/Related Courses.md",
     "Amazon Web Services/IAM, Accounts and AWS Organizations/AWS Organizations/Creating an AWS Organization.md",
     "--Template--",
-    "Pasted image 20230403025749.png",
     "Pasted image 20230403023741.png",
     "Amazon Web Services/CloudTrail",
     "Pasted image 20230403023109.png",
@@ -211,7 +198,6 @@
     "Amazon Web Services/Images/Pasted image 20230402190439.png",
     "Amazon Web Services/IAM, Accounts and AWS Organizations/IAM Roles/Service-linked Roles.md",
     "Amazon Web Services/IAM, Accounts and AWS Organizations/IAM Roles/IAM Roles.md",
-    "Amazon Web Services/IAM, Accounts and AWS Organizations/IAM Users.md",
     "Amazon Web Services/IAM, Accounts and AWS Organizations/IAM Roles",
     "Amazon Web Services/IAM, Accounts and AWS Organizations",
     "Amazon Web Services/Fundamentals/Shared Responsibility Model",
