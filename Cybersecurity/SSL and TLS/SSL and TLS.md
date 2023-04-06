@@ -1,6 +1,6 @@
 [[Secure Sockets Layer|SSL]] and [[Transport Layer Security|TLS]] both provide
 - Privacy and Data Integrity between client and server
-- Privacy - communications are encrypted. See also [[Encryption]]
+- Privacy - communications are encrypted. See also [[Cybersecurity/Encryption/Encryption]]
 - Identity (server or client/server) verified
 - Reliable connection - protect against alteration
 

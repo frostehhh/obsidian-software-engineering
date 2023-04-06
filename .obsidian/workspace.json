@@ -13,13 +13,134 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Simple Storage Service/Security.md",
+                "file": "Amazon Web Services/Services/Simple Storage Service/Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53a6935932c62282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/Simple Storage Service/Legacy/Access Control Lists.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2aade75f00eea850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/Simple Storage Service/Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bf9a687f719da01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/Simple Storage Service/S3 Static Website Hosting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc7049c72da01dda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/Simple Storage Service/Object Versioning and MFA Delete.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f634646575930af1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/Simple Storage Service/Performance Optimization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "927b3a4a513f48e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/Key Management Service/Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cf4780a5107806a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/Key Management Service/Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab71bd89177bd27d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/Key Management Service/Key Policies and Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d03e10b2137c03df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/Key Management Service/Demo - Encryption with KMS.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b6410516bfa1223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/Simple Storage Service/Encryption.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -48,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "identity policy",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Simple Storage Service/Security.md",
+                "file": "Amazon Web Services/Services/Simple Storage Service/Encryption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Simple Storage Service/Security.md",
+                "file": "Amazon Web Services/Services/Simple Storage Service/Encryption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Simple Storage Service/Security.md"
+                "file": "Amazon Web Services/Services/Simple Storage Service/Encryption.md"
               }
             }
           },
@@ -142,7 +263,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 285,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,53 +279,53 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "bfa148b72f4ee9ee",
+  "active": "9b6410516bfa1223",
   "lastOpenFiles": [
-    "Pasted image 20230405033101.png",
-    "Amazon Web Services/Simple Storage Service/Patterns and Anti-Patterns.md",
-    "Amazon Web Services/IAM, Accounts and AWS Organizations/Identity Policies.md",
-    "Amazon Web Services/Simple Storage Service/Security.md",
-    "Pasted image 20230405031455.png",
-    "Amazon Web Services/Simple Storage Service/Basics.md",
-    "Amazon Web Services/IAM, Accounts and AWS Organizations/IAM, Accounts and AWS Organizations.md",
-    "Amazon Web Services/IAM, Accounts and AWS Organizations/Resources Policies.md",
-    "Pasted image 20230405021707.png",
+    "Pasted image 20230407025855.png",
+    "Pasted image 20230407025127.png",
+    "Pasted image 20230407024658.png",
+    "Pasted image 20230407024618.png",
+    "Amazon Web Services/Services/Key Management Service/Basics.md",
+    "Amazon Web Services/Services/Simple Storage Service/Encryption.md",
+    "Pasted image 20230407001150.png",
+    "Pasted image 20230407000431.png",
+    "Pasted image 20230406234424.png",
+    "Amazon Web Services/Services/Key Management Service/Demo - Encryption with KMS.md",
+    "Amazon Web Services/Services/Key Management Service/Key Policies and Security.md",
+    "--Obsidian Template--/Related Course Demo.md",
+    "--Obsidian Template--",
+    "Pasted image 20230406223901.png",
+    "Pasted image 20230406222515.png",
+    "Pasted image 20230406211439.png",
+    "Amazon Web Services/Services/Simple Storage Service/S3 Static Website Hosting.md",
+    "Amazon Web Services/Services/Simple Storage Service/Security.md",
+    "Amazon Web Services/Images/Pasted image 20230406211149.png",
+    "Amazon Web Services/Services/Simple Storage Service/Performance Optimization.md",
+    "Amazon Web Services/Services/Key Management Service",
+    "Amazon Web Services/Services",
+    "Amazon Web Services/Services/Simple Storage Service/Object Versioning and MFA Delete.md",
+    "Amazon Web Services/Services/Simple Storage Service/Block Public Access.md",
+    "Amazon Web Services/Services/Simple Storage Service/Legacy/Access Control Lists.md",
+    "Amazon Web Services/Services/Simple Storage Service/Legacy",
+    "Amazon Web Services/Services/Simple Storage Service/Patterns and Anti-Patterns.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity Policies.md",
+    "Amazon Web Services/Services/Simple Storage Service/Basics.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM, Accounts and AWS Organizations.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Resources Policies.md",
     "Amazon Web Services/Virtual Private Cloud/Basics.md",
     "Amazon Web Services/Fundamentals/Amazon Resource Name.md",
     "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
     "Amazon Web Services/Fundamentals/High-Availability vs Fault-Tolerance vs Disaster Recovery.md",
     "Amazon Web Services/Fundamentals/Public vs Private Services.md",
     "Amazon Web Services/Fundamentals/Fundamentals.md",
-    "Amazon Web Services/IAM, Accounts and AWS Organizations/AWS Organizations/Service Control Policies.md",
-    "Amazon Web Services/IAM, Accounts and AWS Organizations/IAM Roles/IAM Roles.md",
-    "Amazon Web Services/AWS Control Tower/Basics.md",
-    "Pasted image 20230405015313.png",
-    "Pasted image 20230405015014.png",
-    "Pasted image 20230405014348.png",
-    "Pasted image 20230405014027.png",
-    "Amazon Web Services/Images/Pasted image 20230403023109.png",
-    "Amazon Web Services/Images/Pasted image 20230403023741.png",
-    "Amazon Web Services/Images/Pasted image 20230405011129.png",
-    "Amazon Web Services/CloudTrail/Setting up organization trail.md",
-    "Amazon Web Services/Images/Pasted image 20230403025749.png",
-    "Amazon Web Services/AWS Control Tower",
-    "Amazon Web Services/CloudWatch/Basics.md",
-    "Amazon Web Services/CloudWatch/CloudWatch Logs.md",
-    "Amazon Web Services/CloudWatch/Alarms.md",
-    "Amazon Web Services/CloudTrail/Basics.md",
-    "--Template--/Related Courses.md",
-    "Amazon Web Services/IAM, Accounts and AWS Organizations/AWS Organizations/Creating an AWS Organization.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/AWS Organizations/Service Control Policies.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Roles/IAM Roles.md",
+    "Amazon Web Services/Services/AWS Control Tower/Basics.md",
+    "Amazon Web Services/Services/AWS Control Tower",
     "--Template--",
-    "Amazon Web Services/CloudTrail",
-    "Amazon Web Services/IAM, Accounts and AWS Organizations/AWS Organizations/Using Service Control Policies.md",
-    "Amazon Web Services/IAM, Accounts and AWS Organizations/AWS Organizations/AWS Organizations.md",
-    "Amazon Web Services/IAM, Accounts and AWS Organizations/AWS Organizations",
-    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Creating a new Identity.md",
-    "Amazon Web Services/IAM, Accounts and AWS Organizations/IAM Roles",
-    "Amazon Web Services/IAM, Accounts and AWS Organizations",
-    "Amazon Web Services/Shared Responsibility Model",
-    "Amazon Web Services/Route 53",
-    "Amazon Web Services/CloudWatch",
-    "Amazon Web Services/CloudFormation"
+    "Amazon Web Services/Services/CloudTrail",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/AWS Organizations",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Roles",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations"
   ]
 }
