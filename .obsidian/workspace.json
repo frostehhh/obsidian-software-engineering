@@ -131,16 +131,26 @@
             "id": "9b6410516bfa1223",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Amazon Web Services/Images/Pasted image 20230406211439.png"
+              }
+            }
+          },
+          {
+            "id": "55a5bf502cf6ca51",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Services/Simple Storage Service/Encryption.md",
+                "file": "Amazon Web Services/Services/Simple Storage Service/Storage Classes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -206,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Services/Simple Storage Service/Encryption.md",
+                "file": "Amazon Web Services/Services/Simple Storage Service/Storage Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Services/Simple Storage Service/Encryption.md",
+                "file": "Amazon Web Services/Services/Simple Storage Service/Storage Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Services/Simple Storage Service/Encryption.md"
+                "file": "Amazon Web Services/Services/Simple Storage Service/Storage Classes.md"
               }
             }
           },
@@ -279,27 +289,28 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "9b6410516bfa1223",
+  "active": "55a5bf502cf6ca51",
   "lastOpenFiles": [
-    "Pasted image 20230407025855.png",
-    "Pasted image 20230407025127.png",
-    "Pasted image 20230407024658.png",
-    "Pasted image 20230407024618.png",
-    "Amazon Web Services/Services/Key Management Service/Basics.md",
+    "Pasted image 20230407043828.png",
+    "Pasted image 20230407043509.png",
+    "Pasted image 20230407043147.png",
+    "Pasted image 20230407042918.png",
+    "Amazon Web Services/Images/Pasted image 20230406211439.png",
+    "Amazon Web Services/Services/Simple Storage Service/Storage Classes.md",
     "Amazon Web Services/Services/Simple Storage Service/Encryption.md",
-    "Pasted image 20230407001150.png",
-    "Pasted image 20230407000431.png",
-    "Pasted image 20230406234424.png",
+    "Amazon Web Services/Images/Pasted image 20230407025855.png",
+    "Amazon Web Services/Images/Pasted image 20230407025127.png",
+    "Amazon Web Services/Images/Pasted image 20230407024658.png",
+    "Amazon Web Services/Images/Pasted image 20230407024618.png",
+    "Amazon Web Services/Services/Key Management Service/Basics.md",
+    "Amazon Web Services/Images/Pasted image 20230407001150.png",
+    "Amazon Web Services/Images/Pasted image 20230407000431.png",
     "Amazon Web Services/Services/Key Management Service/Demo - Encryption with KMS.md",
     "Amazon Web Services/Services/Key Management Service/Key Policies and Security.md",
     "--Obsidian Template--/Related Course Demo.md",
     "--Obsidian Template--",
-    "Pasted image 20230406223901.png",
-    "Pasted image 20230406222515.png",
-    "Pasted image 20230406211439.png",
     "Amazon Web Services/Services/Simple Storage Service/S3 Static Website Hosting.md",
     "Amazon Web Services/Services/Simple Storage Service/Security.md",
-    "Amazon Web Services/Images/Pasted image 20230406211149.png",
     "Amazon Web Services/Services/Simple Storage Service/Performance Optimization.md",
     "Amazon Web Services/Services/Key Management Service",
     "Amazon Web Services/Services",
@@ -320,7 +331,6 @@
     "Amazon Web Services/Fundamentals/Fundamentals.md",
     "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/AWS Organizations/Service Control Policies.md",
     "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Roles/IAM Roles.md",
-    "Amazon Web Services/Services/AWS Control Tower/Basics.md",
     "Amazon Web Services/Services/AWS Control Tower",
     "--Template--",
     "Amazon Web Services/Services/CloudTrail",
