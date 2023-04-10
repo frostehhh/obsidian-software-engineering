@@ -4,83 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1b9b044f7ff8afcf",
+        "id": "44b27f2290b2601f",
         "type": "tabs",
         "children": [
           {
-            "id": "fc827988ae225c28",
+            "id": "5d5b9669ca1534cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Amazon Web Services/Services/Simple Storage Service/Replication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acd108782b97ee3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Web Services/Services/Simple Storage Service/Presigned URLs/Presigned URLs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b85d00164bf99eea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Web Services/Services/Simple Storage Service/Presigned URLs/Presigned URLs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "938923f2f67e6554",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Web Services/Services/Simple Storage Service/S3 Select and Glacier Select.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "699b4f77fb8f369c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Web Services/Services/Simple Storage Service/Events.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99d4161f88525fb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Web Services/Services/Simple Storage Service/Access Logs.md",
-                "mode": "source",
-                "source": false
+                "file": "Amazon Web Services/Images/Pasted image 20230411014958.png"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Services/Simple Storage Service/Access Logs.md",
+                "file": "Amazon Web Services/Images/Pasted image 20230411014958.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Services/Simple Storage Service/Access Logs.md",
+                "file": "Amazon Web Services/Images/Pasted image 20230411014958.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Services/Simple Storage Service/Access Logs.md"
+                "file": "Amazon Web Services/Images/Pasted image 20230411014958.png"
               }
             }
           },
@@ -203,8 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245,
-    "collapsed": true
+    "width": 245
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,50 +155,49 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "99d4161f88525fb3",
+  "active": "bd2714a80d3d3c1d",
   "lastOpenFiles": [
-    "Amazon Web Services/Services/Simple Storage Service/Events.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md",
+    "Amazon Web Services/Images/Pasted image 20230411014958.png",
+    "Amazon Web Services/Images/Pasted image 20230411014005.png",
+    "Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
+    "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
     "Amazon Web Services/Services/Simple Storage Service/Access Logs.md",
-    "Pasted image 20230410171140.png",
-    "Pasted image 20230410170928.png",
+    "Amazon Web Services/Services/Simple Storage Service/Object Lock.md",
+    "Amazon Web Services/Services/Simple Storage Service/Demo - Multi-region Access Points.md",
+    "Amazon Web Services/Fundamentals/Amazon Resource Name.md",
+    "Amazon Web Services/Images/Pasted image 20230411013437.png",
+    "Amazon Web Services/Images/Pasted image 20230411012521.png",
+    "Amazon Web Services/Images/Pasted image 20230411011120.png",
+    "Amazon Web Services/Images/Pasted image 20230411010843.png",
+    "Amazon Web Services/Images/Pasted image 20230411003358.png",
+    "Amazon Web Services/Services/Simple Storage Service/Encryption.md",
+    "Amazon Web Services/Services/Simple Storage Service/Basics.md",
+    "Amazon Web Services/Services/Simple Storage Service/Access Points.md",
+    "Amazon Web Services/Images/Pasted image 20230410212351.png",
+    "Amazon Web Services/Images/Pasted image 20230410211724.png",
+    "Amazon Web Services/Images/Pasted image 20230410210332.png",
+    "Amazon Web Services/Images/Cloud Service Models.md",
+    "Amazon Web Services/Services/Simple Storage Service/Events.md",
     "Amazon Web Services/Services/Simple Storage Service/S3 Select and Glacier Select.md",
-    "Pasted image 20230410165920.png",
-    "Pasted image 20230410165634.png",
     "Amazon Web Services/Services/Simple Storage Service/Presigned URLs/Presigned URLs.md",
+    "Amazon Web Services/Services/Simple Storage Service/Replication.md",
     "Amazon Web Services/Services/Simple Storage Service/Presigned URLs/Demo.md",
     "Amazon Web Services/Services/Simple Storage Service/Presigned URLs",
     "Amazon Web Services/Services/AWS Cloudshell",
-    "Pasted image 20230410043401.png",
-    "Pasted image 20230410043119.png",
-    "Pasted image 20230410042544.png",
-    "Pasted image 20230410042335.png",
-    "Amazon Web Services/Services/Simple Storage Service/Replication.md",
-    "Pasted image 20230409172124.png",
-    "Pasted image 20230409171220.png",
     "Amazon Web Services/Services/Simple Storage Service/S3 Static Website Hosting.md",
     "Amazon Web Services/Services/Simple Storage Service/Lifecycle Configuration.md",
     "Amazon Web Services/Services/Simple Storage Service/Storage Classes.md",
     "Cloud Computing/Public vs Private vs Hybrid vs Multi Cloud.md",
     "Cloud Computing/Cloud Computing.md",
-    "Amazon Web Services/Images/Cloud Service Models.md",
-    "Amazon Web Services/Services/Simple Storage Service/Encryption.md",
     "Amazon Web Services/Services/Key Management Service/Basics.md",
     "Amazon Web Services/Services/Key Management Service/Demo - Encryption with KMS.md",
     "Amazon Web Services/Services/Key Management Service/Key Policies and Security.md",
     "--Obsidian Template--/Related Course Demo.md",
     "--Obsidian Template--",
-    "Amazon Web Services/Services/Simple Storage Service/Security.md",
-    "Amazon Web Services/Services/Simple Storage Service/Performance Optimization.md",
     "Amazon Web Services/Services/Key Management Service",
     "Amazon Web Services/Services",
-    "Amazon Web Services/Services/Simple Storage Service/Object Versioning and MFA Delete.md",
-    "Amazon Web Services/Services/Simple Storage Service/Block Public Access.md",
-    "Amazon Web Services/Services/Simple Storage Service/Legacy/Access Control Lists.md",
     "Amazon Web Services/Services/Simple Storage Service/Legacy",
-    "Amazon Web Services/Services/Simple Storage Service/Patterns and Anti-Patterns.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity Policies.md",
-    "Amazon Web Services/Services/Simple Storage Service/Basics.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM, Accounts and AWS Organizations.md",
     "Amazon Web Services/Services/AWS Control Tower",
     "--Template--",
     "Amazon Web Services/Services/CloudTrail",
