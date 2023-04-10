@@ -13,8 +13,13 @@ Standard Infrequent Access
 ![[Pasted image 20230407043828.png]]
 
 # S3 Glacier - Flexible
+![[Pasted image 20230408200057.png]]
 
+# S3 Glacier - Deep Archive
+![[Pasted image 20230408200432.png]]
 
+# S3 Intelligent-Tiering
+![[Pasted image 20230408202715.png]]
 # References
 https://aws.amazon.com/s3/pricing/
 https://aws.amazon.com/s3/storage-classes/
