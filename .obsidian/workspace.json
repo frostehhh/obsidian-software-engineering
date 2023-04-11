@@ -8,16 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d5b9669ca1534cf",
+            "id": "fa6e03a6f7b56998",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230411014958.png"
+                "file": "Amazon Web Services/Services/Virtual Private Cloud/Custom VPCs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cf62df5594daf7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230411014958.png",
+                "file": "Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230411014958.png",
+                "file": "Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230411014958.png"
+                "file": "Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md"
               }
             }
           },
@@ -140,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245
+    "width": 245,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,12 +171,18 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "bd2714a80d3d3c1d",
+  "active": "2cf62df5594daf7f",
   "lastOpenFiles": [
+    "Amazon Web Services/Services/Virtual Private Cloud/Subnets.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Custom VPCs.md",
+    "Pasted image 20230411031205.png",
+    "Pasted image 20230411030914.png",
+    "Pasted image 20230411030637.png",
+    "Pasted image 20230411030128.png",
     "Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
     "Amazon Web Services/Images/Pasted image 20230411014958.png",
     "Amazon Web Services/Images/Pasted image 20230411014005.png",
-    "Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
     "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
     "Amazon Web Services/Services/Simple Storage Service/Access Logs.md",
     "Amazon Web Services/Services/Simple Storage Service/Object Lock.md",
@@ -170,13 +192,9 @@
     "Amazon Web Services/Images/Pasted image 20230411012521.png",
     "Amazon Web Services/Images/Pasted image 20230411011120.png",
     "Amazon Web Services/Images/Pasted image 20230411010843.png",
-    "Amazon Web Services/Images/Pasted image 20230411003358.png",
     "Amazon Web Services/Services/Simple Storage Service/Encryption.md",
     "Amazon Web Services/Services/Simple Storage Service/Basics.md",
     "Amazon Web Services/Services/Simple Storage Service/Access Points.md",
-    "Amazon Web Services/Images/Pasted image 20230410212351.png",
-    "Amazon Web Services/Images/Pasted image 20230410211724.png",
-    "Amazon Web Services/Images/Pasted image 20230410210332.png",
     "Amazon Web Services/Images/Cloud Service Models.md",
     "Amazon Web Services/Services/Simple Storage Service/Events.md",
     "Amazon Web Services/Services/Simple Storage Service/S3 Select and Glacier Select.md",
@@ -193,7 +211,6 @@
     "Amazon Web Services/Services/Key Management Service/Basics.md",
     "Amazon Web Services/Services/Key Management Service/Demo - Encryption with KMS.md",
     "Amazon Web Services/Services/Key Management Service/Key Policies and Security.md",
-    "--Obsidian Template--/Related Course Demo.md",
     "--Obsidian Template--",
     "Amazon Web Services/Services/Key Management Service",
     "Amazon Web Services/Services",
