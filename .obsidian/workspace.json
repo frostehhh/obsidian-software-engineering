@@ -30,9 +30,55 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "77bb2988b6749091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/DynamoDB/Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb231903e474266b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/DynamoDB/Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95a7268b466cf4bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/DynamoDB/Operations, Consistency and Performance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21be4cc86ace99eb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20230412040148.png"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md",
+                "file": "Amazon Web Services/Services/DynamoDB/Operations, Consistency and Performance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md",
+                "file": "Amazon Web Services/Services/DynamoDB/Operations, Consistency and Performance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md"
+                "file": "Amazon Web Services/Services/DynamoDB/Operations, Consistency and Performance.md"
               }
             }
           },
@@ -151,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -171,27 +217,32 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "2cf62df5594daf7f",
+  "active": "95a7268b466cf4bc",
   "lastOpenFiles": [
+    "Amazon Web Services/Services/DynamoDB/Architecture.md",
+    "Amazon Web Services/Services/DynamoDB/Operations, Consistency and Performance.md",
+    "Amazon Web Services/Services/DynamoDB/-- Table of Contents --.md",
+    "Pasted image 20230412040222.png",
+    "Pasted image 20230412040148.png",
+    "Pasted image 20230412040023.png",
+    "Pasted image 20230412035927.png",
+    "Pasted image 20230412035830.png",
+    "Pasted image 20230412035828.png",
+    "Pasted image 20230412035340.png",
+    "Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md",
+    "Amazon Web Services/Services/DynamoDB/Untitled",
+    "Amazon Web Services/Services/DynamoDB",
     "Amazon Web Services/Services/Virtual Private Cloud/Subnets.md",
     "Amazon Web Services/Services/Virtual Private Cloud/Custom VPCs.md",
     "Pasted image 20230411031205.png",
     "Pasted image 20230411030914.png",
     "Pasted image 20230411030637.png",
-    "Pasted image 20230411030128.png",
-    "Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md",
     "Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
-    "Amazon Web Services/Images/Pasted image 20230411014958.png",
-    "Amazon Web Services/Images/Pasted image 20230411014005.png",
     "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
     "Amazon Web Services/Services/Simple Storage Service/Access Logs.md",
     "Amazon Web Services/Services/Simple Storage Service/Object Lock.md",
     "Amazon Web Services/Services/Simple Storage Service/Demo - Multi-region Access Points.md",
     "Amazon Web Services/Fundamentals/Amazon Resource Name.md",
-    "Amazon Web Services/Images/Pasted image 20230411013437.png",
-    "Amazon Web Services/Images/Pasted image 20230411012521.png",
-    "Amazon Web Services/Images/Pasted image 20230411011120.png",
-    "Amazon Web Services/Images/Pasted image 20230411010843.png",
     "Amazon Web Services/Services/Simple Storage Service/Encryption.md",
     "Amazon Web Services/Services/Simple Storage Service/Basics.md",
     "Amazon Web Services/Services/Simple Storage Service/Access Points.md",
@@ -208,16 +259,11 @@
     "Amazon Web Services/Services/Simple Storage Service/Storage Classes.md",
     "Cloud Computing/Public vs Private vs Hybrid vs Multi Cloud.md",
     "Cloud Computing/Cloud Computing.md",
-    "Amazon Web Services/Services/Key Management Service/Basics.md",
-    "Amazon Web Services/Services/Key Management Service/Demo - Encryption with KMS.md",
-    "Amazon Web Services/Services/Key Management Service/Key Policies and Security.md",
     "--Obsidian Template--",
     "Amazon Web Services/Services/Key Management Service",
     "Amazon Web Services/Services",
     "Amazon Web Services/Services/Simple Storage Service/Legacy",
     "Amazon Web Services/Services/AWS Control Tower",
-    "--Template--",
-    "Amazon Web Services/Services/CloudTrail",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/AWS Organizations"
+    "--Template--"
   ]
 }
