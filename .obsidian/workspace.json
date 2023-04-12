@@ -4,81 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "44b27f2290b2601f",
+        "id": "5d64101542aee8ff",
         "type": "tabs",
         "children": [
           {
-            "id": "fa6e03a6f7b56998",
+            "id": "8e10fe0dd19e936d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Services/Virtual Private Cloud/Custom VPCs.md",
+                "file": "Amazon Web Services/Services/DynamoDB/Global Tables.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2cf62df5594daf7f",
+            "id": "357b5121a76e876e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md",
+                "file": "Amazon Web Services/Services/DynamoDB/Accelerator (DAX).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "77bb2988b6749091",
+            "id": "fd613386de314745",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Services/DynamoDB/Architecture.md",
+                "file": "Amazon Web Services/Services/DynamoDB/Time to live.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cb231903e474266b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Web Services/Services/DynamoDB/Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95a7268b466cf4bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Web Services/Services/DynamoDB/Operations, Consistency and Performance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21be4cc86ace99eb",
+            "id": "d9f94063a9e303a1",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20230412040148.png"
+                "file": "Amazon Web Services/Images/Pasted image 20230413054234.png"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 240
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -144,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Services/DynamoDB/Operations, Consistency and Performance.md",
+                "file": "Amazon Web Services/Images/Pasted image 20230413054234.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Services/DynamoDB/Operations, Consistency and Performance.md",
+                "file": "Amazon Web Services/Images/Pasted image 20230413054234.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,12 +160,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Services/DynamoDB/Operations, Consistency and Performance.md"
+                "file": "Amazon Web Services/Images/Pasted image 20230413054234.png"
               }
             }
           },
           {
-            "id": "6fb2c6e933107257",
+            "id": "a8026435152618c5",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -197,11 +173,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 245,
+    "width": 297,
     "collapsed": true
   },
   "left-ribbon": {
@@ -217,53 +193,52 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "95a7268b466cf4bc",
+  "active": "bd2714a80d3d3c1d",
   "lastOpenFiles": [
-    "Amazon Web Services/Services/DynamoDB/Architecture.md",
-    "Amazon Web Services/Services/DynamoDB/Operations, Consistency and Performance.md",
+    "Amazon Web Services/Services/API Gateway/Basics.md",
+    "Amazon Web Services/Images/Pasted image 20230413054234.png",
+    "Amazon Web Services/Services/DynamoDB/Time to live.md",
+    "Amazon Web Services/Services/API Gateway",
+    "Amazon Web Services/Images/Pasted image 20230413053303.png",
+    "Amazon Web Services/Services/DynamoDB/Accelerator (DAX).md",
+    "Amazon Web Services/Images/Pasted image 20230413050647.png",
+    "Amazon Web Services/Images/Pasted image 20230413050406.png",
+    "Amazon Web Services/Images/Pasted image 20230413045519.png",
     "Amazon Web Services/Services/DynamoDB/-- Table of Contents --.md",
-    "Pasted image 20230412040222.png",
-    "Pasted image 20230412040148.png",
-    "Pasted image 20230412040023.png",
-    "Pasted image 20230412035927.png",
-    "Pasted image 20230412035830.png",
-    "Pasted image 20230412035828.png",
-    "Pasted image 20230412035340.png",
-    "Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md",
-    "Amazon Web Services/Services/DynamoDB/Untitled",
-    "Amazon Web Services/Services/DynamoDB",
-    "Amazon Web Services/Services/Virtual Private Cloud/Subnets.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Custom VPCs.md",
-    "Pasted image 20230411031205.png",
-    "Pasted image 20230411030914.png",
-    "Pasted image 20230411030637.png",
-    "Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
-    "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
-    "Amazon Web Services/Services/Simple Storage Service/Access Logs.md",
-    "Amazon Web Services/Services/Simple Storage Service/Object Lock.md",
-    "Amazon Web Services/Services/Simple Storage Service/Demo - Multi-region Access Points.md",
-    "Amazon Web Services/Fundamentals/Amazon Resource Name.md",
-    "Amazon Web Services/Services/Simple Storage Service/Encryption.md",
+    "Amazon Web Services/Services/DynamoDB/Global Tables.md",
+    "Amazon Web Services/Images/Pasted image 20230413045202.png",
+    "Amazon Web Services/Images/Pasted image 20230413045033.png",
+    "Amazon Web Services/Services/DynamoDB/Demo - DynamoDB Lambda Triggers.md",
+    "Amazon Web Services/Services/Simple Notification Service/Basics.md",
+    "Amazon Web Services/Images/Pasted image 20230412153350.png",
+    "Amazon Web Services/Images/Pasted image 20230412153121.png",
+    "Amazon Web Services/Images/Pasted image 20230412153118.png",
     "Amazon Web Services/Services/Simple Storage Service/Basics.md",
     "Amazon Web Services/Services/Simple Storage Service/Access Points.md",
-    "Amazon Web Services/Images/Cloud Service Models.md",
-    "Amazon Web Services/Services/Simple Storage Service/Events.md",
-    "Amazon Web Services/Services/Simple Storage Service/S3 Select and Glacier Select.md",
-    "Amazon Web Services/Services/Simple Storage Service/Presigned URLs/Presigned URLs.md",
-    "Amazon Web Services/Services/Simple Storage Service/Replication.md",
-    "Amazon Web Services/Services/Simple Storage Service/Presigned URLs/Demo.md",
-    "Amazon Web Services/Services/Simple Storage Service/Presigned URLs",
-    "Amazon Web Services/Services/AWS Cloudshell",
-    "Amazon Web Services/Services/Simple Storage Service/S3 Static Website Hosting.md",
-    "Amazon Web Services/Services/Simple Storage Service/Lifecycle Configuration.md",
+    "Amazon Web Services/Services/Simple Storage Service/Access Logs.md",
+    "Amazon Web Services/Services/DynamoDB/Streams & Triggers.md",
+    "Amazon Web Services/Services/Simple Notification Service",
+    "Amazon Web Services/Services/DynamoDB/Local and Global Secondary Indexes.md",
+    "Amazon Web Services/Services/DynamoDB/Operations, Consistency and Performance.md",
+    "Amazon Web Services/Services/DynamoDB/Architecture.md",
+    "Amazon Web Services/Shared Responsibility Model/Shared Responsibility Model.md",
+    "Amazon Web Services/Shared Responsibility Model",
+    "Amazon Web Services/Services/Virtual Private Cloud/Subnets.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Custom VPCs.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
+    "Amazon Web Services/Services/Virtual Private Cloud",
     "Amazon Web Services/Services/Simple Storage Service/Storage Classes.md",
-    "Cloud Computing/Public vs Private vs Hybrid vs Multi Cloud.md",
-    "Cloud Computing/Cloud Computing.md",
-    "--Obsidian Template--",
-    "Amazon Web Services/Services/Key Management Service",
-    "Amazon Web Services/Services",
+    "Amazon Web Services/Services/Simple Storage Service/Security.md",
+    "Amazon Web Services/Services/Simple Storage Service/S3 Static Website Hosting.md",
+    "Amazon Web Services/Services/Simple Storage Service/S3 Select and Glacier Select.md",
+    "Amazon Web Services/Services/Simple Storage Service/Replication.md",
+    "Amazon Web Services/Services/Simple Storage Service/Presigned URLs/Presigned URLs.md",
+    "Amazon Web Services/Services/Simple Storage Service/Presigned URLs",
     "Amazon Web Services/Services/Simple Storage Service/Legacy",
-    "Amazon Web Services/Services/AWS Control Tower",
-    "--Template--"
+    "Amazon Web Services/Services/Simple Storage Service",
+    "Amazon Web Services/Services/Route 53",
+    "Amazon Web Services/Services/Key Management Service",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Roles"
   ]
 }

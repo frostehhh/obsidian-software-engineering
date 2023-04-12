@@ -1,2 +1,7 @@
 [[Architecture]]
 [[Operations, Consistency and Performance]]
+[[Local and Global Secondary Indexes]]
+[[Streams & Triggers]]
+[[Demo - DynamoDB Lambda Triggers]]
+[[Global Tables]]
+[[Accelerator (DAX)]]
