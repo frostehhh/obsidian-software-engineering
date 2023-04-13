@@ -8,53 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e10fe0dd19e936d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Web Services/Services/DynamoDB/Global Tables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "357b5121a76e876e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Web Services/Services/DynamoDB/Accelerator (DAX).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fd613386de314745",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Services/DynamoDB/Time to live.md",
+                "file": "Amazon Web Services/Services/API Gateway/Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d9f94063a9e303a1",
+            "id": "3735b46d530b7ced",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230413054234.png"
+                "file": "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity Policies.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230413054234.png",
+                "file": "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230413054234.png",
+                "file": "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity Policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230413054234.png"
+                "file": "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity Policies.md"
               }
             }
           },
@@ -193,26 +171,28 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "bd2714a80d3d3c1d",
+  "active": "3735b46d530b7ced",
   "lastOpenFiles": [
+    "Amazon Web Services/Services/API Gateway/Methods and Resources.md",
+    "Pasted image 20230413062639.png",
+    "Amazon Web Services/Services/API Gateway/Untitled 1.md",
     "Amazon Web Services/Services/API Gateway/Basics.md",
-    "Amazon Web Services/Images/Pasted image 20230413054234.png",
+    "Pasted image 20230413061105.png",
+    "Pasted image 20230413060907.png",
+    "Pasted image 20230413060626.png",
+    "Pasted image 20230413060414.png",
+    "Pasted image 20230413060151.png",
+    "Pasted image 20230413060017.png",
+    "Pasted image 20230413054817.png",
     "Amazon Web Services/Services/DynamoDB/Time to live.md",
+    "Amazon Web Services/Services/DynamoDB/Accelerator (DAX).md",
+    "Amazon Web Services/Images/Pasted image 20230413054234.png",
     "Amazon Web Services/Services/API Gateway",
     "Amazon Web Services/Images/Pasted image 20230413053303.png",
-    "Amazon Web Services/Services/DynamoDB/Accelerator (DAX).md",
-    "Amazon Web Services/Images/Pasted image 20230413050647.png",
-    "Amazon Web Services/Images/Pasted image 20230413050406.png",
-    "Amazon Web Services/Images/Pasted image 20230413045519.png",
     "Amazon Web Services/Services/DynamoDB/-- Table of Contents --.md",
     "Amazon Web Services/Services/DynamoDB/Global Tables.md",
-    "Amazon Web Services/Images/Pasted image 20230413045202.png",
-    "Amazon Web Services/Images/Pasted image 20230413045033.png",
     "Amazon Web Services/Services/DynamoDB/Demo - DynamoDB Lambda Triggers.md",
     "Amazon Web Services/Services/Simple Notification Service/Basics.md",
-    "Amazon Web Services/Images/Pasted image 20230412153350.png",
-    "Amazon Web Services/Images/Pasted image 20230412153121.png",
-    "Amazon Web Services/Images/Pasted image 20230412153118.png",
     "Amazon Web Services/Services/Simple Storage Service/Basics.md",
     "Amazon Web Services/Services/Simple Storage Service/Access Points.md",
     "Amazon Web Services/Services/Simple Storage Service/Access Logs.md",
@@ -232,8 +212,6 @@
     "Amazon Web Services/Services/Simple Storage Service/Security.md",
     "Amazon Web Services/Services/Simple Storage Service/S3 Static Website Hosting.md",
     "Amazon Web Services/Services/Simple Storage Service/S3 Select and Glacier Select.md",
-    "Amazon Web Services/Services/Simple Storage Service/Replication.md",
-    "Amazon Web Services/Services/Simple Storage Service/Presigned URLs/Presigned URLs.md",
     "Amazon Web Services/Services/Simple Storage Service/Presigned URLs",
     "Amazon Web Services/Services/Simple Storage Service/Legacy",
     "Amazon Web Services/Services/Simple Storage Service",
