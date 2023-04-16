@@ -3,7 +3,7 @@ aliases: [Route53 Basics, Route53, R53]
 ---
 ![[Pasted image 20230326200313.png]]
 - AWS's DNS product
-- Register domains
+- Register domains 
 - Host zones on managed nameservices
 - Global service ... single database
 	- Globally Resilient

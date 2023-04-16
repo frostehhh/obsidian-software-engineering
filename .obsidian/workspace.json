@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "5d64101542aee8ff",
+        "id": "68558cfd8cb4e6ee",
         "type": "tabs",
         "children": [
           {
-            "id": "fd613386de314745",
+            "id": "ebd69612b15629b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Services/API Gateway/Basics.md",
+                "file": "Amazon Web Services/Services/Virtual Private Cloud/Network Access Control Lists(NACL).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3735b46d530b7ced",
+            "id": "e245aacce52c049b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Services/DynamoDB/Demo - DynamoDB Lambda Triggers.md",
+                "file": "Amazon Web Services/Services/Virtual Private Cloud/Security Groups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8f515ed74b62454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/Virtual Private Cloud/Network Address Translation and NAT Gateways.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240
+    "width": 219.5
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Services/DynamoDB/Demo - DynamoDB Lambda Triggers.md",
+                "file": "Amazon Web Services/Services/Virtual Private Cloud/Network Address Translation and NAT Gateways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Services/DynamoDB/Demo - DynamoDB Lambda Triggers.md",
+                "file": "Amazon Web Services/Services/Virtual Private Cloud/Network Address Translation and NAT Gateways.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,12 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Services/DynamoDB/Demo - DynamoDB Lambda Triggers.md"
+                "file": "Amazon Web Services/Services/Virtual Private Cloud/Network Address Translation and NAT Gateways.md"
               }
             }
           },
           {
-            "id": "a8026435152618c5",
+            "id": "6fb2c6e933107257",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -155,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297,
-    "collapsed": true
+    "width": 245
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,53 +182,53 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "3735b46d530b7ced",
+  "active": "a8f515ed74b62454",
   "lastOpenFiles": [
-    "Amazon Web Services/Services/DynamoDB/Local and Global Secondary Indexes.md",
-    "Amazon Web Services/Services/DynamoDB/-- Table of Contents --.md",
-    "Amazon Web Services/Services/DynamoDB/Demo - DynamoDB Lambda Triggers.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity Policies.md",
-    "Amazon Web Services/Services/API Gateway/Methods and Resources.md",
-    "Pasted image 20230413062639.png",
-    "Amazon Web Services/Services/API Gateway/Untitled 1.md",
-    "Amazon Web Services/Services/API Gateway/Basics.md",
-    "Pasted image 20230413061105.png",
-    "Pasted image 20230413060907.png",
-    "Pasted image 20230413060626.png",
-    "Pasted image 20230413060414.png",
-    "Pasted image 20230413060151.png",
-    "Pasted image 20230413060017.png",
-    "Pasted image 20230413054817.png",
-    "Amazon Web Services/Services/DynamoDB/Time to live.md",
-    "Amazon Web Services/Services/DynamoDB/Accelerator (DAX).md",
-    "Amazon Web Services/Images/Pasted image 20230413054234.png",
-    "Amazon Web Services/Services/API Gateway",
-    "Amazon Web Services/Images/Pasted image 20230413053303.png",
-    "Amazon Web Services/Services/DynamoDB/Global Tables.md",
-    "Amazon Web Services/Services/Simple Notification Service/Basics.md",
-    "Amazon Web Services/Services/Simple Storage Service/Basics.md",
-    "Amazon Web Services/Services/Simple Storage Service/Access Points.md",
-    "Amazon Web Services/Services/Simple Storage Service/Access Logs.md",
-    "Amazon Web Services/Services/DynamoDB/Streams & Triggers.md",
-    "Amazon Web Services/Services/Simple Notification Service",
-    "Amazon Web Services/Services/DynamoDB/Operations, Consistency and Performance.md",
-    "Amazon Web Services/Services/DynamoDB/Architecture.md",
-    "Amazon Web Services/Shared Responsibility Model/Shared Responsibility Model.md",
-    "Amazon Web Services/Shared Responsibility Model",
-    "Amazon Web Services/Services/Virtual Private Cloud/Subnets.md",
+    "Pasted image 20230417004359.png",
+    "Amazon Web Services/Services/Virtual Private Cloud/Security Groups.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Network Address Translation and NAT Gateways.md",
+    "Pasted image 20230416234708.png",
+    "Pasted image 20230416233813.png",
+    "Pasted image 20230416233659.png",
+    "Pasted image 20230416233404.png",
+    "Pasted image 20230416233113.png",
+    "Amazon Web Services/Services/Virtual Private Cloud/Network Access Control Lists(NACL).md",
+    "Pasted image 20230416232729.png",
+    "Amazon Web Services/Services/CloudFormation/Basics.md",
+    "Amazon Web Services/Services/CloudFormation/Resource Type Identifiers.md",
+    "Amazon Web Services/Fundamentals/Amazon Resource Name.md",
+    "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
+    "Amazon Web Services/Fundamentals/Fundamentals.md",
+    "Amazon Web Services/Fundamentals/High-Availability vs Fault-Tolerance vs Disaster Recovery.md",
+    "Amazon Web Services/Fundamentals/Public vs Private Services.md",
+    "Pasted image 20230416231946.png",
+    "Pasted image 20230416231835.png",
+    "Pasted image 20230416221434.png",
+    "Networking/OSI 7-Layer Model/Transport/Transmission Control Protocol.md",
+    "Pasted image 20230416214509.png",
+    "Networking/Firewalls/Stateful vs Stateless Firewalls.md",
+    "Amazon Web Services/Services/Simple Storage Service/Legacy/Access Control Lists.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/DEMO - Configuring A4l public subnets and Jumpbox.md",
+    "Networking/OSI 7-Layer Model/Transport/Sessions & State - Firewalls.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Routing, Internet gateway & Bastion.md",
     "Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Subnets.md",
+    "Amazon Web Services/Services/Route 53/Basics.md",
     "Amazon Web Services/Services/Virtual Private Cloud/Custom VPCs.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
-    "Amazon Web Services/Services/Virtual Private Cloud",
-    "Amazon Web Services/Services/Simple Storage Service/Storage Classes.md",
-    "Amazon Web Services/Services/Simple Storage Service/Security.md",
-    "Amazon Web Services/Services/Simple Storage Service/S3 Static Website Hosting.md",
-    "Amazon Web Services/Services/Simple Storage Service/S3 Select and Glacier Select.md",
+    "Amazon Web Services/Services/DynamoDB/Demo - DynamoDB Lambda Triggers.md",
+    "Amazon Web Services/Services/DynamoDB/Architecture.md",
+    "Amazon Web Services/Services/DynamoDB/Streams & Triggers.md",
+    "Amazon Web Services/Services/AWS Control Tower/Untitled",
+    "Amazon Web Services/Services/DynamoDB/Time to live.md",
+    "Amazon Web Services/Services/DynamoDB/Operations, Consistency and Performance.md",
+    "Amazon Web Services/Services/Simple Notification Service",
+    "Amazon Web Services/Services/API Gateway",
+    "Amazon Web Services/Services/DynamoDB/Untitled",
+    "Amazon Web Services/Services/DynamoDB",
     "Amazon Web Services/Services/Simple Storage Service/Presigned URLs",
-    "Amazon Web Services/Services/Simple Storage Service/Legacy",
-    "Amazon Web Services/Services/Simple Storage Service",
-    "Amazon Web Services/Services/Route 53",
+    "Amazon Web Services/Services/AWS Cloudshell",
+    "--Obsidian Template--",
     "Amazon Web Services/Services/Key Management Service",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Roles"
+    "Amazon Web Services/Services"
   ]
 }
