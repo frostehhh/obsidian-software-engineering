@@ -1,4 +1,4 @@
-[[Architecture]]
+[[Amazon Web Services/Services/DynamoDB/Architecture]]
 [[Operations, Consistency and Performance]]
 [[Local and Global Secondary Indexes]]
 [[Streams & Triggers]]
