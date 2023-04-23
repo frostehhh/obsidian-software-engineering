@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "68558cfd8cb4e6ee",
+        "id": "6a86be9ca3e12ea7",
         "type": "tabs",
         "children": [
           {
-            "id": "42446c54ebf2db8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/General Purpose SSD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2240dc0889f620cb",
+            "id": "3cd3d669e3cb20bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b46258795f385a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de362df2f41e3e79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Instance Metadata.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 219.5,
+    "collapsed": true
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/Provisioned IOPS SSD.md",
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Instance Metadata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/Provisioned IOPS SSD.md",
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Instance Metadata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/Provisioned IOPS SSD.md"
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Instance Metadata.md"
               }
             }
           },
@@ -171,45 +184,45 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "2240dc0889f620cb",
+  "active": "de362df2f41e3e79",
   "lastOpenFiles": [
-    "Pasted image 20230423132440.png",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/--Table of Contents--.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/Provisioned IOPS SSD.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/General Purpose SSD.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Instance Types.md",
-    "Amazon Web Services/Images/Pasted image 20230423024114.png",
-    "Amazon Web Services/Images/Pasted image 20230423023914.png",
-    "Pasted image 20230423024108.png",
-    "Pasted image 20230423023837.png",
+    "Pasted image 20230423235553.png",
     "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types - General Purpose SSD.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Elastic Block Store(EBS).md",
-    "Amazon Web Services/Images/Pasted image 20230422214429.png",
-    "Amazon Web Services/Images/Pasted image 20230422213842.png",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Storage Refreshser.md",
-    "Amazon Web Services/Images/Pasted image 20230422213115.png",
-    "Amazon Web Services/Images/Pasted image 20230422211435.png",
-    "Amazon Web Services/Images/Pasted image 20230422190459.png",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Instance Metadata.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/Provisioned IOPS SSD.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/Hard Disk Drive (HDD)-based.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/General Purpose SSD.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Instance Store Volumes.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Horizontal vs Vertical Scaling.md",
+    "Pasted image 20230423234424.png",
+    "Pasted image 20230423234328.png",
+    "Pasted image 20230423234050.png",
+    "Pasted image 20230423233932.png",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Instance Types.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/--Table of Contents--.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/DEMO - Shutdown, Terminate & Termination Protection.md",
+    "Pasted image 20230423233650.png",
+    "Amazon Web Services/Services/Elastic Compute Cloud/DEMO - Manual Install of Wordpress on EC2.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/DEMO - EBS Volumes.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/DEMO - Creating an Animals4life AMI.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/DEMO - Copying & Sharing an AMI.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/DEMO - SSH vs Instance Connect.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Architecture.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Basics.md",
-    "Amazon Web Services/Services/Simple Storage Service/--Table of Contents--.md",
-    "Amazon Web Services/Services/Simple Storage Service/Encryption.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/--Table of Contents--.md",
-    "Amazon Web Services/Services/API Gateway/Basics.md",
-    "Amazon Web Services/Services/API Gateway/Methods and Resources.md",
-    "Amazon Web Services/Services/CloudTrail/Basics.md",
-    "Amazon Web Services/Services/CloudTrail/Setting up organization trail.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/DEMO - Implementing private internet access using NAT Gateways.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/DEMO - Configuring A4l public subnets and Jumpbox.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Security Groups.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Subnets.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Elastic Block Store(EBS).md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Instance Status Checks and AutoRecovery.md",
+    "Pasted image 20230423233009.png",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Reserved Instances.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Purchase Options.md",
+    "Pasted image 20230423232106.png",
+    "Pasted image 20230423231707.png",
+    "Pasted image 20230423215328.png",
     "Amazon Web Services/Services/Elastic Compute Cloud/Virtualization 101.md",
-    "Amazon Web Services/Images/Pasted image 20230418011257.png",
-    "--Obsidian Template--/-- Table of Contents --.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Storage Refreshser.md",
+    "Pasted image 20230423215019.png",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Amazon Machine Image.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Network Interfaces, Instance IPs and DNS.md",
+    "Amazon Web Services/Services/Key Management Service/Basics.md",
+    "Amazon Web Services/Services/Key Management Service/Key Policies and Security.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types",
     "-- TODO --",
     "Amazon Web Services/Services/AWS Control Tower/Untitled",
     "Amazon Web Services/Services/Simple Notification Service",
