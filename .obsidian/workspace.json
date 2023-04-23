@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5d64101542aee8ff",
+        "id": "68558cfd8cb4e6ee",
         "type": "tabs",
         "children": [
           {
-            "id": "af798286c9f21295",
+            "id": "42446c54ebf2db8e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230418011257.png"
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/General Purpose SSD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2240dc0889f620cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/Provisioned IOPS SSD.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240
+    "width": 219.5
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -83,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230418011257.png",
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/Provisioned IOPS SSD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230418011257.png",
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/Provisioned IOPS SSD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,12 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230418011257.png"
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/Provisioned IOPS SSD.md"
               }
             }
           },
           {
-            "id": "a8026435152618c5",
+            "id": "6fb2c6e933107257",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -140,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390,
+    "width": 245,
     "collapsed": true
   },
   "left-ribbon": {
@@ -156,52 +171,53 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "af798286c9f21295",
+  "active": "2240dc0889f620cb",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Amazon Web Services/Images/Pasted image 20230416214509.png",
-    "Amazon Web Services/Services/Virtual Private Cloud/DEMO - Configuring A4l public subnets and Jumpbox.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/DEMO - Implementing private internet access using NAT Gateways.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Security Groups.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Routing, Internet gateway & Bastion.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Network Address Translation and NAT Gateways.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Network Access Control Lists(NACL).md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Custom VPCs.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Subnets.md",
-    "-- TODO --/Untitled Kanban.md",
-    "-- TODO --/Main.md",
-    "-- TODO --/Drawing 2023-04-18 01.39.59.excalidraw.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/DEMO - SSH vs Instance Connect.md",
-    "-- TODO --",
-    "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
+    "Pasted image 20230423132440.png",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/--Table of Contents--.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/Provisioned IOPS SSD.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/General Purpose SSD.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Instance Types.md",
-    "Amazon Web Services/Images/Pasted image 20230418011257.png",
-    "Amazon Web Services/Images/Pasted image 20230418011215.png",
-    "Amazon Web Services/Images/Pasted image 20230418010507.png",
-    "Amazon Web Services/Images/Pasted image 20230418010149.png",
+    "Amazon Web Services/Images/Pasted image 20230423024114.png",
+    "Amazon Web Services/Images/Pasted image 20230423023914.png",
+    "Pasted image 20230423024108.png",
+    "Pasted image 20230423023837.png",
+    "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types - General Purpose SSD.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Elastic Block Store(EBS).md",
+    "Amazon Web Services/Images/Pasted image 20230422214429.png",
+    "Amazon Web Services/Images/Pasted image 20230422213842.png",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Storage Refreshser.md",
+    "Amazon Web Services/Images/Pasted image 20230422213115.png",
+    "Amazon Web Services/Images/Pasted image 20230422211435.png",
+    "Amazon Web Services/Images/Pasted image 20230422190459.png",
+    "Amazon Web Services/Services/Elastic Compute Cloud/DEMO - SSH vs Instance Connect.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Architecture.md",
-    "Amazon Web Services/Images/Pasted image 20230418005413.png",
-    "Amazon Web Services/Images/Pasted image 20230418005012.png",
-    "Amazon Web Services/Images/Pasted image 20230418004316.png",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Virtualization 101.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Untitled Kanban.md",
-    "--Obsidian Template--/-- Table of Contents --.md",
-    "--Obsidian Template--/Related Course Demo.md",
-    "Amazon Web Services/Services/DynamoDB/-- Table of Contents --.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Basics.md",
-    "Amazon Web Services/Images/Pasted image 20230418003615.png",
-    "Amazon Web Services/Images/Pasted image 20230418003346.png",
-    "Amazon Web Services/Services/DynamoDB/Demo - DynamoDB Lambda Triggers.md",
-    "Amazon Web Services/Services/DynamoDB/Local and Global Secondary Indexes.md",
-    "Amazon Web Services/Services/API Gateway",
+    "Amazon Web Services/Services/Simple Storage Service/--Table of Contents--.md",
+    "Amazon Web Services/Services/Simple Storage Service/Encryption.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/--Table of Contents--.md",
+    "Amazon Web Services/Services/API Gateway/Basics.md",
+    "Amazon Web Services/Services/API Gateway/Methods and Resources.md",
+    "Amazon Web Services/Services/CloudTrail/Basics.md",
+    "Amazon Web Services/Services/CloudTrail/Setting up organization trail.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/DEMO - Implementing private internet access using NAT Gateways.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/DEMO - Configuring A4l public subnets and Jumpbox.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Security Groups.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Subnets.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Virtualization 101.md",
+    "Amazon Web Services/Images/Pasted image 20230418011257.png",
+    "--Obsidian Template--/-- Table of Contents --.md",
+    "-- TODO --",
+    "Amazon Web Services/Services/AWS Control Tower/Untitled",
     "Amazon Web Services/Services/Simple Notification Service",
-    "Amazon Web Services/Shared Responsibility Model",
-    "Amazon Web Services/Services/Virtual Private Cloud",
+    "Amazon Web Services/Services/API Gateway",
+    "Amazon Web Services/Services/DynamoDB/Untitled",
+    "Amazon Web Services/Services/DynamoDB",
     "Amazon Web Services/Services/Simple Storage Service/Presigned URLs",
-    "Amazon Web Services/Services/Simple Storage Service/Legacy",
-    "Amazon Web Services/Services/Simple Storage Service",
-    "Amazon Web Services/Services/Route 53",
-    "Amazon Web Services/Services/Key Management Service"
+    "Amazon Web Services/Services/AWS Cloudshell",
+    "--Obsidian Template--"
   ]
 }

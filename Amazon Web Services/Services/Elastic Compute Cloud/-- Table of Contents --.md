@@ -3,3 +3,6 @@
 [[Amazon Web Services/Services/Elastic Compute Cloud/Architecture]]
 [[Instance Types]]
 [[DEMO - SSH vs Instance Connect]]
+[[Storage Refreshser]]
+[[Elastic Block Store(EBS)]]
+[[Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/--Table of Contents--|Volume Types]]
