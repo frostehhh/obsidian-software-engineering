@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6a86be9ca3e12ea7",
+        "id": "cc9117a639b311d4",
         "type": "tabs",
         "children": [
           {
-            "id": "3cd3d669e3cb20bd",
+            "id": "dd816f348812cad6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/Provisioned IOPS SSD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b46258795f385a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de362df2f41e3e79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Instance Metadata.md",
+                "file": "Amazon Web Services/Containers & ECS/Introduction to Containers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -111,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Instance Metadata.md",
+                "file": "Amazon Web Services/Containers & ECS/Introduction to Containers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Instance Metadata.md",
+                "file": "Amazon Web Services/Containers & ECS/Introduction to Containers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Instance Metadata.md"
+                "file": "Amazon Web Services/Containers & ECS/Introduction to Containers.md"
               }
             }
           },
@@ -184,11 +158,22 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "de362df2f41e3e79",
+  "active": "dd816f348812cad6",
   "lastOpenFiles": [
+    "Pasted image 20230425001029.png",
+    "Pasted image 20230423132547.png",
+    "Amazon Web Services/Containers & ECS/Introduction to Containers.md",
+    "Pasted image 20230425000741.png",
+    "Pasted image 20230425000536.png",
+    "Docker/Overview.md",
+    "Pasted image 20230425000253.png",
+    "Pasted image 20230425000003.png",
+    "Pasted image 20230424235419.png",
+    "Amazon Web Services/Containers & ECS/--Table of Contents--.md",
+    "Amazon Web Services/Containers & ECS",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Instance Metadata.md",
     "Pasted image 20230423235553.png",
     "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Instance Metadata.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/Provisioned IOPS SSD.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/Hard Disk Drive (HDD)-based.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/General Purpose SSD.md",
@@ -197,11 +182,9 @@
     "Pasted image 20230423234424.png",
     "Pasted image 20230423234328.png",
     "Pasted image 20230423234050.png",
-    "Pasted image 20230423233932.png",
     "Amazon Web Services/Services/Elastic Compute Cloud/Instance Types.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/--Table of Contents--.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/DEMO - Shutdown, Terminate & Termination Protection.md",
-    "Pasted image 20230423233650.png",
     "Amazon Web Services/Services/Elastic Compute Cloud/DEMO - Manual Install of Wordpress on EC2.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/DEMO - EBS Volumes.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/DEMO - Creating an Animals4life AMI.md",
@@ -209,19 +192,11 @@
     "Amazon Web Services/Services/Elastic Compute Cloud/DEMO - SSH vs Instance Connect.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Elastic Block Store(EBS).md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Instance Status Checks and AutoRecovery.md",
-    "Pasted image 20230423233009.png",
     "Amazon Web Services/Services/Elastic Compute Cloud/Reserved Instances.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Purchase Options.md",
-    "Pasted image 20230423232106.png",
-    "Pasted image 20230423231707.png",
-    "Pasted image 20230423215328.png",
     "Amazon Web Services/Services/Elastic Compute Cloud/Virtualization 101.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Storage Refreshser.md",
-    "Pasted image 20230423215019.png",
     "Amazon Web Services/Services/Elastic Compute Cloud/Amazon Machine Image.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Network Interfaces, Instance IPs and DNS.md",
-    "Amazon Web Services/Services/Key Management Service/Basics.md",
-    "Amazon Web Services/Services/Key Management Service/Key Policies and Security.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types",
     "-- TODO --",
     "Amazon Web Services/Services/AWS Control Tower/Untitled",
@@ -230,7 +205,6 @@
     "Amazon Web Services/Services/DynamoDB/Untitled",
     "Amazon Web Services/Services/DynamoDB",
     "Amazon Web Services/Services/Simple Storage Service/Presigned URLs",
-    "Amazon Web Services/Services/AWS Cloudshell",
-    "--Obsidian Template--"
+    "Amazon Web Services/Services/AWS Cloudshell"
   ]
 }
