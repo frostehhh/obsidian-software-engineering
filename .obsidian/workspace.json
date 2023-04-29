@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cc9117a639b311d4",
+        "id": "e25de88ad391d7da",
         "type": "tabs",
         "children": [
           {
-            "id": "dd816f348812cad6",
+            "id": "9c55c9cafeca213b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Amazon Web Services/Containers & ECS/Introduction to Containers.md",
-                "mode": "source",
-                "source": false
+                "file": "Amazon Web Services/Images/Pasted image 20230425001029.png"
               }
             }
           }
@@ -69,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 227
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Containers & ECS/Introduction to Containers.md",
+                "file": "Amazon Web Services/Images/Pasted image 20230425001029.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Containers & ECS/Introduction to Containers.md",
+                "file": "Amazon Web Services/Images/Pasted image 20230425001029.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Containers & ECS/Introduction to Containers.md"
+                "file": "Amazon Web Services/Images/Pasted image 20230425001029.png"
               }
             }
           },
@@ -158,30 +156,30 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "dd816f348812cad6",
+  "active": "9c55c9cafeca213b",
   "lastOpenFiles": [
-    "Pasted image 20230425001029.png",
-    "Pasted image 20230423132547.png",
+    "Amazon Web Services/Images/Pasted image 20230423132547.png",
     "Amazon Web Services/Containers & ECS/Introduction to Containers.md",
-    "Pasted image 20230425000741.png",
-    "Pasted image 20230425000536.png",
     "Docker/Overview.md",
-    "Pasted image 20230425000253.png",
-    "Pasted image 20230425000003.png",
-    "Pasted image 20230424235419.png",
+    "Docker/Images/Pasted image 20230313012146.png",
+    "Amazon Web Services/Containers & ECS/DEMO - Creating container of cats' Docker Image.md",
+    "Amazon Web Services/Images/Pasted image 20230425001029.png",
+    "Amazon Web Services/Images/Pasted image 20230425000741.png",
+    "Amazon Web Services/Images/Pasted image 20230425000536.png",
+    "Amazon Web Services/Images/Pasted image 20230425000253.png",
+    "Amazon Web Services/Images/Pasted image 20230425000003.png",
+    "Amazon Web Services/Images/Pasted image 20230424235419.png",
     "Amazon Web Services/Containers & ECS/--Table of Contents--.md",
     "Amazon Web Services/Containers & ECS",
     "Amazon Web Services/Services/Elastic Compute Cloud/Instance Metadata.md",
-    "Pasted image 20230423235553.png",
+    "Amazon Web Services/Images/Pasted image 20230423235553.png",
     "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/Provisioned IOPS SSD.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/Hard Disk Drive (HDD)-based.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/General Purpose SSD.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Instance Store Volumes.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Horizontal vs Vertical Scaling.md",
-    "Pasted image 20230423234424.png",
-    "Pasted image 20230423234328.png",
-    "Pasted image 20230423234050.png",
+    "Amazon Web Services/Images/Pasted image 20230423234424.png",
     "Amazon Web Services/Services/Elastic Compute Cloud/Instance Types.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/--Table of Contents--.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/DEMO - Shutdown, Terminate & Termination Protection.md",
@@ -196,7 +194,6 @@
     "Amazon Web Services/Services/Elastic Compute Cloud/Purchase Options.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Virtualization 101.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Storage Refreshser.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Amazon Machine Image.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types",
     "-- TODO --",
     "Amazon Web Services/Services/AWS Control Tower/Untitled",
