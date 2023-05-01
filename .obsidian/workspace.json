@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b624b0c08e1a4152",
+        "id": "1f2550a3e99ff1b4",
         "type": "tabs",
         "children": [
           {
-            "id": "9b45e6f6465caa4b",
+            "id": "0ad4eca8e022031a",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230501150407.png"
+                "file": "Amazon Web Services/Images/Pasted image 20230501153608.png"
               }
             }
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "elastic ip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230501150407.png",
+                "file": "Amazon Web Services/Images/Pasted image 20230501153608.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230501150407.png",
+                "file": "Amazon Web Services/Images/Pasted image 20230501153608.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230501150407.png"
+                "file": "Amazon Web Services/Images/Pasted image 20230501153608.png"
               }
             }
           },
@@ -156,44 +156,46 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "bd2714a80d3d3c1d",
+  "active": "0ad4eca8e022031a",
   "lastOpenFiles": [
-    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/EC2 Placement Groups.md",
-    "Amazon Web Services/Images/Pasted image 20230501150407.png",
-    "Amazon Web Services/Images/Pasted image 20230501150222.png",
-    "Amazon Web Services/Images/Pasted image 20230501145045.png",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md",
-    "Amazon Web Services/Fundamentals/High-Availability vs Fault-Tolerance vs Disaster Recovery.md",
-    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Identity and Access Management.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Network Address Translation and NAT Gateways.md",
+    "Amazon Web Services/Images/Pasted image 20230501153738.png",
+    "Amazon Web Services/Services/Relational Database Service/Databases on EC2.md",
+    "Amazon Web Services/Images/Pasted image 20230501202849.png",
+    "Amazon Web Services/Images/Pasted image 20230501200805.png",
+    "Amazon Web Services/Services/Relational Database Service/--Table of Contents--.md",
+    "Amazon Web Services/Services/Relational Database Service/ACID vs BASE.md",
+    "Amazon Web Services/Images/Pasted image 20230501195006.png",
+    "Pasted image 20230501194712.png",
+    "Amazon Web Services/Services/Relational Database Service/Database Refresher & Models.md",
+    "Amazon Web Services/Images/Pasted image 20230501194450.png",
+    "Pasted image 20230501194240.png",
+    "Amazon Web Services/Images/Pasted image 20230501194202.png",
+    "Amazon Web Services/Images/Pasted image 20230501193044.png",
+    "Amazon Web Services/Images/Pasted image 20230501192927.png",
+    "Amazon Web Services/Images/Pasted image 20230501190406.png",
+    "Amazon Web Services/Services/Route 53/Failover Routing.md",
+    "Amazon Web Services/Services/Relational Database Service",
+    "Amazon Web Services/Services/Route 53/--Table of Contents--.md",
+    "Amazon Web Services/Services/Route 53/Implementing DNSSEC using Route53.md",
+    "Amazon Web Services/Services/Route 53/Interoperability.md",
+    "Amazon Web Services/Services/Route 53/Geoproximity.md",
+    "Amazon Web Services/Services/Route 53/Geolocation Routing.md",
+    "Amazon Web Services/Services/Route 53/Latency Routing.md",
+    "Amazon Web Services/Services/Route 53/Weighted Routing.md",
+    "Amazon Web Services/Services/Route 53/Multi Value Routing.md",
+    "Amazon Web Services/Services/Route 53/DEMO - Using R53 and Failover Routing.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Network Interfaces, Instance IPs and DNS.md",
+    "Amazon Web Services/Services/Route 53/R53 Health Checks.md",
+    "Amazon Web Services/Services/Route 53/Simple Routing.md",
+    "Amazon Web Services/Services/Route 53/R53 CNAME vs ALIAS.md",
+    "Amazon Web Services/Services/Route 53/Private Hosted Zones.md",
+    "Amazon Web Services/Services/Route 53/Public Hosted Zones.md",
+    "Networking/Domain Name System/Domain Name System.md",
+    "Networking/Domain Name System/DNS Record Types.md",
     "Amazon Web Services/Services/Route 53/Basics.md",
-    "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
-    "Amazon Web Services/Images/Pasted image 20230501144655.png",
-    "Amazon Web Services/Images/Pasted image 20230501144539.png",
-    "Amazon Web Services/Images/Pasted image 20230501144446.png",
-    "Amazon Web Services/Images/Pasted image 20230501144202.png",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/Enhanced Bootstrapping with CFN-INIT.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/System and Application Logging on EC2.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/DEMO - Logging and Metrics with CW Agent.md",
-    "Amazon Web Services/Images/Pasted image 20230501025142.png",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/DEMO - Parameter Store.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/AWS Systems Manager Parameter Store.md",
-    "Amazon Web Services/Images/Pasted image 20230501020611.png",
-    "Amazon Web Services/Images/Pasted image 20230501010900.png",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/DEMO - Using EC2 Instance Roles.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/Instance Roles.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/DEMO - CFN-INIT and CFN Creation Policies.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/DEMO - Bootstrapping Wordpress Installation.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/Bootstrapping EC2 using User Data.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Instance Metadata.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/--Table of Contents--.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/Enhanced Networking & EBS Optimized.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Advanced",
-    "Amazon Web Services/Services/Containers & ECS/Elastic Kubernetes Service 101.md",
-    "Kubernetes/Basics.md",
-    "Amazon Web Services/Services/Containers & ECS/Kubernetes 101.md",
-    "Amazon Web Services/Services/Containers & ECS/--Table of Contents--.md",
-    "Kubernetes/--Table of Contents--.md",
     "Kubernetes",
     "Amazon Web Services/Services/Containers & ECS",
     "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types",
@@ -201,7 +203,6 @@
     "Amazon Web Services/Services/AWS Control Tower/Untitled",
     "Amazon Web Services/Services/Simple Notification Service",
     "Amazon Web Services/Services/API Gateway",
-    "Amazon Web Services/Services/DynamoDB/Untitled",
-    "Amazon Web Services/Services/DynamoDB"
+    "Amazon Web Services/Services/DynamoDB/Untitled"
   ]
 }
