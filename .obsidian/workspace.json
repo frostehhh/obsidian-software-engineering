@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1f2550a3e99ff1b4",
+        "id": "497e9da0be17e42e",
         "type": "tabs",
         "children": [
           {
-            "id": "0ad4eca8e022031a",
+            "id": "52e6ee5b52b933e8",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230501153608.png"
+                "file": "Amazon Web Services/Images/Pasted image 20230502051615.png"
               }
             }
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "elastic ip",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230501153608.png",
+                "file": "Amazon Web Services/Images/Pasted image 20230502051615.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230501153608.png",
+                "file": "Amazon Web Services/Images/Pasted image 20230502051615.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230501153608.png"
+                "file": "Amazon Web Services/Images/Pasted image 20230502051615.png"
               }
             }
           },
@@ -156,45 +156,45 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "0ad4eca8e022031a",
+  "active": "bd2714a80d3d3c1d",
   "lastOpenFiles": [
-    "Amazon Web Services/Images/Pasted image 20230501153738.png",
-    "Amazon Web Services/Services/Relational Database Service/Databases on EC2.md",
-    "Amazon Web Services/Images/Pasted image 20230501202849.png",
-    "Amazon Web Services/Images/Pasted image 20230501200805.png",
+    "Amazon Web Services/Services/Relational Database Service/Proxy.md",
     "Amazon Web Services/Services/Relational Database Service/--Table of Contents--.md",
+    "Amazon Web Services/Services/Relational Database Service/Aurora Multi-master.md",
+    "Amazon Web Services/Images/Pasted image 20230502051615.png",
+    "Amazon Web Services/Images/Pasted image 20230502051342.png",
+    "Amazon Web Services/Images/Pasted image 20230502051110.png",
+    "Amazon Web Services/Services/Relational Database Service/Aurora Global Database.md",
+    "Amazon Web Services/Images/Pasted image 20230502045035.png",
+    "Amazon Web Services/Images/Pasted image 20230502044817.png",
+    "Amazon Web Services/Services/Relational Database Service/Aurora Serverless.md",
+    "Amazon Web Services/Images/Pasted image 20230502044329.png",
+    "Amazon Web Services/Images/Pasted image 20230502044046.png",
+    "Amazon Web Services/Images/Pasted image 20230502041404.png",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md",
+    "Amazon Web Services/Services/Relational Database Service/Amazon Aurora Architecture.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/AWS Systems Manager Parameter Store.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/Bootstrapping EC2 using User Data.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Elastic Block Store(EBS).md",
     "Amazon Web Services/Services/Relational Database Service/ACID vs BASE.md",
-    "Amazon Web Services/Images/Pasted image 20230501195006.png",
-    "Pasted image 20230501194712.png",
+    "Amazon Web Services/Services/Relational Database Service/DEMO - Migrating Wordpress onto Aurora.md",
+    "Amazon Web Services/Images/Pasted image 20230502035204.png",
+    "Amazon Web Services/Images/Pasted image 20230502035014.png",
+    "Amazon Web Services/Services/Relational Database Service/Custom.md",
+    "Amazon Web Services/Services/Relational Database Service/Data Security.md",
+    "Amazon Web Services/Services/Relational Database Service/DEMO - MultiAZ & Snapshot Restore with RDS.md",
+    "Amazon Web Services/Services/Relational Database Service/Read Replicas.md",
+    "Amazon Web Services/Services/Relational Database Service/Relational Database Service (RDS) Architecture.md",
+    "Amazon Web Services/Services/Relational Database Service/Backup and Restore.md",
+    "Amazon Web Services/Services/Relational Database Service/MultiAZ.md",
+    "Amazon Web Services/Services/Relational Database Service/DEMO - Migrating EC2 DB into RDS.md",
+    "Amazon Web Services/Services/Relational Database Service/DEMO - Splitting Wordpress Monolith - APP and DB.md",
+    "Amazon Web Services/Services/Relational Database Service/Databases on EC2.md",
     "Amazon Web Services/Services/Relational Database Service/Database Refresher & Models.md",
-    "Amazon Web Services/Images/Pasted image 20230501194450.png",
-    "Pasted image 20230501194240.png",
-    "Amazon Web Services/Images/Pasted image 20230501194202.png",
-    "Amazon Web Services/Images/Pasted image 20230501193044.png",
-    "Amazon Web Services/Images/Pasted image 20230501192927.png",
-    "Amazon Web Services/Images/Pasted image 20230501190406.png",
     "Amazon Web Services/Services/Route 53/Failover Routing.md",
     "Amazon Web Services/Services/Relational Database Service",
     "Amazon Web Services/Services/Route 53/--Table of Contents--.md",
     "Amazon Web Services/Services/Route 53/Implementing DNSSEC using Route53.md",
-    "Amazon Web Services/Services/Route 53/Interoperability.md",
-    "Amazon Web Services/Services/Route 53/Geoproximity.md",
-    "Amazon Web Services/Services/Route 53/Geolocation Routing.md",
-    "Amazon Web Services/Services/Route 53/Latency Routing.md",
-    "Amazon Web Services/Services/Route 53/Weighted Routing.md",
-    "Amazon Web Services/Services/Route 53/Multi Value Routing.md",
-    "Amazon Web Services/Services/Route 53/DEMO - Using R53 and Failover Routing.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Network Interfaces, Instance IPs and DNS.md",
-    "Amazon Web Services/Services/Route 53/R53 Health Checks.md",
-    "Amazon Web Services/Services/Route 53/Simple Routing.md",
-    "Amazon Web Services/Services/Route 53/R53 CNAME vs ALIAS.md",
-    "Amazon Web Services/Services/Route 53/Private Hosted Zones.md",
-    "Amazon Web Services/Services/Route 53/Public Hosted Zones.md",
-    "Networking/Domain Name System/Domain Name System.md",
-    "Networking/Domain Name System/DNS Record Types.md",
-    "Amazon Web Services/Services/Route 53/Basics.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/Enhanced Networking & EBS Optimized.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Advanced",
     "Kubernetes",
     "Amazon Web Services/Services/Containers & ECS",
