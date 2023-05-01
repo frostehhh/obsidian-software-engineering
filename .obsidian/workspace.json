@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e25de88ad391d7da",
+        "id": "b624b0c08e1a4152",
         "type": "tabs",
         "children": [
           {
-            "id": "9c55c9cafeca213b",
+            "id": "9b45e6f6465caa4b",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230425001029.png"
+                "file": "Amazon Web Services/Images/Pasted image 20230501150407.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230425001029.png",
+                "file": "Amazon Web Services/Images/Pasted image 20230501150407.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230425001029.png",
+                "file": "Amazon Web Services/Images/Pasted image 20230501150407.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230425001029.png"
+                "file": "Amazon Web Services/Images/Pasted image 20230501150407.png"
               }
             }
           },
@@ -156,52 +156,52 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "9c55c9cafeca213b",
+  "active": "bd2714a80d3d3c1d",
   "lastOpenFiles": [
-    "Amazon Web Services/Images/Pasted image 20230423132547.png",
-    "Amazon Web Services/Containers & ECS/Introduction to Containers.md",
-    "Docker/Overview.md",
-    "Docker/Images/Pasted image 20230313012146.png",
-    "Amazon Web Services/Containers & ECS/DEMO - Creating container of cats' Docker Image.md",
-    "Amazon Web Services/Images/Pasted image 20230425001029.png",
-    "Amazon Web Services/Images/Pasted image 20230425000741.png",
-    "Amazon Web Services/Images/Pasted image 20230425000536.png",
-    "Amazon Web Services/Images/Pasted image 20230425000253.png",
-    "Amazon Web Services/Images/Pasted image 20230425000003.png",
-    "Amazon Web Services/Images/Pasted image 20230424235419.png",
-    "Amazon Web Services/Containers & ECS/--Table of Contents--.md",
-    "Amazon Web Services/Containers & ECS",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/EC2 Placement Groups.md",
+    "Amazon Web Services/Images/Pasted image 20230501150407.png",
+    "Amazon Web Services/Images/Pasted image 20230501150222.png",
+    "Amazon Web Services/Images/Pasted image 20230501145045.png",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md",
+    "Amazon Web Services/Fundamentals/High-Availability vs Fault-Tolerance vs Disaster Recovery.md",
+    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Identity and Access Management.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Network Address Translation and NAT Gateways.md",
+    "Amazon Web Services/Services/Route 53/Basics.md",
+    "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
+    "Amazon Web Services/Images/Pasted image 20230501144655.png",
+    "Amazon Web Services/Images/Pasted image 20230501144539.png",
+    "Amazon Web Services/Images/Pasted image 20230501144446.png",
+    "Amazon Web Services/Images/Pasted image 20230501144202.png",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/Enhanced Bootstrapping with CFN-INIT.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/System and Application Logging on EC2.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/DEMO - Logging and Metrics with CW Agent.md",
+    "Amazon Web Services/Images/Pasted image 20230501025142.png",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/DEMO - Parameter Store.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/AWS Systems Manager Parameter Store.md",
+    "Amazon Web Services/Images/Pasted image 20230501020611.png",
+    "Amazon Web Services/Images/Pasted image 20230501010900.png",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/DEMO - Using EC2 Instance Roles.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/Instance Roles.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/DEMO - CFN-INIT and CFN Creation Policies.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/DEMO - Bootstrapping Wordpress Installation.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/Bootstrapping EC2 using User Data.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Instance Metadata.md",
-    "Amazon Web Services/Images/Pasted image 20230423235553.png",
     "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/Provisioned IOPS SSD.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/Hard Disk Drive (HDD)-based.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/General Purpose SSD.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Instance Store Volumes.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Horizontal vs Vertical Scaling.md",
-    "Amazon Web Services/Images/Pasted image 20230423234424.png",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Instance Types.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/--Table of Contents--.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/DEMO - Shutdown, Terminate & Termination Protection.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/DEMO - Manual Install of Wordpress on EC2.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/DEMO - EBS Volumes.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/DEMO - Creating an Animals4life AMI.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/DEMO - Copying & Sharing an AMI.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/DEMO - SSH vs Instance Connect.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Elastic Block Store(EBS).md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Instance Status Checks and AutoRecovery.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Reserved Instances.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Purchase Options.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Virtualization 101.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Storage Refreshser.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced",
+    "Amazon Web Services/Services/Containers & ECS/Elastic Kubernetes Service 101.md",
+    "Kubernetes/Basics.md",
+    "Amazon Web Services/Services/Containers & ECS/Kubernetes 101.md",
+    "Amazon Web Services/Services/Containers & ECS/--Table of Contents--.md",
+    "Kubernetes/--Table of Contents--.md",
+    "Kubernetes",
+    "Amazon Web Services/Services/Containers & ECS",
     "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types",
     "-- TODO --",
     "Amazon Web Services/Services/AWS Control Tower/Untitled",
     "Amazon Web Services/Services/Simple Notification Service",
     "Amazon Web Services/Services/API Gateway",
     "Amazon Web Services/Services/DynamoDB/Untitled",
-    "Amazon Web Services/Services/DynamoDB",
-    "Amazon Web Services/Services/Simple Storage Service/Presigned URLs",
-    "Amazon Web Services/Services/AWS Cloudshell"
+    "Amazon Web Services/Services/DynamoDB"
   ]
 }

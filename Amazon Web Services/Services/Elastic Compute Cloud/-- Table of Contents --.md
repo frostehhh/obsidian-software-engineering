@@ -22,3 +22,4 @@
 [[DEMO - Shutdown, Terminate & Termination Protection]]
 [[Horizontal vs Vertical Scaling]]
 [[Instance Metadata]]
+[[Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--|Advanced EC2]]
