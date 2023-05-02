@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "986beb94d7f77872",
+        "id": "aa47d77c8e62481a",
         "type": "tabs",
         "children": [
           {
-            "id": "d381c73ebd8cfd80",
+            "id": "0df9d4fa9861fd36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/HA & Scaling/--Table of Contents--.md",
+                "file": "Amazon Web Services/Services/Elastic Load Balancer/--Table of Contents--.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "849ed77fa10a4310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/Elastic Load Balancer/--Table of Contents--.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0449aa27fcd440b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/Elastic Load Balancer/ASG Lifecycle Hooks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227
+    "width": 288
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/HA & Scaling/--Table of Contents--.md",
+                "file": "Amazon Web Services/Services/Elastic Load Balancer/ASG Lifecycle Hooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/HA & Scaling/--Table of Contents--.md",
+                "file": "Amazon Web Services/Services/Elastic Load Balancer/ASG Lifecycle Hooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/HA & Scaling/--Table of Contents--.md"
+                "file": "Amazon Web Services/Services/Elastic Load Balancer/ASG Lifecycle Hooks.md"
               }
             }
           },
@@ -158,28 +183,34 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "d381c73ebd8cfd80",
+  "active": "0449aa27fcd440b1",
   "lastOpenFiles": [
+    "Pasted image 20230503044101.png",
+    "Amazon Web Services/Services/Elastic Load Balancer/--Table of Contents--.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/ASG Lifecycle Hooks.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/ASG Scaling Policies.md",
+    "Pasted image 20230503043903.png",
+    "Pasted image 20230503043716.png",
+    "Pasted image 20230503042748.png",
+    "Amazon Web Services/Services/Containers & ECS/Elastic Container Service Concepts.md",
+    "Amazon Web Services/Services/Containers & ECS/--Table of Contents--.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/Auto-Scaling Groups.md",
+    "Pasted image 20230503042000.png",
+    "Pasted image 20230503041841.png",
+    "Pasted image 20230503041725.png",
+    "Pasted image 20230503041210.png",
+    "Pasted image 20230503041032.png",
+    "Pasted image 20230503034335.png",
+    "Pasted image 20230503034014.png",
+    "Amazon Web Services/Services/Elastic Load Balancer/Launch Configurations and Launch Templates.md",
+    "Amazon Web Services/HA & Scaling/--Table of Contents--.md",
     "Amazon Web Services/HA & Scaling/Regional and Global AWS Architecture.md",
     "Amazon Web Services/Services/Elastic Load Balancer/Application and Network Load Balancer.md",
-    "Amazon Web Services/Images/Pasted image 20230502231427.png",
     "Application and Network Load Balancer.md",
-    "Amazon Web Services/HA & Scaling/--Table of Contents--.md",
     "[[Application and Network Load Balancer.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/--Table of Contents--.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/Launch Configurations and Launch Templates.md",
-    "Amazon Web Services/Images/Pasted image 20230503032206.png",
-    "Amazon Web Services/Images/Pasted image 20230503032000.png",
     "Networking/OSI 7-Layer Model/OSI 7-Layer Model.md",
-    "Amazon Web Services/Images/Pasted image 20230503030559.png",
-    "Amazon Web Services/Images/Pasted image 20230503030237.png",
-    "Amazon Web Services/Images/Pasted image 20230503030106.png",
     "Networking/OSI 7-Layer Model/Application.md",
-    "Amazon Web Services/Images/Pasted image 20230503025723.png",
     "Amazon Web Services/Services/Elastic Load Balancer/Architecture.md",
-    "Amazon Web Services/Images/Pasted image 20230503023555.png",
-    "Amazon Web Services/Images/Pasted image 20230503023322.png",
-    "Amazon Web Services/Images/Pasted image 20230503022838.png",
     "Amazon Web Services/Services/Elastic Load Balancer/Evolution of the Elastic Load Balancer.md",
     "Amazon Web Services/Services/Virtual Private Cloud/--Table of Contents--.md",
     "Amazon Web Services/Services/Virtual Private Cloud/Security Groups.md",
@@ -195,11 +226,6 @@
     "Amazon Web Services/Services/Relational Database Service/Database Migration Service.md",
     "Amazon Web Services/Services/Elastic File System",
     "Amazon Web Services/Services/Relational Database Service/--Table of Contents--.md",
-    "Amazon Web Services/Services/Relational Database Service/Proxy.md",
-    "Amazon Web Services/Services/Relational Database Service/Aurora Multi-master.md",
-    "Amazon Web Services/Services/Relational Database Service/Aurora Global Database.md",
-    "Amazon Web Services/Services/Relational Database Service/Aurora Serverless.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md",
     "Amazon Web Services/Services/Relational Database Service",
     "Amazon Web Services/Services/Elastic Compute Cloud/Advanced",
     "Kubernetes",
