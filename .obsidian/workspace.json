@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "497e9da0be17e42e",
+        "id": "986beb94d7f77872",
         "type": "tabs",
         "children": [
           {
-            "id": "52e6ee5b52b933e8",
+            "id": "d381c73ebd8cfd80",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230502051615.png"
+                "file": "Amazon Web Services/HA & Scaling/--Table of Contents--.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "layer 7",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230502051615.png",
+                "file": "Amazon Web Services/HA & Scaling/--Table of Contents--.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230502051615.png",
+                "file": "Amazon Web Services/HA & Scaling/--Table of Contents--.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230502051615.png"
+                "file": "Amazon Web Services/HA & Scaling/--Table of Contents--.md"
               }
             }
           },
@@ -156,53 +158,52 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "bd2714a80d3d3c1d",
+  "active": "d381c73ebd8cfd80",
   "lastOpenFiles": [
-    "Amazon Web Services/Services/Relational Database Service/Proxy.md",
+    "Amazon Web Services/HA & Scaling/Regional and Global AWS Architecture.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/Application and Network Load Balancer.md",
+    "Amazon Web Services/Images/Pasted image 20230502231427.png",
+    "Application and Network Load Balancer.md",
+    "Amazon Web Services/HA & Scaling/--Table of Contents--.md",
+    "[[Application and Network Load Balancer.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/--Table of Contents--.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/Launch Configurations and Launch Templates.md",
+    "Amazon Web Services/Images/Pasted image 20230503032206.png",
+    "Amazon Web Services/Images/Pasted image 20230503032000.png",
+    "Networking/OSI 7-Layer Model/OSI 7-Layer Model.md",
+    "Amazon Web Services/Images/Pasted image 20230503030559.png",
+    "Amazon Web Services/Images/Pasted image 20230503030237.png",
+    "Amazon Web Services/Images/Pasted image 20230503030106.png",
+    "Networking/OSI 7-Layer Model/Application.md",
+    "Amazon Web Services/Images/Pasted image 20230503025723.png",
+    "Amazon Web Services/Services/Elastic Load Balancer/Architecture.md",
+    "Amazon Web Services/Images/Pasted image 20230503023555.png",
+    "Amazon Web Services/Images/Pasted image 20230503023322.png",
+    "Amazon Web Services/Images/Pasted image 20230503022838.png",
+    "Amazon Web Services/Services/Elastic Load Balancer/Evolution of the Elastic Load Balancer.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/--Table of Contents--.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Security Groups.md",
+    "Amazon Web Services/Services/Elastic Load Balancer",
+    "Amazon Web Services/Services/Elastic File System/--Table of Contents--.md",
+    "Amazon Web Services/Untitled/Untitled",
+    "Amazon Web Services/HA & Scaling",
+    "Amazon Web Services/Services/Elastic File System/DEMO - Implementing EFS.md",
+    "Amazon Web Services/Services/Elastic File System/Architecture.md",
+    "Amazon Web Services/Services/Backup/Basics.md",
+    "Amazon Web Services/Services/Backup/--Table of Contents--.md",
+    "Amazon Web Services/Services/Backup",
+    "Amazon Web Services/Services/Relational Database Service/Database Migration Service.md",
+    "Amazon Web Services/Services/Elastic File System",
     "Amazon Web Services/Services/Relational Database Service/--Table of Contents--.md",
+    "Amazon Web Services/Services/Relational Database Service/Proxy.md",
     "Amazon Web Services/Services/Relational Database Service/Aurora Multi-master.md",
-    "Amazon Web Services/Images/Pasted image 20230502051615.png",
-    "Amazon Web Services/Images/Pasted image 20230502051342.png",
-    "Amazon Web Services/Images/Pasted image 20230502051110.png",
     "Amazon Web Services/Services/Relational Database Service/Aurora Global Database.md",
-    "Amazon Web Services/Images/Pasted image 20230502045035.png",
-    "Amazon Web Services/Images/Pasted image 20230502044817.png",
     "Amazon Web Services/Services/Relational Database Service/Aurora Serverless.md",
-    "Amazon Web Services/Images/Pasted image 20230502044329.png",
-    "Amazon Web Services/Images/Pasted image 20230502044046.png",
-    "Amazon Web Services/Images/Pasted image 20230502041404.png",
     "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md",
-    "Amazon Web Services/Services/Relational Database Service/Amazon Aurora Architecture.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/AWS Systems Manager Parameter Store.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/Bootstrapping EC2 using User Data.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Elastic Block Store(EBS).md",
-    "Amazon Web Services/Services/Relational Database Service/ACID vs BASE.md",
-    "Amazon Web Services/Services/Relational Database Service/DEMO - Migrating Wordpress onto Aurora.md",
-    "Amazon Web Services/Images/Pasted image 20230502035204.png",
-    "Amazon Web Services/Images/Pasted image 20230502035014.png",
-    "Amazon Web Services/Services/Relational Database Service/Custom.md",
-    "Amazon Web Services/Services/Relational Database Service/Data Security.md",
-    "Amazon Web Services/Services/Relational Database Service/DEMO - MultiAZ & Snapshot Restore with RDS.md",
-    "Amazon Web Services/Services/Relational Database Service/Read Replicas.md",
-    "Amazon Web Services/Services/Relational Database Service/Relational Database Service (RDS) Architecture.md",
-    "Amazon Web Services/Services/Relational Database Service/Backup and Restore.md",
-    "Amazon Web Services/Services/Relational Database Service/MultiAZ.md",
-    "Amazon Web Services/Services/Relational Database Service/DEMO - Migrating EC2 DB into RDS.md",
-    "Amazon Web Services/Services/Relational Database Service/DEMO - Splitting Wordpress Monolith - APP and DB.md",
-    "Amazon Web Services/Services/Relational Database Service/Databases on EC2.md",
-    "Amazon Web Services/Services/Relational Database Service/Database Refresher & Models.md",
-    "Amazon Web Services/Services/Route 53/Failover Routing.md",
     "Amazon Web Services/Services/Relational Database Service",
-    "Amazon Web Services/Services/Route 53/--Table of Contents--.md",
-    "Amazon Web Services/Services/Route 53/Implementing DNSSEC using Route53.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Advanced",
     "Kubernetes",
     "Amazon Web Services/Services/Containers & ECS",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types",
-    "-- TODO --",
-    "Amazon Web Services/Services/AWS Control Tower/Untitled",
-    "Amazon Web Services/Services/Simple Notification Service",
-    "Amazon Web Services/Services/API Gateway",
-    "Amazon Web Services/Services/DynamoDB/Untitled"
+    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types"
   ]
 }
