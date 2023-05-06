@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0642eea2a732818a",
+            "id": "504248f8f6d40473",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Serverless and Application Services/--Table of Contents--.md",
+                "file": "Amazon Web Services/Services/Simple Queue Service/Basics.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "ba65148fd5260f48",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230507025535.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256
+    "width": 256,
+    "collapsed": true
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230507025535.png",
+                "file": "Amazon Web Services/Services/Simple Queue Service/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230507025535.png",
+                "file": "Amazon Web Services/Services/Simple Queue Service/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230507025535.png"
+                "file": "Amazon Web Services/Services/Simple Queue Service/Basics.md"
               }
             }
           },
@@ -171,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245
+    "width": 245,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,18 +175,18 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "bd2714a80d3d3c1d",
+  "active": "504248f8f6d40473",
   "lastOpenFiles": [
+    "Amazon Web Services/Serverless and Application Services/--Table of Contents--.md",
+    "Amazon Web Services/Images/Pasted image 20230507025535.png",
     "Amazon Web Services/Services/Simple Queue Service/--Table of Contents--.md",
     "Amazon Web Services/Services/Simple Queue Service/Basics.md",
     "Amazon Web Services/Services/Simple Notification Service/--Table of Contents--.md",
-    "Amazon Web Services/Serverless and Application Services/--Table of Contents--.md",
     "Amazon Web Services/Services/Simple Queue Service",
     "Amazon Web Services/Serverless and Application Services/DEMO - Pet Cuddle-O-Tron.md",
     "Amazon Web Services/Services/API Gateway/Basics.md",
     "Amazon Web Services/Services/API Gateway/Methods and Resources.md",
     "Amazon Web Services/Services/Step Functions/Basics.md",
-    "Amazon Web Services/Images/Pasted image 20230507025535.png",
     "Amazon Web Services/Images/Pasted image 20230507014145.png",
     "Amazon Web Services/Images/Pasted image 20230507013846.png",
     "Amazon Web Services/Images/Pasted image 20230507011434.png",
@@ -228,7 +217,6 @@
     "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Instance Types.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/DEMO - Seeing Session Stickiness in Action.md",
     "Amazon Web Services/Services/Elastic Load Balancer",
     "Amazon Web Services/Untitled/Untitled",
     "Amazon Web Services/HA & Scaling",

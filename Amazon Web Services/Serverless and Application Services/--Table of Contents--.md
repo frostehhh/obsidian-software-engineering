@@ -6,3 +6,5 @@
 [[Amazon Web Services/Services/Simple Notification Service/Basics|SNS Basics]]
 [[Amazon Web Services/Services/Step Functions/Basics|Step Functions Basics]]
 [[Amazon Web Services/Services/API Gateway/Basics|API Gateway Basics]]
+[[DEMO - Pet Cuddle-O-Tron]]
+[[Amazon Web Services/Services/Simple Queue Service/Basics|SQS Basics]]
