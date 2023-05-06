@@ -5,3 +5,8 @@
 [[Auto-Scaling Groups]]
 [[ASG Scaling Policies]]
 [[ASG Lifecycle Hooks]]
+[[ASG HealthCheck Comparison - EC2 vs ELB]]
+[[SSL Offload & Session Stickiness]]
+[[DEMO - Seeing Session Stickiness in Action]]
+[[DEMO - Architecture Evolution]]
+[[Gateway Load Balancers]]

@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "aa47d77c8e62481a",
+        "id": "635d3bb4024e0e87",
         "type": "tabs",
         "children": [
           {
-            "id": "0df9d4fa9861fd36",
+            "id": "0642eea2a732818a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Load Balancer/--Table of Contents--.md",
+                "file": "Amazon Web Services/Serverless and Application Services/--Table of Contents--.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "849ed77fa10a4310",
+            "id": "ba65148fd5260f48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Load Balancer/--Table of Contents--.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0449aa27fcd440b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Web Services/Services/Elastic Load Balancer/ASG Lifecycle Hooks.md",
-                "mode": "source",
-                "source": false
+                "file": "Amazon Web Services/Images/Pasted image 20230507025535.png"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "layer 7",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,12 +77,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "0fc0c9c5268a5851",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 288
+    "width": 256
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -110,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Load Balancer/ASG Lifecycle Hooks.md",
+                "file": "Amazon Web Services/Images/Pasted image 20230507025535.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Load Balancer/ASG Lifecycle Hooks.md",
+                "file": "Amazon Web Services/Images/Pasted image 20230507025535.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Load Balancer/ASG Lifecycle Hooks.md"
+                "file": "Amazon Web Services/Images/Pasted image 20230507025535.png"
               }
             }
           },
@@ -161,14 +157,21 @@
               "type": "side-panel-control-view",
               "state": {}
             }
+          },
+          {
+            "id": "aa771a6690285368",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 245,
-    "collapsed": true
+    "width": 245
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,53 +186,53 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "0449aa27fcd440b1",
+  "active": "bd2714a80d3d3c1d",
   "lastOpenFiles": [
-    "Pasted image 20230503044101.png",
+    "Amazon Web Services/Services/Simple Queue Service/--Table of Contents--.md",
+    "Amazon Web Services/Services/Simple Queue Service/Basics.md",
+    "Amazon Web Services/Services/Simple Notification Service/--Table of Contents--.md",
+    "Amazon Web Services/Serverless and Application Services/--Table of Contents--.md",
+    "Amazon Web Services/Services/Simple Queue Service",
+    "Amazon Web Services/Serverless and Application Services/DEMO - Pet Cuddle-O-Tron.md",
+    "Amazon Web Services/Services/API Gateway/Basics.md",
+    "Amazon Web Services/Services/API Gateway/Methods and Resources.md",
+    "Amazon Web Services/Services/Step Functions/Basics.md",
+    "Amazon Web Services/Images/Pasted image 20230507025535.png",
+    "Amazon Web Services/Images/Pasted image 20230507014145.png",
+    "Amazon Web Services/Images/Pasted image 20230507013846.png",
+    "Amazon Web Services/Images/Pasted image 20230507011434.png",
+    "Amazon Web Services/Services/Simple Notification Service/Basics.md",
+    "Amazon Web Services/Services/Step Functions/--Table of Contents--.md",
+    "Amazon Web Services/Services/Step Functions",
+    "Amazon Web Services/Serverless and Application Services/Architecture Deep Dive.md",
+    "Amazon Web Services/Serverless and Application Services/Serverless Architecture.md",
+    "Amazon Web Services/Services/CloudWatch/--Table of Contents--.md",
+    "Amazon Web Services/Services/EventBridge/--Table of Contents--.md",
+    "Amazon Web Services/Services/EventBridge/CloudWatch Events and EventBridge.md",
+    "Amazon Web Services/Services/Event.md",
+    "Amazon Web Services/Services/EventBridge",
+    "Amazon Web Services/Images/Pasted image 20230507002411.png",
+    "Amazon Web Services/Images/Pasted image 20230507001634.png",
+    "Amazon Web Services/Images/Pasted image 20230507000929.png",
+    "Amazon Web Services/Images/Pasted image 20230507000746.png",
+    "Amazon Web Services/Services/Lambda/--Table of Contents--.md",
+    "Amazon Web Services/Services/Lambda/Basics.md",
+    "Amazon Web Services/Images/Pasted image 20230506224216.png",
+    "Amazon Web Services/Images/Pasted image 20230506223134.png",
+    "Amazon Web Services/Services/Lambda",
+    "Amazon Web Services/Services/Elastic Load Balancer/Gateway Load Balancers.md",
+    "Amazon Web Services/Serverless and Application Services",
     "Amazon Web Services/Services/Elastic Load Balancer/--Table of Contents--.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/ASG Lifecycle Hooks.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/ASG Scaling Policies.md",
-    "Pasted image 20230503043903.png",
-    "Pasted image 20230503043716.png",
-    "Pasted image 20230503042748.png",
-    "Amazon Web Services/Services/Containers & ECS/Elastic Container Service Concepts.md",
-    "Amazon Web Services/Services/Containers & ECS/--Table of Contents--.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/Auto-Scaling Groups.md",
-    "Pasted image 20230503042000.png",
-    "Pasted image 20230503041841.png",
-    "Pasted image 20230503041725.png",
-    "Pasted image 20230503041210.png",
-    "Pasted image 20230503041032.png",
-    "Pasted image 20230503034335.png",
-    "Pasted image 20230503034014.png",
-    "Amazon Web Services/Services/Elastic Load Balancer/Launch Configurations and Launch Templates.md",
-    "Amazon Web Services/HA & Scaling/--Table of Contents--.md",
-    "Amazon Web Services/HA & Scaling/Regional and Global AWS Architecture.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/Application and Network Load Balancer.md",
-    "Application and Network Load Balancer.md",
-    "[[Application and Network Load Balancer.md",
-    "Networking/OSI 7-Layer Model/OSI 7-Layer Model.md",
-    "Networking/OSI 7-Layer Model/Application.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/Architecture.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/Evolution of the Elastic Load Balancer.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/--Table of Contents--.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Security Groups.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/DEMO - Architecture Evolution.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/Instance Roles.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Instance Types.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/DEMO - Seeing Session Stickiness in Action.md",
     "Amazon Web Services/Services/Elastic Load Balancer",
-    "Amazon Web Services/Services/Elastic File System/--Table of Contents--.md",
     "Amazon Web Services/Untitled/Untitled",
     "Amazon Web Services/HA & Scaling",
-    "Amazon Web Services/Services/Elastic File System/DEMO - Implementing EFS.md",
-    "Amazon Web Services/Services/Elastic File System/Architecture.md",
-    "Amazon Web Services/Services/Backup/Basics.md",
-    "Amazon Web Services/Services/Backup/--Table of Contents--.md",
     "Amazon Web Services/Services/Backup",
-    "Amazon Web Services/Services/Relational Database Service/Database Migration Service.md",
-    "Amazon Web Services/Services/Elastic File System",
-    "Amazon Web Services/Services/Relational Database Service/--Table of Contents--.md",
-    "Amazon Web Services/Services/Relational Database Service",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced",
-    "Kubernetes",
-    "Amazon Web Services/Services/Containers & ECS",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types"
+    "Amazon Web Services/Services/Elastic File System"
   ]
 }
