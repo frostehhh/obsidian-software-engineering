@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "504248f8f6d40473",
+            "id": "56ac12050dff5e66",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Services/Simple Queue Service/Basics.md",
+                "file": "Amazon Web Services/Services/Kinesis/--Table of Contents--.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ba91fce477a3c60e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Amazon Web Services/Images/Pasted image 20230507143433.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256,
-    "collapsed": true
+    "width": 256
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Services/Simple Queue Service/Basics.md",
+                "file": "Amazon Web Services/Images/Pasted image 20230507143433.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Services/Simple Queue Service/Basics.md",
+                "file": "Amazon Web Services/Images/Pasted image 20230507143433.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Services/Simple Queue Service/Basics.md"
+                "file": "Amazon Web Services/Images/Pasted image 20230507143433.png"
               }
             }
           },
@@ -155,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -175,21 +187,37 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "504248f8f6d40473",
+  "active": "ba91fce477a3c60e",
   "lastOpenFiles": [
-    "Amazon Web Services/Serverless and Application Services/--Table of Contents--.md",
-    "Amazon Web Services/Images/Pasted image 20230507025535.png",
+    "Amazon Web Services/Images/Pasted image 20230507143757.png",
+    "Amazon Web Services/Services/Kinesis/Kinesis Data Firehose.md",
+    "Amazon Web Services/Services/Kinesis/--Table of Contents--.md",
+    "Amazon Web Services/Services/Kinesis/Kinesis Data Streams.md",
+    "Amazon Web Services/Images/Pasted image 20230507161416.png",
+    "Amazon Web Services/Images/Pasted image 20230507161201.png",
+    "Amazon Web Services/Images/Pasted image 20230507160939.png",
+    "Amazon Web Services/Services/Kinesis/Kinesis Video Streams.md",
+    "Amazon Web Services/Services/Kinesis/Kinesis Data Analytics.md",
     "Amazon Web Services/Services/Simple Queue Service/--Table of Contents--.md",
+    "Amazon Web Services/Serverless and Application Services/--Table of Contents--.md",
+    "Amazon Web Services/Services/Kinesis",
+    "Amazon Web Services/Services/Simple Queue Service/SQS Dead-Letter Queues.md",
+    "Amazon Web Services/Images/Pasted image 20230507153640.png",
+    "Amazon Web Services/Services/Simple Queue Service/SQS Delay Queues.md",
+    "Amazon Web Services/Images/Pasted image 20230507153108.png",
+    "Amazon Web Services/Services/Simple Queue Service/SQS Standard vs FIFO.md",
+    "Amazon Web Services/Images/Pasted image 20230507152357.png",
     "Amazon Web Services/Services/Simple Queue Service/Basics.md",
+    "Amazon Web Services/Images/Pasted image 20230507145120.png",
+    "Amazon Web Services/Images/Pasted image 20230507144018.png",
+    "Amazon Web Services/Images/Pasted image 20230507144015.png",
+    "Amazon Web Services/Images/Pasted image 20230507143851.png",
     "Amazon Web Services/Services/Simple Notification Service/--Table of Contents--.md",
     "Amazon Web Services/Services/Simple Queue Service",
     "Amazon Web Services/Serverless and Application Services/DEMO - Pet Cuddle-O-Tron.md",
     "Amazon Web Services/Services/API Gateway/Basics.md",
     "Amazon Web Services/Services/API Gateway/Methods and Resources.md",
     "Amazon Web Services/Services/Step Functions/Basics.md",
-    "Amazon Web Services/Images/Pasted image 20230507014145.png",
-    "Amazon Web Services/Images/Pasted image 20230507013846.png",
-    "Amazon Web Services/Images/Pasted image 20230507011434.png",
     "Amazon Web Services/Services/Simple Notification Service/Basics.md",
     "Amazon Web Services/Services/Step Functions/--Table of Contents--.md",
     "Amazon Web Services/Services/Step Functions",
@@ -200,27 +228,12 @@
     "Amazon Web Services/Services/EventBridge/CloudWatch Events and EventBridge.md",
     "Amazon Web Services/Services/Event.md",
     "Amazon Web Services/Services/EventBridge",
-    "Amazon Web Services/Images/Pasted image 20230507002411.png",
-    "Amazon Web Services/Images/Pasted image 20230507001634.png",
-    "Amazon Web Services/Images/Pasted image 20230507000929.png",
-    "Amazon Web Services/Images/Pasted image 20230507000746.png",
     "Amazon Web Services/Services/Lambda/--Table of Contents--.md",
-    "Amazon Web Services/Services/Lambda/Basics.md",
-    "Amazon Web Services/Images/Pasted image 20230506224216.png",
-    "Amazon Web Services/Images/Pasted image 20230506223134.png",
     "Amazon Web Services/Services/Lambda",
-    "Amazon Web Services/Services/Elastic Load Balancer/Gateway Load Balancers.md",
     "Amazon Web Services/Serverless and Application Services",
-    "Amazon Web Services/Services/Elastic Load Balancer/--Table of Contents--.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/DEMO - Architecture Evolution.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/Instance Roles.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Instance Types.md",
     "Amazon Web Services/Services/Elastic Load Balancer",
     "Amazon Web Services/Untitled/Untitled",
     "Amazon Web Services/HA & Scaling",
-    "Amazon Web Services/Services/Backup",
-    "Amazon Web Services/Services/Elastic File System"
+    "Amazon Web Services/Services/Backup"
   ]
 }
