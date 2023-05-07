@@ -9,3 +9,7 @@
 [[DEMO - Pet Cuddle-O-Tron]]
 [[Amazon Web Services/Services/Simple Queue Service/--Table of Contents--|SQS Table of Contents]]
 [[Amazon Web Services/Services/Kinesis/--Table of Contents--|Kinesis Table of Contents]]
+[[User and Identity Pools|Cognito User and Identity Pools]]
+[[Amazon Web Services/Services/Glue/Basics|Glue Basics]]
+[[Amazon Web Services/Services/MQ/Basics|MQ Basics]]
+[[Amazon Web Services/Services/Appflow/Basics|AppFlow Basics]]

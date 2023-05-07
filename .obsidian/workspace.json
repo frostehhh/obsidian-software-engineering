@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "635d3bb4024e0e87",
+        "id": "83d3b0fd89604033",
         "type": "tabs",
         "children": [
           {
-            "id": "56ac12050dff5e66",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Web Services/Services/Kinesis/--Table of Contents--.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "ba91fce477a3c60e",
+            "id": "6a6e5ba1c4381896",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230507143433.png"
+                "file": "Amazon Web Services/Images/Pasted image 20230507183607.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "application layer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230507143433.png",
+                "file": "Amazon Web Services/Images/Pasted image 20230507183607.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230507143433.png",
+                "file": "Amazon Web Services/Images/Pasted image 20230507183607.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230507143433.png"
+                "file": "Amazon Web Services/Images/Pasted image 20230507183607.png"
               }
             }
           },
@@ -187,53 +172,52 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "ba91fce477a3c60e",
+  "active": "6a6e5ba1c4381896",
   "lastOpenFiles": [
-    "Amazon Web Services/Images/Pasted image 20230507143757.png",
-    "Amazon Web Services/Services/Kinesis/Kinesis Data Firehose.md",
-    "Amazon Web Services/Services/Kinesis/--Table of Contents--.md",
-    "Amazon Web Services/Services/Kinesis/Kinesis Data Streams.md",
-    "Amazon Web Services/Images/Pasted image 20230507161416.png",
-    "Amazon Web Services/Images/Pasted image 20230507161201.png",
-    "Amazon Web Services/Images/Pasted image 20230507160939.png",
-    "Amazon Web Services/Services/Kinesis/Kinesis Video Streams.md",
-    "Amazon Web Services/Services/Kinesis/Kinesis Data Analytics.md",
-    "Amazon Web Services/Services/Simple Queue Service/--Table of Contents--.md",
-    "Amazon Web Services/Serverless and Application Services/--Table of Contents--.md",
-    "Amazon Web Services/Services/Kinesis",
-    "Amazon Web Services/Services/Simple Queue Service/SQS Dead-Letter Queues.md",
-    "Amazon Web Services/Images/Pasted image 20230507153640.png",
-    "Amazon Web Services/Services/Simple Queue Service/SQS Delay Queues.md",
-    "Amazon Web Services/Images/Pasted image 20230507153108.png",
-    "Amazon Web Services/Services/Simple Queue Service/SQS Standard vs FIFO.md",
-    "Amazon Web Services/Images/Pasted image 20230507152357.png",
-    "Amazon Web Services/Services/Simple Queue Service/Basics.md",
-    "Amazon Web Services/Images/Pasted image 20230507145120.png",
-    "Amazon Web Services/Images/Pasted image 20230507144018.png",
-    "Amazon Web Services/Images/Pasted image 20230507144015.png",
-    "Amazon Web Services/Images/Pasted image 20230507143851.png",
-    "Amazon Web Services/Services/Simple Notification Service/--Table of Contents--.md",
-    "Amazon Web Services/Services/Simple Queue Service",
-    "Amazon Web Services/Serverless and Application Services/DEMO - Pet Cuddle-O-Tron.md",
-    "Amazon Web Services/Services/API Gateway/Basics.md",
-    "Amazon Web Services/Services/API Gateway/Methods and Resources.md",
-    "Amazon Web Services/Services/Step Functions/Basics.md",
-    "Amazon Web Services/Services/Simple Notification Service/Basics.md",
-    "Amazon Web Services/Services/Step Functions/--Table of Contents--.md",
-    "Amazon Web Services/Services/Step Functions",
-    "Amazon Web Services/Serverless and Application Services/Architecture Deep Dive.md",
-    "Amazon Web Services/Serverless and Application Services/Serverless Architecture.md",
-    "Amazon Web Services/Services/CloudWatch/--Table of Contents--.md",
-    "Amazon Web Services/Services/EventBridge/--Table of Contents--.md",
-    "Amazon Web Services/Services/EventBridge/CloudWatch Events and EventBridge.md",
-    "Amazon Web Services/Services/Event.md",
-    "Amazon Web Services/Services/EventBridge",
-    "Amazon Web Services/Services/Lambda/--Table of Contents--.md",
-    "Amazon Web Services/Services/Lambda",
-    "Amazon Web Services/Serverless and Application Services",
-    "Amazon Web Services/Services/Elastic Load Balancer",
-    "Amazon Web Services/Untitled/Untitled",
-    "Amazon Web Services/HA & Scaling",
-    "Amazon Web Services/Services/Backup"
+    "-- TODO --/Untitled Kanban.md",
+    "Amazon Web Services/Images/Pasted image 20230508050817.png",
+    "Amazon Web Services/Images/Pasted image 20230508050711.png",
+    "Amazon Web Services/Images/Pasted image 20230508035951.png",
+    "Amazon Web Services/Images/Pasted image 20230508021224.png",
+    "-- TODO --/Main.md",
+    "Amazon Web Services/Images/Pasted image 20230507183940.png",
+    "Amazon Web Services/Images/Pasted image 20230507183717.png",
+    "Amazon Web Services/Images/Pasted image 20230507183607.png",
+    "Amazon Web Services/Images/Pasted image 20230507191157.png",
+    "Amazon Web Services/Images/Pasted image 20230507191116.png",
+    "Amazon Web Services/Images/Pasted image 20230507184025.png",
+    "Amazon Web Services/Services/Direct Connect/Basics.md",
+    "Amazon Web Services/Services/Direct Connect/--Table of Contents--.md",
+    "Amazon Web Services/Services/Lex/--Table of Contents--.md",
+    "Amazon Web Services/Services/Direct Connect",
+    "Amazon Web Services/Services/SageMaker/Basics.md",
+    "Amazon Web Services/Services/Fraud Detector/Basics.md",
+    "Amazon Web Services/Machine Learning 101/--Table of Contents--.md",
+    "Amazon Web Services/Services/SageMaker/--Table of Contents--.md",
+    "Amazon Web Services/Services/SageMaker",
+    "Amazon Web Services/Services/Forecast/Basics.md",
+    "Amazon Web Services/Services/Fraud Detector/--Table of Contents--.md",
+    "Amazon Web Services/Services/Fraud Detector",
+    "Amazon Web Services/Services/Forecast/--Table of Contents--.md",
+    "Amazon Web Services/Services/Translate/Basics.md",
+    "Amazon Web Services/Services/Forecast",
+    "Amazon Web Services/Services/Comprehend/Basics.md",
+    "Amazon Web Services/Services/Translate/--Table of Contents--.md",
+    "Amazon Web Services/Services/Rekognition/--Table of Contents--.md",
+    "Amazon Web Services/Services/Translate",
+    "Amazon Web Services/Services/Transcribe/Basics.md",
+    "Amazon Web Services/Services/Transcribe/--Table of Contents--.md",
+    "Amazon Web Services/Services/Textract/--Table of Contents--.md",
+    "Amazon Web Services/Services/Transcribe",
+    "Amazon Web Services/Services/Textract/Basics.md",
+    "Amazon Web Services/Services/Rekognition/Basics.md",
+    "Amazon Web Services/Services/Textract",
+    "Amazon Web Services/Services/Polly/Basics.md",
+    "Amazon Web Services/Services/Rekognition",
+    "Amazon Web Services/Services/Polly/--Table of Contents--.md",
+    "Amazon Web Services/Services/Lex/Basics.md",
+    "Amazon Web Services/Services/Polly",
+    "Amazon Web Services/Services/Kendra/Basics.md",
+    "Amazon Web Services/Services/Lex"
   ]
 }

@@ -1,0 +1,33 @@
+
+# Categories by minutes
+GLOBAL CONTENT DELIVERY AND OPTIMIZATION
+158
+
+ADVANCED VPC NETWORKING
+108
+
+HYBRID ENVIRONMENTS AND MIGRATION
+252
+
+SECURITY, DEPLOYMENT & OPERATIONS
+104
+
+INFRASTRUCTURE AS CODE
+234
+
+NOSQL DATABASES AND DYNAMODB(REMAINING)
+59
+
+MACHINE LEARNING 101
+58
+
+# Total Time needed
+973 minutes
+16.22 hours
+
+## If sped up 1.25 times
+729.5 minutes
+12.1625 hours
+
+# Pomodoros required
+19 pomodoro sessions required(52 minutes each)
