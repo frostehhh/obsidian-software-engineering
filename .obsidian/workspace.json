@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "83d3b0fd89604033",
+        "id": "efa49099bb8a1ae4",
         "type": "tabs",
         "children": [
           {
-            "id": "6a6e5ba1c4381896",
+            "id": "38e2d9f429d02ff1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230507183607.png"
+                "file": "Amazon Web Services/Services/Athena/--Table of Contents--.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef1116fe2cce3d5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/Athena/Basics.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -46,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "application layer",
+                "query": "normal firewall",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230507183607.png",
+                "file": "Amazon Web Services/Services/Athena/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230507183607.png",
+                "file": "Amazon Web Services/Services/Athena/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Images/Pasted image 20230507183607.png"
+                "file": "Amazon Web Services/Services/Athena/Basics.md"
               }
             }
           },
@@ -156,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245,
+    "width": 301,
     "collapsed": true
   },
   "left-ribbon": {
@@ -172,52 +187,53 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6a6e5ba1c4381896",
+  "active": "ef1116fe2cce3d5a",
   "lastOpenFiles": [
-    "-- TODO --/Untitled Kanban.md",
-    "Amazon Web Services/Images/Pasted image 20230508050817.png",
-    "Amazon Web Services/Images/Pasted image 20230508050711.png",
-    "Amazon Web Services/Images/Pasted image 20230508035951.png",
-    "Amazon Web Services/Images/Pasted image 20230508021224.png",
-    "-- TODO --/Main.md",
-    "Amazon Web Services/Images/Pasted image 20230507183940.png",
-    "Amazon Web Services/Images/Pasted image 20230507183717.png",
-    "Amazon Web Services/Images/Pasted image 20230507183607.png",
-    "Amazon Web Services/Images/Pasted image 20230507191157.png",
-    "Amazon Web Services/Images/Pasted image 20230507191116.png",
-    "Amazon Web Services/Images/Pasted image 20230507184025.png",
-    "Amazon Web Services/Services/Direct Connect/Basics.md",
-    "Amazon Web Services/Services/Direct Connect/--Table of Contents--.md",
-    "Amazon Web Services/Services/Lex/--Table of Contents--.md",
-    "Amazon Web Services/Services/Direct Connect",
-    "Amazon Web Services/Services/SageMaker/Basics.md",
-    "Amazon Web Services/Services/Fraud Detector/Basics.md",
-    "Amazon Web Services/Machine Learning 101/--Table of Contents--.md",
-    "Amazon Web Services/Services/SageMaker/--Table of Contents--.md",
-    "Amazon Web Services/Services/SageMaker",
-    "Amazon Web Services/Services/Forecast/Basics.md",
-    "Amazon Web Services/Services/Fraud Detector/--Table of Contents--.md",
-    "Amazon Web Services/Services/Fraud Detector",
-    "Amazon Web Services/Services/Forecast/--Table of Contents--.md",
-    "Amazon Web Services/Services/Translate/Basics.md",
-    "Amazon Web Services/Services/Forecast",
-    "Amazon Web Services/Services/Comprehend/Basics.md",
-    "Amazon Web Services/Services/Translate/--Table of Contents--.md",
-    "Amazon Web Services/Services/Rekognition/--Table of Contents--.md",
-    "Amazon Web Services/Services/Translate",
-    "Amazon Web Services/Services/Transcribe/Basics.md",
-    "Amazon Web Services/Services/Transcribe/--Table of Contents--.md",
-    "Amazon Web Services/Services/Textract/--Table of Contents--.md",
-    "Amazon Web Services/Services/Transcribe",
-    "Amazon Web Services/Services/Textract/Basics.md",
-    "Amazon Web Services/Services/Rekognition/Basics.md",
-    "Amazon Web Services/Services/Textract",
-    "Amazon Web Services/Services/Polly/Basics.md",
-    "Amazon Web Services/Services/Rekognition",
-    "Amazon Web Services/Services/Polly/--Table of Contents--.md",
-    "Amazon Web Services/Services/Lex/Basics.md",
-    "Amazon Web Services/Services/Polly",
-    "Amazon Web Services/Services/Kendra/Basics.md",
-    "Amazon Web Services/Services/Lex"
+    "Pasted image 20230511040038.png",
+    "Pasted image 20230511040026.png",
+    "Pasted image 20230511040015.png",
+    "Amazon Web Services/Services/Athena/DEMO - Athena.md",
+    "Amazon Web Services/Services/Athena/Basics.md",
+    "Amazon Web Services/Services/Athena/--Table of Contents--.md",
+    "Athena Basics.md",
+    "Pasted image 20230511033752.png",
+    "Pasted image 20230511033607.png",
+    "Pasted image 20230511033312.png",
+    "Pasted image 20230511033308.png",
+    "Amazon Web Services/Services/Athena",
+    "Amazon Web Services/Services/Athena.md",
+    "Amazon Web Services/Services/Web Application Firewall/Basics.md",
+    "Amazon Web Services/Services/Shield/Basics.md",
+    "Amazon Web Services/Services/GuardDuty/Basics.md",
+    "Pasted image 20230511032554.png",
+    "Pasted image 20230511032440.png",
+    "Amazon Web Services/Services/GuardDuty/--Table of Contents--.md",
+    "Amazon Web Services/Services/Inspector/--Table of Contents--.md",
+    "Amazon Web Services/Services/GuardDuty",
+    "Pasted image 20230511031756.png",
+    "Pasted image 20230511031643.png",
+    "Amazon Web Services/Services/Inspector/Basics.md",
+    "Amazon Web Services/Services/Macie/--Table of Contents--.md",
+    "Amazon Web Services/Services/Inspector",
+    "Amazon Web Services/Services/Macie/Basics.md",
+    "Amazon Web Services/Services/Config/Basics.md",
+    "Amazon Web Services/Services/Macie",
+    "Amazon Web Services/Services/Config/--Table of Contents--.md",
+    "Amazon Web Services/Services/Config",
+    "Amazon Web Services/Services/CloudHSM/Basics.md",
+    "Amazon Web Services/Services/CloudHSM/--Table of Contents--.md",
+    "Amazon Web Services/Services/CloudHSM",
+    "Amazon Web Services/Services/Shield/--Table of Contents--.md",
+    "Amazon Web Services/Services/Shield",
+    "Amazon Web Services/Services/Storage Gateway/--Table of Contents--.md",
+    "Networking/OSI 7-Layer Model/Application.md",
+    "Networking/Firewalls/Normal Firewalls (Layer 3,4,5).md",
+    "Networking/Firewalls/Application (Layer 7) Firewalls.md",
+    "Amazon Web Services/Services/Web Application Firewall/--Table of Contents--.md",
+    "Amazon Web Services/Services/Transfer Family/Basics.md",
+    "Amazon Web Services/Services/Web Application Firewall",
+    "Amazon Web Services/Services/Transfer Family/--Table of Contents--.md",
+    "Amazon Web Services/Services/Transfer Family",
+    "Amazon Web Services/Services/FSx"
   ]
 }
