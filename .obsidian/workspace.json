@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38e2d9f429d02ff1",
+            "id": "de09cf44f4db3c2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Services/Athena/--Table of Contents--.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef1116fe2cce3d5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Web Services/Services/Athena/Basics.md",
+                "file": "Amazon Web Services/Unsorted/Recovery Point Objective (RPO) and Recovery Time Objective (RTO).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "normal firewall",
+                "query": "kuberne",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Services/Athena/Basics.md",
+                "file": "Amazon Web Services/Unsorted/Recovery Point Objective (RPO) and Recovery Time Objective (RTO).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Services/Athena/Basics.md",
+                "file": "Amazon Web Services/Unsorted/Recovery Point Objective (RPO) and Recovery Time Objective (RTO).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Services/Athena/Basics.md"
+                "file": "Amazon Web Services/Unsorted/Recovery Point Objective (RPO) and Recovery Time Objective (RTO).md"
               }
             }
           },
@@ -187,53 +175,53 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "ef1116fe2cce3d5a",
+  "active": "b0c2dedb11ea3190",
   "lastOpenFiles": [
-    "Pasted image 20230511040038.png",
-    "Pasted image 20230511040026.png",
-    "Pasted image 20230511040015.png",
-    "Amazon Web Services/Services/Athena/DEMO - Athena.md",
-    "Amazon Web Services/Services/Athena/Basics.md",
-    "Amazon Web Services/Services/Athena/--Table of Contents--.md",
+    "Amazon Web Services/Services/Relational Database Service/Backup and Restore.md",
+    "Amazon Web Services/Unsorted/Recovery Point Objective (RPO) and Recovery Time Objective (RTO).md",
+    "Amazon Web Services/Exam/General AWS Technique.md",
+    "Pasted image 20230514045038.png",
+    "Pasted image 20230514044914.png",
+    "Pasted image 20230514044731.png",
+    "Pasted image 20230514044229.png",
+    "Pasted image 20230514044038.png",
+    "Amazon Web Services/Images/Pasted image 20230508223127.png",
     "Athena Basics.md",
-    "Pasted image 20230511033752.png",
-    "Pasted image 20230511033607.png",
-    "Pasted image 20230511033312.png",
-    "Pasted image 20230511033308.png",
+    "Amazon Web Services/Services/Athena/Basics.md",
+    "Amazon Web Services/Exam/General AWS Exam Technique - 3 Phase Approach.md",
+    "Pasted image 20230514043202.png",
+    "Pasted image 20230514042951.png",
+    "Amazon Web Services/Local Zones/Basics.md",
+    "Amazon Web Services/Exam",
+    "Pasted image 20230514042534.png",
+    "Pasted image 20230514042424.png",
+    "Amazon Web Services/Local Zones/--Table of Contents--.md",
+    "Amazon Web Services/Services/DynamoDB/Accelerator (DAX).md",
+    "Amazon Web Services/Local Zones",
+    "Amazon Web Services/Services/DynamoDB/Architecture.md",
+    "Amazon Web Services/Services/DynamoDB/Local and Global Secondary Indexes.md",
+    "Amazon Web Services/Services/DynamoDB/-- Table of Contents --.md",
+    "Amazon Web Services/Services/Redshift/Redshift DR and Resilience.md",
+    "Amazon Web Services/Services/Redshift/Architecture.md",
+    "Amazon Web Services/Services/Redshift/--Table of Contents--.md",
+    "Amazon Web Services/Services/CloudFormation/--Table of Contents--.md",
+    "Amazon Web Services/Services/CloudFormation/DEMO - Custom Resources.md",
+    "Amazon Web Services/Services/Redshift",
+    "Amazon Web Services/Services/CloudFormation/Custom Resources.md",
+    "Amazon Web Services/Services/CloudFormation/DEMO - wait conditions, cfnsignal, cfninit and cfnhup.md",
+    "Amazon Web Services/Services/CloudFormation/CloudFormation cfn-hup.md",
+    "Amazon Web Services/Services/CloudFormation/CloudFormation Init (CFN-INIT).md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/Enhanced Bootstrapping with CFN-INIT.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/DEMO - CFN-INIT and CFN Creation Policies.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md",
+    "Amazon Web Services/Services/CloudFormation/Stack Roles.md",
+    "Amazon Web Services/Services/CloudFormation/DeletionPolicy.md",
+    "Amazon Web Services/Services/Elasticache",
     "Amazon Web Services/Services/Athena",
-    "Amazon Web Services/Services/Athena.md",
-    "Amazon Web Services/Services/Web Application Firewall/Basics.md",
-    "Amazon Web Services/Services/Shield/Basics.md",
-    "Amazon Web Services/Services/GuardDuty/Basics.md",
-    "Pasted image 20230511032554.png",
-    "Pasted image 20230511032440.png",
-    "Amazon Web Services/Services/GuardDuty/--Table of Contents--.md",
-    "Amazon Web Services/Services/Inspector/--Table of Contents--.md",
     "Amazon Web Services/Services/GuardDuty",
-    "Pasted image 20230511031756.png",
-    "Pasted image 20230511031643.png",
-    "Amazon Web Services/Services/Inspector/Basics.md",
-    "Amazon Web Services/Services/Macie/--Table of Contents--.md",
     "Amazon Web Services/Services/Inspector",
-    "Amazon Web Services/Services/Macie/Basics.md",
-    "Amazon Web Services/Services/Config/Basics.md",
     "Amazon Web Services/Services/Macie",
-    "Amazon Web Services/Services/Config/--Table of Contents--.md",
     "Amazon Web Services/Services/Config",
-    "Amazon Web Services/Services/CloudHSM/Basics.md",
-    "Amazon Web Services/Services/CloudHSM/--Table of Contents--.md",
-    "Amazon Web Services/Services/CloudHSM",
-    "Amazon Web Services/Services/Shield/--Table of Contents--.md",
-    "Amazon Web Services/Services/Shield",
-    "Amazon Web Services/Services/Storage Gateway/--Table of Contents--.md",
-    "Networking/OSI 7-Layer Model/Application.md",
-    "Networking/Firewalls/Normal Firewalls (Layer 3,4,5).md",
-    "Networking/Firewalls/Application (Layer 7) Firewalls.md",
-    "Amazon Web Services/Services/Web Application Firewall/--Table of Contents--.md",
-    "Amazon Web Services/Services/Transfer Family/Basics.md",
-    "Amazon Web Services/Services/Web Application Firewall",
-    "Amazon Web Services/Services/Transfer Family/--Table of Contents--.md",
-    "Amazon Web Services/Services/Transfer Family",
-    "Amazon Web Services/Services/FSx"
+    "Amazon Web Services/Services/CloudHSM"
   ]
 }
