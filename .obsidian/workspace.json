@@ -10,16 +10,41 @@
           {
             "id": "de09cf44f4db3c2b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Unsorted/Recovery Point Objective (RPO) and Recovery Time Objective (RTO).md",
+                "file": "--Personal Notes--/Review Plan.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f742693e79165e98",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "-- TODO --/Questions.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "79a6a0f205caa0dd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Networking/Images/Pasted image 20230514160237.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kuberne",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Unsorted/Recovery Point Objective (RPO) and Recovery Time Objective (RTO).md",
+                "file": "Networking/Images/Pasted image 20230514160237.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Unsorted/Recovery Point Objective (RPO) and Recovery Time Objective (RTO).md",
+                "file": "Networking/Images/Pasted image 20230514160237.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Unsorted/Recovery Point Objective (RPO) and Recovery Time Objective (RTO).md"
+                "file": "Networking/Images/Pasted image 20230514160237.png"
               }
             }
           },
@@ -175,47 +199,46 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "b0c2dedb11ea3190",
+  "active": "79a6a0f205caa0dd",
   "lastOpenFiles": [
-    "Amazon Web Services/Services/Relational Database Service/Backup and Restore.md",
+    "Networking/Images/Pasted image 20230514160220.png",
+    "Networking/Images/Pasted image 20230514160205.png",
+    "--Personal Notes--/Untitled.md",
+    "Networking/OSI 7-Layer Model/OSI 7-Layer Model.md",
+    "Networking/OSI 7-Layer Model/Physical.md",
+    "Networking/OSI 7-Layer Model/Data Link/Data Link.md",
+    "Networking/OSI 7-Layer Model/Data Link/CSMA CD.md",
+    "Networking/Images/Pasted image 20230514160237.png",
+    "Networking/OSI 7-Layer Model/--Table of Contents--.md",
+    "Networking/OSI 7-Layer Model/Introduction.md",
+    "--Personal Notes--/Review Plan.md",
+    "-- TODO --/Questions.md",
+    "Amazon Web Services/Images/Pasted image 20230514153348.png",
+    "What are the differences between Instance Connect, Session Manager, SSH Client, and EC2 Serial Console when connecting to an EC2 instance.md",
+    "Networking/OSI 7-Layer Model/Application.md",
+    "--Personal Notes--/Cantrill SAA-C03 courses Remaining Time Estimate.md",
+    "Amazon Web Services/Shared Responsibility Model/Shared Responsibility Model.md",
+    "Amazon Web Services/Unsorted/Virtual Interface.md",
+    "Amazon Web Services/Unsorted/Direct Connect.md",
     "Amazon Web Services/Unsorted/Recovery Point Objective (RPO) and Recovery Time Objective (RTO).md",
+    "Amazon Web Services/Images/Pasted image 20230514152302.png",
+    "Amazon Web Services/Images/Pasted image 20230514152122.png",
+    "Amazon Web Services/Images/Pasted image 20230514150955.png",
+    "Amazon Web Services/Services/Relational Database Service/Backup and Restore.md",
     "Amazon Web Services/Exam/General AWS Technique.md",
-    "Pasted image 20230514045038.png",
-    "Pasted image 20230514044914.png",
-    "Pasted image 20230514044731.png",
-    "Pasted image 20230514044229.png",
-    "Pasted image 20230514044038.png",
-    "Amazon Web Services/Images/Pasted image 20230508223127.png",
+    "Amazon Web Services/Images/Pasted image 20230514045038.png",
+    "Amazon Web Services/Images/Pasted image 20230514044914.png",
+    "Amazon Web Services/Images/Pasted image 20230514044731.png",
     "Athena Basics.md",
     "Amazon Web Services/Services/Athena/Basics.md",
     "Amazon Web Services/Exam/General AWS Exam Technique - 3 Phase Approach.md",
-    "Pasted image 20230514043202.png",
-    "Pasted image 20230514042951.png",
     "Amazon Web Services/Local Zones/Basics.md",
     "Amazon Web Services/Exam",
-    "Pasted image 20230514042534.png",
-    "Pasted image 20230514042424.png",
     "Amazon Web Services/Local Zones/--Table of Contents--.md",
     "Amazon Web Services/Services/DynamoDB/Accelerator (DAX).md",
     "Amazon Web Services/Local Zones",
     "Amazon Web Services/Services/DynamoDB/Architecture.md",
-    "Amazon Web Services/Services/DynamoDB/Local and Global Secondary Indexes.md",
-    "Amazon Web Services/Services/DynamoDB/-- Table of Contents --.md",
-    "Amazon Web Services/Services/Redshift/Redshift DR and Resilience.md",
-    "Amazon Web Services/Services/Redshift/Architecture.md",
-    "Amazon Web Services/Services/Redshift/--Table of Contents--.md",
-    "Amazon Web Services/Services/CloudFormation/--Table of Contents--.md",
-    "Amazon Web Services/Services/CloudFormation/DEMO - Custom Resources.md",
     "Amazon Web Services/Services/Redshift",
-    "Amazon Web Services/Services/CloudFormation/Custom Resources.md",
-    "Amazon Web Services/Services/CloudFormation/DEMO - wait conditions, cfnsignal, cfninit and cfnhup.md",
-    "Amazon Web Services/Services/CloudFormation/CloudFormation cfn-hup.md",
-    "Amazon Web Services/Services/CloudFormation/CloudFormation Init (CFN-INIT).md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/Enhanced Bootstrapping with CFN-INIT.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/DEMO - CFN-INIT and CFN Creation Policies.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md",
-    "Amazon Web Services/Services/CloudFormation/Stack Roles.md",
-    "Amazon Web Services/Services/CloudFormation/DeletionPolicy.md",
     "Amazon Web Services/Services/Elasticache",
     "Amazon Web Services/Services/Athena",
     "Amazon Web Services/Services/GuardDuty",

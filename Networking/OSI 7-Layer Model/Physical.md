@@ -9,6 +9,10 @@ aliases: [layer 1]
 - No uniquely identified devices
 - No device => device communications
 
+![[Pasted image 20230514160205.png]]
+**![[Pasted image 20230514160220.png]]
+![[Pasted image 20230514160237.png]]
+
 #### Example
 There are 2 laptops that are connected by a network cable between the network interface cards contained by each laptop.
 
