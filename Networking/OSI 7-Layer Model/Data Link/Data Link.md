@@ -3,9 +3,9 @@ aliases: [Layer 2]
 ---
 - Runs over layer 1
 - Can run on different types of [[Physical|Layer 1]] networks
-- Introduces unique hardware address [[MAC Address]]  - identifiable devices
+- <mark style="background: #FFF3A3A6;">Introduces unique hardware address [[MAC Address]]</mark>  - identifiable devices
 - Provides physical addresssing
-- It transmits [[Frames]]
+- <mark style="background: #FFF3A3A6;">It transmits [[Frames]]</mark>
 - Utilizes [[CSMA CD]]
 - Can do Unicast communications - 1:1
 - Can do Broadcast communications - 1:ALL

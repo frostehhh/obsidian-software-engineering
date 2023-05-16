@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "c7f1233beafad157",
+            "id": "1b3b8b95f78e9d49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/OSI 7-Layer Model/OSI 7-Layer Model.md",
+                "file": "Networking/OSI 7-Layer Model/Data Link/Frames.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/OSI 7-Layer Model/OSI 7-Layer Model.md",
+                "file": "Networking/OSI 7-Layer Model/Data Link/Frames.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/OSI 7-Layer Model/OSI 7-Layer Model.md",
+                "file": "Networking/OSI 7-Layer Model/Data Link/Frames.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/OSI 7-Layer Model/OSI 7-Layer Model.md"
+                "file": "Networking/OSI 7-Layer Model/Data Link/Frames.md"
               }
             }
           },
@@ -201,21 +201,23 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "c7f1233beafad157",
+  "active": "1b3b8b95f78e9d49",
   "lastOpenFiles": [
-    "Networking/OSI 7-Layer Model/Presentation.md",
-    "Networking/OSI 7-Layer Model/Physical.md",
     "Networking/OSI 7-Layer Model/Data Link/Data Link.md",
+    "Networking/OSI 7-Layer Model/Data Link/CSMA CD.md",
+    "Networking/OSI 7-Layer Model/Data Link/Frames.md",
+    "Networking/OSI 7-Layer Model/Network/Network.md",
     "Networking/OSI 7-Layer Model/--Table of Contents--.md",
-    "Networking/OSI 7-Layer Model/Introduction.md",
-    "Networking/OSI 7-Layer Model/OSI 7-Layer Model.md",
     "-- TODO --/Questions.md",
+    "--Personal Notes--/Review Plan.md",
+    "Networking/OSI 7-Layer Model/Physical.md",
+    "Networking/OSI 7-Layer Model/OSI 7-Layer Model.md",
+    "Networking/OSI 7-Layer Model/Presentation.md",
+    "Networking/OSI 7-Layer Model/Introduction.md",
     "Networking/Images/Pasted image 20230514160237.png",
     "Networking/Images/Pasted image 20230514160220.png",
     "Networking/Images/Pasted image 20230514160205.png",
     "--Personal Notes--/Untitled.md",
-    "Networking/OSI 7-Layer Model/Data Link/CSMA CD.md",
-    "--Personal Notes--/Review Plan.md",
     "Amazon Web Services/Images/Pasted image 20230514153348.png",
     "What are the differences between Instance Connect, Session Manager, SSH Client, and EC2 Serial Console when connecting to an EC2 instance.md",
     "Networking/OSI 7-Layer Model/Application.md",
@@ -238,9 +240,7 @@
     "Amazon Web Services/Local Zones/Basics.md",
     "Amazon Web Services/Exam",
     "Amazon Web Services/Local Zones/--Table of Contents--.md",
-    "Amazon Web Services/Services/DynamoDB/Accelerator (DAX).md",
     "Amazon Web Services/Local Zones",
-    "Amazon Web Services/Services/DynamoDB/Architecture.md",
     "Amazon Web Services/Services/Redshift",
     "Amazon Web Services/Services/Elasticache",
     "Amazon Web Services/Services/Athena",
