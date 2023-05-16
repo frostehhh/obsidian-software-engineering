@@ -4,19 +4,20 @@ kanban-plugin: basic
 
 ---
 
-## Open
+## Questions
 
-- [ ] [[What are the differences between Instance Connect, Session Manager, SSH Client, and EC2 Serial Console when connecting to an EC2 instance]]
+- [ ] [[What is a preamble]]
 
 
-## In Progress
+## Answered
 
+**Complete**
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"basic","new-note-folder":"-- TODO --/Question Notes"}
 ```
 %%

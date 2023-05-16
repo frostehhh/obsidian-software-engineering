@@ -1,6 +1,6 @@
-- Hashing is a process where we use an algorithm to transform data into a fixed length representation of that data.
+- <mark style="background: #FFF3A3A6;">Hashing is a process where we use an algorithm to transform data into a fixed length representation of that data.</mark>
 - Used by passwords, digital certificates, etc.
-- Can't get the original data from a HASH
+- <mark style="background: #FFF3A3A6;">Can't get the original data from a HASH</mark>
 - same data should always result to the same hash
 - different data should always have different hash
 - downloaded data can be verified by using a hash

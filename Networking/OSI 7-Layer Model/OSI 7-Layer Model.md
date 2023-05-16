@@ -1,11 +1,18 @@
 The OSI 7-Layer [[Networking]] model consists of the following layers:
-1. [[Physical]] - hardware
-1. [[Data Link]]
-1. [[Network]]
-1. [[Transport]]
-1. [[Session]]
-1. [[Presentation]]
-1. [[Application]] - e.g. web browsers
+1. Media Layer
+	1. [[Physical]] - hardware
+	2. [[Data Link]]
+	3. [[Network]]
+2. Host
+	1. [[Transport]]
+	2. [[Session]]
+	3. [[Presentation]]
+	4. [[Application]] - e.g. web browsers
+> [!hint] 
+> **A**ll **P**eople **S**eem **T**o **N**eed **D**ata **P**rocessing 
+
+
+It helps us visualize how network systems work.
 
 ![[Pasted image 20221229163028.png]]
 

@@ -5,7 +5,8 @@ A frame is a unit of communication in the data link layer. Data link layer takes
 ###### Components
 1. Preamble
 	- 56 Bits
-2. MAC Header
+	- informs the receiving system that a frame is starting and <mark style="background: #FFF3A3A6;">enables synchronisation</mark>.
+1. MAC Header
 	1. Destination MAC Address
 		Can be set to a specification destination or broadcast(All F's)
 	2. Source MAC Address
@@ -21,3 +22,4 @@ A frame is a unit of communication in the data link layer. Data link layer takes
 [[Jumbo Frames]]
 
 # References
+https://study-ccna.com/ethernet-frame/#:~:text=Preamble%20%E2%80%93%20informs%20the%20receiving%20system,MAC%20%E2%80%93%20identifies%20the%20sending%20system.

@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "efa49099bb8a1ae4",
+        "id": "366b345b69e182be",
         "type": "tabs",
         "children": [
           {
-            "id": "de09cf44f4db3c2b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "--Personal Notes--/Review Plan.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "f742693e79165e98",
+            "id": "493d6eaf3ab394f2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -34,19 +20,19 @@
             }
           },
           {
-            "id": "1b3b8b95f78e9d49",
+            "id": "9a7aac4354cfd220",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/OSI 7-Layer Model/Data Link/Frames.md",
+                "file": "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity and Access Management Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/OSI 7-Layer Model/Data Link/Frames.md",
+                "file": "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity and Access Management Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/OSI 7-Layer Model/Data Link/Frames.md",
+                "file": "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity and Access Management Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/OSI 7-Layer Model/Data Link/Frames.md"
+                "file": "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity and Access Management Basics.md"
               }
             }
           },
@@ -185,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301,
-    "collapsed": true
+    "width": 301
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,45 +186,46 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "1b3b8b95f78e9d49",
+  "active": "9a7aac4354cfd220",
   "lastOpenFiles": [
-    "Networking/OSI 7-Layer Model/Data Link/Data Link.md",
-    "Networking/OSI 7-Layer Model/Data Link/CSMA CD.md",
-    "Networking/OSI 7-Layer Model/Data Link/Frames.md",
-    "Networking/OSI 7-Layer Model/Network/Network.md",
-    "Networking/OSI 7-Layer Model/--Table of Contents--.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Groups.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity and Access Management Basics.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Basics.md",
+    "Amazon Web Services/Accounts/AWS Account.md",
+    "Pasted image 20230517061600.png",
+    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Access Keys.md",
+    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Creating a new Identity.md",
+    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/IAM Policy.md",
+    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Identity Federation.md",
+    "Amazon Web Services/Accounts/Resources.md",
+    "Amazon Web Services/Accounts/New Account Practice.md",
+    "Amazon Web Services/Accounts/Identities.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Resources Policies.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity Policies.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM, Accounts and AWS Organizations.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Users.md",
+    "Amazon Web Services/Exam/General AWS Exam Technique - 3 Phase Approach.md",
+    "Cloud Computing/Public vs Private vs Hybrid vs Multi Cloud.md",
+    "Cloud Computing/Cloud Computing.md",
+    "Networking/Domain Name System/DNSSEC/DNSSEC.md",
     "-- TODO --/Questions.md",
-    "--Personal Notes--/Review Plan.md",
-    "Networking/OSI 7-Layer Model/Physical.md",
-    "Networking/OSI 7-Layer Model/OSI 7-Layer Model.md",
-    "Networking/OSI 7-Layer Model/Presentation.md",
-    "Networking/OSI 7-Layer Model/Introduction.md",
+    "-- TODO --/Question Notes/What is a preamble.md",
+    "-- TODO --/Main.md",
+    "Networking/Firewalls/Normal Firewalls (Layer 3,4,5).md",
+    "Networking/Domain Name System/--Table of Contents--.md",
+    "Networking/Firewalls/Application (Layer 7) Firewalls.md",
+    "Networking/Domain Name System/DNS Record Types.md",
+    "Pasted image 20230517043342.png",
+    "Pasted image 20230517043205.png",
+    "Pasted image 20230517042859.png",
+    "-- TODO --/Question Notes",
     "Networking/Images/Pasted image 20230514160237.png",
     "Networking/Images/Pasted image 20230514160220.png",
     "Networking/Images/Pasted image 20230514160205.png",
-    "--Personal Notes--/Untitled.md",
     "Amazon Web Services/Images/Pasted image 20230514153348.png",
-    "What are the differences between Instance Connect, Session Manager, SSH Client, and EC2 Serial Console when connecting to an EC2 instance.md",
-    "Networking/OSI 7-Layer Model/Application.md",
-    "--Personal Notes--/Cantrill SAA-C03 courses Remaining Time Estimate.md",
-    "Amazon Web Services/Shared Responsibility Model/Shared Responsibility Model.md",
-    "Amazon Web Services/Unsorted/Virtual Interface.md",
-    "Amazon Web Services/Unsorted/Direct Connect.md",
-    "Amazon Web Services/Unsorted/Recovery Point Objective (RPO) and Recovery Time Objective (RTO).md",
     "Amazon Web Services/Images/Pasted image 20230514152302.png",
     "Amazon Web Services/Images/Pasted image 20230514152122.png",
-    "Amazon Web Services/Images/Pasted image 20230514150955.png",
-    "Amazon Web Services/Services/Relational Database Service/Backup and Restore.md",
-    "Amazon Web Services/Exam/General AWS Technique.md",
-    "Amazon Web Services/Images/Pasted image 20230514045038.png",
-    "Amazon Web Services/Images/Pasted image 20230514044914.png",
-    "Amazon Web Services/Images/Pasted image 20230514044731.png",
-    "Athena Basics.md",
-    "Amazon Web Services/Services/Athena/Basics.md",
-    "Amazon Web Services/Exam/General AWS Exam Technique - 3 Phase Approach.md",
-    "Amazon Web Services/Local Zones/Basics.md",
     "Amazon Web Services/Exam",
-    "Amazon Web Services/Local Zones/--Table of Contents--.md",
     "Amazon Web Services/Local Zones",
     "Amazon Web Services/Services/Redshift",
     "Amazon Web Services/Services/Elasticache",
@@ -247,7 +233,6 @@
     "Amazon Web Services/Services/GuardDuty",
     "Amazon Web Services/Services/Inspector",
     "Amazon Web Services/Services/Macie",
-    "Amazon Web Services/Services/Config",
-    "Amazon Web Services/Services/CloudHSM"
+    "Amazon Web Services/Services/Config"
   ]
 }
