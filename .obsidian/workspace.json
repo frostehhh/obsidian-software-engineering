@@ -20,14 +20,12 @@
             }
           },
           {
-            "id": "9a7aac4354cfd220",
+            "id": "1706e1e669fc3778",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity and Access Management Basics.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20230517043342.png"
               }
             }
           }
@@ -61,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cloud service models",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity and Access Management Basics.md",
+                "file": "Pasted image 20230517043342.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity and Access Management Basics.md",
+                "file": "Pasted image 20230517043342.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity and Access Management Basics.md"
+                "file": "Pasted image 20230517043342.png"
               }
             }
           },
@@ -171,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301
+    "width": 301,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,45 +185,44 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "9a7aac4354cfd220",
+  "active": "1706e1e669fc3778",
   "lastOpenFiles": [
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Groups.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity and Access Management Basics.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Basics.md",
-    "Amazon Web Services/Accounts/AWS Account.md",
     "Pasted image 20230517061600.png",
-    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Access Keys.md",
-    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Creating a new Identity.md",
-    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/IAM Policy.md",
-    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Identity Federation.md",
-    "Amazon Web Services/Accounts/Resources.md",
-    "Amazon Web Services/Accounts/New Account Practice.md",
-    "Amazon Web Services/Accounts/Identities.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Resources Policies.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity Policies.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM, Accounts and AWS Organizations.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Users.md",
-    "Amazon Web Services/Exam/General AWS Exam Technique - 3 Phase Approach.md",
-    "Cloud Computing/Public vs Private vs Hybrid vs Multi Cloud.md",
-    "Cloud Computing/Cloud Computing.md",
-    "Networking/Domain Name System/DNSSEC/DNSSEC.md",
-    "-- TODO --/Questions.md",
-    "-- TODO --/Question Notes/What is a preamble.md",
-    "-- TODO --/Main.md",
-    "Networking/Firewalls/Normal Firewalls (Layer 3,4,5).md",
-    "Networking/Domain Name System/--Table of Contents--.md",
-    "Networking/Firewalls/Application (Layer 7) Firewalls.md",
-    "Networking/Domain Name System/DNS Record Types.md",
     "Pasted image 20230517043342.png",
     "Pasted image 20230517043205.png",
     "Pasted image 20230517042859.png",
+    "Resources.md",
+    "Amazon Web Services/Services/CloudTrail/DEMO - Setting up organization trail.md",
+    "Amazon Web Services/Services/CloudTrail/Basics.md",
+    "Amazon Web Services/Services/CloudWatch/Basics.md",
+    "Amazon Web Services/Services/CloudTrail/--Table of Contents--.md",
+    "Amazon Web Services/Services/CloudWatch/Alarms.md",
+    "Amazon Web Services/Services/CloudWatch/Namespace.md",
+    "Amazon Web Services/Services/CloudWatch/Metrics.md",
+    "Amazon Web Services/Services/CloudWatch/--Table of Contents--.md",
+    "Amazon Web Services/Services/CloudWatch/CloudWatch Logs.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/AWS Organizations/Service Control Policies.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/AWS Organizations/DEMO - Using Service Control Policies.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/AWS Organizations/AWS Organizations.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/AWS Organizations/Creating an AWS Organization.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/--Table of Contents--.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Roles/Service-linked Roles.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Roles/IAM Roles.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Users.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Resources Policies.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity Policies.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Groups.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity and Access Management Basics.md",
+    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Access Keys.md",
+    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/IAM Policy.md",
+    "Amazon Web Services/Accounts/New Account Practice.md",
+    "Cloud Computing/Images/Pasted image 20221229142305.png",
     "-- TODO --/Question Notes",
     "Networking/Images/Pasted image 20230514160237.png",
     "Networking/Images/Pasted image 20230514160220.png",
     "Networking/Images/Pasted image 20230514160205.png",
     "Amazon Web Services/Images/Pasted image 20230514153348.png",
     "Amazon Web Services/Images/Pasted image 20230514152302.png",
-    "Amazon Web Services/Images/Pasted image 20230514152122.png",
     "Amazon Web Services/Exam",
     "Amazon Web Services/Local Zones",
     "Amazon Web Services/Services/Redshift",

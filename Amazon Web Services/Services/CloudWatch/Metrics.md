@@ -10,3 +10,6 @@ Consists of
 
 # Dimension
 ![[Pasted image 20230326035218.png]]
+
+# References
+[Amazon CloudWatch Concepts](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch_concepts.html)
