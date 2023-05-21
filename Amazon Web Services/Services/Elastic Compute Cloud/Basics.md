@@ -10,8 +10,8 @@ Terminated - Completely deletes the instance
 ![[Pasted image 20230319130936.png]]
 # Connecting to EC2
 If connecting to a
-- Windows - remote desktop protocol(RDP) to port 3389
-- Linux - SSH protocol which runs on port 22. Login via SSH key-pair
+- Windows - remote desktop protocol(<mark style="background: #FFF3A3A6;">RDP</mark>) to <mark style="background: #FFF3A3A6;">port 3389</mark>
+- Linux - <mark style="background: #FFF3A3A6;">SSH protocol</mark> which runs on port <mark style="background: #FFF3A3A6;">22</mark>. Login via SSH key-pair
 ![[Pasted image 20230319131451.png]]
 ## Logging in
 - Linux - Use private and public key to authenticate and connect to the instance

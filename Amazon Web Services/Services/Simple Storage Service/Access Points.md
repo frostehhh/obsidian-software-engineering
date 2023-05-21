@@ -6,3 +6,4 @@
 
 # References
 [Creating Access Points]([https://docs.aws.amazon.com/AmazonS3/latest/dev/creating-access-points.html#access-points-policies](https://docs.aws.amazon.com/AmazonS3/latest/dev/creating-access-points.html#access-points-policies))
+[Access Points](https://aws.amazon.com/s3/features/access-points/)

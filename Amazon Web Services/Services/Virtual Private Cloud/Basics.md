@@ -8,7 +8,7 @@ aliases: [VPC Basics]
 Custom VPCs are also private by default
 
 **VPC Classless Inter-domain Routing(CIDR)**
-Default VPC has default VPC CIDR of 172.31.0.0/16. In other words, IP address range of the VPC
+Default VPC has <mark style="background: #FFF3A3A6;">default VPC CIDR of 172.31.0.0/16</mark>. In other words, IP address range of the VPC
 
 ![[Pasted image 20230319032546.png]]
 

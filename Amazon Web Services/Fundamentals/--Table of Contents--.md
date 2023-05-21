@@ -1,3 +1,7 @@
+---
+aliases: [Fundamentals Table of Contents]
+---
+
 [[AWS Global Infrastructure]]
 [[Public vs Private Services]]
 [[Amazon Resource Name]]

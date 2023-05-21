@@ -7,6 +7,7 @@ kanban-plugin: basic
 ## Questions
 
 - [ ] [[What is a preamble]]
+- [ ] Revisit Public VIF + VPN
 
 
 ## Answered

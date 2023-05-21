@@ -26,8 +26,11 @@ aliases: [S3]
 - 3  - 63 characters, all lower case, no underscores
 - start with a lowercase letter or a number
 - Can't be IP formatted e.g. 1.1.1.1
-- Limit per [[AWS Account]] - **100 soft limit**, **1000 hard limit**
+- Limit per [[AWS Account]] - **100 soft limit**, **1000 hard limit** that can be reached by submitting service limit increases
 - **Private by default**
 
 # Summary
 ![[Pasted image 20230319222840.png]]
+
+# Patterns and Anti-Patterns
+![[Pasted image 20230521040252.png]]

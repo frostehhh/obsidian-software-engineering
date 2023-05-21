@@ -4,28 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "366b345b69e182be",
+        "id": "f5a5f4b4aa7d4bb2",
         "type": "tabs",
         "children": [
           {
-            "id": "493d6eaf3ab394f2",
+            "id": "9ee38f77591a5d8b",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "-- TODO --/Questions.md"
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
+                "mode": "source",
+                "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "1706e1e669fc3778",
+            "id": "a18e50fd45e6d31b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20230517043342.png"
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Virtualization 101.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -59,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cloud service models",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20230517043342.png",
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Virtualization 101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20230517043342.png",
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Virtualization 101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20230517043342.png"
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Virtualization 101.md"
               }
             }
           },
@@ -185,44 +189,45 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "1706e1e669fc3778",
+  "active": "a18e50fd45e6d31b",
   "lastOpenFiles": [
-    "Pasted image 20230517061600.png",
+    "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Basics.md",
+    "Amazon Web Services/Services/Direct Connect/--Table of Contents--.md",
+    "-- TODO --/Questions.md",
+    "-- TODO --/Main.md",
+    "Amazon Web Services/Services/Direct Connect/Basics.md",
+    "Amazon Web Services/Services/Direct Connect/Direct Connect Public VIF + VPN.md",
+    "Amazon Web Services/Services/Direct Connect/Direct Connect Resilience.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Advanced/--Table of Contents--.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Advanced/Transit Gateway.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Advanced/Site-to-Site VPN.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Advanced/VPC Peering.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Advanced/VPC Endpoints (Interface).md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Advanced/VPC Endpoints (Gateway).md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Advanced/Egress-Only Internet Gateway.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/--Table of Contents--.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Custom VPCs.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Advanced/Flow Logs.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Network Address Translation and NAT Gateways.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Security Groups.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Network Access Control Lists(NACL).md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Routing, Internet gateway & Bastion.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Subnets.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/DEMO - Configuring A4l public subnets and Jumpbox.md",
+    "Pasted image 20230521153902.png",
+    "Pasted image 20230521153736.png",
+    "Pasted image 20230521153641.png",
+    "Pasted image 20230521153400.png",
+    "Amazon Web Services/Images/Pasted image 20230407025127.png",
+    "Pasted image 20230521153320.png",
+    "Amazon Web Services/Images/Pasted image 20230407024658.png",
+    "Pasted image 20230521040252.png",
+    "Pasted image 20230521034744.png",
     "Pasted image 20230517043342.png",
-    "Pasted image 20230517043205.png",
-    "Pasted image 20230517042859.png",
-    "Resources.md",
-    "Amazon Web Services/Services/CloudTrail/DEMO - Setting up organization trail.md",
-    "Amazon Web Services/Services/CloudTrail/Basics.md",
-    "Amazon Web Services/Services/CloudWatch/Basics.md",
-    "Amazon Web Services/Services/CloudTrail/--Table of Contents--.md",
-    "Amazon Web Services/Services/CloudWatch/Alarms.md",
-    "Amazon Web Services/Services/CloudWatch/Namespace.md",
-    "Amazon Web Services/Services/CloudWatch/Metrics.md",
-    "Amazon Web Services/Services/CloudWatch/--Table of Contents--.md",
-    "Amazon Web Services/Services/CloudWatch/CloudWatch Logs.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/AWS Organizations/Service Control Policies.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/AWS Organizations/DEMO - Using Service Control Policies.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/AWS Organizations/AWS Organizations.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/AWS Organizations/Creating an AWS Organization.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/--Table of Contents--.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Roles/Service-linked Roles.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Roles/IAM Roles.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Users.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Resources Policies.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity Policies.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Groups.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity and Access Management Basics.md",
-    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Access Keys.md",
-    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/IAM Policy.md",
-    "Amazon Web Services/Accounts/New Account Practice.md",
-    "Cloud Computing/Images/Pasted image 20221229142305.png",
     "-- TODO --/Question Notes",
-    "Networking/Images/Pasted image 20230514160237.png",
-    "Networking/Images/Pasted image 20230514160220.png",
-    "Networking/Images/Pasted image 20230514160205.png",
-    "Amazon Web Services/Images/Pasted image 20230514153348.png",
-    "Amazon Web Services/Images/Pasted image 20230514152302.png",
     "Amazon Web Services/Exam",
     "Amazon Web Services/Local Zones",
     "Amazon Web Services/Services/Redshift",
