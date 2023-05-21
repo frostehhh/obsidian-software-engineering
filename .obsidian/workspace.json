@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "a18e50fd45e6d31b",
+            "id": "911de6d987a0fa6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Virtualization 101.md",
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Instance Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256
+    "width": 256,
+    "collapsed": true
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Virtualization 101.md",
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Instance Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Virtualization 101.md",
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Instance Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Virtualization 101.md"
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Instance Types.md"
               }
             }
           },
@@ -189,9 +190,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "a18e50fd45e6d31b",
+  "active": "911de6d987a0fa6c",
   "lastOpenFiles": [
     "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Architecture.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Virtualization 101.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Basics.md",
     "Amazon Web Services/Services/Direct Connect/--Table of Contents--.md",
     "-- TODO --/Questions.md",
@@ -215,8 +218,6 @@
     "Amazon Web Services/Services/Virtual Private Cloud/Routing, Internet gateway & Bastion.md",
     "Amazon Web Services/Services/Virtual Private Cloud/Subnets.md",
     "Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/DEMO - Configuring A4l public subnets and Jumpbox.md",
     "Pasted image 20230521153902.png",
     "Pasted image 20230521153736.png",
     "Pasted image 20230521153641.png",
