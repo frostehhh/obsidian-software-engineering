@@ -4,7 +4,7 @@
 [[DEMO - Splitting Wordpress Monolith - APP and DB]]
 [[Relational Database Service (RDS) Architecture]]
 [[DEMO - Migrating EC2 DB into RDS]]
-[[MultiAZ]]
+[[MultiAZ Deployment Types]]
 [[Backup and Restore]]
 [[Read Replicas]]
 [[DEMO - MultiAZ & Snapshot Restore with RDS]]

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f5a5f4b4aa7d4bb2",
+        "id": "47c41619f9e39073",
         "type": "tabs",
         "children": [
           {
-            "id": "9ee38f77591a5d8b",
+            "id": "4c54ad79ca385f8f",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
+                "file": "Amazon Web Services/Services/Relational Database Service/--Table of Contents--.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "a18e50fd45e6d31b",
+            "id": "6cbfdcca2070d09d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Virtualization 101.md",
+                "file": "Amazon Web Services/Services/Relational Database Service/MultiAZ Deployment Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "storage classes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,18 +81,19 @@
             }
           },
           {
-            "id": "0fc0c9c5268a5851",
+            "id": "0c3db3a424d680e9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 256
+    "width": 346.0026054382324
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Virtualization 101.md",
+                "file": "Amazon Web Services/Services/Relational Database Service/MultiAZ Deployment Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Virtualization 101.md",
+                "file": "Amazon Web Services/Services/Relational Database Service/MultiAZ Deployment Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,23 +149,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Virtualization 101.md"
+                "file": "Amazon Web Services/Services/Relational Database Service/MultiAZ Deployment Types.md"
               }
             }
           },
           {
-            "id": "6fb2c6e933107257",
+            "id": "a8026435152618c5",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "aa771a6690285368",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -173,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301,
+    "width": 390,
     "collapsed": true
   },
   "left-ribbon": {
@@ -189,53 +182,53 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "a18e50fd45e6d31b",
+  "active": "6cbfdcca2070d09d",
   "lastOpenFiles": [
-    "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Basics.md",
-    "Amazon Web Services/Services/Direct Connect/--Table of Contents--.md",
-    "-- TODO --/Questions.md",
-    "-- TODO --/Main.md",
-    "Amazon Web Services/Services/Direct Connect/Basics.md",
-    "Amazon Web Services/Services/Direct Connect/Direct Connect Public VIF + VPN.md",
-    "Amazon Web Services/Services/Direct Connect/Direct Connect Resilience.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Advanced/--Table of Contents--.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Advanced/Transit Gateway.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Advanced/Site-to-Site VPN.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Advanced/VPC Peering.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Advanced/VPC Endpoints (Interface).md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Advanced/VPC Endpoints (Gateway).md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Advanced/Egress-Only Internet Gateway.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/--Table of Contents--.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Custom VPCs.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Advanced/Flow Logs.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Network Address Translation and NAT Gateways.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Security Groups.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Network Access Control Lists(NACL).md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Routing, Internet gateway & Bastion.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Subnets.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/DEMO - Configuring A4l public subnets and Jumpbox.md",
+    "Amazon Web Services/Services/Relational Database Service/--Table of Contents--.md",
+    "Amazon Web Services/Services/Relational Database Service/MultiAZ Deployment Types.md",
+    "Amazon Web Services/Services/Relational Database Service/Relational Database Service (RDS) Architecture.md",
+    "Amazon Web Services/Services/Simple Storage Service/Storage Classes.md",
+    "Amazon Web Services/Services/Simple Storage Service/--Table of Contents--.md",
+    "Amazon Web Services/Services/Relational Database Service/Databases on EC2.md",
+    "Amazon Web Services/Services/Relational Database Service/ACID vs BASE.md",
+    "Amazon Web Services/Services/Relational Database Service/Database Refresher & Models.md",
+    "Amazon Web Services/Services/Route 53/--Table of Contents--.md",
+    "Amazon Web Services/Services/Route 53/Implementing DNSSEC using Route53.md",
+    "Amazon Web Services/Services/Route 53/Interoperability.md",
+    "Amazon Web Services/Services/Route 53/Geoproximity.md",
+    "Amazon Web Services/Services/Route 53/Geolocation Routing.md",
+    "Amazon Web Services/Services/Route 53/Latency Routing.md",
+    "Amazon Web Services/Services/Route 53/Weighted Routing.md",
+    "Amazon Web Services/Services/Route 53/Multi Value Routing.md",
+    "Amazon Web Services/Services/Route 53/Failover Routing.md",
+    "Amazon Web Services/Services/Route 53/R53 Health Checks.md",
+    "Amazon Web Services/Services/Route 53/Simple Routing.md",
+    "Amazon Web Services/Services/Route 53/R53 CNAME vs ALIAS.md",
+    "Amazon Web Services/Services/Route 53/Private Hosted Zones.md",
+    "Amazon Web Services/Services/Route 53/Public Hosted Zones.md",
+    "Amazon Web Services/Services/Route 53/Supported DNS Record Type.md",
+    "Amazon Web Services/Services/Route 53/DEMO - Registering a Domain.md",
+    "Networking/Domain Name System/DNS Record Types.md",
+    "Networking/Domain Name System/--Table of Contents--.md",
     "Pasted image 20230521153902.png",
     "Pasted image 20230521153736.png",
     "Pasted image 20230521153641.png",
     "Pasted image 20230521153400.png",
-    "Amazon Web Services/Images/Pasted image 20230407025127.png",
     "Pasted image 20230521153320.png",
-    "Amazon Web Services/Images/Pasted image 20230407024658.png",
     "Pasted image 20230521040252.png",
     "Pasted image 20230521034744.png",
+    "Pasted image 20230517061600.png",
     "Pasted image 20230517043342.png",
+    "Pasted image 20230517043205.png",
     "-- TODO --/Question Notes",
-    "Amazon Web Services/Exam",
-    "Amazon Web Services/Local Zones",
+    "Amazon Web Services/Unsorted",
+    "Amazon Web Services/Services/Web Application Firewall",
+    "Amazon Web Services/Services/Transfer Family",
+    "Amazon Web Services/Services/Storage Gateway",
+    "Amazon Web Services/Services/Shield",
     "Amazon Web Services/Services/Redshift",
-    "Amazon Web Services/Services/Elasticache",
-    "Amazon Web Services/Services/Athena",
-    "Amazon Web Services/Services/GuardDuty",
-    "Amazon Web Services/Services/Inspector",
     "Amazon Web Services/Services/Macie",
-    "Amazon Web Services/Services/Config"
+    "Amazon Web Services/Services/Inspector",
+    "Amazon Web Services/Services/GuardDuty"
   ]
 }

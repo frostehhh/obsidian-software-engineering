@@ -1,5 +1,5 @@
 [[Amazon Web Services/Services/Route 53/Basics|Route53 Basics]]
-[[Registering a Domain]]
+[[DEMO - Registering a Domain]]
 [[Supported DNS Record Type]]
 [[Public Hosted Zones]]
 [[Private Hosted Zones]]
