@@ -32,9 +32,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b6f1217f9e2a8fb1",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Amazon Web Services/Services/Relational Database Service/MultiAZ Deployment Types.md",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "13aae4917c88d818",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Instance Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Instance Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Instance Types.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,14 +186,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "b7a897f0c88ab5ce",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 301,
-    "collapsed": true
+    "width": 301
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,8 +215,14 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "911de6d987a0fa6c",
+  "active": "13aae4917c88d818",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Amazon Web Services/Services/Route 53/DEMO - Registering a Domain.md",
+    "Amazon Web Services/Services/Relational Database Service/MultiAZ Deployment Types.md",
+    "Amazon Web Services/Services/Route 53/Registering a Domain.md",
+    "Amazon Web Services/Services/Relational Database Service/MultiAZ.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Instance Types.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Architecture.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Virtualization 101.md",
@@ -212,12 +243,6 @@
     "Amazon Web Services/Services/Virtual Private Cloud/--Table of Contents--.md",
     "Amazon Web Services/Services/Virtual Private Cloud/Custom VPCs.md",
     "Amazon Web Services/Services/Virtual Private Cloud/Advanced/Flow Logs.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Network Address Translation and NAT Gateways.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Security Groups.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Network Access Control Lists(NACL).md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Routing, Internet gateway & Bastion.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Subnets.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md",
     "Pasted image 20230521153902.png",
     "Pasted image 20230521153736.png",
     "Pasted image 20230521153641.png",
