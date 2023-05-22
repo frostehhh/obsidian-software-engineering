@@ -1,6 +1,4 @@
 ---
 aliases: [Inspector Table of Contents]
 ---
-![[Pasted image 20230511031424.png]]
-![[Pasted image 20230511031643.png]]
-![[Pasted image 20230511031756.png]]
+[[Amazon Web Services/Services/Inspector/Basics|Basics]]

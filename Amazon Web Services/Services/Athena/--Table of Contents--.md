@@ -1,5 +1,5 @@
 ---
 aliases: [Athena Table of Contents]
 ---
-[[Athena Basics]]
+[[Amazon Web Services/Services/Athena/Basics|Athena Basics]]
 [[DEMO - Athena]]

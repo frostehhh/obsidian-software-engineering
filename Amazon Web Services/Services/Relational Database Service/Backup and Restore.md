@@ -21,3 +21,6 @@ RTO - Recovery Time Objective
 
 # References
 https://www.rubrik.com/insights/rto-rpo-whats-the-difference#:~:text=RTO%20is%20the%20goal%20your,the%20organization%20can%20tolerate%20losing.
+
+# Related
+[[Recovery Point Objective (RPO) and Recovery Time Objective (RTO)]]

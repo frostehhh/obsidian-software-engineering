@@ -3,7 +3,7 @@ aliases: [SQS Basics, Simple Queue Service Basics]
 ---
 
 ![[Pasted image 20230507143433.png]]
-VisibilityTimeout - timeout after a message is received where the message is returned to the queue
+- **VisibilityTimeout** - timeout after a message is received where the message is returned to the queue
 
 # Sample Architecture
 ![[Pasted image 20230507143851.png]]

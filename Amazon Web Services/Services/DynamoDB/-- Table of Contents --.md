@@ -5,3 +5,4 @@
 [[Demo - DynamoDB Lambda Triggers]]
 [[Global Tables]]
 [[Accelerator (DAX)]]
+[[Amazon Web Services/Services/DynamoDB/Time to live|TTL]]

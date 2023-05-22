@@ -6,3 +6,7 @@
 
 # IAM Authentication
 ![[Pasted image 20230502015222.png]]
+
+
+# References
+[Encryption in SQL Server](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Appendix.SQLServer.Options.TDE.html)

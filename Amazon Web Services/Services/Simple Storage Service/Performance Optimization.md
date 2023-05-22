@@ -5,6 +5,7 @@
 ![[Pasted image 20230406192407.png]]
 ![[Pasted image 20230406192620.png]]
 - Usage of edge locations to route traffic via AWS managed network for quicker transmission
+- <mark style="background: #FFF3A3A6;">Maximizes data transfer to and from S3</mark>
 - Bucket names with periods can't be used with Accelerated Transfer
 - Can enable from bucket properties
 - To access the bucket that is enabled for Transfer Acceleration, you must use the endpoint `` `bucketname`.s3-accelerate.amazonaws.com ``. Or, use the dual-stack endpoint `` `bucketname`.s3-accelerate.dualstack.amazonaws.com `` to connect to the enabled bucket over IPv6.

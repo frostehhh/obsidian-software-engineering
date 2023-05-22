@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f5a5f4b4aa7d4bb2",
+        "id": "6e9576cdbea9966e",
         "type": "tabs",
         "children": [
           {
-            "id": "9ee38f77591a5d8b",
+            "id": "c0b3f49641fcccf2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,41 +22,19 @@
             }
           },
           {
-            "id": "911de6d987a0fa6c",
+            "id": "7a9f5e331c111bbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Instance Types.md",
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "b6f1217f9e2a8fb1",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Amazon Web Services/Services/Relational Database Service/MultiAZ Deployment Types.md",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "13aae4917c88d818",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +64,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -114,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256,
-    "collapsed": true
+    "width": 398.0086555480957
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -131,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md"
+              }
             }
           },
           {
@@ -200,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301
+    "width": 301,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,44 +197,45 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "13aae4917c88d818",
+  "active": "7a9f5e331c111bbf",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Amazon Web Services/Services/Route 53/DEMO - Registering a Domain.md",
-    "Amazon Web Services/Services/Relational Database Service/MultiAZ Deployment Types.md",
-    "Amazon Web Services/Services/Route 53/Registering a Domain.md",
-    "Amazon Web Services/Services/Relational Database Service/MultiAZ.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Instance Types.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/EC2 Dedicated Hosts.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Reserved Instances.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Purchase Options.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Network Interfaces, Instance IPs and DNS.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Snapshots, Restore & Fast Snapshot Restore (FSR).md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Encryption.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Instance Store Volumes.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/--Table of Contents--.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/Hard Disk Drive (HDD)-based.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/Provisioned IOPS SSD.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/General Purpose SSD.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Elastic Block Store(EBS).md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Storage Refreshser.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Instance Types.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Architecture.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Virtualization 101.md",
     "Amazon Web Services/Services/Elastic Compute Cloud/Basics.md",
-    "Amazon Web Services/Services/Direct Connect/--Table of Contents--.md",
-    "-- TODO --/Questions.md",
-    "-- TODO --/Main.md",
-    "Amazon Web Services/Services/Direct Connect/Basics.md",
-    "Amazon Web Services/Services/Direct Connect/Direct Connect Public VIF + VPN.md",
-    "Amazon Web Services/Services/Direct Connect/Direct Connect Resilience.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Advanced/--Table of Contents--.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Advanced/Transit Gateway.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Advanced/Site-to-Site VPN.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Advanced/VPC Peering.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Advanced/VPC Endpoints (Interface).md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Advanced/VPC Endpoints (Gateway).md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Advanced/Egress-Only Internet Gateway.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/--Table of Contents--.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Custom VPCs.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Advanced/Flow Logs.md",
-    "Pasted image 20230521153902.png",
+    "Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Subnets.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Security Groups.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Network Access Control Lists(NACL).md",
+    "Amazon Web Services/Services/Virtual Private Cloud/DEMO - Configuring A4l public subnets and Jumpbox.md",
+    "Amazon Web Services/Services/Relational Database Service/MultiAZ Deployment Types.md",
+    "Amazon Web Services/Services/Relational Database Service/Relational Database Service (RDS) Architecture.md",
+    "Pasted image 20230522132544.png",
+    "Pasted image 20230522132619.png",
+    "Pasted image 20230522132427.png",
+    "Pasted image 20230522132206.png",
+    "Pasted image 20230522132004.png",
+    "Amazon Web Services/Services/Snowball, Edge, Snowmobile",
     "Pasted image 20230521153736.png",
-    "Pasted image 20230521153641.png",
     "Pasted image 20230521153400.png",
-    "Amazon Web Services/Images/Pasted image 20230407025127.png",
     "Pasted image 20230521153320.png",
-    "Amazon Web Services/Images/Pasted image 20230407024658.png",
-    "Pasted image 20230521040252.png",
-    "Pasted image 20230521034744.png",
-    "Pasted image 20230517043342.png",
+    "Pasted image 20230521153641.png",
+    "Pasted image 20230517061600.png",
     "-- TODO --/Question Notes",
     "Amazon Web Services/Exam",
     "Amazon Web Services/Local Zones",
@@ -261,7 +244,6 @@
     "Amazon Web Services/Services/Athena",
     "Amazon Web Services/Services/GuardDuty",
     "Amazon Web Services/Services/Inspector",
-    "Amazon Web Services/Services/Macie",
-    "Amazon Web Services/Services/Config"
+    "Amazon Web Services/Services/Macie"
   ]
 }

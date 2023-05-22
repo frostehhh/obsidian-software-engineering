@@ -1,4 +1,5 @@
 ![[Pasted image 20230502233742.png]]
+- NFSv4 - Network File System V4
 
 ![[Pasted image 20230502235650.png]]
 

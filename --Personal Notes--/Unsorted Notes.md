@@ -1,0 +1,2 @@
+- RDS has enhanced monitoring
+- [Work with Amazon EC2 Auto Scaling termination policies](https://docs.aws.amazon.com/autoscaling/ec2/userguide/ec2-auto-scaling-termination-policies.html)

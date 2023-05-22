@@ -5,3 +5,6 @@
 
 # Use Cases
 ![[Pasted image 20230502044329.png]]
+
+# References
+[Using Aurora Serverless V2](# Using Aurora Serverless v2)
