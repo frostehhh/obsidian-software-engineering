@@ -4,38 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "76d9f023fecff303",
+        "id": "247482f1c2f147a3",
         "type": "tabs",
-        "dimension": 30.26440037771482,
         "children": [
           {
-            "id": "351fd1faeeb9d105",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Web Services/Services/Elastic Load Balancer/--Table of Contents--.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          }
-        ]
-      },
-      {
-        "id": "5ba9126caffdac9c",
-        "type": "tabs",
-        "dimension": 69.73559962228518,
-        "children": [
-          {
-            "id": "8ffc02bd01cee3ac",
+            "id": "dd805e1e34632da9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Load Balancer/Gateway Load Balancers.md",
+                "file": "--Personal Notes--/Review Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Load Balancer/--Table of Contents--.md",
+                "file": "--Personal Notes--/Review Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Load Balancer/--Table of Contents--.md",
+                "file": "--Personal Notes--/Review Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Load Balancer/--Table of Contents--.md"
+                "file": "--Personal Notes--/Review Plan.md"
               }
             }
           },
@@ -204,8 +182,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "351fd1faeeb9d105",
+  "active": "dd805e1e34632da9",
   "lastOpenFiles": [
+    "Amazon Web Services/Images/Pasted image 20230517042859.png",
+    "Amazon Web Services/Images/Pasted image 20230517043342.png",
+    "Amazon Web Services/Images/Pasted image 20230521153320.png",
+    "Amazon Web Services/Images/Pasted image 20230517043205.png",
     "Amazon Web Services/Services/Elastic Load Balancer/Gateway Load Balancers.md",
     "Amazon Web Services/Services/Elastic Load Balancer/--Table of Contents--.md",
     "Amazon Web Services/Services/Elastic Load Balancer/SSL Offload & Session Stickiness.md",
@@ -231,18 +213,14 @@
     "Amazon Web Services/Services/MQ/Basics.md",
     "Amazon Web Services/Services/Polly/Basics.md",
     "Amazon Web Services/Services/Rekognition/--Table of Contents--.md",
-    "Amazon Web Services/Services/Rekognition/Basics.md",
     "Pasted image 20230522132544.png",
-    "Pasted image 20230522132619.png",
-    "Pasted image 20230522132427.png",
-    "Pasted image 20230522132206.png",
-    "Pasted image 20230522132004.png",
+    "Amazon Web Services/Images/Pasted image 20230522132619.png",
+    "Amazon Web Services/Images/Pasted image 20230522132427.png",
+    "Amazon Web Services/Images/Pasted image 20230522132206.png",
+    "Amazon Web Services/Images/Pasted image 20230522132004.png",
     "Amazon Web Services/Services/Snowball, Edge, Snowmobile",
-    "Pasted image 20230521153736.png",
-    "Pasted image 20230521153400.png",
-    "Pasted image 20230521153320.png",
-    "Pasted image 20230521153641.png",
-    "Pasted image 20230517061600.png",
+    "Amazon Web Services/Images/Pasted image 20230521153736.png",
+    "Amazon Web Services/Images/Pasted image 20230521153400.png",
     "-- TODO --/Question Notes",
     "Amazon Web Services/Exam",
     "Amazon Web Services/Local Zones",
