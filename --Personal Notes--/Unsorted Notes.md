@@ -1,2 +1,8 @@
 - RDS has enhanced monitoring
 - [Work with Amazon EC2 Auto Scaling termination policies](https://docs.aws.amazon.com/autoscaling/ec2/userguide/ec2-auto-scaling-termination-policies.html)
+- **AWS proton** https://docs.aws.amazon.com/proton/latest/userguide/Welcome.html
+	- Automated infrastructure as code provisioning and deployment of serverless and container-based applications
+- **AWS Simple Workflow Service (SWF)** - The Amazon Simple Workflow Service (Amazon SWF) makes it easy to build applications that coordinate work across distributed components. https://docs.aws.amazon.com/amazonswf/latest/developerguide/swf-welcome.html
+- **AWS EMR** - Amazon EMR (previously called Amazon Elastic MapReduce) is a managed cluster platform that simplifies running big data frameworks, such as [Apache Hadoop](https://aws.amazon.com/elasticmapreduce/details/hadoop) and [Apache Spark](https://aws.amazon.com/elasticmapreduce/details/spark), on AWS to process and analyze vast amounts of data https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-what-is-emr.html
+- **AWS Data Lifecycle Manager (DLM)** - You can use Amazon Data Lifecycle Manager to automate the creation, retention, and deletion of EBS snapshots and EBS-backed AMIs https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/snapshot-lifecycle.html
+- **Direct connect gateways** - https://docs.aws.amazon.com/directconnect/latest/UserGuide/direct-connect-gateways-intro.html

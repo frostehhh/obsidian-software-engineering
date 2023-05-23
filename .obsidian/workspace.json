@@ -4,37 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "6e9576cdbea9966e",
+        "id": "76d9f023fecff303",
         "type": "tabs",
+        "dimension": 30.26440037771482,
         "children": [
           {
-            "id": "c0b3f49641fcccf2",
+            "id": "351fd1faeeb9d105",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
+                "file": "Amazon Web Services/Services/Elastic Load Balancer/--Table of Contents--.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "5ba9126caffdac9c",
+        "type": "tabs",
+        "dimension": 69.73559962228518,
+        "children": [
           {
-            "id": "7a9f5e331c111bbf",
+            "id": "8ffc02bd01cee3ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md",
+                "file": "Amazon Web Services/Services/Elastic Load Balancer/Gateway Load Balancers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "glacier",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md",
+                "file": "Amazon Web Services/Services/Elastic Load Balancer/--Table of Contents--.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md",
+                "file": "Amazon Web Services/Services/Elastic Load Balancer/--Table of Contents--.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md"
+                "file": "Amazon Web Services/Services/Elastic Load Balancer/--Table of Contents--.md"
               }
             }
           },
@@ -197,34 +204,34 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "7a9f5e331c111bbf",
+  "active": "351fd1faeeb9d105",
   "lastOpenFiles": [
-    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/EC2 Dedicated Hosts.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Reserved Instances.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Purchase Options.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Network Interfaces, Instance IPs and DNS.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Snapshots, Restore & Fast Snapshot Restore (FSR).md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Encryption.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Instance Store Volumes.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/--Table of Contents--.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/Hard Disk Drive (HDD)-based.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/Provisioned IOPS SSD.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/General Purpose SSD.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Elastic Block Store(EBS).md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Storage Refreshser.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Instance Types.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Architecture.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Virtualization 101.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/Basics.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Subnets.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Security Groups.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Network Access Control Lists(NACL).md",
-    "Amazon Web Services/Services/Virtual Private Cloud/DEMO - Configuring A4l public subnets and Jumpbox.md",
-    "Amazon Web Services/Services/Relational Database Service/MultiAZ Deployment Types.md",
-    "Amazon Web Services/Services/Relational Database Service/Relational Database Service (RDS) Architecture.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/Gateway Load Balancers.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/--Table of Contents--.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/SSL Offload & Session Stickiness.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/ASG HealthCheck Comparison - EC2 vs ELB.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/ASG Lifecycle Hooks.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/Auto-Scaling Groups.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/Launch Configurations and Launch Templates.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/Application and Network Load Balancer.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/Architecture.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/Evolution of the Elastic Load Balancer.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/DEMO - Architecture Evolution.md",
+    "Amazon Web Services/Services/Elasticache/Basics.md",
+    "Amazon Web Services/Services/EventBridge/CloudWatch Events and EventBridge.md",
+    "Amazon Web Services/Services/FSx/FSx for Lustre.md",
+    "Amazon Web Services/Services/Global Accelerator/--Table of Contents--.md",
+    "Amazon Web Services/Services/Key Management Service/Key Policies and Security.md",
+    "Amazon Web Services/Services/Key Management Service/Demo - Encryption with KMS.md",
+    "Amazon Web Services/Services/Kinesis/Kinesis Data Streams.md",
+    "Amazon Web Services/Services/Kinesis/Kinesis Data Firehose.md",
+    "Amazon Web Services/Services/Kinesis/Kinesis Data Analytics.md",
+    "Amazon Web Services/Services/Lex/Basics.md",
+    "Amazon Web Services/Services/Macie/Basics.md",
+    "Amazon Web Services/Services/MQ/Basics.md",
+    "Amazon Web Services/Services/Polly/Basics.md",
+    "Amazon Web Services/Services/Rekognition/--Table of Contents--.md",
+    "Amazon Web Services/Services/Rekognition/Basics.md",
     "Pasted image 20230522132544.png",
     "Pasted image 20230522132619.png",
     "Pasted image 20230522132427.png",
