@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "--Personal Notes--/Review Plan.md",
+                "file": "--Personal Notes--/Cheat Sheets.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "--Personal Notes--/Review Plan.md",
+                "file": "--Personal Notes--/Cheat Sheets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "--Personal Notes--/Review Plan.md",
+                "file": "--Personal Notes--/Cheat Sheets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "--Personal Notes--/Review Plan.md"
+                "file": "--Personal Notes--/Cheat Sheets.md"
               }
             }
           },
@@ -184,6 +184,7 @@
   },
   "active": "dd805e1e34632da9",
   "lastOpenFiles": [
+    "--Personal Notes--/Review Plan.md",
     "Amazon Web Services/Images/Pasted image 20230517042859.png",
     "Amazon Web Services/Images/Pasted image 20230517043342.png",
     "Amazon Web Services/Images/Pasted image 20230521153320.png",
@@ -220,7 +221,6 @@
     "Amazon Web Services/Images/Pasted image 20230522132004.png",
     "Amazon Web Services/Services/Snowball, Edge, Snowmobile",
     "Amazon Web Services/Images/Pasted image 20230521153736.png",
-    "Amazon Web Services/Images/Pasted image 20230521153400.png",
     "-- TODO --/Question Notes",
     "Amazon Web Services/Exam",
     "Amazon Web Services/Local Zones",
