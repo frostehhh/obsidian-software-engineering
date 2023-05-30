@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "247482f1c2f147a3",
+        "id": "430192879376d819",
         "type": "tabs",
         "children": [
           {
-            "id": "dd805e1e34632da9",
+            "id": "bac266a567b6acba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "--Personal Notes--/Cheat Sheets.md",
+                "file": "Amazon Web Services/Hands-on Labs Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "091e6e6f51a6d6bf",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.3"
-              }
-            }
-          },
-          {
-            "id": "4f90086c2a763a51",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.4"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "--Personal Notes--/Cheat Sheets.md",
+                "file": "Amazon Web Services/Hands-on Labs Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "--Personal Notes--/Cheat Sheets.md",
+                "file": "Amazon Web Services/Hands-on Labs Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "--Personal Notes--/Cheat Sheets.md"
+                "file": "Amazon Web Services/Hands-on Labs Learning.md"
               }
             }
           },
@@ -203,8 +182,14 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "4f90086c2a763a51",
+  "active": "bac266a567b6acba",
   "lastOpenFiles": [
+    "Amazon Web Services/Unsorted/Recovery Point Objective (RPO) and Recovery Time Objective (RTO).md",
+    "Amazon Web Services/Hands-on Labs Learning.md",
+    "Amazon Web Services/Services/Well-Architected/--Table of Contents--.md",
+    "Amazon Web Services/Untitled",
+    "Amazon Web Services/Services/Well-Architected/Basics.md",
+    "Amazon Web Services/Services/Well-Architected",
     "--Personal Notes--/Review Plan.md",
     "Amazon Web Services/Images/Pasted image 20230517042859.png",
     "Amazon Web Services/Images/Pasted image 20230517043342.png",
@@ -231,10 +216,6 @@
     "Amazon Web Services/Services/Kinesis/Kinesis Data Firehose.md",
     "Amazon Web Services/Services/Kinesis/Kinesis Data Analytics.md",
     "Amazon Web Services/Services/Lex/Basics.md",
-    "Amazon Web Services/Services/Macie/Basics.md",
-    "Amazon Web Services/Services/MQ/Basics.md",
-    "Amazon Web Services/Services/Polly/Basics.md",
-    "Amazon Web Services/Services/Rekognition/--Table of Contents--.md",
     "Pasted image 20230522132544.png",
     "Amazon Web Services/Images/Pasted image 20230522132619.png",
     "Amazon Web Services/Images/Pasted image 20230522132427.png",
@@ -248,8 +229,6 @@
     "Amazon Web Services/Services/Redshift",
     "Amazon Web Services/Services/Elasticache",
     "Amazon Web Services/Services/Athena",
-    "Amazon Web Services/Services/GuardDuty",
-    "Amazon Web Services/Services/Inspector",
-    "Amazon Web Services/Services/Macie"
+    "Amazon Web Services/Services/GuardDuty"
   ]
 }
