@@ -10,13 +10,15 @@
           {
             "id": "bac266a567b6acba",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Hands-on Labs Learning.md",
+                "file": "Amazon Web Services/Services/Well-Architected/Basics.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Hands-on Labs Learning.md",
+                "file": "Amazon Web Services/Services/Well-Architected/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Hands-on Labs Learning.md",
+                "file": "Amazon Web Services/Services/Well-Architected/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Hands-on Labs Learning.md"
+                "file": "Amazon Web Services/Services/Well-Architected/Basics.md"
               }
             }
           },
@@ -184,11 +186,12 @@
   },
   "active": "bac266a567b6acba",
   "lastOpenFiles": [
-    "Amazon Web Services/Unsorted/Recovery Point Objective (RPO) and Recovery Time Objective (RTO).md",
-    "Amazon Web Services/Hands-on Labs Learning.md",
-    "Amazon Web Services/Services/Well-Architected/--Table of Contents--.md",
-    "Amazon Web Services/Untitled",
+    "Untitled.md",
     "Amazon Web Services/Services/Well-Architected/Basics.md",
+    "Amazon Web Services/Services/Well-Architected/--Table of Contents--.md",
+    "Amazon Web Services/Hands-on Labs Learning.md",
+    "Amazon Web Services/Unsorted/Recovery Point Objective (RPO) and Recovery Time Objective (RTO).md",
+    "Amazon Web Services/Untitled",
     "Amazon Web Services/Services/Well-Architected",
     "--Personal Notes--/Review Plan.md",
     "Amazon Web Services/Images/Pasted image 20230517042859.png",
@@ -215,7 +218,6 @@
     "Amazon Web Services/Services/Kinesis/Kinesis Data Streams.md",
     "Amazon Web Services/Services/Kinesis/Kinesis Data Firehose.md",
     "Amazon Web Services/Services/Kinesis/Kinesis Data Analytics.md",
-    "Amazon Web Services/Services/Lex/Basics.md",
     "Pasted image 20230522132544.png",
     "Amazon Web Services/Images/Pasted image 20230522132619.png",
     "Amazon Web Services/Images/Pasted image 20230522132427.png",
