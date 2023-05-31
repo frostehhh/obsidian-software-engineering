@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "430192879376d819",
+        "id": "134fa398e555667d",
         "type": "tabs",
+        "dimension": 42.256846081208685,
         "children": [
           {
-            "id": "bac266a567b6acba",
+            "id": "78b6bf83bc8ad2b8",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Services/Well-Architected/Basics.md",
+                "file": "Amazon Web Services/Services/Simple Notification Service/Basics.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,6 +23,42 @@
             }
           }
         ]
+      },
+      {
+        "id": "8cfd27c8767a0785",
+        "type": "tabs",
+        "dimension": 57.743153918791315,
+        "children": [
+          {
+            "id": "9660bfba9c14fa69",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/Simple Queue Service/Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ca21667e1563a09f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/Backup/Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Services/Well-Architected/Basics.md",
+                "file": "Amazon Web Services/Services/Backup/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Services/Well-Architected/Basics.md",
+                "file": "Amazon Web Services/Services/Backup/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Services/Well-Architected/Basics.md"
+                "file": "Amazon Web Services/Services/Backup/Basics.md"
               }
             }
           },
@@ -184,10 +221,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "bac266a567b6acba",
+  "active": "ca21667e1563a09f",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Amazon Web Services/Services/CloudWatch/Alarms.md",
+    "Amazon Web Services/Services/CloudWatch/Basics.md",
+    "Amazon Web Services/Services/CloudWatch/--Table of Contents--.md",
+    "Amazon Web Services/Services/Backup/Basics.md",
+    "Amazon Web Services/Services/Simple Notification Service/Basics.md",
+    "Amazon Web Services/Services/Simple Queue Service/Basics.md",
+    "Amazon Web Services/Services/Simple Queue Service/--Table of Contents--.md",
     "Amazon Web Services/Services/Well-Architected/Basics.md",
+    "Untitled.md",
     "Amazon Web Services/Services/Well-Architected/--Table of Contents--.md",
     "Amazon Web Services/Hands-on Labs Learning.md",
     "Amazon Web Services/Unsorted/Recovery Point Objective (RPO) and Recovery Time Objective (RTO).md",
@@ -211,13 +255,6 @@
     "Amazon Web Services/Services/Elastic Load Balancer/DEMO - Architecture Evolution.md",
     "Amazon Web Services/Services/Elasticache/Basics.md",
     "Amazon Web Services/Services/EventBridge/CloudWatch Events and EventBridge.md",
-    "Amazon Web Services/Services/FSx/FSx for Lustre.md",
-    "Amazon Web Services/Services/Global Accelerator/--Table of Contents--.md",
-    "Amazon Web Services/Services/Key Management Service/Key Policies and Security.md",
-    "Amazon Web Services/Services/Key Management Service/Demo - Encryption with KMS.md",
-    "Amazon Web Services/Services/Kinesis/Kinesis Data Streams.md",
-    "Amazon Web Services/Services/Kinesis/Kinesis Data Firehose.md",
-    "Amazon Web Services/Services/Kinesis/Kinesis Data Analytics.md",
     "Pasted image 20230522132544.png",
     "Amazon Web Services/Images/Pasted image 20230522132619.png",
     "Amazon Web Services/Images/Pasted image 20230522132427.png",
