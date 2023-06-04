@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "fac0de1d8db37a2c",
+            "id": "3074c2ceb4145907",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Hands-on Labs Learning.md",
+                "file": "Amazon Web Services/Tagging AWS Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Hands-on Labs Learning.md",
+                "file": "Amazon Web Services/Tagging AWS Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Hands-on Labs Learning.md",
+                "file": "Amazon Web Services/Tagging AWS Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Hands-on Labs Learning.md"
+                "file": "Amazon Web Services/Tagging AWS Resources.md"
               }
             }
           },
@@ -181,12 +181,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "fac0de1d8db37a2c",
+  "active": "3074c2ceb4145907",
   "lastOpenFiles": [
-    "Amazon Web Services/Tagging AWS Resources.md",
-    "Amazon Web Services/Hands-on Labs Learning.md",
-    "Amazon Web Services/Services/Backup/Features.md",
     "Amazon Web Services/Services/Backup/--Table of Contents--.md",
+    "Amazon Web Services/Hands-on Labs Learning.md",
+    "Amazon Web Services/Tagging AWS Resources.md",
+    "Amazon Web Services/Services/Backup/Features.md",
     "Amazon Web Services/Services/Backup/Basics.md",
     "Amazon Web Services/Services/Relational Database Service/--Table of Contents--.md",
     "Amazon Web Services/Services/Relational Database Service/MultiAZ Deployment Types.md",
