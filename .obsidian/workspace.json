@@ -4,39 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "134fa398e555667d",
+        "id": "47c41619f9e39073",
         "type": "tabs",
-        "dimension": 42.256846081208685,
         "children": [
           {
-            "id": "78b6bf83bc8ad2b8",
+            "id": "47e87a9264d5669f",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Services/Simple Notification Service/Basics.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          }
-        ]
-      },
-      {
-        "id": "8cfd27c8767a0785",
-        "type": "tabs",
-        "dimension": 57.743153918791315,
-        "children": [
-          {
-            "id": "9660bfba9c14fa69",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Web Services/Services/Simple Queue Service/Basics.md",
+                "file": "Amazon Web Services/Services/Backup/--Table of Contents--.md",
                 "mode": "source",
                 "source": false
               },
@@ -44,17 +22,15 @@
             }
           },
           {
-            "id": "ca21667e1563a09f",
+            "id": "fac0de1d8db37a2c",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Services/Backup/Basics.md",
+                "file": "Amazon Web Services/Hands-on Labs Learning.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -87,8 +63,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "glacier",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -105,7 +81,7 @@
             }
           },
           {
-            "id": "0fc0c9c5268a5851",
+            "id": "0c3db3a424d680e9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -116,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.0086555480957
+    "width": 346.0026054382324
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -132,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Services/Backup/Basics.md",
+                "file": "Amazon Web Services/Hands-on Labs Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Services/Backup/Basics.md",
+                "file": "Amazon Web Services/Hands-on Labs Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,40 +148,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Services/Backup/Basics.md"
+                "file": "Amazon Web Services/Hands-on Labs Learning.md"
               }
             }
           },
           {
-            "id": "6fb2c6e933107257",
+            "id": "a8026435152618c5",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
               "state": {}
             }
-          },
-          {
-            "id": "aa771a6690285368",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "b7a897f0c88ab5ce",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 301,
+    "width": 390,
     "collapsed": true
   },
   "left-ribbon": {
@@ -221,53 +181,53 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "ca21667e1563a09f",
+  "active": "fac0de1d8db37a2c",
   "lastOpenFiles": [
-    "Amazon Web Services/Services/Simple Notification Service/Basics.md",
-    "Amazon Web Services/Services/Backup/Basics.md",
-    "Amazon Web Services/Services/CloudWatch/Alarms.md",
-    "Amazon Web Services/Services/CloudWatch/Basics.md",
-    "Amazon Web Services/Services/CloudWatch/--Table of Contents--.md",
-    "Amazon Web Services/Services/Simple Queue Service/Basics.md",
-    "Amazon Web Services/Services/Simple Queue Service/--Table of Contents--.md",
-    "Amazon Web Services/Services/Well-Architected/Basics.md",
-    "Untitled.md",
-    "Amazon Web Services/Services/Well-Architected/--Table of Contents--.md",
+    "Amazon Web Services/Tagging AWS Resources.md",
     "Amazon Web Services/Hands-on Labs Learning.md",
-    "Amazon Web Services/Unsorted/Recovery Point Objective (RPO) and Recovery Time Objective (RTO).md",
-    "Amazon Web Services/Untitled",
+    "Amazon Web Services/Services/Backup/Features.md",
+    "Amazon Web Services/Services/Backup/--Table of Contents--.md",
+    "Amazon Web Services/Services/Backup/Basics.md",
+    "Amazon Web Services/Services/Relational Database Service/--Table of Contents--.md",
+    "Amazon Web Services/Services/Relational Database Service/MultiAZ Deployment Types.md",
+    "Untitled.md",
+    "Amazon Web Services/Services/Well-Architected/Basics.md",
+    "Amazon Web Services/Services/Well-Architected/--Table of Contents--.md",
     "Amazon Web Services/Services/Well-Architected",
-    "--Personal Notes--/Review Plan.md",
-    "Amazon Web Services/Images/Pasted image 20230517042859.png",
-    "Amazon Web Services/Images/Pasted image 20230517043342.png",
-    "Amazon Web Services/Images/Pasted image 20230521153320.png",
-    "Amazon Web Services/Images/Pasted image 20230517043205.png",
-    "Amazon Web Services/Services/Elastic Load Balancer/Gateway Load Balancers.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/--Table of Contents--.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/SSL Offload & Session Stickiness.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/ASG HealthCheck Comparison - EC2 vs ELB.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/ASG Lifecycle Hooks.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/Auto-Scaling Groups.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/Launch Configurations and Launch Templates.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/Application and Network Load Balancer.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/Architecture.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/Evolution of the Elastic Load Balancer.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/DEMO - Architecture Evolution.md",
-    "Amazon Web Services/Services/Elasticache/Basics.md",
-    "Amazon Web Services/Services/EventBridge/CloudWatch Events and EventBridge.md",
-    "Pasted image 20230522132544.png",
+    "Amazon Web Services/Services/Snowball, Edge, Snowmobile/Basics.md",
+    "Amazon Web Services/Services/Snowball, Edge, Snowmobile/--Table of Contents--.md",
+    "Amazon Web Services/Services/Snowball, Edge, Snowmobile",
     "Amazon Web Services/Images/Pasted image 20230522132619.png",
     "Amazon Web Services/Images/Pasted image 20230522132427.png",
     "Amazon Web Services/Images/Pasted image 20230522132206.png",
     "Amazon Web Services/Images/Pasted image 20230522132004.png",
-    "Amazon Web Services/Services/Snowball, Edge, Snowmobile",
+    "Amazon Web Services/Images/Pasted image 20230521153902.png",
     "Amazon Web Services/Images/Pasted image 20230521153736.png",
+    "Amazon Web Services/Images/Pasted image 20230521153641.png",
+    "Amazon Web Services/Images/Pasted image 20230521153400.png",
+    "Amazon Web Services/Images/Pasted image 20230521153320.png",
+    "Amazon Web Services/Images/Pasted image 20230521040252.png",
+    "--Personal Notes--/Unsorted Notes.md",
+    "Amazon Web Services/Services/Relational Database Service/Relational Database Service (RDS) Architecture.md",
+    "Amazon Web Services/Services/Simple Storage Service/Storage Classes.md",
+    "Amazon Web Services/Services/Simple Storage Service/--Table of Contents--.md",
+    "Amazon Web Services/Services/Relational Database Service/Databases on EC2.md",
+    "Amazon Web Services/Services/Relational Database Service/ACID vs BASE.md",
+    "Amazon Web Services/Services/Relational Database Service/Database Refresher & Models.md",
+    "Amazon Web Services/Services/Route 53/--Table of Contents--.md",
+    "Amazon Web Services/Services/Route 53/Implementing DNSSEC using Route53.md",
+    "Amazon Web Services/Services/Route 53/Interoperability.md",
+    "Amazon Web Services/Services/Route 53/Geoproximity.md",
+    "Amazon Web Services/Services/Route 53/Geolocation Routing.md",
+    "Amazon Web Services/Services/Route 53/Latency Routing.md",
+    "Amazon Web Services/Services/Route 53/Weighted Routing.md",
     "-- TODO --/Question Notes",
-    "Amazon Web Services/Exam",
-    "Amazon Web Services/Local Zones",
+    "Amazon Web Services/Unsorted",
+    "Amazon Web Services/Services/Web Application Firewall",
+    "Amazon Web Services/Services/Transfer Family",
+    "Amazon Web Services/Services/Storage Gateway",
+    "Amazon Web Services/Services/Shield",
     "Amazon Web Services/Services/Redshift",
-    "Amazon Web Services/Services/Elasticache",
-    "Amazon Web Services/Services/Athena",
-    "Amazon Web Services/Services/GuardDuty"
+    "Amazon Web Services/Services/Macie"
   ]
 }
