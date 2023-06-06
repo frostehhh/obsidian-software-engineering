@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "967155d0c3dbf9e2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,7 +191,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "3074c2ceb4145907",
+  "active": "967155d0c3dbf9e2",
   "lastOpenFiles": [
     "Amazon Web Services/Services/Backup/--Table of Contents--.md",
     "Amazon Web Services/Hands-on Labs Learning.md",
