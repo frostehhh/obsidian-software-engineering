@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Services/Backup/Features.md",
+                "file": "Amazon Web Services/Services/Simple Notification Service/--Table of Contents--.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99410afb5e11991f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/Simple Notification Service/Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "glacier",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Services/Backup/Features.md",
+                "file": "Amazon Web Services/Services/Simple Notification Service/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Services/Backup/Features.md",
+                "file": "Amazon Web Services/Services/Simple Notification Service/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Services/Backup/Features.md"
+                "file": "Amazon Web Services/Services/Simple Notification Service/Basics.md"
               }
             }
           },
@@ -182,12 +195,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "a4814f2292aa7cd7",
+  "active": "99410afb5e11991f",
   "lastOpenFiles": [
+    "Amazon Web Services/Services/Simple Notification Service/--Table of Contents--.md",
     "Amazon Web Services/Services/Simple Queue Service/SQS Dead-Letter Queues.md",
-    "Amazon Web Services/Services/Simple Queue Service/Basics.md",
+    "Amazon Web Services/Services/Simple Queue Service/SQS Delay Queues.md",
+    "Amazon Web Services/Services/Simple Notification Service/Basics.md",
     "Amazon Web Services/Services/Backup/Features.md",
     "Amazon Web Services/Services/Backup/Basics.md",
+    "Amazon Web Services/Services/Simple Queue Service/Basics.md",
     "Amazon Web Services/Tagging AWS Resources.md",
     "Amazon Web Services/Services/Backup/--Table of Contents--.md",
     "Amazon Web Services/Fundamentals/--Table of Contents--.md",
@@ -195,7 +211,6 @@
     "Amazon Web Services/Fundamentals/High-Availability vs Fault-Tolerance vs Disaster Recovery.md",
     "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
     "Amazon Web Services/Fundamentals/Amazon Resource Name.md",
-    "Amazon Web Services/Services/Simple Notification Service/Basics.md",
     "Amazon Web Services/Services/CloudWatch/Alarms.md",
     "Amazon Web Services/Services/CloudWatch/Basics.md",
     "Amazon Web Services/Services/CloudWatch/--Table of Contents--.md",
@@ -214,8 +229,6 @@
     "Amazon Web Services/Images/Pasted image 20230517043205.png",
     "Amazon Web Services/Services/Elastic Load Balancer/Gateway Load Balancers.md",
     "Amazon Web Services/Services/Elastic Load Balancer/--Table of Contents--.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/SSL Offload & Session Stickiness.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/ASG HealthCheck Comparison - EC2 vs ELB.md",
     "Pasted image 20230522132544.png",
     "Amazon Web Services/Images/Pasted image 20230522132619.png",
     "Amazon Web Services/Images/Pasted image 20230522132427.png",
