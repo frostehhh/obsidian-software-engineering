@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Services/Simple Notification Service/--Table of Contents--.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99410afb5e11991f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Web Services/Services/Simple Notification Service/Basics.md",
+                "file": "Project Management/Methodologies/Agile/Allen Holub/No Estimates.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Services/Simple Notification Service/Basics.md",
+                "file": "Project Management/Methodologies/Agile/Allen Holub/No Estimates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Services/Simple Notification Service/Basics.md",
+                "file": "Project Management/Methodologies/Agile/Allen Holub/No Estimates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Services/Simple Notification Service/Basics.md"
+                "file": "Project Management/Methodologies/Agile/Allen Holub/No Estimates.md"
               }
             }
           },
@@ -195,12 +182,20 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "99410afb5e11991f",
+  "active": "a4814f2292aa7cd7",
   "lastOpenFiles": [
+    "Project Management/Methodologies/Agile/Allen Holub/How we can correct the mistakes made with Agile • Allen Holub.md",
+    "Project Management/Methodologies/Agile/Allen Holub/No Estimates.md",
+    "Project Management/Methodologies/Agile/Allen Holub",
+    "Project Management/Methodologies/Agile/Introduction.md",
+    "Project Management/Methodologies/Agile",
+    "Project Management/Methodologies",
+    "Project Management",
     "Amazon Web Services/Services/Simple Notification Service/--Table of Contents--.md",
+    "Amazon Web Services/Services/Web Application Firewall/Basics.md",
+    "Amazon Web Services/Services/Simple Notification Service/Basics.md",
     "Amazon Web Services/Services/Simple Queue Service/SQS Dead-Letter Queues.md",
     "Amazon Web Services/Services/Simple Queue Service/SQS Delay Queues.md",
-    "Amazon Web Services/Services/Simple Notification Service/Basics.md",
     "Amazon Web Services/Services/Backup/Features.md",
     "Amazon Web Services/Services/Backup/Basics.md",
     "Amazon Web Services/Services/Simple Queue Service/Basics.md",
@@ -219,16 +214,12 @@
     "Untitled.md",
     "Amazon Web Services/Services/Well-Architected/--Table of Contents--.md",
     "Amazon Web Services/Hands-on Labs Learning.md",
-    "Amazon Web Services/Unsorted/Recovery Point Objective (RPO) and Recovery Time Objective (RTO).md",
     "Amazon Web Services/Untitled",
     "Amazon Web Services/Services/Well-Architected",
-    "--Personal Notes--/Review Plan.md",
     "Amazon Web Services/Images/Pasted image 20230517042859.png",
     "Amazon Web Services/Images/Pasted image 20230517043342.png",
     "Amazon Web Services/Images/Pasted image 20230521153320.png",
     "Amazon Web Services/Images/Pasted image 20230517043205.png",
-    "Amazon Web Services/Services/Elastic Load Balancer/Gateway Load Balancers.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/--Table of Contents--.md",
     "Pasted image 20230522132544.png",
     "Amazon Web Services/Images/Pasted image 20230522132619.png",
     "Amazon Web Services/Images/Pasted image 20230522132427.png",
@@ -238,10 +229,6 @@
     "Amazon Web Services/Images/Pasted image 20230521153736.png",
     "-- TODO --/Question Notes",
     "Amazon Web Services/Exam",
-    "Amazon Web Services/Local Zones",
-    "Amazon Web Services/Services/Redshift",
-    "Amazon Web Services/Services/Elasticache",
-    "Amazon Web Services/Services/Athena",
-    "Amazon Web Services/Services/GuardDuty"
+    "Amazon Web Services/Local Zones"
   ]
 }

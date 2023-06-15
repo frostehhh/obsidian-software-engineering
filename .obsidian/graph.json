@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "path:\"Amazon Web Services\"",
+  "collapse-filter": false,
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 9.78947368421053,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.13168724279835756,
-  "close": true
+  "scale": 0.18462326225858677,
+  "close": false
 }

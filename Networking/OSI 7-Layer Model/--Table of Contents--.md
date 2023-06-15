@@ -1,7 +1,7 @@
 ---
 aliases: [OSI 7-Layer Model Table of Contents]
 ---
-[[Introduction]]
+[[Networking/OSI 7-Layer Model/Introduction]]
 [[OSI 7-Layer Model]]
 [[Physical]]
 [[Data Link]]
