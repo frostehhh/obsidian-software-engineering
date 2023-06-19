@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Management/Methodologies/Agile/Agile is Dead • Pragmatic Dave Thomas.md",
+                "file": "Project Management/Methodologies/Agile/Gabrielle Benefield/Frankenbuilds - If Agile is so Good, Why Are Our Products so Bad Gabrielle Benefield GOTO 2012.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Management/Methodologies/Agile/Agile is Dead • Pragmatic Dave Thomas.md",
+                "file": "Project Management/Methodologies/Agile/Gabrielle Benefield/Frankenbuilds - If Agile is so Good, Why Are Our Products so Bad Gabrielle Benefield GOTO 2012.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Management/Methodologies/Agile/Agile is Dead • Pragmatic Dave Thomas.md",
+                "file": "Project Management/Methodologies/Agile/Gabrielle Benefield/Frankenbuilds - If Agile is so Good, Why Are Our Products so Bad Gabrielle Benefield GOTO 2012.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Management/Methodologies/Agile/Agile is Dead • Pragmatic Dave Thomas.md"
+                "file": "Project Management/Methodologies/Agile/Gabrielle Benefield/Frankenbuilds - If Agile is so Good, Why Are Our Products so Bad Gabrielle Benefield GOTO 2012.md"
               }
             }
           },
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301
+    "width": 301,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,9 +184,11 @@
   },
   "active": "a4814f2292aa7cd7",
   "lastOpenFiles": [
-    "Project Management/Methodologies/Agile/Agile is Dead • Pragmatic Dave Thomas.md",
-    "Project Management/Methodologies/Agile/Allen Holub/No Estimates.md",
     "Project Management/Methodologies/Agile/Allen Holub/How we can correct the mistakes made with Agile • Allen Holub.md",
+    "Project Management/Methodologies/Agile/Gabrielle Benefield/Frankenbuilds - If Agile is so Good, Why Are Our Products so Bad Gabrielle Benefield GOTO 2012.md",
+    "Project Management/Methodologies/Agile/Gabrielle Benefield",
+    "Project Management/Methodologies/Agile/Allen Holub/No Estimates.md",
+    "Project Management/Methodologies/Agile/Agile is Dead • Pragmatic Dave Thomas.md",
     "Project Management/Methodologies/Agile/Allen Holub",
     "Project Management/Methodologies/Agile/Introduction.md",
     "Project Management/Methodologies/Agile",
@@ -212,7 +215,6 @@
     "Amazon Web Services/Services/Simple Queue Service/--Table of Contents--.md",
     "Amazon Web Services/Services/Well-Architected/Basics.md",
     "Untitled.md",
-    "Amazon Web Services/Services/Well-Architected/--Table of Contents--.md",
     "Amazon Web Services/Untitled",
     "Amazon Web Services/Services/Well-Architected",
     "Amazon Web Services/Images/Pasted image 20230517042859.png",
@@ -227,7 +229,6 @@
     "Amazon Web Services/Services/Snowball, Edge, Snowmobile",
     "Amazon Web Services/Images/Pasted image 20230521153736.png",
     "-- TODO --/Question Notes",
-    "Amazon Web Services/Exam",
-    "Amazon Web Services/Local Zones"
+    "Amazon Web Services/Exam"
   ]
 }
