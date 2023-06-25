@@ -11,11 +11,28 @@
             "id": "f261066854167def",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Search Engine Optimization/--Table of Contents--.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d121ef53eb6e476d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Search Engine Optimization/Crawling and indexing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Search Engine Optimization/Crawling and indexing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Search Engine Optimization/Crawling and indexing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Search Engine Optimization/Crawling and indexing.md"
+              }
             }
           },
           {
@@ -174,8 +195,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "f261066854167def",
+  "active": "bd2714a80d3d3c1d",
   "lastOpenFiles": [
+    "Search Engine Optimization/--Table of Contents--.md",
+    "Search Engine Optimization/Crawling and indexing.md",
+    "Search Engine Optimization/Introduction.md",
+    "Search Engine Optimization",
     "Project Management/Methodologies/Agile/Gabrielle Benefield/Frankenbuilds - If Agile is so Good, Why Are Our Products so Bad Gabrielle Benefield GOTO 2012.md",
     "obsidian-it-notes",
     "Project Management/Methodologies/Agile/Allen Holub/How we can correct the mistakes made with Agile • Allen Holub.md",
@@ -205,8 +230,6 @@
     "Amazon Web Services/Services/CloudWatch/Alarms.md",
     "Amazon Web Services/Services/CloudWatch/Basics.md",
     "Amazon Web Services/Services/CloudWatch/--Table of Contents--.md",
-    "Amazon Web Services/Services/Simple Queue Service/--Table of Contents--.md",
-    "Amazon Web Services/Services/Well-Architected/Basics.md",
     "Amazon Web Services/Untitled",
     "Amazon Web Services/Services/Well-Architected",
     "Amazon Web Services/Images/Pasted image 20230517042859.png",
@@ -219,7 +242,6 @@
     "Amazon Web Services/Images/Pasted image 20230522132206.png",
     "Amazon Web Services/Images/Pasted image 20230522132004.png",
     "Amazon Web Services/Services/Snowball, Edge, Snowmobile",
-    "Amazon Web Services/Images/Pasted image 20230521153736.png",
-    "-- TODO --/Question Notes"
+    "Amazon Web Services/Images/Pasted image 20230521153736.png"
   ]
 }
