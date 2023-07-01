@@ -13,4 +13,6 @@
  Access via account name dropdown, then `Account`. Lastly, go to `IAM User and Role Access to Billing Information`
 # Setup Account Alias in [[Identity and Access Management Basics|IAM]]
 # Create normal admin user
+Create IAM user. You can give a username of `iamadmin` as a convention.
+Attach `AdministratorAccess` policy
 

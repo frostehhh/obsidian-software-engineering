@@ -23,11 +23,9 @@
             "id": "d121ef53eb6e476d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Amazon Web Services/Accounts/New Account Practice.md",
-                "mode": "source",
-                "source": false
+                "file": "Amazon Web Services/Images/Pasted image 20230701150016.png"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Accounts/New Account Practice.md",
+                "file": "Amazon Web Services/Images/Pasted image 20230701150016.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Accounts/New Account Practice.md",
+                "file": "Amazon Web Services/Images/Pasted image 20230701150016.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Accounts/New Account Practice.md"
+                "file": "Amazon Web Services/Images/Pasted image 20230701150016.png"
               }
             }
           },
@@ -197,10 +195,12 @@
   },
   "active": "d121ef53eb6e476d",
   "lastOpenFiles": [
-    "Pasted image 20230701150259.png",
-    "Pasted image 20230701150230.png",
-    "Pasted image 20230701150051.png",
-    "Pasted image 20230701150016.png",
+    "Untitled.md",
+    "Amazon Web Services/Images/Pasted image 20230701150016.png",
+    "Amazon Web Services/Images/Pasted image 20230701150230.png",
+    "Amazon Web Services/Accounts/New Account Practice.md",
+    "Amazon Web Services/Images/Pasted image 20230701150259.png",
+    "Amazon Web Services/Images/Pasted image 20230701150051.png",
     "Search Engine Optimization/--Table of Contents--.md",
     "Search Engine Optimization/Crawling and indexing.md",
     "Search Engine Optimization/Introduction.md",
@@ -232,7 +232,6 @@
     "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
     "Amazon Web Services/Fundamentals/Amazon Resource Name.md",
     "Amazon Web Services/Services/CloudWatch/Alarms.md",
-    "Amazon Web Services/Services/CloudWatch/Basics.md",
     "Amazon Web Services/Untitled",
     "Amazon Web Services/Services/Well-Architected",
     "Amazon Web Services/Images/Pasted image 20230517042859.png",
@@ -241,7 +240,6 @@
     "Amazon Web Services/Images/Pasted image 20230517043205.png",
     "Pasted image 20230522132544.png",
     "Amazon Web Services/Images/Pasted image 20230522132619.png",
-    "Amazon Web Services/Images/Pasted image 20230522132427.png",
     "Amazon Web Services/Services/Snowball, Edge, Snowmobile"
   ]
 }
