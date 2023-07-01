@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Local Setup/Windows PC.md",
+                "file": "Local Setup/Windows PC/Main.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Local Setup/Windows PC.md",
+                "file": "Local Setup/Windows PC/Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Local Setup/Windows PC.md",
+                "file": "Local Setup/Windows PC/Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Local Setup/Windows PC.md"
+                "file": "Local Setup/Windows PC/Main.md"
               }
             }
           },
@@ -197,8 +197,9 @@
   },
   "active": "d121ef53eb6e476d",
   "lastOpenFiles": [
+    "Local Setup/Windows PC",
     "Amazon Web Services/Images/Pasted image 20230701150016.png",
-    "Local Setup/Windows PC.md",
+    "Local Setup/Windows PC/Main.md",
     "Local Setup",
     "Untitled.md",
     "Amazon Web Services/Images/Pasted image 20230701150230.png",
