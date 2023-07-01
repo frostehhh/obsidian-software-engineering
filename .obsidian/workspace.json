@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Search Engine Optimization/Crawling and indexing.md",
+                "file": "Amazon Web Services/Accounts/New Account Practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Search Engine Optimization/Crawling and indexing.md",
+                "file": "Amazon Web Services/Accounts/New Account Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Search Engine Optimization/Crawling and indexing.md",
+                "file": "Amazon Web Services/Accounts/New Account Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Search Engine Optimization/Crawling and indexing.md"
+                "file": "Amazon Web Services/Accounts/New Account Practice.md"
               }
             }
           },
@@ -195,8 +195,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "bd2714a80d3d3c1d",
+  "active": "d121ef53eb6e476d",
   "lastOpenFiles": [
+    "Pasted image 20230701150259.png",
+    "Pasted image 20230701150230.png",
+    "Pasted image 20230701150051.png",
+    "Pasted image 20230701150016.png",
     "Search Engine Optimization/--Table of Contents--.md",
     "Search Engine Optimization/Crawling and indexing.md",
     "Search Engine Optimization/Introduction.md",
@@ -229,7 +233,6 @@
     "Amazon Web Services/Fundamentals/Amazon Resource Name.md",
     "Amazon Web Services/Services/CloudWatch/Alarms.md",
     "Amazon Web Services/Services/CloudWatch/Basics.md",
-    "Amazon Web Services/Services/CloudWatch/--Table of Contents--.md",
     "Amazon Web Services/Untitled",
     "Amazon Web Services/Services/Well-Architected",
     "Amazon Web Services/Images/Pasted image 20230517042859.png",
@@ -239,9 +242,6 @@
     "Pasted image 20230522132544.png",
     "Amazon Web Services/Images/Pasted image 20230522132619.png",
     "Amazon Web Services/Images/Pasted image 20230522132427.png",
-    "Amazon Web Services/Images/Pasted image 20230522132206.png",
-    "Amazon Web Services/Images/Pasted image 20230522132004.png",
-    "Amazon Web Services/Services/Snowball, Edge, Snowmobile",
-    "Amazon Web Services/Images/Pasted image 20230521153736.png"
+    "Amazon Web Services/Services/Snowball, Edge, Snowmobile"
   ]
 }
