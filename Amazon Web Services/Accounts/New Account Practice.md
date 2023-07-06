@@ -16,3 +16,5 @@
 Create IAM user. You can give a username of `iamadmin` as a convention.
 Attach `AdministratorAccess` policy
 
+# Enable IAM user/role access to billing information
+![[Pasted image 20230707023334.png]]

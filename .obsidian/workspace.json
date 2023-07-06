@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Local Setup/Windows PC/Main.md",
+                "file": "Amazon Web Services/Accounts/New Account Practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Local Setup/Windows PC/Main.md",
+                "file": "Amazon Web Services/Accounts/New Account Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Local Setup/Windows PC/Main.md",
+                "file": "Amazon Web Services/Accounts/New Account Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Local Setup/Windows PC/Main.md"
+                "file": "Amazon Web Services/Accounts/New Account Practice.md"
               }
             }
           },
@@ -197,9 +197,12 @@
   },
   "active": "d121ef53eb6e476d",
   "lastOpenFiles": [
+    "Pasted image 20230707023334.png",
+    "Amazon Web Services/Accounts/Identities.md",
+    "Amazon Web Services/Accounts/AWS Account.md",
+    "Local Setup/Windows PC/Main.md",
     "Local Setup/Windows PC",
     "Amazon Web Services/Images/Pasted image 20230701150016.png",
-    "Local Setup/Windows PC/Main.md",
     "Local Setup",
     "Untitled.md",
     "Amazon Web Services/Images/Pasted image 20230701150230.png",
@@ -233,10 +236,7 @@
     "Amazon Web Services/Services/Backup/--Table of Contents--.md",
     "Amazon Web Services/Fundamentals/--Table of Contents--.md",
     "Amazon Web Services/Fundamentals/Public vs Private Services.md",
-    "Amazon Web Services/Fundamentals/High-Availability vs Fault-Tolerance vs Disaster Recovery.md",
-    "Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
     "Amazon Web Services/Untitled",
-    "Amazon Web Services/Services/Well-Architected",
     "Amazon Web Services/Images/Pasted image 20230517042859.png",
     "Amazon Web Services/Images/Pasted image 20230517043342.png",
     "Amazon Web Services/Images/Pasted image 20230521153320.png",
