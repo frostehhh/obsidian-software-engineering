@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Accounts/New Account Practice.md",
+                "file": "Local Setup/Windows PC/Main.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Accounts/New Account Practice.md",
+                "file": "Local Setup/Windows PC/Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Accounts/New Account Practice.md",
+                "file": "Local Setup/Windows PC/Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Accounts/New Account Practice.md"
+                "file": "Local Setup/Windows PC/Main.md"
               }
             }
           },
@@ -197,6 +197,7 @@
   },
   "active": "d121ef53eb6e476d",
   "lastOpenFiles": [
+    "Amazon Web Services/Accounts/New Account Practice.md",
     "Pasted image 20230707023334.png",
     "Amazon Web Services/Accounts/Identities.md",
     "Amazon Web Services/Accounts/AWS Account.md",
@@ -206,7 +207,6 @@
     "Local Setup",
     "Untitled.md",
     "Amazon Web Services/Images/Pasted image 20230701150230.png",
-    "Amazon Web Services/Accounts/New Account Practice.md",
     "Amazon Web Services/Images/Pasted image 20230701150259.png",
     "Amazon Web Services/Images/Pasted image 20230701150051.png",
     "Search Engine Optimization/--Table of Contents--.md",
@@ -241,7 +241,6 @@
     "Amazon Web Services/Images/Pasted image 20230517043342.png",
     "Amazon Web Services/Images/Pasted image 20230521153320.png",
     "Amazon Web Services/Images/Pasted image 20230517043205.png",
-    "Pasted image 20230522132544.png",
-    "Amazon Web Services/Images/Pasted image 20230522132619.png"
+    "Pasted image 20230522132544.png"
   ]
 }
