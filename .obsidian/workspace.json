@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Local Setup/Windows PC/Main.md",
+                "file": "-- TODO --/Main.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2368c8646708ce68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/Relational Database Service/Aurora Global Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236
+    "width": 379
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Local Setup/Windows PC/Main.md",
+                "file": "-- TODO --/Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Local Setup/Windows PC/Main.md",
+                "file": "-- TODO --/Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Local Setup/Windows PC/Main.md"
+                "file": "-- TODO --/Main.md"
               }
             }
           },
@@ -195,13 +207,32 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "d121ef53eb6e476d",
+  "active": "bd2714a80d3d3c1d",
   "lastOpenFiles": [
+    "-- TODO --/Questions.md",
+    "-- TODO --/Main.md",
+    "-- TODO --/Question Notes/What is a preamble.md",
+    "Search Engine Optimization/--Table of Contents--.md",
+    "Amazon Web Services/Services/Relational Database Service/Aurora Global Database.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/Routing, Internet gateway & Bastion.md",
+    "Amazon Web Services/Services/Virtual Private Cloud/--Table of Contents--.md",
+    "Search Engine Optimization/Crawling and indexing.md",
+    "Search Engine Optimization/Introduction.md",
+    "Amazon Web Services/Images/Pasted image 20230707023334.png",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/User Pool vs Identity Pool.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/--Table of Contents--.md",
+    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Identity Federation.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity and Access Management Basics.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity Policies.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Resources Policies.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Groups.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Roles/Service-linked Roles.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Roles/IAM Roles.md",
+    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Users.md",
+    "Local Setup/Windows PC/Main.md",
     "Amazon Web Services/Accounts/New Account Practice.md",
-    "Pasted image 20230707023334.png",
     "Amazon Web Services/Accounts/Identities.md",
     "Amazon Web Services/Accounts/AWS Account.md",
-    "Local Setup/Windows PC/Main.md",
     "Local Setup/Windows PC",
     "Amazon Web Services/Images/Pasted image 20230701150016.png",
     "Local Setup",
@@ -209,33 +240,15 @@
     "Amazon Web Services/Images/Pasted image 20230701150230.png",
     "Amazon Web Services/Images/Pasted image 20230701150259.png",
     "Amazon Web Services/Images/Pasted image 20230701150051.png",
-    "Search Engine Optimization/--Table of Contents--.md",
-    "Search Engine Optimization/Crawling and indexing.md",
-    "Search Engine Optimization/Introduction.md",
     "Search Engine Optimization",
     "Project Management/Methodologies/Agile/Gabrielle Benefield/Frankenbuilds - If Agile is so Good, Why Are Our Products so Bad Gabrielle Benefield GOTO 2012.md",
     "obsidian-it-notes",
     "Project Management/Methodologies/Agile/Allen Holub/How we can correct the mistakes made with Agile • Allen Holub.md",
     "Project Management/Methodologies/Agile/Gabrielle Benefield",
-    "Project Management/Methodologies/Agile/Allen Holub/No Estimates.md",
-    "Project Management/Methodologies/Agile/Agile is Dead • Pragmatic Dave Thomas.md",
     "Project Management/Methodologies/Agile/Allen Holub",
-    "Project Management/Methodologies/Agile/Introduction.md",
     "Project Management/Methodologies/Agile",
     "Project Management/Methodologies",
     "Project Management",
-    "Amazon Web Services/Services/Simple Notification Service/--Table of Contents--.md",
-    "Amazon Web Services/Services/Web Application Firewall/Basics.md",
-    "Amazon Web Services/Services/Simple Notification Service/Basics.md",
-    "Amazon Web Services/Services/Simple Queue Service/SQS Dead-Letter Queues.md",
-    "Amazon Web Services/Services/Simple Queue Service/SQS Delay Queues.md",
-    "Amazon Web Services/Services/Backup/Features.md",
-    "Amazon Web Services/Services/Backup/Basics.md",
-    "Amazon Web Services/Services/Simple Queue Service/Basics.md",
-    "Amazon Web Services/Tagging AWS Resources.md",
-    "Amazon Web Services/Services/Backup/--Table of Contents--.md",
-    "Amazon Web Services/Fundamentals/--Table of Contents--.md",
-    "Amazon Web Services/Fundamentals/Public vs Private Services.md",
     "Amazon Web Services/Untitled",
     "Amazon Web Services/Images/Pasted image 20230517042859.png",
     "Amazon Web Services/Images/Pasted image 20230517043342.png",
