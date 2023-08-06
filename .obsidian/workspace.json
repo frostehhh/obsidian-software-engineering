@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Preparation/Main.md",
+                "file": "Interview Preparation/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview Preparation/Main.md",
+                "file": "Interview Preparation/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview Preparation/Main.md",
+                "file": "Interview Preparation/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview Preparation/Main.md"
+                "file": "Interview Preparation/JavaScript.md"
               }
             }
           },
@@ -222,7 +222,7 @@
   "active": "c3cae931cd7fd63c",
   "lastOpenFiles": [
     "Interview Preparation/--Table of Contents--.md",
-    "Interview Preparation/Main.md",
+    "Interview Preparation/JavaScript.md",
     "-- TODO --/Questions.md",
     "Interview Preparation",
     "-- TODO --/Main.md",
