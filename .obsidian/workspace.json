@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "--Personal Notes--/Random/Test-Driven Development (TDD).md",
+                "file": "Interview Preparation/Main.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "--Personal Notes--/Random/Test-Driven Development (TDD).md",
+                "file": "Interview Preparation/Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "--Personal Notes--/Random/Test-Driven Development (TDD).md",
+                "file": "Interview Preparation/Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "--Personal Notes--/Random/Test-Driven Development (TDD).md"
+                "file": "Interview Preparation/Main.md"
               }
             }
           },
@@ -221,13 +221,16 @@
   },
   "active": "c3cae931cd7fd63c",
   "lastOpenFiles": [
+    "Interview Preparation/--Table of Contents--.md",
+    "Interview Preparation/Main.md",
+    "-- TODO --/Questions.md",
+    "Interview Preparation",
+    "-- TODO --/Main.md",
+    "--Personal Notes--/Unsorted Notes.md",
+    "--Personal Notes--/Random/Test-Driven Development (TDD).md",
     "--Personal Notes--/Cantrill SAA-C03 courses Remaining Time Estimate.md",
     "--Obsidian Template--/Related Course Demo.md",
-    "--Personal Notes--/Random/Test-Driven Development (TDD).md",
-    "--Personal Notes--/Unsorted Notes.md",
     "--Personal Notes--/Random",
-    "-- TODO --/Main.md",
-    "-- TODO --/Questions.md",
     "2023-07-27.md",
     "-- TODO --/Question Notes/What is a preamble.md",
     "Search Engine Optimization/--Table of Contents--.md",
@@ -247,8 +250,6 @@
     "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Roles/Service-linked Roles.md",
     "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Roles/IAM Roles.md",
     "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Users.md",
-    "Local Setup/Windows PC/Main.md",
-    "Amazon Web Services/Accounts/New Account Practice.md",
     "Local Setup/Windows PC",
     "Amazon Web Services/Images/Pasted image 20230701150016.png",
     "Local Setup",
@@ -261,7 +262,6 @@
     "Project Management/Methodologies/Agile/Allen Holub",
     "Project Management/Methodologies/Agile",
     "Project Management/Methodologies",
-    "Project Management",
     "Amazon Web Services/Images/Pasted image 20230517042859.png",
     "Amazon Web Services/Images/Pasted image 20230517043342.png",
     "Amazon Web Services/Images/Pasted image 20230521153320.png",
