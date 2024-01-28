@@ -1,4 +1,9 @@
-[[Secure Sockets Layer|SSL]] and [[Transport Layer Security|TLS]] both provide
+---
+aliases:
+  - Secure Sockets Layer and Transport Layer Security
+---
+
+**[[Secure Sockets Layer|SSL]] and [[Transport Layer Security|TLS]] both provide**
 - Privacy and Data Integrity between client and server
 - Privacy - communications are encrypted. See also [[Cybersecurity/Encryption/Encryption]]
 - Identity (server or client/server) verified
@@ -10,6 +15,9 @@
 ### Examples
 
 ![[TF-GEN-SSLTLS.png]]
+1. Determining communication protocol and cipher suites
+2. Authenticate server certificate and verifies the server has a private key for the next step
+3. Asymmetric to symmetric encryption
 #### Cipher Suite
 - set of protocols used by [[TLS]]. Includes these algorithms
 	- Algorithms included in a Cipher Suite
@@ -47,3 +55,4 @@ Both sides use the pre-master key to generate the <mark style="background: #FFF3
 
 
 ### References
+https://learn.cantrill.io/courses/2022818/lectures/45660745

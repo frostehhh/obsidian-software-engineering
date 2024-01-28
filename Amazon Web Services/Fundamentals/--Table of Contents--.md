@@ -1,5 +1,6 @@
 ---
-aliases: [Fundamentals Table of Contents]
+aliases:
+  - Fundamentals Table of Contents
 ---
 
 [[AWS Global Infrastructure]]

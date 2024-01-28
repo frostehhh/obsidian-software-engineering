@@ -8,48 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f261066854167def",
+            "id": "cb74895da10319c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Search Engine Optimization/--Table of Contents--.md",
+                "file": "System Design/Fundamental Concepts.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d121ef53eb6e476d",
+            "id": "0a911895f99feebd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "--Personal Notes--/Random/Test-Driven Development (TDD).md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.4.16"
               }
             }
           },
           {
-            "id": "c3cae931cd7fd63c",
+            "id": "372bb38ca1f0dbf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Preparation/JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2368c8646708ce68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Web Services/Services/Relational Database Service/Aurora Global Database.md",
+                "file": "Course Notes/Github - Learn Node.js Hardway/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +73,7 @@
               "state": {
                 "query": "",
                 "matchingCase": true,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -114,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379
+    "width": 297.0086555480957
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -130,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview Preparation/JavaScript.md",
+                "file": "Course Notes/Github - Learn Node.js Hardway/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview Preparation/JavaScript.md",
+                "file": "Course Notes/Github - Learn Node.js Hardway/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview Preparation/JavaScript.md"
+                "file": "Course Notes/Github - Learn Node.js Hardway/Introduction.md"
               }
             }
           },
@@ -219,37 +205,42 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "c3cae931cd7fd63c",
+  "active": "372bb38ca1f0dbf3",
   "lastOpenFiles": [
+    "Course Notes/Github - Learn Node.js Hardway/ch01-what-is-a-web-server-anyway.md",
+    "Course Notes/Github - Learn Node.js Hardway/Introduction.md",
+    "Course Notes/Introduction.md",
+    "Course Notes/Github - Learn Node.js Hardway",
+    "Course Notes",
+    "System Design/--Table of Contents--.md",
+    "System Design/Fundamental Concepts.md",
     "Interview Preparation/--Table of Contents--.md",
     "Interview Preparation/JavaScript.md",
-    "-- TODO --/Questions.md",
-    "Interview Preparation",
-    "-- TODO --/Main.md",
-    "--Personal Notes--/Unsorted Notes.md",
     "--Personal Notes--/Random/Test-Driven Development (TDD).md",
-    "--Personal Notes--/Cantrill SAA-C03 courses Remaining Time Estimate.md",
-    "--Obsidian Template--/Related Course Demo.md",
+    "Networking/Domain Name System/--Table of Contents--.md",
+    "System Design",
+    "Networking/Domain Name System/Domain Name System.md",
+    "Networking/Domain Name System/Why does DNS need a complex architecture.md",
+    "Networking/Domain Name System/Time To Live.md",
+    "Networking/Domain Name System/What do we want from DNS.md",
+    "Networking/Domain Name System/Registering a new domain.md",
+    "Networking/Domain Name System/DNS Record Types.md",
+    "Cybersecurity/SSL and TLS/SSL and TLS.md",
+    "--Personal Notes--/Random/How do emails work.md",
+    "--Personal Notes--/-- TODO --/Questions.md",
+    "Networking/Components/Port.md",
+    "--Personal Notes--/-- TODO --/Question Notes/What is HTTP and HTTPS.md",
+    "Cybersecurity/SSL and TLS/Secure Sockets Layer.md",
+    "Cybersecurity/SSL and TLS/Transport Layer Security.md",
+    "Networking/OSI 7-Layer Model/Application.md",
+    "Networking/OSI 7-Layer Model/OSI 7-Layer Model.md",
+    "Networking/OSI 7-Layer Model/--Table of Contents--.md",
+    "Networking/OSI 7-Layer Model/Introduction.md",
+    "--Attachments--",
+    "Cloud Computing/Images/Pasted image 20221229142305.png",
+    "Interview Preparation",
     "--Personal Notes--/Random",
-    "2023-07-27.md",
-    "-- TODO --/Question Notes/What is a preamble.md",
-    "Search Engine Optimization/--Table of Contents--.md",
-    "Amazon Web Services/Services/Relational Database Service/Aurora Global Database.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/Routing, Internet gateway & Bastion.md",
-    "Amazon Web Services/Services/Virtual Private Cloud/--Table of Contents--.md",
-    "Search Engine Optimization/Crawling and indexing.md",
-    "Search Engine Optimization/Introduction.md",
     "Amazon Web Services/Images/Pasted image 20230707023334.png",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/User Pool vs Identity Pool.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/--Table of Contents--.md",
-    "Amazon Web Services/Accounts/Identity and Access Management (IAM)/Identity Federation.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity and Access Management Basics.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Identity Policies.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/Resources Policies.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Groups.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Roles/Service-linked Roles.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Roles/IAM Roles.md",
-    "Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Users.md",
     "Local Setup/Windows PC",
     "Amazon Web Services/Images/Pasted image 20230701150016.png",
     "Local Setup",
@@ -258,14 +249,9 @@
     "Amazon Web Services/Images/Pasted image 20230701150051.png",
     "Search Engine Optimization",
     "obsidian-it-notes",
-    "Project Management/Methodologies/Agile/Gabrielle Benefield",
-    "Project Management/Methodologies/Agile/Allen Holub",
-    "Project Management/Methodologies/Agile",
-    "Project Management/Methodologies",
     "Amazon Web Services/Images/Pasted image 20230517042859.png",
     "Amazon Web Services/Images/Pasted image 20230517043342.png",
     "Amazon Web Services/Images/Pasted image 20230521153320.png",
-    "Amazon Web Services/Images/Pasted image 20230517043205.png",
-    "Pasted image 20230522132544.png"
+    "Amazon Web Services/Images/Pasted image 20230517043205.png"
   ]
 }

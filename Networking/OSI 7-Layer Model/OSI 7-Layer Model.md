@@ -18,3 +18,4 @@ It helps us visualize how network systems work.
 
 ### References
 [NETWORKWORLD - The OSI model explained and how to easily remember its 7 layers](https://www.networkworld.com/article/3239677/the-osi-model-explained-and-how-to-easily-remember-its-7-layers.html#:~:text=The%207%20layers%20of%20the,Presentation%3B%20Layer%207%E2%80%94Application.)
+[Cloudflare Fundamentals - Network layers](https://developers.cloudflare.com/fundamentals/concepts/network-layers/)
