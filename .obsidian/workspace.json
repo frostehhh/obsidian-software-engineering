@@ -35,14 +35,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Notes/Github - Learn Node.js Hardway/Introduction.md",
+                "file": "Amazon Web Services/Services/DynamoDB/-- Table of Contents --.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a646646795b995c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Web Services/Services/DynamoDB/Architecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course Notes/Github - Learn Node.js Hardway/Introduction.md",
+                "file": "Amazon Web Services/Services/DynamoDB/Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course Notes/Github - Learn Node.js Hardway/Introduction.md",
+                "file": "Amazon Web Services/Services/DynamoDB/Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course Notes/Github - Learn Node.js Hardway/Introduction.md"
+                "file": "Amazon Web Services/Services/DynamoDB/Architecture.md"
               }
             }
           },
@@ -205,10 +217,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "372bb38ca1f0dbf3",
+  "active": "6a646646795b995c",
   "lastOpenFiles": [
+    "Amazon Web Services/Services/DynamoDB/-- Table of Contents --.md",
     "Course Notes/Github - Learn Node.js Hardway/ch01-what-is-a-web-server-anyway.md",
+    "Course Notes/Github - Learn Node.js Hardway/ch04-logtar-our-logging-library.md",
+    "Course Notes/Github - Learn Node.js Hardway/Course Notes.md",
     "Course Notes/Github - Learn Node.js Hardway/Introduction.md",
+    "Course Notes/Github - Learn Node.js Hardway/ch03-working-with-files.md",
+    "Course Notes/Github - Learn Node.js Hardway/ch02-your-first-nodejs-server.md",
     "Course Notes/Introduction.md",
     "Course Notes/Github - Learn Node.js Hardway",
     "Course Notes",
@@ -231,11 +248,6 @@
     "Networking/Components/Port.md",
     "--Personal Notes--/-- TODO --/Question Notes/What is HTTP and HTTPS.md",
     "Cybersecurity/SSL and TLS/Secure Sockets Layer.md",
-    "Cybersecurity/SSL and TLS/Transport Layer Security.md",
-    "Networking/OSI 7-Layer Model/Application.md",
-    "Networking/OSI 7-Layer Model/OSI 7-Layer Model.md",
-    "Networking/OSI 7-Layer Model/--Table of Contents--.md",
-    "Networking/OSI 7-Layer Model/Introduction.md",
     "--Attachments--",
     "Cloud Computing/Images/Pasted image 20221229142305.png",
     "Interview Preparation",
