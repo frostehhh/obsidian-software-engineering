@@ -47,14 +47,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Services/Services/DynamoDB/Architecture.md",
+                "file": "Course Notes/Github - donnemartin system-design-primer/Main.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "633db731397da9fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course Notes/Github - donnemartin system-design-primer/Step 2 - Review the scalability article.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Services/DynamoDB/Architecture.md",
+                "file": "Course Notes/Github - donnemartin system-design-primer/Step 2 - Review the scalability article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Services/DynamoDB/Architecture.md",
+                "file": "Course Notes/Github - donnemartin system-design-primer/Step 2 - Review the scalability article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Services/DynamoDB/Architecture.md"
+                "file": "Course Notes/Github - donnemartin system-design-primer/Step 2 - Review the scalability article.md"
               }
             }
           },
@@ -217,22 +229,30 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6a646646795b995c",
+  "active": "633db731397da9fd",
   "lastOpenFiles": [
-    "Amazon Web Services/Services/DynamoDB/-- Table of Contents --.md",
+    "Course Notes/Github - donnemartin system-design-primer/Main.md",
+    "Course Notes/Github - donnemartin system-design-primer/Step 2 - Review the scalability article.md",
+    "Course Notes/Github - donnemartin system-design-primer/Introduction.md",
     "Course Notes/Github - Learn Node.js Hardway/ch01-what-is-a-web-server-anyway.md",
-    "Course Notes/Github - Learn Node.js Hardway/ch04-logtar-our-logging-library.md",
     "Course Notes/Github - Learn Node.js Hardway/Course Notes.md",
     "Course Notes/Github - Learn Node.js Hardway/Introduction.md",
+    "Course Notes/Introduction.md",
+    "Interview Preparation/--Table of Contents--.md",
+    "Course Notes/Github - donnemartin system-design-primer",
+    "Interview Preparation/JavaScript.md",
+    "Search Engine Optimization/--Table of Contents--.md",
+    "Search Engine Optimization/Crawling and indexing.md",
+    "Search Engine Optimization/Introduction.md",
+    "System Design/Fundamental Concepts.md",
+    "System Design/--Table of Contents--.md",
+    "Amazon Web Services/Services/DynamoDB/Architecture.md",
+    "Amazon Web Services/Services/DynamoDB/-- Table of Contents --.md",
+    "Course Notes/Github - Learn Node.js Hardway/ch04-logtar-our-logging-library.md",
     "Course Notes/Github - Learn Node.js Hardway/ch03-working-with-files.md",
     "Course Notes/Github - Learn Node.js Hardway/ch02-your-first-nodejs-server.md",
-    "Course Notes/Introduction.md",
     "Course Notes/Github - Learn Node.js Hardway",
     "Course Notes",
-    "System Design/--Table of Contents--.md",
-    "System Design/Fundamental Concepts.md",
-    "Interview Preparation/--Table of Contents--.md",
-    "Interview Preparation/JavaScript.md",
     "--Personal Notes--/Random/Test-Driven Development (TDD).md",
     "Networking/Domain Name System/--Table of Contents--.md",
     "System Design",
@@ -241,13 +261,6 @@
     "Networking/Domain Name System/Time To Live.md",
     "Networking/Domain Name System/What do we want from DNS.md",
     "Networking/Domain Name System/Registering a new domain.md",
-    "Networking/Domain Name System/DNS Record Types.md",
-    "Cybersecurity/SSL and TLS/SSL and TLS.md",
-    "--Personal Notes--/Random/How do emails work.md",
-    "--Personal Notes--/-- TODO --/Questions.md",
-    "Networking/Components/Port.md",
-    "--Personal Notes--/-- TODO --/Question Notes/What is HTTP and HTTPS.md",
-    "Cybersecurity/SSL and TLS/Secure Sockets Layer.md",
     "--Attachments--",
     "Cloud Computing/Images/Pasted image 20221229142305.png",
     "Interview Preparation",
@@ -260,7 +273,6 @@
     "Amazon Web Services/Images/Pasted image 20230701150259.png",
     "Amazon Web Services/Images/Pasted image 20230701150051.png",
     "Search Engine Optimization",
-    "obsidian-it-notes",
     "Amazon Web Services/Images/Pasted image 20230517042859.png",
     "Amazon Web Services/Images/Pasted image 20230517043342.png",
     "Amazon Web Services/Images/Pasted image 20230521153320.png",
