@@ -13,3 +13,6 @@ Why is scalability so hard? Because scalability cannot be an after-thought. It r
 
 # Latency vs throughput
 **Latency** is the time to perform some action or to produce some result. **Throughput** is the number of such actions or results per unit of time. Generally, you should aim for **maximal throughput** with **acceptable latency**.
+## Example
+The latency is: 8 hours.
+The throughput is: 120 cars / day or 5 cars / hour.

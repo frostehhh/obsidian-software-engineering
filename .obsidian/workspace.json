@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Notes/Github - donnemartin system-design-primer/Step 2 - Review the scalability article.md",
+                "file": "Course Notes/Github - donnemartin system-design-primer/Main.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course Notes/Github - donnemartin system-design-primer/Step 2 - Review the scalability article.md",
+                "file": "Course Notes/Github - donnemartin system-design-primer/Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course Notes/Github - donnemartin system-design-primer/Step 2 - Review the scalability article.md",
+                "file": "Course Notes/Github - donnemartin system-design-primer/Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course Notes/Github - donnemartin system-design-primer/Step 2 - Review the scalability article.md"
+                "file": "Course Notes/Github - donnemartin system-design-primer/Main.md"
               }
             }
           },
@@ -231,8 +231,8 @@
   },
   "active": "633db731397da9fd",
   "lastOpenFiles": [
-    "Course Notes/Github - donnemartin system-design-primer/Main.md",
     "Course Notes/Github - donnemartin system-design-primer/Step 2 - Review the scalability article.md",
+    "Course Notes/Github - donnemartin system-design-primer/Main.md",
     "Course Notes/Github - donnemartin system-design-primer/Introduction.md",
     "Course Notes/Github - Learn Node.js Hardway/ch01-what-is-a-web-server-anyway.md",
     "Course Notes/Github - Learn Node.js Hardway/Course Notes.md",
