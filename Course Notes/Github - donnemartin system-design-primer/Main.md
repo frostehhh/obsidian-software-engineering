@@ -16,3 +16,6 @@ Why is scalability so hard? Because scalability cannot be an after-thought. It r
 ## Example
 The latency is: 8 hours.
 The throughput is: 120 cars / day or 5 cars / hour.
+
+
+# Availability vs consistency
