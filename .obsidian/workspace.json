@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Notes/Github - donnemartin system-design-primer/Main.md",
+                "file": "Course Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course Notes/Github - donnemartin system-design-primer/Main.md",
+                "file": "Course Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course Notes/Github - donnemartin system-design-primer/Main.md",
+                "file": "Course Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course Notes/Github - donnemartin system-design-primer/Main.md"
+                "file": "Course Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Introduction.md"
               }
             }
           },
@@ -231,8 +231,12 @@
   },
   "active": "633db731397da9fd",
   "lastOpenFiles": [
-    "Course Notes/Github - donnemartin system-design-primer/Step 2 - Review the scalability article.md",
     "Course Notes/Github - donnemartin system-design-primer/Main.md",
+    "Course Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Introduction.md",
+    "Course Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering",
+    "Course Notes/Hussein Nasser",
+    "Course Notes/Untitled.md",
+    "Course Notes/Github - donnemartin system-design-primer/Step 2 - Review the scalability article.md",
     "Course Notes/Github - donnemartin system-design-primer/Introduction.md",
     "Course Notes/Github - Learn Node.js Hardway/ch01-what-is-a-web-server-anyway.md",
     "Course Notes/Github - Learn Node.js Hardway/Course Notes.md",
@@ -259,8 +263,6 @@
     "Networking/Domain Name System/Domain Name System.md",
     "Networking/Domain Name System/Why does DNS need a complex architecture.md",
     "Networking/Domain Name System/Time To Live.md",
-    "Networking/Domain Name System/What do we want from DNS.md",
-    "Networking/Domain Name System/Registering a new domain.md",
     "--Attachments--",
     "Cloud Computing/Images/Pasted image 20221229142305.png",
     "Interview Preparation",
@@ -268,11 +270,9 @@
     "Amazon Web Services/Images/Pasted image 20230707023334.png",
     "Local Setup/Windows PC",
     "Amazon Web Services/Images/Pasted image 20230701150016.png",
-    "Local Setup",
     "Amazon Web Services/Images/Pasted image 20230701150230.png",
     "Amazon Web Services/Images/Pasted image 20230701150259.png",
     "Amazon Web Services/Images/Pasted image 20230701150051.png",
-    "Search Engine Optimization",
     "Amazon Web Services/Images/Pasted image 20230517042859.png",
     "Amazon Web Services/Images/Pasted image 20230517043342.png",
     "Amazon Web Services/Images/Pasted image 20230521153320.png",
