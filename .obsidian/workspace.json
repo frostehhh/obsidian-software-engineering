@@ -37,9 +37,11 @@
             "id": "a10942d1631f3e2d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "System Design/--Table of Contents--.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -118,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Domain Name System/Domain Name System.md",
+                "file": "System Design/--Table of Contents--.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Domain Name System/Domain Name System.md",
+                "file": "System Design/--Table of Contents--.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Domain Name System/Domain Name System.md"
+                "file": "System Design/--Table of Contents--.md"
               }
             }
           },
@@ -209,6 +211,8 @@
   },
   "active": "a10942d1631f3e2d",
   "lastOpenFiles": [
+    "System Design/Fundamental Concepts.md",
+    "System Design/--Table of Contents--.md",
     "Networking/Domain Name System/Registering a new domain.md",
     "Networking/Domain Name System/What do we want from DNS.md",
     "Networking/Domain Name System/Domain Name System.md",
@@ -234,8 +238,6 @@
     "Search Engine Optimization/--Table of Contents--.md",
     "Search Engine Optimization/Crawling and indexing.md",
     "Search Engine Optimization/Introduction.md",
-    "System Design/Fundamental Concepts.md",
-    "System Design/--Table of Contents--.md",
     "Amazon Web Services/Services/DynamoDB/Architecture.md",
     "Amazon Web Services/Services/DynamoDB/-- Table of Contents --.md",
     "Course Notes/Github - Learn Node.js Hardway",
