@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "633db731397da9fd",
+            "id": "a10942d1631f3e2d",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Domain Name System/What do we want from DNS.md",
+                "file": "Course Notes/Github - donnemartin system-design-primer/Introduction.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,31 +22,19 @@
             }
           },
           {
-            "id": "1259d875c7c9c93f",
+            "id": "b08a7d4b507e2406",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Domain Name System/Domain Name System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a10942d1631f3e2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Design/--Table of Contents--.md",
+                "file": "Course Notes/Github - donnemartin system-design-primer/Database.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "master-slave",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -100,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design/--Table of Contents--.md",
+                "file": "Course Notes/Github - donnemartin system-design-primer/Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design/--Table of Contents--.md",
+                "file": "Course Notes/Github - donnemartin system-design-primer/Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design/--Table of Contents--.md"
+                "file": "Course Notes/Github - donnemartin system-design-primer/Database.md"
               }
             }
           },
@@ -209,37 +198,37 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "a10942d1631f3e2d",
+  "active": "b08a7d4b507e2406",
   "lastOpenFiles": [
-    "System Design/Fundamental Concepts.md",
-    "System Design/--Table of Contents--.md",
-    "Networking/Domain Name System/Registering a new domain.md",
+    "Course Notes/Github - donnemartin system-design-primer/Introduction.md",
+    "Course Notes/Github - donnemartin system-design-primer/Main.md",
+    "Course Notes/Github - donnemartin system-design-primer/Database.md",
+    "Amazon Web Services/Services/Relational Database Service/ACID vs BASE.md",
+    "Course Notes/Github - donnemartin system-design-primer/Application layer.md",
+    "Course Notes/Github - donnemartin system-design-primer/Reverse proxy.md",
+    "Course Notes/Github - donnemartin system-design-primer/Load Balancer.md",
+    "Amazon Web Services/Services/Route 53/--Table of Contents--.md",
+    "Amazon Web Services/Services/Route 53/Weighted Routing.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/--Table of Contents--.md",
+    "Amazon Web Services/Services/Relational Database Service/Aurora Multi-master.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/Auto-Scaling Groups.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/Launch Configurations and Launch Templates.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/Application and Network Load Balancer.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/ASG Lifecycle Hooks.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/Architecture.md",
+    "Amazon Web Services/Services/Elastic Load Balancer/Evolution of the Elastic Load Balancer.md",
+    "Course Notes/Github - donnemartin system-design-primer/Content Delivery Network.md",
     "Networking/Domain Name System/What do we want from DNS.md",
     "Networking/Domain Name System/Domain Name System.md",
+    "Course Notes/Github - donnemartin system-design-primer/Domain Name System.md",
+    "Course Notes/Github - donnemartin system-design-primer/Step 2 - Review the scalability article.md",
+    "System Design/--Table of Contents--.md",
+    "System Design/Fundamental Concepts.md",
+    "Networking/Domain Name System/Registering a new domain.md",
     "Networking/Domain Name System/Time To Live.md",
-    "Networking/Domain Name System/DNS Record Types.md",
-    "Interview Preparation/JavaScript.md",
-    "Interview Preparation/--Table of Contents--.md",
-    "Networking/Domain Name System/Why does DNS need a complex architecture.md",
-    "Networking/Components/Port.md",
-    "Local Setup/Windows PC/Main.md",
-    "Course Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Introduction.md",
-    "Course Notes/Github - donnemartin system-design-primer/Main.md",
     "Course Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering",
     "Course Notes/Hussein Nasser",
-    "Course Notes/Untitled.md",
-    "Course Notes/Github - donnemartin system-design-primer/Step 2 - Review the scalability article.md",
-    "Course Notes/Github - donnemartin system-design-primer/Introduction.md",
-    "Course Notes/Github - Learn Node.js Hardway/ch01-what-is-a-web-server-anyway.md",
-    "Course Notes/Github - Learn Node.js Hardway/Course Notes.md",
-    "Course Notes/Github - Learn Node.js Hardway/Introduction.md",
-    "Course Notes/Introduction.md",
     "Course Notes/Github - donnemartin system-design-primer",
-    "Search Engine Optimization/--Table of Contents--.md",
-    "Search Engine Optimization/Crawling and indexing.md",
-    "Search Engine Optimization/Introduction.md",
-    "Amazon Web Services/Services/DynamoDB/Architecture.md",
-    "Amazon Web Services/Services/DynamoDB/-- Table of Contents --.md",
     "Course Notes/Github - Learn Node.js Hardway",
     "Course Notes",
     "System Design",

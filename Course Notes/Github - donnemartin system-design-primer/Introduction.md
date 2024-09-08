@@ -1,0 +1,8 @@
+[[Course Notes/Github - donnemartin system-design-primer/Main|Main]]
+[[Step 2 - Review the scalability article]]
+[[Course Notes/Github - donnemartin system-design-primer/Domain Name System|Domain Name System]]
+[[Content Delivery Network]]
+[[Load Balancer]]
+[[Reverse proxy]]
+[[Application layer]]
+[[Database]]

@@ -19,7 +19,7 @@ The throughput is: 120 cars / day or 5 cars / hour.
 
 
 # Availability vs consistency
-In a distributed computer system, you can only support two of the following guarantees:
+In a distributed computer system, you can only support two of the following guarantees. This is known as the CAP Theorem:
 
 - **Consistency** - Every read receives the most recent write or an error
 - **Availability** - Every request receives a response, without guarantee that it contains the most recent version of the information
