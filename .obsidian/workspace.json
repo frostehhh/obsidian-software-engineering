@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9e97afeb128b457f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,7 +208,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "b08a7d4b507e2406",
+  "active": "9e97afeb128b457f",
   "lastOpenFiles": [
     "Course Notes/Github - donnemartin system-design-primer/Introduction.md",
     "Course Notes/Github - donnemartin system-design-primer/Main.md",
