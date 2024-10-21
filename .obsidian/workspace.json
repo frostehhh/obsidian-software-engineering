@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6141e630b5745b1a",
+        "id": "614ac946fd5b4148",
         "type": "tabs",
         "children": [
           {
-            "id": "a10942d1631f3e2d",
+            "id": "ebb728044e160c40",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,35 +18,27 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "--Table of Contents--"
             }
           },
           {
-            "id": "7e3be3ca2db0cc30",
+            "id": "9e29891c087e835b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Notes/Github - donnemartin system-design-primer/Database.md",
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "8969733ad8f662a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Web Services/Services/Relational Database Service/ACID vs BASE.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "-- Table of Contents --"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +58,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -77,11 +71,13 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": true,
+                "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -89,22 +85,26 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
-            "id": "0fc0c9c5268a5851",
+            "id": "0c3db3a424d680e9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 297.0086555480957
+    "width": 346.0026054382324
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Services/Relational Database Service/ACID vs BASE.md",
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for -- Table of Contents --"
             }
           },
           {
@@ -137,10 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Services/Relational Database Service/ACID vs BASE.md",
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from -- Table of Contents --"
             }
           },
           {
@@ -151,7 +155,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -160,32 +166,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Services/Services/Relational Database Service/ACID vs BASE.md"
-              }
+                "file": "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of -- Table of Contents --"
             }
           },
           {
-            "id": "6fb2c6e933107257",
+            "id": "a8026435152618c5",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "aa771a6690285368",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "b7a897f0c88ab5ce",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
             }
           }
         ],
@@ -193,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301,
+    "width": 390,
     "collapsed": true
   },
   "left-ribbon": {
@@ -209,53 +203,53 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "8969733ad8f662a8",
+  "active": "9e29891c087e835b",
   "lastOpenFiles": [
-    "Course Notes/Github - donnemartin system-design-primer/Database.md",
-    "Course Notes/Github - donnemartin system-design-primer/Main.md",
-    "Course Notes/Github - donnemartin system-design-primer/--Table of Contents--.md",
-    "Course Notes/Github - donnemartin system-design-primer/Step 2 - Review the scalability article.md",
-    "Course Notes/Github - donnemartin system-design-primer/Application layer.md",
-    "Course Notes/Github - donnemartin system-design-primer/Content Delivery Network.md",
-    "Interview Preparation/--Table of Contents--.md",
-    "Cybersecurity/Encryption/--Table of Contents--.md",
-    "Kubernetes/--Table of Contents--.md",
-    "Course Notes/Github - donnemartin system-design-primer/Load Balancer.md",
-    "Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
-    "Course Notes/Introduction.md",
-    "Course Notes/Github - donnemartin system-design-primer/Reverse proxy.md",
-    "Course Notes/Github - donnemartin system-design-primer/Domain Name System.md",
-    "Amazon Web Services/Services/Relational Database Service/ACID vs BASE.md",
-    "Amazon Web Services/Services/Route 53/--Table of Contents--.md",
-    "Amazon Web Services/Services/Route 53/Weighted Routing.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Encryption.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Elastic Block Store(EBS).md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Horizontal vs Vertical Scaling.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Instance Metadata.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Instance Status Checks and AutoRecovery.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Instance Store Volumes.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Instance Types.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Network Interfaces, Instance IPs and DNS.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Purchase Options.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Reserved Instances.md",
+    "Amazon Web Services/Services/Elastic Compute Cloud/Storage Refreshser.md",
     "Amazon Web Services/Services/Elastic Load Balancer/--Table of Contents--.md",
+    "Amazon Web Services/Services/Relational Database Service/--Table of Contents--.md",
+    "Amazon Web Services/Services/Relational Database Service/Read Replicas.md",
+    "Amazon Web Services/Services/Relational Database Service/Backup and Restore.md",
+    "Amazon Web Services/Services/Relational Database Service/MultiAZ Deployment Types.md",
+    "Amazon Web Services/Services/Relational Database Service/Relational Database Service (RDS) Architecture.md",
+    "Amazon Web Services/Services/Relational Database Service/DEMO - Migrating EC2 DB into RDS.md",
+    "Course Notes/Github - donnemartin system-design-primer/--Table of Contents--.md",
+    "Amazon Web Services/Services/Relational Database Service/Databases on EC2.md",
+    "Amazon Web Services/Services/Relational Database Service/Database Refresher & Models.md",
+    "Amazon Web Services/Services/Relational Database Service/Aurora Global Database.md",
+    "Amazon Web Services/Services/Relational Database Service/Amazon Aurora Architecture.md",
     "Amazon Web Services/Services/Relational Database Service/Aurora Multi-master.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/Auto-Scaling Groups.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/Launch Configurations and Launch Templates.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/Application and Network Load Balancer.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/ASG Lifecycle Hooks.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/Architecture.md",
-    "Amazon Web Services/Services/Elastic Load Balancer/Evolution of the Elastic Load Balancer.md",
-    "Networking/Domain Name System/What do we want from DNS.md",
+    "Amazon Web Services/Services/Relational Database Service/Aurora Serverless.md",
+    "Amazon Web Services/Services/Relational Database Service/ACID vs BASE.md",
     "Course Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering",
     "Course Notes/Hussein Nasser",
     "Course Notes/Github - donnemartin system-design-primer",
+    "System Design",
     "Course Notes/Github - Learn Node.js Hardway",
     "Course Notes",
-    "System Design",
-    "--Attachments--",
-    "Cloud Computing/Images/Pasted image 20221229142305.png",
-    "Interview Preparation",
-    "--Personal Notes--/Random",
-    "Amazon Web Services/Images/Pasted image 20230707023334.png",
+    "--Personal Notes--/-- TODO --/Question Notes",
+    "--Personal Notes--/-- TODO --",
+    "Search Engine Optimization",
     "Local Setup/Windows PC",
-    "Amazon Web Services/Images/Pasted image 20230701150016.png",
-    "Amazon Web Services/Images/Pasted image 20230701150230.png",
+    "Amazon Web Services/Images/Pasted image 20230707023334.png",
     "Amazon Web Services/Images/Pasted image 20230701150259.png",
+    "Amazon Web Services/Images/Pasted image 20230701150230.png",
     "Amazon Web Services/Images/Pasted image 20230701150051.png",
-    "Amazon Web Services/Images/Pasted image 20230517042859.png",
-    "Amazon Web Services/Images/Pasted image 20230517043342.png",
-    "Amazon Web Services/Images/Pasted image 20230521153320.png",
-    "Amazon Web Services/Images/Pasted image 20230517043205.png"
+    "Amazon Web Services/Images/Pasted image 20230701150016.png",
+    "Amazon Web Services/Images/Pasted image 20230522132619.png",
+    "Amazon Web Services/Images/Pasted image 20230522132427.png",
+    "Amazon Web Services/Images/Pasted image 20230522132206.png",
+    "Amazon Web Services/Images/Pasted image 20230522132004.png",
+    "Amazon Web Services/Images/Pasted image 20230521153902.png"
   ]
 }
