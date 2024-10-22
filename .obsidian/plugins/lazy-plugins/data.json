@@ -49,6 +49,15 @@
       },
       "obsidian-tasks-plugin": {
         "startupType": "instant"
+      },
+      "ai-image-analyzer": {
+        "startupType": "disabled"
+      },
+      "omnisearch": {
+        "startupType": "disabled"
+      },
+      "text-extractor": {
+        "startupType": "disabled"
       }
     }
   }

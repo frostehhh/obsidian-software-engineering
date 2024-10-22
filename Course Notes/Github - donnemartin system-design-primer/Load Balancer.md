@@ -23,3 +23,7 @@ For this, we can set up multiple load balancers in the following modes
 	Typically checks source IP, destination IP and ports in the header
 1. [Layer 7](https://github.com/donnemartin/system-design-primer?tab=readme-ov-file#layer-7-load-balancing)
 	Checks content of packets
+
+
+# References
+https://github.com/donnemartin/system-design-primer?tab=readme-ov-file#load-balancer

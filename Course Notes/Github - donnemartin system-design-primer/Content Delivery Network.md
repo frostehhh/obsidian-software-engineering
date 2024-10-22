@@ -11,3 +11,6 @@ Better for sites with small traffic and content that isn't updated frequently.
 
 ## Pull CDN
 When users request data, the CDN pulls content from the corresponding server
+
+# References
+https://github.com/donnemartin/system-design-primer?tab=readme-ov-file#domain-name-system

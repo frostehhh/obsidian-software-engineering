@@ -20,3 +20,6 @@ A reverse proxy is a web server that centralizes internal services and provides 
 ### Disadvantage(s): reverse proxy
 - Introducing a reverse proxy results in increased complexity.
 - A single reverse proxy is a single point of failure, configuring multiple reverse proxies (ie a [failover](https://en.wikipedia.org/wiki/Failover)) further increases complexity.
+
+# References
+https://github.com/donnemartin/system-design-primer?tab=readme-ov-file#reverse-proxy-web-server

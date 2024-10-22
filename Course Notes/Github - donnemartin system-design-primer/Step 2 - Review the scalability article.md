@@ -15,3 +15,6 @@ Cache is a key-value store that stores data between application and primary data
 Async processing avoids idle waiting times.
 1. Perform resource-intensive task prior to retrieval of relevant data
 2. Wait for prompt to perform resource-intensive task, and on prompt, allow user to perform other tasks while waiting for the task to accomplish
+
+# References
+https://github.com/donnemartin/system-design-primer?tab=readme-ov-file#step-2-review-the-scalability-article
