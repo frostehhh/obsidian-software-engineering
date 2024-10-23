@@ -8,3 +8,4 @@ Source - https://github.com/donnemartin/system-design-primer
 [[Reverse proxy]]
 [[Application layer]]
 [[Database]]
+[[Cache]]

@@ -1,17 +1,10 @@
 [
-  "table-editor-obsidian",
-  "obsidian-kanban",
-  "notion-like-tables",
-  "obsidian-excalidraw-plugin",
-  "code-block-copy",
   "obsidian-icon-folder",
   "obsidian-git",
-  "obsidian-tasks-plugin",
   "obsidian-style-settings",
   "obsidian-linter",
-  "highlightr-plugin",
   "obsidian-markdown-formatting-assistant-plugin",
-  "obsidian-mind-map",
-  "simple-embeds",
-  "lazy-plugins"
+  "lazy-plugins",
+  "omnisearch",
+  "text-extractor"
 ]
