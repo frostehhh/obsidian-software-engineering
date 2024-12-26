@@ -1,5 +1,5 @@
 [[Amazon Web Services/Services/Simple Storage Service/Basics]]
-[[Security]]
+[[Amazon Web Services/Services/Simple Storage Service/Security]]
 [[S3 Static Website Hosting]]
 [[Object Versioning and MFA Delete]]
 [[Performance Optimization]]

@@ -9,3 +9,6 @@ Source - https://github.com/donnemartin/system-design-primer
 [[Application layer]]
 [[Database]]
 [[Cache]]
+[[Asynchronism]]
+[[Communication]]
+[[Course Notes/Github - donnemartin system-design-primer/Security|Security]]
