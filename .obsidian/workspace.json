@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Preparation/Javascript/JavaScript.md",
+                "file": "Quality Assurance/Types of Automation Tests.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript"
+              "title": "Types of Automation Tests"
             }
           }
         ],
@@ -204,10 +204,13 @@
   },
   "active": "7105550f8c321fdf",
   "lastOpenFiles": [
+    "Quality Assurance/Untitled.md",
+    "Quality Assurance/Types of Automation Tests.md",
+    "Interview Preparation/Javascript/JavaScript.md",
+    "Quality Assurance",
     "Interview Preparation/--Table of Contents--.md",
     "Course Notes/Github - donnemartin system-design-primer/Asynchronism.md",
     "Course Notes/Github - donnemartin system-design-primer/--Table of Contents--.md",
-    "Interview Preparation/Javascript/JavaScript.md",
     "Interview Preparation/Javascript",
     "Course Notes/Github - donnemartin system-design-primer/Application layer.md",
     "Course Notes/Github - donnemartin system-design-primer/Cache.md",
@@ -229,7 +232,6 @@
     "Course Notes/Github - donnemartin system-design-primer/Latency vs Throughput.md",
     "latency vs throughput.md",
     "Amazon Web Services/Services/Relational Database Service/ACID vs BASE.md",
-    "Amazon Web Services/Services/Relational Database Service/Amazon Aurora Architecture.md",
     "Course Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering",
     "Course Notes/Hussein Nasser",
     "Course Notes/Github - donnemartin system-design-primer",
@@ -239,7 +241,6 @@
     "--Attachments--",
     "Cloud Computing/Images/Pasted image 20221229142305.png",
     "Interview Preparation",
-    "--Personal Notes--/Random",
     "Amazon Web Services/Images/Pasted image 20230707023334.png",
     "Amazon Web Services/Images/Pasted image 20230701150016.png",
     "Amazon Web Services/Images/Pasted image 20230701150230.png",
