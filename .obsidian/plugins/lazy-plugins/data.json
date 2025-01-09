@@ -58,6 +58,15 @@
       },
       "text-extractor": {
         "startupType": "instant"
+      },
+      "alx-folder-note": {
+        "startupType": "disabled"
+      },
+      "folder-note-core": {
+        "startupType": "disabled"
+      },
+      "open-vscode": {
+        "startupType": "instant"
       }
     }
   }
