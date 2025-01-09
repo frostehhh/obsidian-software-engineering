@@ -7,5 +7,6 @@
   "lazy-plugins",
   "omnisearch",
   "text-extractor",
-  "open-vscode"
+  "open-vscode",
+  "folder-notes"
 ]

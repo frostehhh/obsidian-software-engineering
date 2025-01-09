@@ -67,6 +67,15 @@
       },
       "open-vscode": {
         "startupType": "instant"
+      },
+      "folder-note-plugin": {
+        "startupType": "instant"
+      },
+      "folder-notes": {
+        "startupType": "instant"
+      },
+      "zoottelkeeper-obsidian-plugin": {
+        "startupType": "instant"
       }
     }
   }
