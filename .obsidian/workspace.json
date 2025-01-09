@@ -200,9 +200,7 @@
       "command-palette:Open command palette": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "omnisearch:Omnisearch": false,
-      "open-vscode:VSCode": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "open-vscode:VSCode": false
     }
   },
   "active": "d5efdcf7d0515736",
