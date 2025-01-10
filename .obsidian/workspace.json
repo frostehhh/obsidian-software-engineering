@@ -8,23 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a10942d1631f3e2d",
+            "id": "55ec7c6367ca4214",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Notes/Github - donnemartin system-design-primer/--Table of Contents--.md",
+                "file": "Spring/Spring.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "--Table of Contents--"
+              "title": "Spring"
             }
           },
           {
-            "id": "d5efdcf7d0515736",
+            "id": "a885c0ff5cf55cf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Instance Metadata.md",
+                "file": "Spring/Spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Instance Metadata"
+              "title": "Backlinks for Spring"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Services/Services/Elastic Compute Cloud/Instance Metadata.md",
+                "file": "Spring/Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Instance Metadata"
+              "title": "Outgoing links from Spring"
             }
           },
           {
@@ -144,7 +144,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -156,10 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course Notes/Github - donnemartin system-design-primer/Application layer.md"
+                "file": "Spring/Spring.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Application layer"
+              "title": "Outline of Spring"
             }
           },
           {
@@ -178,8 +178,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -187,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301,
-    "collapsed": true
+    "width": 397
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,21 +199,23 @@
       "command-palette:Open command palette": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "omnisearch:Omnisearch": false,
-      "open-vscode:VSCode": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "open-vscode:VSCode": false
     }
   },
-  "active": "d5efdcf7d0515736",
+  "active": "bd2714a80d3d3c1d",
   "lastOpenFiles": [
+    "Spring/Untitled",
     "Spring/Spring Boot.md",
     "Spring/Spring.md",
+    "Spring/Inversion of Control.md",
+    "Spring/_note_Spring.md",
+    "Amazon Web Services/Tagging AWS Resources.md",
+    "Quality Assurance/Types of Automation Tests.md",
+    "Course Notes/Github - donnemartin system-design-primer/--Table of Contents--.md",
     "Search Engine Optimization/Crawling and indexing.md",
     "Search Engine Optimization/--Table of Contents--.md",
-    "Quality Assurance/Types of Automation Tests.md",
     "Quality Assurance/Untitled.md",
     "Search Engine Optimization/Introduction.md",
-    "Spring/_note_Spring.md",
     "System Design/_note_System Design.md",
     "--Obsidian Template--/Related Course Demo.md",
     "--Obsidian Template--/-- Table of Contents --.md",
@@ -230,10 +231,6 @@
     "Amazon Web Services/Global Content Delivery and Optimization/_Index_of_Global Content Delivery and Optimization.md",
     "Amazon Web Services/HA & Scaling/_Index_of_HA & Scaling.md",
     "Amazon Web Services/Images/_Index_of_Images.md",
-    "Amazon Web Services/Local Zones/_Index_of_Local Zones.md",
-    "Amazon Web Services/Machine Learning 101/_Index_of_Machine Learning 101.md",
-    "Amazon Web Services/Serverless and Application Services/_Index_of_Serverless and Application Services.md",
-    "Amazon Web Services/Shared Responsibility Model/_Index_of_Shared Responsibility Model.md",
     "System Design/_Index_of_System Design",
     "Search Engine Optimization",
     "Spring/_Index_of_Spring",
