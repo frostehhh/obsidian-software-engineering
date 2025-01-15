@@ -76,6 +76,12 @@
       },
       "zoottelkeeper-obsidian-plugin": {
         "startupType": "instant"
+      },
+      "dataview": {
+        "startupType": "disabled"
+      },
+      "breadcrumbs": {
+        "startupType": "disabled"
       }
     }
   }

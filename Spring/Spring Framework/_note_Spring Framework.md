@@ -1,2 +1,2 @@
 [[Spring/Spring Framework/Introduction|Introduction]]
-[[Dependencies]]
+[[_note_Inversion of Control Container]]

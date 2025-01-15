@@ -12,6 +12,7 @@ kanban-plugin: basic
 - [ ] [[Test-Driven Development (TDD)]]
 - [ ] [[How do emails work]]
 - [ ] [[What are microservices for anyway]]
+- [ ] [[What are the multiple ways for an initial Spring setup]]
 
 
 ## Answered

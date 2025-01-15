@@ -1,0 +1,5 @@
+[[Dependency Injection|Dependency Injection]]
+[[depends-on]]
+[[Lazy-initialized Beans]]
+[[Autowiring Collaborators]]
+[[@Autowired Annotation]]

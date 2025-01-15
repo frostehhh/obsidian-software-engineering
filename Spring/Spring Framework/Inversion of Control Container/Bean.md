@@ -13,7 +13,7 @@ Beans are managed by the Spring IoC container with configuration metadata suppli
 - You can alias a bean outside of the bean definition via @Bean annotation with Java configuration. With annotation configuration, you can use the `alias` element
 
 ## Instantiating Beans
-The [[Spring/Spring Framework/Inversion of Control/Introduction|IoC]] Container looks at bean definitions to create the object.
+The [[Spring/Spring Framework/Inversion of Control Container/Introduction|IoC]] Container looks at bean definitions to create the object.
 Instantiation methods
 - with a constructor
 - with a static factory method [^3]
