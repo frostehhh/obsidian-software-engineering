@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/_note_System Design.md",
+                "file": "Git/Setup for password protected Git SSH keys for VS Code on Windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_note_System Design"
+              "title": "Setup for password protected Git SSH keys for VS Code on Windows"
             }
           }
         ],
@@ -152,6 +152,51 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "b183597967f9bf34",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git/Setup for password protected Git SSH keys for VS Code on Windows.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Setup for password protected Git SSH keys for VS Code on Windows"
+            }
+          },
+          {
+            "id": "3e3fd2e360a813d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git/Setup for password protected Git SSH keys for VS Code on Windows.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Setup for password protected Git SSH keys for VS Code on Windows"
+            }
+          },
+          {
+            "id": "a2d914063a89d641",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git/Setup for password protected Git SSH keys for VS Code on Windows.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Setup for password protected Git SSH keys for VS Code on Windows"
+            }
           }
         ],
         "currentTab": 2
@@ -172,14 +217,16 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd2714a80d3d3c1d",
+  "active": "bd29b6e29d511e3c",
   "lastOpenFiles": [
-    "System Design/Fundamental Concepts.md",
+    "Spring/_note_Spring.md",
+    "Git/Setup for password protected Git SSH keys for VS Code on Windows.md",
+    "Git",
     "System Design/_note_System Design.md",
+    "System Design/Fundamental Concepts.md",
     "System Design/insystmedesign/_note_insystmedesign.md",
     "System Design/insystmedesign/sample.md",
     "System Design/insystmedesign",
@@ -203,8 +250,6 @@
     "Spring/Spring Framework/Inversion of Control Container/_note_Inversion of Control Container.md",
     "Spring/Spring Boot.md",
     "JavaScript Object Notation(JSON)/JavaScript Object Notation.md",
-    "--Personal Notes--/Random/What happens when you send a request to google.com.md",
-    "--Personal Notes--/-- TODO --/Question Notes/What are the multiple ways for an initial Spring setup.md",
     "Spring/Spring Framework/Inversion of Control Container/Dependencies",
     "Spring/Spring Framework",
     "Spring/Spring Framework/Inversion of Control Container",
@@ -213,7 +258,6 @@
     "Search Engine Optimization",
     "Spring/_Index_of_Spring",
     "Spring",
-    "Spring/--Table of Contents--",
     "Cloud Computing/Images/Pasted image 20221229142305.png",
     "Amazon Web Services/Images/Pasted image 20230707023334.png",
     "Amazon Web Services/Images/Pasted image 20230701150016.png",
