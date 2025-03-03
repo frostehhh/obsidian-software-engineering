@@ -52,117 +52,6 @@ var __privateWrapper = (obj, member, setter, getter) => ({
   }
 });
 
-// node_modules/pure-md5/lib/index.js
-var require_lib = __commonJS({
-  "node_modules/pure-md5/lib/index.js"(exports, module2) {
-    !function(r, n) {
-      if ("object" == typeof exports && "object" == typeof module2) module2.exports = n();
-      else if ("function" == typeof define && define.amd) define([], n);
-      else {
-        var e = n();
-        for (var t in e) ("object" == typeof exports ? exports : r)[t] = e[t];
-      }
-    }("undefined" != typeof self ? self : exports, function() {
-      return function(r) {
-        var n = {};
-        function e(t) {
-          if (n[t]) return n[t].exports;
-          var o = n[t] = { i: t, l: false, exports: {} };
-          return r[t].call(o.exports, o, o.exports, e), o.l = true, o.exports;
-        }
-        return e.m = r, e.c = n, e.d = function(r2, n2, t) {
-          e.o(r2, n2) || Object.defineProperty(r2, n2, { enumerable: true, get: t });
-        }, e.r = function(r2) {
-          "undefined" != typeof Symbol && Symbol.toStringTag && Object.defineProperty(r2, Symbol.toStringTag, { value: "Module" }), Object.defineProperty(r2, "__esModule", { value: true });
-        }, e.t = function(r2, n2) {
-          if (1 & n2 && (r2 = e(r2)), 8 & n2) return r2;
-          if (4 & n2 && "object" == typeof r2 && r2 && r2.__esModule) return r2;
-          var t = /* @__PURE__ */ Object.create(null);
-          if (e.r(t), Object.defineProperty(t, "default", { enumerable: true, value: r2 }), 2 & n2 && "string" != typeof r2) for (var o in r2) e.d(t, o, function(n3) {
-            return r2[n3];
-          }.bind(null, o));
-          return t;
-        }, e.n = function(r2) {
-          var n2 = r2 && r2.__esModule ? function() {
-            return r2.default;
-          } : function() {
-            return r2;
-          };
-          return e.d(n2, "a", n2), n2;
-        }, e.o = function(r2, n2) {
-          return Object.prototype.hasOwnProperty.call(r2, n2);
-        }, e.p = "", e(e.s = 0);
-      }([function(r, n, e) {
-        "use strict";
-        e.r(n), e.d(n, "md5", function() {
-          return p;
-        });
-        var t = "0123456789abcdef".split("");
-        var o = function(r2) {
-          for (var n2 = "", e2 = 0; e2 < 4; e2++) n2 += t[r2 >> 8 * e2 + 4 & 15] + t[r2 >> 8 * e2 & 15];
-          return n2;
-        };
-        var u = function(r2) {
-          for (var n2 = r2.length, e2 = 0; e2 < n2; e2++) r2[e2] = o(r2[e2]);
-          return r2.join("");
-        };
-        var f = function(r2, n2) {
-          return r2 + n2 & 4294967295;
-        };
-        var i = function(r2, n2, e2, t2, o2, u2, i2) {
-          return function(r3, n3, e3) {
-            return f(r3 << n3 | r3 >>> 32 - n3, e3);
-          }(n2 = function(r3, n3, e3, t3) {
-            return n3 = f(f(n3, r3), f(e3, t3));
-          }(r2, n2, t2, u2), o2, e2);
-        };
-        var a = function(r2, n2, e2, t2, o2, u2, f2, a2) {
-          return i(e2 & t2 | ~e2 & o2, n2, e2, u2, f2, a2, r2);
-        };
-        var c = function(r2, n2, e2, t2, o2, u2, f2, a2) {
-          return i(e2 & o2 | t2 & ~o2, n2, e2, u2, f2, a2, r2);
-        };
-        var l = function(r2, n2, e2, t2, o2, u2, f2, a2) {
-          return i(e2 ^ t2 ^ o2, n2, e2, u2, f2, a2, r2);
-        };
-        var d = function(r2, n2, e2, t2, o2, u2, f2, a2) {
-          return i(t2 ^ (e2 | ~o2), n2, e2, u2, f2, a2, r2);
-        };
-        var v = function(r2, n2, e2) {
-          void 0 === e2 && (e2 = f);
-          var t2 = r2[0], o2 = r2[1], u2 = r2[2], i2 = r2[3], v2 = a.bind(null, e2);
-          t2 = v2(t2, o2, u2, i2, n2[0], 7, -680876936), i2 = v2(i2, t2, o2, u2, n2[1], 12, -389564586), u2 = v2(u2, i2, t2, o2, n2[2], 17, 606105819), o2 = v2(o2, u2, i2, t2, n2[3], 22, -1044525330), t2 = v2(t2, o2, u2, i2, n2[4], 7, -176418897), i2 = v2(i2, t2, o2, u2, n2[5], 12, 1200080426), u2 = v2(u2, i2, t2, o2, n2[6], 17, -1473231341), o2 = v2(o2, u2, i2, t2, n2[7], 22, -45705983), t2 = v2(t2, o2, u2, i2, n2[8], 7, 1770035416), i2 = v2(i2, t2, o2, u2, n2[9], 12, -1958414417), u2 = v2(u2, i2, t2, o2, n2[10], 17, -42063), o2 = v2(o2, u2, i2, t2, n2[11], 22, -1990404162), t2 = v2(t2, o2, u2, i2, n2[12], 7, 1804603682), i2 = v2(i2, t2, o2, u2, n2[13], 12, -40341101), u2 = v2(u2, i2, t2, o2, n2[14], 17, -1502002290), o2 = v2(o2, u2, i2, t2, n2[15], 22, 1236535329);
-          var s2 = c.bind(null, e2);
-          t2 = s2(t2, o2, u2, i2, n2[1], 5, -165796510), i2 = s2(i2, t2, o2, u2, n2[6], 9, -1069501632), u2 = s2(u2, i2, t2, o2, n2[11], 14, 643717713), o2 = s2(o2, u2, i2, t2, n2[0], 20, -373897302), t2 = s2(t2, o2, u2, i2, n2[5], 5, -701558691), i2 = s2(i2, t2, o2, u2, n2[10], 9, 38016083), u2 = s2(u2, i2, t2, o2, n2[15], 14, -660478335), o2 = s2(o2, u2, i2, t2, n2[4], 20, -405537848), t2 = s2(t2, o2, u2, i2, n2[9], 5, 568446438), i2 = s2(i2, t2, o2, u2, n2[14], 9, -1019803690), u2 = s2(u2, i2, t2, o2, n2[3], 14, -187363961), o2 = s2(o2, u2, i2, t2, n2[8], 20, 1163531501), t2 = s2(t2, o2, u2, i2, n2[13], 5, -1444681467), i2 = s2(i2, t2, o2, u2, n2[2], 9, -51403784), u2 = s2(u2, i2, t2, o2, n2[7], 14, 1735328473), o2 = s2(o2, u2, i2, t2, n2[12], 20, -1926607734);
-          var b2 = l.bind(null, e2);
-          t2 = b2(t2, o2, u2, i2, n2[5], 4, -378558), i2 = b2(i2, t2, o2, u2, n2[8], 11, -2022574463), u2 = b2(u2, i2, t2, o2, n2[11], 16, 1839030562), o2 = b2(o2, u2, i2, t2, n2[14], 23, -35309556), t2 = b2(t2, o2, u2, i2, n2[1], 4, -1530992060), i2 = b2(i2, t2, o2, u2, n2[4], 11, 1272893353), u2 = b2(u2, i2, t2, o2, n2[7], 16, -155497632), o2 = b2(o2, u2, i2, t2, n2[10], 23, -1094730640), t2 = b2(t2, o2, u2, i2, n2[13], 4, 681279174), i2 = b2(i2, t2, o2, u2, n2[0], 11, -358537222), u2 = b2(u2, i2, t2, o2, n2[3], 16, -722521979), o2 = b2(o2, u2, i2, t2, n2[6], 23, 76029189), t2 = b2(t2, o2, u2, i2, n2[9], 4, -640364487), i2 = b2(i2, t2, o2, u2, n2[12], 11, -421815835), u2 = b2(u2, i2, t2, o2, n2[15], 16, 530742520), o2 = b2(o2, u2, i2, t2, n2[2], 23, -995338651);
-          var p2 = d.bind(null, e2);
-          t2 = p2(t2, o2, u2, i2, n2[0], 6, -198630844), i2 = p2(i2, t2, o2, u2, n2[7], 10, 1126891415), u2 = p2(u2, i2, t2, o2, n2[14], 15, -1416354905), o2 = p2(o2, u2, i2, t2, n2[5], 21, -57434055), t2 = p2(t2, o2, u2, i2, n2[12], 6, 1700485571), i2 = p2(i2, t2, o2, u2, n2[3], 10, -1894986606), u2 = p2(u2, i2, t2, o2, n2[10], 15, -1051523), o2 = p2(o2, u2, i2, t2, n2[1], 21, -2054922799), t2 = p2(t2, o2, u2, i2, n2[8], 6, 1873313359), i2 = p2(i2, t2, o2, u2, n2[15], 10, -30611744), u2 = p2(u2, i2, t2, o2, n2[6], 15, -1560198380), o2 = p2(o2, u2, i2, t2, n2[13], 21, 1309151649), t2 = p2(t2, o2, u2, i2, n2[4], 6, -145523070), i2 = p2(i2, t2, o2, u2, n2[11], 10, -1120210379), u2 = p2(u2, i2, t2, o2, n2[2], 15, 718787259), o2 = p2(o2, u2, i2, t2, n2[9], 21, -343485551), r2[0] = e2(t2, r2[0]), r2[1] = e2(o2, r2[1]), r2[2] = e2(u2, r2[2]), r2[3] = e2(i2, r2[3]);
-        };
-        var s = function(r2) {
-          for (var n2 = [], e2 = 0; e2 < 64; e2 += 4) n2[e2 >> 2] = r2.charCodeAt(e2) + (r2.charCodeAt(e2 + 1) << 8) + (r2.charCodeAt(e2 + 2) << 16) + (r2.charCodeAt(e2 + 3) << 24);
-          return n2;
-        };
-        var b = function(r2, n2) {
-          var e2, t2 = r2.length, o2 = [1732584193, -271733879, -1732584194, 271733878];
-          for (e2 = 64; e2 <= t2; e2 += 64) v(o2, s(r2.substring(e2 - 64, e2)), n2);
-          var u2 = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], f2 = (r2 = r2.substring(e2 - 64)).length;
-          for (e2 = 0; e2 < f2; e2++) u2[e2 >> 2] |= r2.charCodeAt(e2) << (e2 % 4 << 3);
-          if (u2[e2 >> 2] |= 128 << (e2 % 4 << 3), e2 > 55) for (v(o2, u2, n2), e2 = 16; e2--; ) u2[e2] = 0;
-          return u2[14] = 8 * t2, v(o2, u2, n2), o2;
-        };
-        function p(r2) {
-          var n2;
-          return "5d41402abc4b2a76b9719d911017c592" !== u(b("hello")) && (n2 = function(r3, n3) {
-            var e2 = (65535 & r3) + (65535 & n3);
-            return (r3 >> 16) + (n3 >> 16) + (e2 >> 16) << 16 | 65535 & e2;
-          }), u(b(r2, n2));
-        }
-      }]);
-    });
-  }
-});
-
 // node_modules/eventemitter3/index.js
 var require_eventemitter3 = __commonJS({
   "node_modules/eventemitter3/index.js"(exports, module2) {
@@ -325,13 +214,131 @@ var require_eventemitter3 = __commonJS({
   }
 });
 
+// node_modules/canvas/lib/parse-font.js
+var require_parse_font = __commonJS({
+  "node_modules/canvas/lib/parse-font.js"(exports, module2) {
+    "use strict";
+    var weights = "bold|bolder|lighter|[1-9]00";
+    var styles = "italic|oblique";
+    var variants = "small-caps";
+    var stretches = "ultra-condensed|extra-condensed|condensed|semi-condensed|semi-expanded|expanded|extra-expanded|ultra-expanded";
+    var units = "px|pt|pc|in|cm|mm|%|em|ex|ch|rem|q";
+    var string = /'((\\'|[^'])+)'|"((\\"|[^"])+)"|[\w\s-]+/.source;
+    var weightRe = new RegExp(`(${weights}) +`, "i");
+    var styleRe = new RegExp(`(${styles}) +`, "i");
+    var variantRe = new RegExp(`(${variants}) +`, "i");
+    var stretchRe = new RegExp(`(${stretches}) +`, "i");
+    var familyRe = new RegExp(string, "g");
+    var unquoteRe = /^['"](.*)['"]$/;
+    var unescapeRe = /\\(['"])/g;
+    var sizeFamilyRe = new RegExp(
+      `([\\d\\.]+)(${units}) *((?:${string})( *, *(?:${string}))*)`
+    );
+    var cache = {};
+    var defaultHeight = 16;
+    module2.exports = (str) => {
+      if (cache[str]) return cache[str];
+      const sizeFamily = sizeFamilyRe.exec(str);
+      if (!sizeFamily) return;
+      const names = sizeFamily[3].match(familyRe).map((s) => s.trim().replace(unquoteRe, "$1").replace(unescapeRe, "$1")).filter((s) => !!s);
+      const font = {
+        weight: "normal",
+        style: "normal",
+        stretch: "normal",
+        variant: "normal",
+        size: parseFloat(sizeFamily[1]),
+        unit: sizeFamily[2],
+        family: names.join(",")
+      };
+      let weight, style, variant, stretch;
+      const substr = str.substring(0, sizeFamily.index);
+      if (weight = weightRe.exec(substr)) font.weight = weight[1];
+      if (style = styleRe.exec(substr)) font.style = style[1];
+      if (variant = variantRe.exec(substr)) font.variant = variant[1];
+      if (stretch = stretchRe.exec(substr)) font.stretch = stretch[1];
+      switch (font.unit) {
+        case "pt":
+          font.size /= 0.75;
+          break;
+        case "pc":
+          font.size *= 16;
+          break;
+        case "in":
+          font.size *= 96;
+          break;
+        case "cm":
+          font.size *= 96 / 2.54;
+          break;
+        case "mm":
+          font.size *= 96 / 25.4;
+          break;
+        case "%":
+          break;
+        case "em":
+        case "rem":
+          font.size *= defaultHeight / 0.75;
+          break;
+        case "q":
+          font.size *= 96 / 25.4 / 4;
+          break;
+      }
+      return cache[str] = font;
+    };
+  }
+});
+
+// node_modules/canvas/browser.js
+var require_browser = __commonJS({
+  "node_modules/canvas/browser.js"(exports) {
+    var parseFont = require_parse_font();
+    exports.parseFont = parseFont;
+    exports.createCanvas = function(width, height) {
+      return Object.assign(document.createElement("canvas"), { width, height });
+    };
+    exports.createImageData = function(array, width, height) {
+      switch (arguments.length) {
+        case 0:
+          return new ImageData();
+        case 1:
+          return new ImageData(array);
+        case 2:
+          return new ImageData(array, width);
+        default:
+          return new ImageData(array, width, height);
+      }
+    };
+    exports.loadImage = function(src, options) {
+      return new Promise(function(resolve2, reject) {
+        const image = Object.assign(document.createElement("img"), options);
+        function cleanup() {
+          image.onload = null;
+          image.onerror = null;
+        }
+        image.onload = function() {
+          cleanup();
+          resolve2(image);
+        };
+        image.onerror = function() {
+          cleanup();
+          reject(new Error('Failed to load the image "' + src + '"'));
+        };
+        image.src = src;
+      });
+    };
+  }
+});
+
 // src/main.ts
 var main_exports = {};
 __export(main_exports, {
   default: () => AIImageAnalyzerPlugin
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian3 = require("obsidian");
+var import_obsidian4 = require("obsidian");
+
+// node_modules/ollama/dist/index.mjs
+var import_fs = __toESM(require("fs"), 1);
+var import_path = require("path");
 
 // node_modules/whatwg-fetch/fetch.js
 var g = typeof globalThis !== "undefined" && globalThis || typeof self !== "undefined" && self || // eslint-disable-next-line no-undef
@@ -858,8 +865,8 @@ if (!g.fetch) {
   g.Response = Response;
 }
 
-// node_modules/ollama/dist/shared/ollama.d8c046e0.mjs
-var version = "0.5.2";
+// node_modules/ollama/dist/browser.mjs
+var version = "0.5.12";
 var __defProp$1 = Object.defineProperty;
 var __defNormalProp$1 = (obj, key, value) => key in obj ? __defProp$1(obj, key, { enumerable: true, configurable: true, writable: true, value }) : obj[key] = value;
 var __publicField$1 = (obj, key, value) => {
@@ -945,20 +952,18 @@ var fetchWithHeaders = async (fetch3, url, options = {}) => {
   if (!options.headers) {
     options.headers = {};
   }
+  const customHeaders = Object.fromEntries(
+    Object.entries(options.headers).filter(([key]) => !Object.keys(defaultHeaders).some((defaultKey) => defaultKey.toLowerCase() === key.toLowerCase()))
+  );
   options.headers = {
     ...defaultHeaders,
-    ...options.headers
+    ...customHeaders
   };
   return fetch3(url, options);
 };
-var get = async (fetch3, host) => {
-  const response = await fetchWithHeaders(fetch3, host);
-  await checkOk(response);
-  return response;
-};
-var head = async (fetch3, host) => {
+var get = async (fetch3, host, options) => {
   const response = await fetchWithHeaders(fetch3, host, {
-    method: "HEAD"
+    headers: options == null ? void 0 : options.headers
   });
   await checkOk(response);
   return response;
@@ -971,15 +976,17 @@ var post = async (fetch3, host, data, options) => {
   const response = await fetchWithHeaders(fetch3, host, {
     method: "POST",
     body: formattedData,
-    signal: options == null ? void 0 : options.signal
+    signal: options == null ? void 0 : options.signal,
+    headers: options == null ? void 0 : options.headers
   });
   await checkOk(response);
   return response;
 };
-var del = async (fetch3, host, data) => {
+var del = async (fetch3, host, data, options) => {
   const response = await fetchWithHeaders(fetch3, host, {
     method: "DELETE",
-    body: JSON.stringify(data)
+    body: JSON.stringify(data),
+    headers: options == null ? void 0 : options.headers
   });
   await checkOk(response);
   return response;
@@ -1020,7 +1027,7 @@ var formatHost = (host) => {
   let isExplicitProtocol = host.includes("://");
   if (host.startsWith(":")) {
     host = `http://127.0.0.1${host}`;
-    isExplicitProtocol = false;
+    isExplicitProtocol = true;
   }
   if (!isExplicitProtocol) {
     host = `http://${host}`;
@@ -1048,20 +1055,18 @@ var __publicField2 = (obj, key, value) => {
 };
 var Ollama$1 = class Ollama {
   constructor(config) {
-    var _a;
+    var _a, _b;
     __publicField2(this, "config");
     __publicField2(this, "fetch");
     __publicField2(this, "ongoingStreamedRequests", []);
     this.config = {
-      host: ""
+      host: "",
+      headers: config == null ? void 0 : config.headers
     };
     if (!(config == null ? void 0 : config.proxy)) {
       this.config.host = formatHost((_a = config == null ? void 0 : config.host) != null ? _a : "http://127.0.0.1:11434");
     }
-    this.fetch = fetch;
-    if ((config == null ? void 0 : config.fetch) != null) {
-      this.fetch = config.fetch;
-    }
+    this.fetch = (_b = config == null ? void 0 : config.fetch) != null ? _b : fetch;
   }
   // Abort any ongoing streamed requests to Ollama
   abort() {
@@ -1088,7 +1093,8 @@ var Ollama$1 = class Ollama {
     if (request.stream) {
       const abortController = new AbortController();
       const response2 = await post(this.fetch, host, request, {
-        signal: abortController.signal
+        signal: abortController.signal,
+        headers: this.config.headers
       });
       if (!response2.body) {
         throw new Error("Missing body");
@@ -1107,14 +1113,16 @@ var Ollama$1 = class Ollama {
       this.ongoingStreamedRequests.push(abortableAsyncIterator);
       return abortableAsyncIterator;
     }
-    const response = await post(this.fetch, host, request);
+    const response = await post(this.fetch, host, request, {
+      headers: this.config.headers
+    });
     return await response.json();
   }
   /**
-  * Encodes an image to base64 if it is a Uint8Array.
-  * @param image {Uint8Array | string} - The image to encode.
-  * @returns {Promise<string>} - The base64 encoded image.
-  */
+   * Encodes an image to base64 if it is a Uint8Array.
+   * @param image {Uint8Array | string} - The image to encode.
+   * @returns {Promise<string>} - The base64 encoded image.
+   */
   async encodeImage(image) {
     if (typeof image !== "string") {
       const uint8Array = new Uint8Array(image);
@@ -1166,10 +1174,7 @@ var Ollama$1 = class Ollama {
    */
   async create(request) {
     return this.processStreamableRequest("create", {
-      name: request.model,
-      stream: request.stream,
-      modelfile: request.modelfile,
-      quantize: request.quantize
+      ...request
     });
   }
   /**
@@ -1207,9 +1212,12 @@ var Ollama$1 = class Ollama {
    * @returns {Promise<StatusResponse>} - The response object.
    */
   async delete(request) {
-    await del(this.fetch, `${this.config.host}/api/delete`, {
-      name: request.model
-    });
+    await del(
+      this.fetch,
+      `${this.config.host}/api/delete`,
+      { name: request.model },
+      { headers: this.config.headers }
+    );
     return { status: "success" };
   }
   /**
@@ -1219,7 +1227,9 @@ var Ollama$1 = class Ollama {
    * @returns {Promise<StatusResponse>} - The response object.
    */
   async copy(request) {
-    await post(this.fetch, `${this.config.host}/api/copy`, { ...request });
+    await post(this.fetch, `${this.config.host}/api/copy`, { ...request }, {
+      headers: this.config.headers
+    });
     return { status: "success" };
   }
   /**
@@ -1228,7 +1238,9 @@ var Ollama$1 = class Ollama {
    * @throws {Error} - If the response body is missing.
    */
   async list() {
-    const response = await get(this.fetch, `${this.config.host}/api/tags`);
+    const response = await get(this.fetch, `${this.config.host}/api/tags`, {
+      headers: this.config.headers
+    });
     return await response.json();
   }
   /**
@@ -1239,6 +1251,21 @@ var Ollama$1 = class Ollama {
   async show(request) {
     const response = await post(this.fetch, `${this.config.host}/api/show`, {
       ...request
+    }, {
+      headers: this.config.headers
+    });
+    return await response.json();
+  }
+  /**
+   * Embeds text input into vectors.
+   * @param request {EmbedRequest} - The request object.
+   * @returns {Promise<EmbedResponse>} - The response object.
+   */
+  async embed(request) {
+    const response = await post(this.fetch, `${this.config.host}/api/embed`, {
+      ...request
+    }, {
+      headers: this.config.headers
     });
     return await response.json();
   }
@@ -1250,6 +1277,8 @@ var Ollama$1 = class Ollama {
   async embeddings(request) {
     const response = await post(this.fetch, `${this.config.host}/api/embeddings`, {
       ...request
+    }, {
+      headers: this.config.headers
     });
     return await response.json();
   }
@@ -1259,17 +1288,15 @@ var Ollama$1 = class Ollama {
    * @throws {Error} - If the response body is missing.
    */
   async ps() {
-    const response = await get(this.fetch, `${this.config.host}/api/ps`);
+    const response = await get(this.fetch, `${this.config.host}/api/ps`, {
+      headers: this.config.headers
+    });
     return await response.json();
   }
 };
 var browser = new Ollama$1();
 
 // node_modules/ollama/dist/index.mjs
-var import_fs = __toESM(require("fs"), 1);
-var import_path = require("path");
-var import_crypto = require("crypto");
-var import_os = require("os");
 var Ollama2 = class extends Ollama$1 {
   async encodeImage(image) {
     if (typeof image !== "string") {
@@ -1285,42 +1312,6 @@ var Ollama2 = class extends Ollama$1 {
     return image;
   }
   /**
-   * Parse the modelfile and replace the FROM and ADAPTER commands with the corresponding blob hashes.
-   * @param modelfile {string} - The modelfile content
-   * @param mfDir {string} - The directory of the modelfile
-   * @private @internal
-   */
-  async parseModelfile(modelfile, mfDir = process.cwd()) {
-    const out = [];
-    const lines = modelfile.split("\n");
-    for (const line of lines) {
-      const [command, args] = line.split(" ", 2);
-      if (["FROM", "ADAPTER"].includes(command.toUpperCase())) {
-        const path = this.resolvePath(args.trim(), mfDir);
-        if (await this.fileExists(path)) {
-          out.push(`${command} @${await this.createBlob(path)}`);
-        } else {
-          out.push(`${command} ${args}`);
-        }
-      } else {
-        out.push(line);
-      }
-    }
-    return out.join("\n");
-  }
-  /**
-   * Resolve the path to an absolute path.
-   * @param inputPath {string} - The input path
-   * @param mfDir {string} - The directory of the modelfile
-   * @private @internal
-   */
-  resolvePath(inputPath, mfDir) {
-    if (inputPath.startsWith("~")) {
-      return (0, import_path.join)((0, import_os.homedir)(), inputPath.slice(1));
-    }
-    return (0, import_path.resolve)(mfDir, inputPath);
-  }
-  /**
    * checks if a file exists
    * @param path {string} - The path to the file
    * @private @internal
@@ -1334,60 +1325,10 @@ var Ollama2 = class extends Ollama$1 {
       return false;
     }
   }
-  async createBlob(path) {
-    if (typeof ReadableStream === "undefined") {
-      throw new Error("Streaming uploads are not supported in this environment.");
-    }
-    const fileStream = (0, import_fs.createReadStream)(path);
-    const sha256sum = await new Promise((resolve2, reject) => {
-      const hash = (0, import_crypto.createHash)("sha256");
-      fileStream.on("data", (data) => hash.update(data));
-      fileStream.on("end", () => resolve2(hash.digest("hex")));
-      fileStream.on("error", reject);
-    });
-    const digest = `sha256:${sha256sum}`;
-    try {
-      await head(this.fetch, `${this.config.host}/api/blobs/${digest}`);
-    } catch (e) {
-      if (e instanceof Error && e.message.includes("404")) {
-        const readableStream = new ReadableStream({
-          start(controller) {
-            fileStream.on("data", (chunk) => {
-              controller.enqueue(chunk);
-            });
-            fileStream.on("end", () => {
-              controller.close();
-            });
-            fileStream.on("error", (err) => {
-              controller.error(err);
-            });
-          }
-        });
-        await post(
-          this.fetch,
-          `${this.config.host}/api/blobs/${digest}`,
-          readableStream
-        );
-      } else {
-        throw e;
-      }
-    }
-    return digest;
-  }
   async create(request) {
-    let modelfileContent = "";
-    if (request.path) {
-      modelfileContent = await import_fs.promises.readFile(request.path, { encoding: "utf8" });
-      modelfileContent = await this.parseModelfile(
-        modelfileContent,
-        (0, import_path.dirname)(request.path)
-      );
-    } else if (request.modelfile) {
-      modelfileContent = await this.parseModelfile(request.modelfile);
-    } else {
-      throw new Error("Must provide either path or modelfile to create a model");
+    if (request.from && await this.fileExists((0, import_path.resolve)(request.from))) {
+      throw Error("Creating with a local path is not currently supported from ollama-js");
     }
-    request.modelfile = modelfileContent;
     if (request.stream) {
       return super.create(request);
     } else {
@@ -1398,10 +1339,10 @@ var Ollama2 = class extends Ollama$1 {
 var index = new Ollama2();
 
 // src/cache.ts
-var import_pure_md5 = __toESM(require_lib());
+var import_crypto = require("crypto");
 
 // package.json
-var version2 = "0.1.10";
+var version2 = "0.2.0";
 
 // node_modules/eventemitter3/index.mjs
 var import_index = __toESM(require_eventemitter3(), 1);
@@ -1433,6 +1374,7 @@ function pTimeout(promise, options) {
     customTimers = { setTimeout, clearTimeout }
   } = options;
   let timer;
+  let abortHandler;
   const wrappedPromise = new Promise((resolve2, reject) => {
     if (typeof milliseconds !== "number" || Math.sign(milliseconds) !== 1) {
       throw new TypeError(`Expected \`milliseconds\` to be a positive number, got \`${milliseconds}\``);
@@ -1442,9 +1384,10 @@ function pTimeout(promise, options) {
       if (signal.aborted) {
         reject(getAbortedReason(signal));
       }
-      signal.addEventListener("abort", () => {
+      abortHandler = () => {
         reject(getAbortedReason(signal));
-      });
+      };
+      signal.addEventListener("abort", abortHandler, { once: true });
     }
     if (milliseconds === Number.POSITIVE_INFINITY) {
       promise.then(resolve2, reject);
@@ -1482,6 +1425,9 @@ function pTimeout(promise, options) {
   });
   const cancelablePromise = wrappedPromise.finally(() => {
     cancelablePromise.clear();
+    if (abortHandler && options.signal) {
+      options.signal.removeEventListener("abort", abortHandler);
+    }
   });
   cancelablePromise.clear = () => {
     customTimers.clearTimeout.call(void 0, timer);
@@ -1858,6 +1804,8 @@ onEvent_fn = async function(event, filter) {
 var libVersion = version2;
 var possibleModels = [
   { name: "llava-llama3 (8B) [default]", model: "llava-llama3:latest" },
+  { name: "llama3.2-vision (11B)", model: "llama3.2-vision:11b" },
+  { name: "llama3.2-vision (90B)", model: "llama3.2-vision:90b" },
   { name: "llava (7B)", model: "llava:latest" },
   { name: "llava (13B)", model: "llava:13b" },
   { name: "llava (34B)", model: "llava:34b" }
@@ -1869,7 +1817,7 @@ function getCacheBasePath() {
   return `${app.vault.configDir}/plugins/ai-image-analyzer/cache`;
 }
 function getCachePath(file) {
-  const hash = (0, import_pure_md5.md5)(file.path);
+  const hash = (0, import_crypto.createHash)("md5").update(file.path).digest("hex");
   const folder = `${getCacheBasePath()}`;
   const filename = `${hash}.json`;
   return `${folder}/${filename}`;
@@ -1916,14 +1864,17 @@ async function clearCache() {
 }
 
 // src/ollamaManager.ts
+var import_obsidian3 = require("obsidian");
+
+// src/util.ts
 var import_obsidian2 = require("obsidian");
 
 // src/settings.ts
 var import_obsidian = require("obsidian");
 var DEFAULT_SETTINGS = {
   debug: false,
-  ollamaHost: "127.0.0.1",
-  ollamaPort: 11434,
+  ollamaURL: "http://127.0.0.1:11434",
+  ollamaToken: "",
   ollamaModel: possibleModels[0],
   prompt: "Describe the image. Just use Keywords. For example: cat, dog, tree. This must be Computer readable. The provided pictures are used in an notebook. Please provide at least 5 Keywords. It will be used to search for the image later.",
   autoClearCache: true
@@ -1933,7 +1884,12 @@ async function loadSettings(plugin) {
   settings = Object.assign({}, DEFAULT_SETTINGS, await plugin.loadData());
 }
 async function saveSettings(plugin) {
-  setOllama(new Ollama2({ host: `${settings.ollamaHost}:${settings.ollamaPort}` }));
+  setOllama(new Ollama2({
+    host: settings.ollamaURL,
+    headers: {
+      "Authorization": `Bearer ${settings.ollamaToken}`
+    }
+  }));
   await plugin.saveData(settings);
 }
 var AIImageAnalyzerSettingsTab = class extends import_obsidian.PluginSettingTab {
@@ -1954,7 +1910,7 @@ var AIImageAnalyzerSettingsTab = class extends import_obsidian.PluginSettingTab 
         await clearCache();
       }
     }));
-    new import_obsidian.Setting(containerEl).setName("Pull Model").setDesc("Pull the selected model").addButton((button) => button.setButtonText("Pull llava").onClick(async () => await pullImage()));
+    new import_obsidian.Setting(containerEl).setName("Pull Model").setDesc("Pull the selected model").addButton((button) => button.setButtonText("Pull Model").onClick(async () => await pullImage()));
     new import_obsidian.Setting(containerEl).setName("Clear cache").setDesc("Clear the cache, reanalyzing images could take a while").addButton((button) => button.setButtonText("Clear cache").onClick(async () => {
       await clearCache();
       new import_obsidian.Notice("Cache cleared");
@@ -1964,19 +1920,18 @@ var AIImageAnalyzerSettingsTab = class extends import_obsidian.PluginSettingTab 
       await saveSettings(this.plugin);
     }));
     new import_obsidian.Setting(containerEl).setName("Ollama server").setHeading();
-    new import_obsidian.Setting(containerEl).setName("Ollama host").setDesc("Set the host for the Ollama server").addText((text) => text.setPlaceholder("Enter the host (127.0.0.1)").setValue(settings.ollamaHost).onChange(async (value) => {
+    new import_obsidian.Setting(containerEl).setName("Ollama URL").setDesc("Set the URL for the Ollama server").addText((text) => text.setPlaceholder("Enter the host (http://127.0.0.1:11434)").setValue(settings.ollamaURL).onChange(async (value) => {
       if (value.length === 0) {
-        value = DEFAULT_SETTINGS.ollamaHost;
+        value = DEFAULT_SETTINGS.ollamaURL;
       }
-      settings.ollamaHost = value;
+      settings.ollamaURL = value;
       await saveSettings(this.plugin);
     }));
-    new import_obsidian.Setting(containerEl).setName("Ollama port").setDesc("Set the port for the Ollama server").addText((text) => text.setPlaceholder("Enter the port (11434)").setValue(settings.ollamaPort.toString()).onChange(async (value) => {
-      let port = parseInt(value);
-      if (isNaN(port)) {
-        port = DEFAULT_SETTINGS.ollamaPort;
+    new import_obsidian.Setting(containerEl).setName("Ollama Token (Optional)").setDesc("Set the token for authentication with the Ollama server").addText((text) => text.setValue(settings.ollamaToken !== "" ? "\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022" : "").onChange(async (value) => {
+      if (value.contains("\u2022")) {
+        return;
       }
-      settings.ollamaPort = port;
+      settings.ollamaToken = value;
       await saveSettings(this.plugin);
     }));
     new import_obsidian.Setting(containerEl).setName("Advanced").setHeading();
@@ -2006,6 +1961,7 @@ var AIImageAnalyzerSettingsTab = class extends import_obsidian.PluginSettingTab 
 };
 
 // src/util.ts
+var import_canvas = __toESM(require_browser());
 function debugLog(message) {
   if (settings.debug) {
     console.log(message);
@@ -2013,7 +1969,25 @@ function debugLog(message) {
 }
 function isImageFile(file) {
   const path = file.path;
-  return path.endsWith(".png") || path.endsWith(".jpg") || path.endsWith(".jpeg") || path.endsWith(".webp");
+  return path.endsWith(".png") || path.endsWith(".jpg") || path.endsWith(".jpeg") || path.endsWith(".webp") || path.endsWith(".svg");
+}
+async function readFile(file) {
+  if (file.path.endsWith(".svg")) {
+    debugLog("Converting SVG to PNG");
+    try {
+      const svgData = await this.app.vault.adapter.read(file.path);
+      const canvas = (0, import_canvas.createCanvas)(1e3, 1e3);
+      const context = canvas.getContext("2d");
+      const svgImage = await (0, import_canvas.loadImage)(`data:image/svg+xml;base64,${Buffer.from(svgData).toString("base64")}`);
+      context.drawImage(svgImage, 0, 0, 1e3, 1e3);
+      return canvas.toDataURL("image/png").split(",")[1];
+    } catch (error) {
+      console.error("Error converting SVG to PNG:", error);
+      throw error;
+    }
+  } else {
+    return (0, import_obsidian2.arrayBufferToBase64)(await app.vault.readBinary(file));
+  }
 }
 
 // src/ollamaManager.ts
@@ -2047,7 +2021,7 @@ async function analyzeImageHandling(file) {
   }
   debugLog(file);
   try {
-    const data = (0, import_obsidian2.arrayBufferToBase64)(await app.vault.readBinary(file));
+    const data = await readFile(file);
     const response = await ollama.chat({
       model: settings.ollamaModel.model,
       //llava:13b or llava or llava-llama3
@@ -2064,14 +2038,15 @@ async function analyzeImageHandling(file) {
 }
 async function analyzeImageWithNotice(file) {
   try {
-    const notice = new import_obsidian2.Notice("Analyzing image", 0);
+    const notice = new import_obsidian3.Notice("Analyzing image", 0);
     const text = await analyzeImage(file);
     notice.hide();
-    new import_obsidian2.Notice("Image analyzed");
+    new import_obsidian3.Notice("Image analyzed");
     return text;
   } catch (e) {
     debugLog(e);
-    new import_obsidian2.Notice("Failed to analyze image");
+    new import_obsidian3.Notice("Failed to analyze image");
+    new import_obsidian3.Notice(e.toString());
     return "";
   }
 }
@@ -2079,16 +2054,17 @@ async function analyzeToClipboard(file) {
   try {
     const text = await analyzeImageWithNotice(file);
     await activeWindow.navigator.clipboard.writeText(text);
-    new import_obsidian2.Notice("Text copied to clipboard");
+    new import_obsidian3.Notice("Text copied to clipboard");
   } catch (e) {
     debugLog(e);
   }
 }
 async function pullImage() {
+  let progressNotice;
   try {
-    new import_obsidian2.Notice(`Pulling ${settings.ollamaModel.name} model started, this may take a while...`);
+    new import_obsidian3.Notice(`Pulling ${settings.ollamaModel.name} model started, this may take a while...`);
     const response = await ollama.pull({ model: settings.ollamaModel.model, stream: true });
-    const progressNotice = new import_obsidian2.Notice(`Pulling ${settings.ollamaModel.name} model 0%`, 0);
+    progressNotice = new import_obsidian3.Notice(`Pulling ${settings.ollamaModel.name} model 0%`, 0);
     for await (const part of response) {
       debugLog(part);
       if (part.total !== null && part.completed !== null) {
@@ -2102,10 +2078,12 @@ async function pullImage() {
       }
     }
     progressNotice.hide();
-    new import_obsidian2.Notice(`${settings.ollamaModel.name} model pulled successfully`);
+    new import_obsidian3.Notice(`${settings.ollamaModel.name} model pulled successfully`);
   } catch (e) {
     debugLog(e);
-    new import_obsidian2.Notice("Failed to pull ${model.name} model");
+    progressNotice == null ? void 0 : progressNotice.hide();
+    new import_obsidian3.Notice(`Failed to pull ${settings.ollamaModel.name} model`);
+    new import_obsidian3.Notice(e.toString());
   }
 }
 async function checkOllama() {
@@ -2113,11 +2091,12 @@ async function checkOllama() {
     const models = await ollama.list();
     debugLog(models);
     if (!models.models.some((model) => model.name === settings.ollamaModel.model)) {
-      new import_obsidian2.Notice(`No ${settings.ollamaModel.name} model found, please make sure you have pulled it (you can pull it over the settings tab or choose another model)`);
+      new import_obsidian3.Notice(`No ${settings.ollamaModel.name} model found, please make sure you have pulled it (you can pull it over the settings tab or choose another model)`);
     }
   } catch (e) {
     debugLog(e);
-    new import_obsidian2.Notice("Failed to connect to Ollama.");
+    new import_obsidian3.Notice("Failed to connect to Ollama.");
+    new import_obsidian3.Notice(e.toString());
   }
 }
 function setOllama(ollamaInstance) {
@@ -2125,7 +2104,7 @@ function setOllama(ollamaInstance) {
 }
 
 // src/main.ts
-var AIImageAnalyzerPlugin = class extends import_obsidian3.Plugin {
+var AIImageAnalyzerPlugin = class extends import_obsidian4.Plugin {
   constructor() {
     super(...arguments);
     this.api = {
@@ -2137,7 +2116,12 @@ var AIImageAnalyzerPlugin = class extends import_obsidian3.Plugin {
   async onload() {
     debugLog("loading ai image analyzer plugin");
     await loadSettings(this);
-    setOllama(new Ollama2({ host: `${settings.ollamaHost}:${settings.ollamaPort}` }));
+    setOllama(new Ollama2({
+      host: settings.ollamaURL,
+      headers: {
+        "Authorization": `Bearer ${settings.ollamaToken}`
+      }
+    }));
     await checkOllama();
     this.addCommand({
       id: "analyze-image-to-clipboard",
@@ -2175,7 +2159,7 @@ var AIImageAnalyzerPlugin = class extends import_obsidian3.Plugin {
         if (file != null && isImageFile(file)) {
           if (!checking) {
             removeFromCache(file);
-            new import_obsidian3.Notice("Cache cleared");
+            new import_obsidian4.Notice("Cache cleared");
           }
           return true;
         }
@@ -2184,7 +2168,7 @@ var AIImageAnalyzerPlugin = class extends import_obsidian3.Plugin {
     });
     this.registerEvent(
       this.app.workspace.on("file-menu", (menu, file, _source) => {
-        if (file instanceof import_obsidian3.TFile && isImageFile(file)) {
+        if (file instanceof import_obsidian4.TFile && isImageFile(file)) {
           menu.addItem((item) => {
             item.setTitle("AI analyze image");
             const submenu = item.setSubmenu();
@@ -2202,7 +2186,7 @@ var AIImageAnalyzerPlugin = class extends import_obsidian3.Plugin {
             submenu.addItem(
               (item2) => item2.setTitle("Clear cache").setIcon("trash").onClick(async () => {
                 await removeFromCache(file);
-                new import_obsidian3.Notice("Cache cleared");
+                new import_obsidian4.Notice("Cache cleared");
               })
             );
           });

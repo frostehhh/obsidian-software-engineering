@@ -8,5 +8,7 @@
   "omnisearch",
   "text-extractor",
   "open-vscode",
-  "folder-notes"
+  "folder-notes",
+  "dataview",
+  "obsidian-hover-editor"
 ]

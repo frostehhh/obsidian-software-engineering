@@ -15,7 +15,7 @@
         "startupType": "long"
       },
       "obsidian-excalidraw-plugin": {
-        "startupType": "long"
+        "startupType": "short"
       },
       "highlightr-plugin": {
         "startupType": "short"
@@ -77,10 +77,31 @@
       "zoottelkeeper-obsidian-plugin": {
         "startupType": "instant"
       },
-      "dataview": {
+      "vscode-editor": {
         "startupType": "disabled"
       },
-      "breadcrumbs": {
+      "dataview": {
+        "startupType": "instant"
+      },
+      "excalibrain": {
+        "startupType": "long"
+      },
+      "obsidian-meta-bind-plugin": {
+        "startupType": "disabled"
+      },
+      "obsidian-spaced-repetition": {
+        "startupType": "disabled"
+      },
+      "supercharged-links-obsidian": {
+        "startupType": "disabled"
+      },
+      "obsidian-hover-editor": {
+        "startupType": "instant"
+      },
+      "media-extended": {
+        "startupType": "instant"
+      },
+      "templater-obsidian": {
         "startupType": "disabled"
       }
     }
