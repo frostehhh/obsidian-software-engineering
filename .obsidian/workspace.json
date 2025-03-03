@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring Framework/Inversion of Control Container/Dependencies/_note_Dependencies.md",
+                "file": "Spring/Spring Framework/Inversion of Control Container/Dependencies/Method Injection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_note_Dependencies"
+              "title": "Method Injection"
             }
           }
         ],
@@ -234,14 +234,14 @@
   "active": "979a3b7345658822",
   "lastOpenFiles": [
     "Spring/Spring Framework/Inversion of Control Container/Dependencies/Lazy-initialized Beans.md",
+    "Spring/Spring Framework/Inversion of Control Container/Dependencies/depends-on.md",
     "Spring/Spring Framework/Inversion of Control Container/Dependencies/Dependency Injection.md",
     "Spring/Spring Framework/Inversion of Control Container/Dependencies/Autowiring Collaborators.md",
     "Spring/Spring Framework/Inversion of Control Container/Dependencies/@Autowired Annotation.md",
+    "Spring/Spring Framework/Inversion of Control Container/Dependencies/_note_Dependencies.md",
     "--Obsidian Template--/Related Course Demo.md",
     "Spring/Spring Framework/Introduction.md",
     "Spring/Spring Framework/Inversion of Control Container/Bean.md",
-    "Spring/Spring Framework/Inversion of Control Container/Dependencies/depends-on.md",
-    "Spring/Spring Framework/Inversion of Control Container/Dependencies/_note_Dependencies.md",
     "Spring/Spring Framework/_note_Spring Framework.md",
     "Git/Setup for password protected Git SSH keys for VS Code on Windows.md",
     "Book Reviews/Atomic Habits.md",
