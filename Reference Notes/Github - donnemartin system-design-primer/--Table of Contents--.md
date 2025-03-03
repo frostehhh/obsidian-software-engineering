@@ -1,8 +1,8 @@
 Source - https://github.com/donnemartin/system-design-primer
 
-[[Course Notes/Github - donnemartin system-design-primer/Main|Main]]
+[[Reference Notes/Github - donnemartin system-design-primer/Main|Main]]
 [[Step 2 - Review the scalability article]]
-[[Course Notes/Github - donnemartin system-design-primer/Domain Name System|Domain Name System]]
+[[Reference Notes/Github - donnemartin system-design-primer/Domain Name System|Domain Name System]]
 [[Content Delivery Network]]
 [[Load Balancer]]
 [[Reverse proxy]]
@@ -11,4 +11,4 @@ Source - https://github.com/donnemartin/system-design-primer
 [[Cache]]
 [[Asynchronism]]
 [[Communication]]
-[[Course Notes/Github - donnemartin system-design-primer/Security|Security]]
+[[Reference Notes/Github - donnemartin system-design-primer/Security|Security]]
