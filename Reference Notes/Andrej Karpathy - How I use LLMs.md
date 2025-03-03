@@ -12,3 +12,10 @@ scale leaderboard
 
 tiktokenizer
 
+chatgpt interaction under the hood
+
+basic llm interactions example
+
+thinking models and when to use them
+
+tool use internet search
