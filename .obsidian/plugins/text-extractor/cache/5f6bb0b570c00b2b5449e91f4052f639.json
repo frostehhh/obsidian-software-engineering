@@ -1,0 +1,1 @@
+{"path":"Topics/Amazon Web Services/Images/Pasted image 20230319032912.png","text":".2 Default VPC Facts @ msincona. © s * One per region - can be removed & recreated e Default VPC CIDR is always 172.31.0.0/16 ¢ /20 Subnet in each AZ in the region * Internet Gateway (IGW), Security Group (5G) & NACL * Subnets assign public IPv4 addresses","libVersion":"0.3.2","langs":"eng"}

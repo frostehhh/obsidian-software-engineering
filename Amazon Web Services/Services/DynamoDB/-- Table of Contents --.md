@@ -1,8 +1,0 @@
-[[Amazon Web Services/Services/DynamoDB/Architecture]]
-[[Operations, Consistency and Performance]]
-[[Local and Global Secondary Indexes]]
-[[Streams & Triggers]]
-[[Demo - DynamoDB Lambda Triggers]]
-[[Global Tables]]
-[[Accelerator (DAX)]]
-[[Amazon Web Services/Services/DynamoDB/Time to live|TTL]]

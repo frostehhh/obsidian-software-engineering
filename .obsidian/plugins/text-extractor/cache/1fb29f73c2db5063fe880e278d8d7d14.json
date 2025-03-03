@@ -1,0 +1,1 @@
+{"path":"Topics/Amazon Web Services/Images/Pasted image 20230502032801.png","text":"Aurora Key Differences @ oo © srmry e Aurora architecture is VERY different from RDS... e ..Uses a “Cluster” * A single primary instance + 0 or more replicas * No local storage - uses cluster volume e Faster provisioning & improved availability & performance","libVersion":"0.3.2","langs":"eng"}

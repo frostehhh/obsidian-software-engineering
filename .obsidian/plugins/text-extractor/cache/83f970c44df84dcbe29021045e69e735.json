@@ -1,0 +1,1 @@
+{"path":"Topics/Amazon Web Services/Images/Pasted image 20230502014925.png","text":"Amazon RDS Security @ masttenanitio @ srarcar * RDS MSSQL and RDS Oracle Support TDE e . Transparent Data Encryption * Encryption handled within the DB engine * RDS Oracle supports integration with CloudHSM e Much stronger key controls (even from AWS)","libVersion":"0.3.2","langs":"eng"}
