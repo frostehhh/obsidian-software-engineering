@@ -12,10 +12,16 @@ scale leaderboard
 
 tiktokenizer
 
-chatgpt interaction under the hood
+# chatgpt interaction under the hood
 
-basic llm interactions example
+Text is interpreted as tokens under the hood. This refers to text from user queries and responses from the AI assistant.
 
-thinking models and when to use them
+These tokens are stored in the instance of a chat session to form the context. Due to this, it is better to create a new chat in case you need to discuss a new topic.
+
+# basic llm interactions example
+After asking an LLM a prompt, verify the information
+
+# thinking models and when to use them
+Thinking models are better for answering complex problems. They are trained with reinforcement learning, which as of writing, are a recent breakthrough in LLMs. For simple prompts, it is better to use non-thinking models
 
 tool use internet search
