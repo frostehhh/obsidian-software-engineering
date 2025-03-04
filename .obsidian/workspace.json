@@ -29,14 +29,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Drawing 2025-03-04 19.10.29.excalidraw.md"
+                "file": "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-04 19.10.29.excalidraw"
+              "title": "Fundamentals Mindmap"
+            }
+          },
+          {
+            "id": "a0c87db8aacae92e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Reference Notes/Hussein Nasser/Drawing 2025-03-04 21.44.52.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-04 21.44.52.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,15 +241,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "bd2714a80d3d3c1d",
+  "active": "a0c87db8aacae92e",
   "lastOpenFiles": [
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Mindmap.md",
-    "Reference Notes/Hussein Nasser/Drawing 2025-03-04 19.10.29.excalidraw.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Introduction.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Reference Notes/Hussein Nasser/Drawing 2025-03-04 21.44.52.excalidraw.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Mindmap.md",
     "Reference Notes/Andrej Karpathy - How I use LLMs.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/_note_Udemy - Fundamentals of Backend Engineering.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Introduction.md",
     "--Obsidian Template--/Frontmatter - Video Reference.md",
     "Reference Notes/Github - donnemartin system-design-primer/_note_Github - donnemartin system-design-primer.md",
     "Reference Notes/Github - Learn Node.js Hardway/_note_Github - Learn Node.js Hardway.md",
@@ -257,7 +270,6 @@
     "Reference Notes/Github - Learn Node.js Hardway/ch02-your-first-nodejs-server.md",
     "Reference Notes/Github - Learn Node.js Hardway/Course Notes.md",
     "Reference Notes/Hussein Nasser/_note_Hussein Nasser.md",
-    "Course Notes/Introduction.md",
     "Reference Notes",
     "Topics",
     "--Attachments/Report-on-Learning-August-2022.pdf",
