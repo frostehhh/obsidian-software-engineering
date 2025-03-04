@@ -24,4 +24,8 @@ After asking an LLM a prompt, verify the information
 # thinking models and when to use them
 Thinking models are better for answering complex problems. They are trained with reinforcement learning, which as of writing, are a recent breakthrough in LLMs. For simple prompts, it is better to use non-thinking models
 
-tool use internet search
+# Tool use: Internet Search
+
+There are AI services that when given a prompt, perform an internet search under the hood. For example, perplexity.ai does this
+
+# Tool use: Deep Research
