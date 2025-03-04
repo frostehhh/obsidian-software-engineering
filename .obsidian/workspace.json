@@ -55,12 +55,14 @@
             "id": "1e3f2c96ac0049a2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalibrain/excalibrain.md"
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "excalibrain"
+              "icon": "lucide-file",
+              "title": "Request Response"
             }
           }
         ],
@@ -257,13 +259,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "bd2714a80d3d3c1d",
+  "active": "1e3f2c96ac0049a2",
   "lastOpenFiles": [
-    "Excalibrain",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
-    "Excalibrain/excalibrain.md",
-    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "Topics/Cybersecurity/Encryption/Envelope Encryption.md",
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
+    "--Attachments/Pasted image 20250304232827.png",
+    "--Attachments",
+    "Excalibrain/excalibrain.md",
+    "Excalibrain",
     "Topics/Cybersecurity/Encryption/Encryption.md",
     "Topics/Cybersecurity/Encryption/--Table of Contents--.md",
     "Topics/Cybersecurity/Encryption/Types of Encryption/Symmetric Encryption.md",
@@ -304,9 +308,6 @@
     "--Attachments/Pasted image 20250222013906.png",
     "--Attachments/Pasted image 20250222005308.png",
     "--Attachments/Pasted image 20250222002938.png",
-    "--Attachments/Pasted image 20250222002849.png",
-    "--Attachments/Habits+Cheat+Sheet.pdf",
-    "--Explore",
     "Canvas/canvas 2.canvas",
     "Untitled 1.canvas"
   ]
