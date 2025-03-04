@@ -4,8 +4,10 @@ Channel: Andrej Karpathy
 tags:
   - video-notes
 media_link: https://youtu.be/EWvNQjAaOHw
-Draft: true
+Draft: false
 ---
+
+Did not finish since I'm good with the info I learned.
 
 chatbotarena
 scale leaderboard
