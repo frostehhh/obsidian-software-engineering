@@ -1,0 +1,1 @@
+This folder is for taking notes about key information from references.
