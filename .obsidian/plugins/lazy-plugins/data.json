@@ -15,7 +15,7 @@
         "startupType": "long"
       },
       "obsidian-excalidraw-plugin": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "highlightr-plugin": {
         "startupType": "short"

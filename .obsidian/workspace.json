@@ -56,6 +56,7 @@
           {
             "id": "4aa16e03aef30ec3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -63,6 +64,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Summary"
             }
@@ -100,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#backend",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +123,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -263,14 +266,14 @@
   },
   "active": "4aa16e03aef30ec3",
   "lastOpenFiles": [
-    "Notes/_note_Notes.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
     "Dataviews/Summary.md",
+    "Notes/Request Response Model.md",
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Notes/_note_Notes.md",
     "Dataviews",
     "Reference Notes/_note_Reference Notes.md",
     "Topics/_note_Topics.md",
-    "Notes/Request Response Model.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
-    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "Topics/Cybersecurity/Encryption/Envelope Encryption.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Introduction.md",
     "Topics/Cloud Computing/Cloud Computing.md",
