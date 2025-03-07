@@ -1,4 +1,5 @@
 ```dataview
-LIST #backend
+LIST
+FROM #backend
 WHERE file.folder != "--Obsidian Template--"
 ```

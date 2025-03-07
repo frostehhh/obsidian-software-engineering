@@ -52,25 +52,9 @@
               "icon": "lucide-file",
               "title": "Request Response Model"
             }
-          },
-          {
-            "id": "4aa16e03aef30ec3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dataviews/Summary.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Summary"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -259,17 +243,15 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4aa16e03aef30ec3",
+  "active": "70f652f32e52731d",
   "lastOpenFiles": [
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
-    "Dataviews/Summary.md",
     "Notes/Request Response Model.md",
     "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
+    "Dataviews/Summary.md",
     "Notes/_note_Notes.md",
     "Dataviews",
     "Reference Notes/_note_Reference Notes.md",
