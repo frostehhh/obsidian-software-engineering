@@ -6,6 +6,7 @@
       {
         "id": "14b434360be9cd41",
         "type": "tabs",
+        "dimension": 49.89669421487603,
         "children": [
           {
             "id": "123eb90c7669dc98",
@@ -53,8 +54,28 @@
               "title": "Request Response Model"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "5273d4d7991fa740",
+        "type": "tabs",
+        "dimension": 50.103305785123965,
+        "children": [
+          {
+            "id": "64beb8844090714e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Github - donnemartin system-design-primer/Asynchronism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Asynchronism"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +128,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,7 +250,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470
+    "width": 470,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,14 +264,19 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ee3f93324d3a96ea",
+  "active": "123eb90c7669dc98",
   "lastOpenFiles": [
+    "Reference Notes/Github - donnemartin system-design-primer/Asynchronism.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
     "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "Notes/Request Response Model.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
+    "excalibrain.md",
+    "Excalibrain/excalibrain.md",
     "Dataviews/Summary.md",
     "Notes/_note_Notes.md",
     "Dataviews",
@@ -265,7 +291,6 @@
     "Topics/Docker/Overview.md",
     "--Attachments/Pasted image 20250304232827.png",
     "--Attachments",
-    "Excalibrain/excalibrain.md",
     "Excalibrain",
     "Topics/Cybersecurity/Encryption/Encryption.md",
     "Topics/Cybersecurity/Encryption/--Table of Contents--.md",
@@ -279,8 +304,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns",
     "--Obsidian Template--/Frontmatter - Video Reference.md",
     "Reference Notes/Github - donnemartin system-design-primer/_note_Github - donnemartin system-design-primer.md",
-    "Reference Notes/Github - Learn Node.js Hardway/_note_Github - Learn Node.js Hardway.md",
-    "Reference Notes/Github - donnemartin system-design-primer/Application layer.md",
     "Reference Notes",
     "Topics",
     "--Attachments/Report-on-Learning-August-2022.pdf",

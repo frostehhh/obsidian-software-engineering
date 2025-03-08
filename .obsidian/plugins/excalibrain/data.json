@@ -87,14 +87,14 @@
   "nodeTitleScript": "",
   "backgroundColor": "#0c3e6aff",
   "excludeFilepaths": [],
-  "autoOpenCentralDocument": true,
+  "autoOpenCentralDocument": false,
   "toggleEmbedTogglesAutoOpen": true,
   "showInferredNodes": true,
   "showAttachments": true,
   "showURLNodes": true,
   "showVirtualNodes": true,
   "showFolderNodes": false,
-  "showTagNodes": false,
+  "showTagNodes": true,
   "showPageNodes": true,
   "showNeighborCount": true,
   "showFullTagName": false,
@@ -227,7 +227,9 @@
     "Next": {}
   },
   "navigationHistory": [
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md"
+    "tag:notes",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
+    "Notes/Request Response Model.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
