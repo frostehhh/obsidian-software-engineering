@@ -6,5 +6,3 @@ Draft: true
 ---
 
 Refer to [[Request Response Model]]
-
-

@@ -22,39 +22,23 @@
             }
           },
           {
-            "id": "64beb8844090714e",
+            "id": "68f871df840574a3",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Github - donnemartin system-design-primer/Asynchronism.md",
+                "file": "Notes/Asynchronous.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Asynchronism"
+              "title": "Asynchronous"
             }
           },
           {
-            "id": "6078e98dcec3f6fa",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Synchronous.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Synchronous"
-            }
-          },
-          {
-            "id": "ab0a1f9da3c83185",
+            "id": "d55bb9d92fc0d9af",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -70,20 +54,21 @@
             }
           },
           {
-            "id": "2af059066d46af88",
+            "id": "f9c45b4a83654011",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Request Response"
+              "title": "Synchronous vs Asynchronous Workloads"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataviews/Summary.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +151,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Summary"
+              "title": "Backlinks for Synchronous vs Asynchronous Workloads"
             }
           },
           {
@@ -175,12 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference Notes/Andrew Huberman - How to Use Caffeine & Coffee to Improve Focus.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Andrew Huberman - How to Use Caffeine & Coffee to Improve Focus"
+              "title": "Outgoing links from Synchronous vs Asynchronous Workloads"
             }
           },
           {
@@ -204,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fundamentals Mindmap"
+              "title": "Outline of Synchronous vs Asynchronous Workloads"
             }
           },
           {
@@ -224,13 +209,15 @@
             }
           },
           {
-            "id": "fa3086fb0ad06606",
+            "id": "7f0455925695d520",
             "type": "leaf",
             "state": {
-              "type": "side-panel-control-view",
-              "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalibrain/excalibrain.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "excalibrain"
             }
           },
           {
@@ -239,27 +226,25 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
-            "id": "217aba8c6062a162",
+            "id": "ab5b390bbb469339",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
+              "type": "side-panel-control-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 377
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,25 +260,26 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "workspaces:Manage workspace layouts": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d192cfd97f1b1641",
+  "active": "f9c45b4a83654011",
   "lastOpenFiles": [
-    "Reference Notes/Github - donnemartin system-design-primer/Asynchronism.md",
-    "Notes/Synchronous.md",
-    "Notes/_note_Notes.md",
-    "Excalibrain/excalibrain.md",
     "Notes/Asynchronous.md",
+    "Notes/Synchronous.md",
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Reference Notes/Github - donnemartin system-design-primer/Asynchronism.md",
+    "Excalibrain/excalibrain.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
     "Notes/Request Response Model.md",
-    "Dataviews/Draft Notes.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
-    "Reference Notes/Andrej Karpathy - How I use LLMs.md",
+    "Reference Notes/Github - donnemartin system-design-primer/_note_Github - donnemartin system-design-primer.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Introduction.md",
+    "Notes/_note_Notes.md",
+    "Dataviews/Draft Notes.md",
+    "Reference Notes/Andrej Karpathy - How I use LLMs.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/_note_Udemy - Fundamentals of Backend Engineering.md",
-    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "--Obsidian Template--/Frontmatter - Video Reference.md",
     "--Obsidian Template--/Frontmatter - Backend Course Notes.md",
     "excalibrain.md",
@@ -311,7 +297,6 @@
     "Excalibrain",
     "Topics/Cybersecurity/Encryption/Encryption.md",
     "Topics/Cybersecurity/Encryption/--Table of Contents--.md",
-    "Topics/Cybersecurity/Encryption/Types of Encryption/Symmetric Encryption.md",
     "Notes",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns",
     "Reference Notes",

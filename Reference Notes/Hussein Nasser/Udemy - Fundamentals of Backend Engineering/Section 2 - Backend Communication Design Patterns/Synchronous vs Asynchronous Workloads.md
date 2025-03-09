@@ -7,18 +7,10 @@ Draft: true
 
 synchronous definition
 # Synchronous
-- Tasks are coordinated
-- Caller cannot work while waiting for a response
-- Assuming there are 2 processes A and B, A will process a task, and pass a request to B. While B is processing, A is blocked is left to wait with nothing to do.
-- Also called blocking
+See [[Synchronous]]
 
 # Asynchronous
-- Tasks do not need to be coordinated
-- Caller can work while waiting for a response
-- For a caller to know if the receiver is done processing, we can do the following approaches:
-	- Polling
-	- Receiver will callback the caller
-	- Alternatively, the main process can create a new thread to run an async process
+See [[Asynchronous]]
 
 # Synchronous vs Asynchronous in request response
 A client sends a request to a server and can do other things while waiting. This is asynchronous. The server will then send back a response, and the client and respond to this via a callback.
