@@ -60,7 +60,8 @@
       "cons",
       "disadvantages",
       "missing",
-      "opposes"
+      "opposes",
+      "opposite"
     ],
     "previous": [
       "Before",
@@ -86,8 +87,11 @@
   "renderAlias": true,
   "nodeTitleScript": "",
   "backgroundColor": "#0c3e6aff",
-  "excludeFilepaths": [],
-  "autoOpenCentralDocument": false,
+  "excludeFilepaths": [
+    "--Obsidian Template--",
+    "_note_"
+  ],
+  "autoOpenCentralDocument": true,
   "toggleEmbedTogglesAutoOpen": true,
   "showInferredNodes": true,
   "showAttachments": true,
@@ -99,7 +103,7 @@
   "showNeighborCount": true,
   "showFullTagName": false,
   "maxItemCount": 30,
-  "renderSiblings": false,
+  "renderSiblings": true,
   "applyPowerFilter": false,
   "baseNodeStyle": {
     "prefix": "",
@@ -224,24 +228,31 @@
     "e": {},
     "East": {},
     "n": {},
-    "Next": {}
+    "Next": {},
+    "opposite": {}
   },
   "navigationHistory": [
     "tag:notes",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
     "Notes/Request Response Model.md",
     "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "tag:excalidraw",
-    "excalibrain.md"
+    "excalibrain.md",
+    "tag:computer-science",
+    "Reference Notes/Github - Learn Node.js Hardway/_note_Github - Learn Node.js Hardway.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
+    "Reference Notes/Github - donnemartin system-design-primer/Asynchronism.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
+    "Notes/Asynchronous.md",
+    "Notes/Synchronous.md"
   ],
   "allowOntologySuggester": true,
-  "ontologySuggesterParentTrigger": "::p",
-  "ontologySuggesterChildTrigger": "::c",
-  "ontologySuggesterLeftFriendTrigger": "::l",
-  "ontologySuggesterRightFriendTrigger": "::r",
-  "ontologySuggesterPreviousTrigger": "::e",
-  "ontologySuggesterNextTrigger": "::n",
-  "ontologySuggesterTrigger": ":::",
+  "ontologySuggesterParentTrigger": "--p",
+  "ontologySuggesterChildTrigger": "--c",
+  "ontologySuggesterLeftFriendTrigger": "--l",
+  "ontologySuggesterRightFriendTrigger": "--r",
+  "ontologySuggesterPreviousTrigger": "--e",
+  "ontologySuggesterNextTrigger": "--n",
+  "ontologySuggesterTrigger": "---",
   "ontologySuggesterMidSentenceTrigger": "(",
   "boldFields": false,
   "allowAutozoom": true,

@@ -44,13 +44,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
+                "file": "Notes/Synchronous.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Synchronous vs Asynchronous Workloads"
+              "title": "Synchronous"
             }
           },
           {
@@ -70,21 +70,20 @@
             }
           },
           {
-            "id": "9272220091185fb1",
+            "id": "2af059066d46af88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Synchronous.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Synchronous"
+              "title": "Request Response"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,25 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "--Attachments/Justin Sung - Myths About Efficiency (Why Busy People Have More Free Time) 2025-02-17 00.21.43.excalidraw.md",
+                "file": "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Justin Sung - Myths About Efficiency (Why Busy People Have More Free Time) 2025-02-17 00.21.43.excalidraw"
-            }
-          },
-          {
-            "id": "8ffa6f6499f16303",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalibrain/excalibrain.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "excalibrain"
+              "title": "Outline of Fundamentals Mindmap"
             }
           },
           {
@@ -267,11 +254,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 470
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -291,16 +279,17 @@
       "media-extended:Open media": false
     }
   },
-  "active": "9272220091185fb1",
+  "active": "d192cfd97f1b1641",
   "lastOpenFiles": [
-    "Excalibrain/excalibrain.md",
+    "Reference Notes/Github - donnemartin system-design-primer/Asynchronism.md",
     "Notes/Synchronous.md",
+    "Notes/_note_Notes.md",
+    "Excalibrain/excalibrain.md",
+    "Notes/Asynchronous.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
     "Notes/Request Response Model.md",
     "Dataviews/Draft Notes.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
-    "Notes/_note_Notes.md",
-    "Reference Notes/Github - donnemartin system-design-primer/Asynchronism.md",
     "Reference Notes/Andrej Karpathy - How I use LLMs.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Introduction.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/_note_Udemy - Fundamentals of Backend Engineering.md",
@@ -323,7 +312,6 @@
     "Topics/Cybersecurity/Encryption/Encryption.md",
     "Topics/Cybersecurity/Encryption/--Table of Contents--.md",
     "Topics/Cybersecurity/Encryption/Types of Encryption/Symmetric Encryption.md",
-    "Topics/Cybersecurity/Encryption/Types of Encryption/Asymmetric Encryption.md",
     "Notes",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns",
     "Reference Notes",
