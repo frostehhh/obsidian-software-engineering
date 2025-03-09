@@ -59,7 +59,7 @@
       {
         "id": "5273d4d7991fa740",
         "type": "tabs",
-        "dimension": 50.103305785123965,
+        "dimension": 50.10330578512397,
         "children": [
           {
             "id": "64beb8844090714e",
@@ -264,9 +264,7 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "123eb90c7669dc98",
