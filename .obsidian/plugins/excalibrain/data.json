@@ -2,7 +2,7 @@
   "compactView": false,
   "compactingFactor": 1.5,
   "minLinkLength": 18,
-  "excalibrainFilepath": "excalibrain.md",
+  "excalibrainFilepath": "Excalibrain/excalibrain.md",
   "indexUpdateInterval": 5000,
   "hierarchy": {
     "exclusions": [
@@ -229,7 +229,10 @@
   "navigationHistory": [
     "tag:notes",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
-    "Notes/Request Response Model.md"
+    "Notes/Request Response Model.md",
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "tag:excalidraw",
+    "excalibrain.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",

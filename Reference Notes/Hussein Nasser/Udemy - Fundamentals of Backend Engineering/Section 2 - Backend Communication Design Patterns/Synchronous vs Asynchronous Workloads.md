@@ -21,6 +21,7 @@ synchronous definition
 	- Alternatively, the main process can create a new thread to run an async process
 
 # Synchronous vs Asynchronous in request response
+A client sends a request to a server and can do other things while waiting. This is asynchronous. The server will then send back a response, and the client and respond to this via a callback.
 
 # Synchronous vs asynchronous in real life
 

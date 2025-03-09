@@ -6,7 +6,6 @@
       {
         "id": "14b434360be9cd41",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "d192cfd97f1b1641",
@@ -53,9 +52,39 @@
               "icon": "lucide-file",
               "title": "Synchronous vs Asynchronous Workloads"
             }
+          },
+          {
+            "id": "ab0a1f9da3c83185",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Synchronous.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Synchronous"
+            }
+          },
+          {
+            "id": "9272220091185fb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Synchronous.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Synchronous"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -112,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.0004348754883
+    "width": 283.0110321044922
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -186,6 +215,18 @@
             }
           },
           {
+            "id": "8ffa6f6499f16303",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalibrain/excalibrain.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "excalibrain"
+            }
+          },
+          {
             "id": "b7a897f0c88ab5ce",
             "type": "leaf",
             "state": {
@@ -226,7 +267,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -245,25 +286,27 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6078e98dcec3f6fa",
+  "active": "9272220091185fb1",
   "lastOpenFiles": [
-    "Reference Notes/Github - donnemartin system-design-primer/Asynchronism.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
-    "Reference Notes/Andrej Karpathy - How I use LLMs.md",
+    "Excalibrain/excalibrain.md",
+    "Notes/Synchronous.md",
     "Notes/Request Response Model.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Introduction.md",
+    "Dataviews/Draft Notes.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
+    "Notes/_note_Notes.md",
+    "Reference Notes/Github - donnemartin system-design-primer/Asynchronism.md",
+    "Reference Notes/Andrej Karpathy - How I use LLMs.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Introduction.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/_note_Udemy - Fundamentals of Backend Engineering.md",
     "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "--Obsidian Template--/Frontmatter - Video Reference.md",
     "--Obsidian Template--/Frontmatter - Backend Course Notes.md",
     "excalibrain.md",
-    "Excalibrain/excalibrain.md",
-    "Dataviews/Summary.md",
-    "Notes/_note_Notes.md",
     "Dataviews",
     "Reference Notes/_note_Reference Notes.md",
     "Topics/_note_Topics.md",
@@ -280,7 +323,6 @@
     "Topics/Cybersecurity/Encryption/--Table of Contents--.md",
     "Topics/Cybersecurity/Encryption/Types of Encryption/Symmetric Encryption.md",
     "Topics/Cybersecurity/Encryption/Types of Encryption/Asymmetric Encryption.md",
-    "Reference Notes/Hussein Nasser/Drawing 2025-03-04 21.44.52.excalidraw.md",
     "Notes",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns",
     "Reference Notes",
