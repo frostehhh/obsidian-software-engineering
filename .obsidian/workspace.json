@@ -6,24 +6,8 @@
       {
         "id": "14b434360be9cd41",
         "type": "tabs",
-        "dimension": 49.89669421487603,
+        "dimension": 99.99999999999999,
         "children": [
-          {
-            "id": "123eb90c7669dc98",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Request Response"
-            }
-          },
           {
             "id": "d192cfd97f1b1641",
             "type": "leaf",
@@ -39,31 +23,9 @@
             }
           },
           {
-            "id": "1e3f2c96ac0049a2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Request Response Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Request Response Model"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5273d4d7991fa740",
-        "type": "tabs",
-        "dimension": 50.10330578512397,
-        "children": [
-          {
             "id": "64beb8844090714e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -71,11 +33,13 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Asynchronism"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -269,11 +233,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "123eb90c7669dc98",
+  "active": "64beb8844090714e",
   "lastOpenFiles": [
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "Reference Notes/Github - donnemartin system-design-primer/Asynchronism.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
-    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "Notes/Request Response Model.md",
     "excalibrain.md",
     "Excalibrain/excalibrain.md",
