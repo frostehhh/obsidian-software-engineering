@@ -1,3 +1,4 @@
 ---
-tags: course-notes
+tags:
+  - course-notes
 ---

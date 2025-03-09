@@ -2,7 +2,7 @@
 tags:
   - notes
   - backend/networking
-Draft: true
+Draft: false
 ---
 # Request Response Model
 1. Client creates request

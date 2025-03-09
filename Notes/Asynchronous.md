@@ -1,8 +1,8 @@
 ---
 tags:
-  - course-notes
+  - notes
   - computer-science
-Draft: true
+Draft: false
 opposite:: [[Synchronous]]
 ---
 - Tasks do not need to be coordinated
