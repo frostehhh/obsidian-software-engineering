@@ -37,9 +37,25 @@
               "icon": "lucide-file",
               "title": "Asynchronism"
             }
+          },
+          {
+            "id": "6078e98dcec3f6fa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Synchronous vs Asynchronous Workloads"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -233,11 +249,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "64beb8844090714e",
+  "active": "6078e98dcec3f6fa",
   "lastOpenFiles": [
-    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
-    "Reference Notes/Github - donnemartin system-design-primer/Asynchronism.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Introduction.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/_note_Udemy - Fundamentals of Backend Engineering.md",
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "--Obsidian Template--/Frontmatter - Video Reference.md",
+    "Reference Notes/Github - donnemartin system-design-primer/Asynchronism.md",
+    "--Obsidian Template--/Frontmatter - Backend Course Notes.md",
     "Notes/Request Response Model.md",
     "excalibrain.md",
     "Excalibrain/excalibrain.md",
@@ -247,7 +268,6 @@
     "Reference Notes/_note_Reference Notes.md",
     "Topics/_note_Topics.md",
     "Topics/Cybersecurity/Encryption/Envelope Encryption.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Introduction.md",
     "Topics/Cloud Computing/Cloud Computing.md",
     "Topics/Cloud Computing/Cloud Service Models.md",
     "Topics/Cloud Computing/Public vs Private vs Hybrid vs Multi Cloud.md",
@@ -263,11 +283,7 @@
     "Reference Notes/Hussein Nasser/Drawing 2025-03-04 21.44.52.excalidraw.md",
     "Notes",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Mindmap.md",
-    "Reference Notes/Andrej Karpathy - How I use LLMs.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/_note_Udemy - Fundamentals of Backend Engineering.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns",
-    "--Obsidian Template--/Frontmatter - Video Reference.md",
-    "Reference Notes/Github - donnemartin system-design-primer/_note_Github - donnemartin system-design-primer.md",
     "Reference Notes",
     "Topics",
     "--Attachments/Report-on-Learning-August-2022.pdf",
