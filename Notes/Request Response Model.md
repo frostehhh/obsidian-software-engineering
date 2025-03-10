@@ -3,6 +3,7 @@ tags:
   - notes
   - backend/networking
 Draft: false
+related:: [[Request Response]]
 ---
 # Request Response Model
 1. Client creates request

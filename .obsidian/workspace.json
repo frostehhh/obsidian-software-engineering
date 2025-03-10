@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Asynchronous.md",
+                "file": "Notes/Request Response Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Asynchronous"
+              "title": "Request Response Model"
             }
           }
         ],
@@ -246,54 +246,20 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "floating": {
-    "id": "997c2c74887ec30f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "125ed63eb617a884",
-        "type": "window",
-        "children": [
-          {
-            "id": "a25e9c9f8ee5785c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b159ccfcd9eb914e",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalibrain/excalibrain.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "excalibrain"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 199,
-        "y": 118,
-        "width": 1449,
-        "height": 1140,
-        "maximize": false,
-        "zoom": 1
-      }
-    ]
-  },
-  "active": "01a93db486e3418d",
+  "active": "aa9d5bd8c09fd7a5",
   "lastOpenFiles": [
     "Excalibrain/excalibrain.md",
+    "Notes/Request Response Model.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Push.md",
     "Notes/Asynchronous.md",
     "Notes/_note_Notes.md",
     "Notes/Synchronous.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Push.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
     "Notes/Push.md",
     "Reference Notes/Hussein Nasser/_note_Hussein Nasser.md",
@@ -310,7 +276,6 @@
     "Reference Notes/Github - donnemartin system-design-primer/Asynchronism.md",
     "Reference Notes/Github - donnemartin system-design-primer/Cache.md",
     "Reference Notes/Github - donnemartin system-design-primer/Communication.md",
-    "Notes/Request Response Model.md",
     "Reference Notes/Github - donnemartin system-design-primer/_note_Github - donnemartin system-design-primer.md",
     "Reference Notes/_note_Reference Notes.md",
     "--Obsidian Template--/Frontmatter - Backend Notes.md",

@@ -53,6 +53,7 @@
       "Jump",
       "Jumps",
       "pros",
+      "related",
       "similar",
       "supports"
     ],
@@ -228,11 +229,11 @@
     "East": {},
     "n": {},
     "Next": {},
-    "opposite": {}
+    "opposite": {},
+    "related": {}
   },
   "navigationHistory": [
     "tag:notes",
-    "Notes/Request Response Model.md",
     "tag:excalidraw",
     "excalibrain.md",
     "tag:computer-science",
@@ -243,13 +244,15 @@
     "tag:course-notes",
     "Notes/Synchronous.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Push.md",
     "--Obsidian Template--/Frontmatter - Backend Course Notes.md",
     "Reference Notes/Github - donnemartin system-design-primer/_note_Github - donnemartin system-design-primer.md",
     "Reference Notes/Hussein Nasser/_note_Hussein Nasser.md",
     "Reference Notes/Github - Learn Node.js Hardway/_note_Github - Learn Node.js Hardway.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/_note_Udemy - Fundamentals of Backend Engineering.md"
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/_note_Udemy - Fundamentals of Backend Engineering.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Push.md",
+    "folder:Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
+    "Notes/Request Response Model.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "--p",
