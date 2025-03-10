@@ -212,8 +212,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -245,8 +245,6 @@
       "open-vscode:VSCode": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
       "media-extended:Open media": false,
       "workspaces:Manage workspace layouts": false
     }
@@ -288,7 +286,7 @@
       }
     ]
   },
-  "active": "aa9d5bd8c09fd7a5",
+  "active": "01a93db486e3418d",
   "lastOpenFiles": [
     "Excalibrain/excalibrain.md",
     "Notes/Asynchronous.md",

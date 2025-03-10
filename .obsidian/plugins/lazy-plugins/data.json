@@ -103,6 +103,12 @@
       },
       "templater-obsidian": {
         "startupType": "disabled"
+      },
+      "editing-toolbar": {
+        "startupType": "instant"
+      },
+      "mermaid-tools": {
+        "startupType": "disabled"
       }
     }
   }
