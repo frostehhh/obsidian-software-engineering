@@ -1,6 +1,6 @@
 
 ```dataview
 LIST
-FROM "Notes"
+FROM "Notes" OR "Reference Notes"
 WHERE draft = true
 ```

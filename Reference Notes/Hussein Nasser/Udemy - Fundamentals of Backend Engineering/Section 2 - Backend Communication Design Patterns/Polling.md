@@ -5,4 +5,4 @@ tags:
 Draft: false
 ---
 
-See [[Notes/Push|Push]]
+See [[Notes/Polling|Polling]]

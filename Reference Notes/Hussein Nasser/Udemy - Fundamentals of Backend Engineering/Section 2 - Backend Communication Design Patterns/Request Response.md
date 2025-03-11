@@ -2,7 +2,7 @@
 tags:
   - reference-notes
   - backend/networking
-Draft: true
+Draft: false
 ---
 
 Refer to [[Request Response Model]]

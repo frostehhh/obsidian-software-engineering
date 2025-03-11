@@ -8,51 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0629b18bf03078de",
+            "id": "1b664bd7632dbb69",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Push.md",
+                "file": "Notes/Polling.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Push"
-            }
-          },
-          {
-            "id": "3a89373d2f36fd03",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Push.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Push"
-            }
-          },
-          {
-            "id": "ab217eb688138c9f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Fundamentals Mindmap"
+              "title": "Polling"
             }
           }
         ]
@@ -112,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.0110321044922,
-    "collapsed": true
+    "width": 283.0110321044922
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -242,16 +209,58 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0629b18bf03078de",
+  "floating": {
+    "id": "526971d752439f81",
+    "type": "floating",
+    "children": [
+      {
+        "id": "36d1eba25881758d",
+        "type": "window",
+        "children": [
+          {
+            "id": "4e7fa0012afc9d23",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "adc167c3741ecf2d",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Fundamentals Mindmap"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1141,
+        "y": 138,
+        "width": 1505,
+        "height": 1120,
+        "maximize": false,
+        "zoom": 1
+      }
+    ]
+  },
+  "active": "1b664bd7632dbb69",
   "lastOpenFiles": [
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Polling.md",
+    "Notes/Polling.md",
     "Notes/Push.md",
+    "Dataviews/Draft Notes.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
+    "Notes/Request Response Model.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Push.md",
     "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "Reference Notes/_note_Reference Notes.md",
     "Excalibrain/excalibrain.md",
     "Reference Notes/Andrej Karpathy - How I use LLMs.md",
     "Notes/Asynchronous.md",
-    "Notes/Request Response Model.md",
     "Notes/Synchronous.md",
     "Reference Notes/Github - donnemartin system-design-primer/--Table of Contents--.md",
     "Reference Notes/Github - donnemartin system-design-primer/Asynchronism.md",
@@ -265,11 +274,6 @@
     "Reference Notes/Github - Learn Node.js Hardway/Introduction.md",
     "Reference Notes/Hussein Nasser/_note_Hussein Nasser.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/_note_Udemy - Fundamentals of Backend Engineering.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Introduction.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
-    "Topics/_note_Topics.md",
-    "Reference Notes/Hussein Nasser/Drawing 2025-03-04 21.44.52.excalidraw.md",
     "Dataviews",
     "Topics/Docker/Images/Pasted image 20230313012146.png",
     "--Attachments/Pasted image 20250304232827.png",
