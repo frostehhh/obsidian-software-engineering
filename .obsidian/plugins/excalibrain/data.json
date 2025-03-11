@@ -85,7 +85,7 @@
   "inferAllLinksAsFriends": true,
   "inverseInfer": false,
   "inverseArrowDirection": true,
-  "renderAlias": true,
+  "renderAlias": false,
   "nodeTitleScript": "",
   "backgroundColor": "#0c3e6aff",
   "excludeFilepaths": [
@@ -268,7 +268,8 @@
     "--Personal Notes--/Unsorted Notes.md",
     "Notes/Polling.md",
     "Notes/Long Polling.md",
-    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md"
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Notes/Server Sent Events.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "--p",
