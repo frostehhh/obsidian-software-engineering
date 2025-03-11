@@ -243,7 +243,6 @@
     "Reference Notes/Github - Learn Node.js Hardway/_note_Github - Learn Node.js Hardway.md",
     "folder:Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns",
     "Reference Notes/Hussein Nasser/Drawing 2025-03-04 21.44.52.excalidraw.md",
-    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "Reference Notes/Andrej Karpathy - How I use LLMs.md",
     "Topics/_note_Topics.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
@@ -265,7 +264,11 @@
     "Notes/Request Response Model.md",
     "Notes/Push.md",
     "Notes/Asynchronous.md",
-    "Notes/Synchronous.md"
+    "Notes/Synchronous.md",
+    "--Personal Notes--/Unsorted Notes.md",
+    "Notes/Polling.md",
+    "Notes/Long Polling.md",
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "--p",
