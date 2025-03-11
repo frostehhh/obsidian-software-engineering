@@ -2,7 +2,7 @@
 tags:
   - notes
   - backend
-Draft: true
+Draft: false
 aliases:
   - Short Polling
 ---
@@ -16,7 +16,7 @@ sequenceDiagram
     participant Client
     participant Server
 
-	Client->>Server: Create Job
+	Client->>+Server: Create Job
 	Server-->>Client: Creating Job
 
     Client->>Server: Request status
@@ -28,7 +28,7 @@ sequenceDiagram
     Note over Client: Wait interval
     
     Client->>Server: Request status 
-    Server-->>Client: Status ready + data
+    Server-->>-Client: Status ready + data
 ```
 
 1. Client sends a request to create a job

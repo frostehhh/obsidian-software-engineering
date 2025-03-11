@@ -97,7 +97,7 @@
   "showAttachments": true,
   "showURLNodes": true,
   "showVirtualNodes": true,
-  "showFolderNodes": true,
+  "showFolderNodes": false,
   "showTagNodes": true,
   "showPageNodes": true,
   "showNeighborCount": true,
