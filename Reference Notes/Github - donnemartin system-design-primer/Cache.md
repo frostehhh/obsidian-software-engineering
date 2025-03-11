@@ -1,3 +1,8 @@
+---
+tags:
+  - reference-notes
+---
+
 Caching improves page load times and can reduce the load on your servers and databases. In this model, the dispatcher will first lookup if the request has been made before and try to find the previous result to return, in order to save the actual execution.
 
 ## Different ways to cache

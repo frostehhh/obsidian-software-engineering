@@ -2,7 +2,7 @@
 Source: Youtube
 Channel: Andrej Karpathy
 tags:
-  - video-notes
+  - reference-notes
 media_link: https://youtu.be/EWvNQjAaOHw
 Draft: false
 ---

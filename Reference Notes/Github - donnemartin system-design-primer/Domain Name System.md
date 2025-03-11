@@ -1,3 +1,7 @@
+---
+tags:
+  - reference-notes
+---
 A Domain Name System (DNS) translates a domain name such as [www.example.com](http://www.example.com/) to an IP address.
 
 

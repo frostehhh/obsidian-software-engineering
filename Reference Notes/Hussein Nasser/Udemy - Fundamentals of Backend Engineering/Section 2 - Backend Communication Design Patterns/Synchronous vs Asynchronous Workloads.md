@@ -1,6 +1,6 @@
 ---
 tags:
-  - course-notes
+  - reference-notes
   - backend
 Draft: true
 ---

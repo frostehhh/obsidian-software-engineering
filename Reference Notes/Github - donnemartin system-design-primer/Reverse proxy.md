@@ -1,3 +1,7 @@
+---
+tags:
+  - reference-notes
+---
 A reverse proxy is a web server that centralizes internal services and provides unified interfaces to the public. Requests from clients are forwarded to a server that can fulfill it before the reverse proxy returns the server's response to the client.
 
 # Benefits

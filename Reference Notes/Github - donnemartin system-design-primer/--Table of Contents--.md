@@ -1,3 +1,8 @@
+---
+tags:
+  - reference-notes
+---
+
 Source - https://github.com/donnemartin/system-design-primer
 
 [[Reference Notes/Github - donnemartin system-design-primer/Main|Main]]

@@ -1,3 +1,7 @@
+---
+tags:
+  - reference-notes
+---
 # High-level trade-offs
 - **Performance** vs **scalability**
 - **Latency** vs **throughput**

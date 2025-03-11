@@ -1,3 +1,7 @@
+---
+tags:
+  - reference-notes
+---
 # Chapter 5.1 - Http verbs versioning
 ## Caching improvements
 

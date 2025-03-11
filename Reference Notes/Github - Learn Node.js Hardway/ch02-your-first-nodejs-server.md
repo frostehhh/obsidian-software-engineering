@@ -1,3 +1,7 @@
+---
+tags:
+  - reference-notes
+---
 ## What exactly is node or nodejs?
 Node.js® is an open-source, cross-platform JavaScript runtime environment.
 

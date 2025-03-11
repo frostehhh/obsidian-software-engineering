@@ -1,3 +1,7 @@
+---
+tags:
+  - reference-notes
+---
 # Relational database management system (RDBMS)
 
 A relational database like SQL is a collection of data items organized in tables.

@@ -1,4 +1,4 @@
 ---
 tags:
-  - course-notes
+  - reference-notes
 ---

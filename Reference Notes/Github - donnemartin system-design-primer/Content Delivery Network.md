@@ -1,3 +1,7 @@
+---
+tags:
+  - reference-notes
+---
 A globally distributed network of proxy servers that serve content to users generally static content. 
 # Benefits
 Quicker retrieval times for users

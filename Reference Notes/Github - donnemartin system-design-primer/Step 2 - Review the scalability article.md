@@ -1,3 +1,7 @@
+---
+tags:
+  - reference-notes
+---
 # Clones
 Public servers of a scalable web service are hidden behind a load balancer. Sessions should not be stored in these servers but in an external store like a persistent cache or database.
 

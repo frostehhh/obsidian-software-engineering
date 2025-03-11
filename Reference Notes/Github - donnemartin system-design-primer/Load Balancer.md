@@ -1,3 +1,7 @@
+---
+tags:
+  - reference-notes
+---
 Load distribution of requests to servers or databases
 
 # Benefits

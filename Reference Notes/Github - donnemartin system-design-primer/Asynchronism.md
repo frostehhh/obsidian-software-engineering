@@ -1,3 +1,7 @@
+---
+tags:
+  - reference-notes
+---
 # Ways to implement
 - Message queue
 	asynchronous communication between services
