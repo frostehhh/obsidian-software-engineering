@@ -15,12 +15,26 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/Polling.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
               "title": "Polling"
+            }
+          },
+          {
+            "id": "95353be01d44270c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "Fundamentals Mindmap"
             }
           }
         ]
@@ -80,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.0110321044922
+    "width": 283.0110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -248,15 +263,15 @@
   },
   "active": "1b664bd7632dbb69",
   "lastOpenFiles": [
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Polling.md",
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "Notes/Polling.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Polling.md",
     "Notes/Push.md",
     "Dataviews/Draft Notes.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
     "Notes/Request Response Model.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Push.md",
-    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "Reference Notes/_note_Reference Notes.md",
     "Excalibrain/excalibrain.md",
     "Reference Notes/Andrej Karpathy - How I use LLMs.md",
