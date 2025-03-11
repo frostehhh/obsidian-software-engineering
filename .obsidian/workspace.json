@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "40eb9b6e77418fec",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Andrej Karpathy - How I use LLMs.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Andrej Karpathy - How I use LLMs"
-            }
-          },
-          {
             "id": "0629b18bf03078de",
             "type": "leaf",
             "pinned": true,
@@ -40,19 +24,38 @@
             }
           },
           {
-            "id": "1dfac0d0a92782b9",
+            "id": "3a89373d2f36fd03",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalibrain/excalibrain.md"
+                "file": "Notes/Push.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "excalibrain"
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Push"
+            }
+          },
+          {
+            "id": "ab217eb688138c9f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Fundamentals Mindmap"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.0110321044922
+    "width": 283.0110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -217,7 +221,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377
+    "width": 377,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,48 +242,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "floating": {
-    "id": "526971d752439f81",
-    "type": "floating",
-    "children": [
-      {
-        "id": "66c67deaa8b81f13",
-        "type": "window",
-        "children": [
-          {
-            "id": "661a3fa143b607c2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "33d839deb9eeba6e",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalibrain/excalibrain.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "excalibrain"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 668,
-        "y": 337,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1
-      }
-    ]
-  },
-  "active": "33d839deb9eeba6e",
+  "active": "0629b18bf03078de",
   "lastOpenFiles": [
-    "Excalibrain/excalibrain.md",
-    "Notes/Asynchronous.md",
     "Notes/Push.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Push.md",
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Reference Notes/_note_Reference Notes.md",
+    "Excalibrain/excalibrain.md",
+    "Reference Notes/Andrej Karpathy - How I use LLMs.md",
+    "Notes/Asynchronous.md",
     "Notes/Request Response Model.md",
     "Notes/Synchronous.md",
     "Reference Notes/Github - donnemartin system-design-primer/--Table of Contents--.md",
@@ -295,13 +267,9 @@
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/_note_Udemy - Fundamentals of Backend Engineering.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Introduction.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Push.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
     "Topics/_note_Topics.md",
-    "Reference Notes/Andrej Karpathy - How I use LLMs.md",
-    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "Reference Notes/Hussein Nasser/Drawing 2025-03-04 21.44.52.excalidraw.md",
-    "Reference Notes/Github - Learn Node.js Hardway/_note_Github - Learn Node.js Hardway.md",
     "Dataviews",
     "Topics/Docker/Images/Pasted image 20230313012146.png",
     "--Attachments/Pasted image 20250304232827.png",
