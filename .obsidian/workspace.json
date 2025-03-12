@@ -22,49 +22,35 @@
             }
           },
           {
-            "id": "5958ca340db8a293",
+            "id": "73fd8821bfc4d23b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Publish Subscribe.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Polling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Publish Subscribe"
+              "title": "Polling"
             }
           },
           {
-            "id": "4b1a073f379fc26b",
+            "id": "f9a2281fcfc259e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Publish Subscribe.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Multiplexing and Demultiplexing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Publish Subscribe"
-            }
-          },
-          {
-            "id": "915028f74f32de99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Publish Subscribe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Publish Subscribe"
+              "title": "Multiplexing and Demultiplexing"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -245,7 +231,9 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "floating": {
@@ -253,15 +241,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "ba1ead38540aa26c",
+        "id": "b6abc46bfcfbcfbd",
         "type": "window",
         "children": [
           {
-            "id": "22f17418a3c8b457",
+            "id": "d51dd35e49791f47",
             "type": "tabs",
             "children": [
               {
-                "id": "bfef130f3ebf0c0a",
+                "id": "5b145994621b33c0",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
@@ -276,47 +264,47 @@
           }
         ],
         "direction": "vertical",
-        "x": 1165,
-        "y": 275,
-        "width": 1024,
-        "height": 800,
+        "x": 907,
+        "y": 203,
+        "width": 1332,
+        "height": 1015,
         "maximize": false,
         "zoom": 1
       }
     ]
   },
-  "active": "6741cf2d64d37dde",
+  "active": "f9a2281fcfc259e6",
   "lastOpenFiles": [
-    "Excalibrain/excalibrain.md",
-    "Notes/Publish Subscribe.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Publish Subscribe.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Server Sent Events.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Push.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Polling.md",
     "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Multiplexing and Demultiplexing.md",
+    "Notes/Multiplexing and Demultiplexing.md",
+    "Notes/Long Polling.md",
+    "Notes/Publish Subscribe.md",
+    "Notes/Push.md",
+    "--Attachments/Pasted image 20250304232827.png",
+    "Excalibrain/excalibrain.md",
     "Notes/Server Sent Events.md",
     "Dataviews/Draft Notes.md",
-    "Notes/Push.md",
-    "Notes/Long Polling.md",
     "Notes/Polling.md",
     "Notes/Request Response Model.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Server Sent Events.md",
     "Reference Notes/_note_Reference Notes.md",
     "Excalidraw/ExcaliBrain Snapshot - Unsorted Notes.excalidraw.md",
     "Excalidraw",
     "--Obsidian Template--/Related Course Demo.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Polling.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Push.md",
     "Reference Notes/Andrej Karpathy - How I use LLMs.md",
     "Notes/Asynchronous.md",
     "Notes/Synchronous.md",
     "Reference Notes/Github - donnemartin system-design-primer/--Table of Contents--.md",
     "Reference Notes/Github - donnemartin system-design-primer/Asynchronism.md",
     "Reference Notes/Github - donnemartin system-design-primer/Domain Name System.md",
-    "Reference Notes/Github - donnemartin system-design-primer/Security.md",
-    "Reference Notes/Github - donnemartin system-design-primer/Step 2 - Review the scalability article.md",
     "Dataviews",
     "Topics/Docker/Images/Pasted image 20230313012146.png",
-    "--Attachments/Pasted image 20250304232827.png",
     "--Attachments",
     "Excalibrain",
     "Notes",

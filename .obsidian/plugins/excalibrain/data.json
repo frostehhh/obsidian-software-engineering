@@ -103,7 +103,7 @@
   "showNeighborCount": true,
   "showFullTagName": false,
   "maxItemCount": 30,
-  "renderSiblings": true,
+  "renderSiblings": false,
   "applyPowerFilter": false,
   "baseNodeStyle": {
     "prefix": "",
