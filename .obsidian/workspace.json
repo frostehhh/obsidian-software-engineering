@@ -245,9 +245,7 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "workspaces:Manage workspace layouts": false
     }
   },
   "floating": {
@@ -287,14 +285,14 @@
       }
     ]
   },
-  "active": "915028f74f32de99",
+  "active": "6741cf2d64d37dde",
   "lastOpenFiles": [
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Publish Subscribe.md",
+    "Excalibrain/excalibrain.md",
     "Notes/Publish Subscribe.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Publish Subscribe.md",
     "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "Notes/Server Sent Events.md",
     "Dataviews/Draft Notes.md",
-    "Excalibrain/excalibrain.md",
     "Notes/Push.md",
     "Notes/Long Polling.md",
     "Notes/Polling.md",
