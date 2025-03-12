@@ -22,22 +22,9 @@
             }
           },
           {
-            "id": "73fd8821bfc4d23b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Polling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Polling"
-            }
-          },
-          {
             "id": "f9a2281fcfc259e6",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -45,12 +32,57 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Multiplexing and Demultiplexing"
             }
+          },
+          {
+            "id": "4f8cad3ebc3ad511",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Multiplexing and Demultiplexing.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Multiplexing and Demultiplexing"
+            }
+          },
+          {
+            "id": "ad2e1d4387446ca0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Connection Pooling.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Connection Pooling"
+            }
+          },
+          {
+            "id": "1d764b621de4e26e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "--Attachments/ConnectionPooling.png"
+              },
+              "icon": "lucide-image",
+              "title": "ConnectionPooling"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -273,16 +305,20 @@
       }
     ]
   },
-  "active": "f9a2281fcfc259e6",
+  "active": "ad2e1d4387446ca0",
   "lastOpenFiles": [
+    "--Attachments/ConnectionPooling.png",
+    "--Obsidian Template--/Frontmatter - Reference Notes.md",
+    "Notes/Connection Pooling.md",
+    "Notes/Multiplexing and Demultiplexing.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Multiplexing and Demultiplexing.md",
+    "Notes/Asynchronous.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Publish Subscribe.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Server Sent Events.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Push.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Polling.md",
     "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Multiplexing and Demultiplexing.md",
-    "Notes/Multiplexing and Demultiplexing.md",
     "Notes/Long Polling.md",
     "Notes/Publish Subscribe.md",
     "Notes/Push.md",
@@ -298,11 +334,7 @@
     "--Obsidian Template--/Related Course Demo.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
     "Reference Notes/Andrej Karpathy - How I use LLMs.md",
-    "Notes/Asynchronous.md",
     "Notes/Synchronous.md",
-    "Reference Notes/Github - donnemartin system-design-primer/--Table of Contents--.md",
-    "Reference Notes/Github - donnemartin system-design-primer/Asynchronism.md",
-    "Reference Notes/Github - donnemartin system-design-primer/Domain Name System.md",
     "Dataviews",
     "Topics/Docker/Images/Pasted image 20230313012146.png",
     "--Attachments",
@@ -322,7 +354,6 @@
     "--Attachments/Pasted image 20250222002011.png",
     "Untitled.canvas",
     "--Attachments/Pasted image 20250222013906.png",
-    "--Attachments/Pasted image 20250222005308.png",
     "Canvas/canvas 2.canvas",
     "Untitled 1.canvas"
   ]
