@@ -2,7 +2,8 @@
 tags:
   - notes
   - backend/networking
-Draft: true
+Draft: false
+related:: [[Connection Pooling]]
 ---
 
 # Multiplexing
@@ -14,3 +15,6 @@ Multiple incoming connections to a server are converted into 1 bundled connectio
 A single incoming connection where different independent requests involved are unbundled into multiple connections equal to the number of requests.
 - Results to lower throughput via the debundled connection
 - Receiver of bundled connection will require less resources to process the request.
+
+# Examples
+![[Pasted image 20250312221930.png]]![[Pasted image 20250312221944.png]]

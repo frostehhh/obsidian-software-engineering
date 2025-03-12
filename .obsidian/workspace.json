@@ -12,77 +12,33 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "Fundamentals Mindmap"
-            }
-          },
-          {
-            "id": "f9a2281fcfc259e6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Multiplexing and Demultiplexing.md",
+                "file": "Notes/Request Response Model.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Multiplexing and Demultiplexing"
+              "title": "Request Response Model"
             }
           },
           {
-            "id": "4f8cad3ebc3ad511",
+            "id": "0b63fde2784f5cc3",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Multiplexing and Demultiplexing.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Stateless vs Stateful.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Multiplexing and Demultiplexing"
-            }
-          },
-          {
-            "id": "ad2e1d4387446ca0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Connection Pooling.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Connection Pooling"
-            }
-          },
-          {
-            "id": "1d764b621de4e26e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "--Attachments/ConnectionPooling.png"
-              },
-              "icon": "lucide-image",
-              "title": "ConnectionPooling"
+              "title": "Stateless vs Stateful"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -305,29 +261,32 @@
       }
     ]
   },
-  "active": "ad2e1d4387446ca0",
+  "active": "0b63fde2784f5cc3",
   "lastOpenFiles": [
+    "Notes/Request Response Model.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Stateless vs Stateful.md",
+    "Excalibrain/excalibrain.md",
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Notes/Multiplexing and Demultiplexing.md",
+    "--Attachments/Pasted image 20250312221944.png",
+    "--Attachments/Pasted image 20250312221930.png",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Multiplexing and Demultiplexing.md",
+    "Notes/Connection Pooling.md",
     "--Attachments/ConnectionPooling.png",
     "--Obsidian Template--/Frontmatter - Reference Notes.md",
-    "Notes/Connection Pooling.md",
-    "Notes/Multiplexing and Demultiplexing.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Multiplexing and Demultiplexing.md",
     "Notes/Asynchronous.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Publish Subscribe.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Server Sent Events.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Push.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Polling.md",
-    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "Notes/Long Polling.md",
     "Notes/Publish Subscribe.md",
     "Notes/Push.md",
     "--Attachments/Pasted image 20250304232827.png",
-    "Excalibrain/excalibrain.md",
     "Notes/Server Sent Events.md",
     "Dataviews/Draft Notes.md",
     "Notes/Polling.md",
-    "Notes/Request Response Model.md",
     "Reference Notes/_note_Reference Notes.md",
     "Excalidraw/ExcaliBrain Snapshot - Unsorted Notes.excalidraw.md",
     "Excalidraw",
@@ -351,9 +310,7 @@
     "--Attachments/Bloom's Taxonomy.png",
     "Canvas/Untitled.canvas",
     "--Attachments/Pasted image 20250223200513.png",
-    "--Attachments/Pasted image 20250222002011.png",
     "Untitled.canvas",
-    "--Attachments/Pasted image 20250222013906.png",
     "Canvas/canvas 2.canvas",
     "Untitled 1.canvas"
   ]
