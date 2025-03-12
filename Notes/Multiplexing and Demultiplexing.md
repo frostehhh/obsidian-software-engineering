@@ -17,4 +17,4 @@ A single incoming connection where different independent requests involved are u
 - Receiver of bundled connection will require less resources to process the request.
 
 # Examples
-![[Pasted image 20250312221930.png]]![[Pasted image 20250312221944.png]]
+![[Multiplexing example HTTP2.png]]![[Multiplexing HTTP2 on the backend.png]]
