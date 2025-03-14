@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/OSI Model.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true,
@@ -40,13 +40,31 @@
           {
             "id": "b5444283486980f8",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Notes/OSI Model.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "OSI Model"
+            }
+          },
+          {
+            "id": "5445a1668f05137f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/OSI Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "OSI Model"
             }
@@ -105,8 +123,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -277,15 +294,17 @@
   },
   "active": "b5444283486980f8",
   "lastOpenFiles": [
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/OSI Model.md",
     "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/OSI Model.md",
+    "Notes/OSI Model.md",
+    "Notes/Publish Subscribe.md",
+    "Excalibrain/excalibrain.md",
+    "Notes/TCP-IP Model.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/Protocol Properties.md",
     "Notes/Push.md",
     "Notes/Request Response Model.md",
     "Notes/Stateful.md",
     "Notes/Stateless.md",
-    "Notes/OSI Model.md",
-    "Excalibrain/excalibrain.md",
     "Topics/Networking/OSI 7-Layer Model/OSI 7-Layer Model.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Polling.md",
     "Topics/Networking/OSI 7-Layer Model/Presentation.md",
@@ -295,7 +314,6 @@
     "Notes/Multiplexing and Demultiplexing.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
     "Notes/Server Sent Events.md",
-    "Notes/Publish Subscribe.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Server Sent Events.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Sidecar Pattern.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Stateless vs Stateful.md",
@@ -312,7 +330,6 @@
     "--Attachments/Protocol Properties p2.png",
     "--Attachments/Protocol Properties p1.png",
     "--Attachments/Pasted image 20250313003633.png",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Introduction.md",
     "--Attachments/Pasted image 20250313004033.png",
     "--Attachments/Pasted image 20250313004024.png",
     "--Attachments/Pasted image 20250313003722.png",
