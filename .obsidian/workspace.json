@@ -20,13 +20,7 @@
               "icon": "excalidraw-icon",
               "title": "Fundamentals Mindmap"
             }
-          }
-        ]
-      },
-      {
-        "id": "b61df6de8eda8706",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "1aa937ed8e996cbb",
             "type": "leaf",
@@ -42,8 +36,23 @@
               "icon": "lucide-file",
               "title": "Protocol Properties"
             }
+          },
+          {
+            "id": "bcab3a153b90157f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/OSI Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OSI Model"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -75,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#reference-notes/course",
+                "query": "tag:#backend/networking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.0110321044922,
-    "collapsed": true
+    "width": 283.0110321044922
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -209,8 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377,
-    "collapsed": true
+    "width": 377
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,10 +237,68 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8c20442d460fbe55",
+  "floating": {
+    "id": "65ba2ea5ed7a962d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "241e7aeaadfe3fce",
+        "type": "window",
+        "children": [
+          {
+            "id": "4afae2a7d1752610",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4a7b1494027913d5",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalibrain/excalibrain.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "excalibrain"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 103,
+        "y": 243,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1
+      }
+    ]
+  },
+  "active": "4a7b1494027913d5",
   "lastOpenFiles": [
+    "Notes/OSI Model.md",
+    "Excalibrain/excalibrain.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/OSI Model.md",
+    "Topics/Networking/OSI 7-Layer Model/OSI 7-Layer Model.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Polling.md",
+    "Topics/Networking/OSI 7-Layer Model/Presentation.md",
+    "Topics/Networking/OSI 7-Layer Model/Session.md",
+    "Topics/Networking/OSI 7-Layer Model/Transport/Transport.md",
+    "Notes/Connection Pooling.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/Protocol Properties.md",
     "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Notes/Multiplexing and Demultiplexing.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
+    "Notes/Request Response Model.md",
+    "Notes/Stateless.md",
+    "Notes/Stateful.md",
+    "Notes/Server Sent Events.md",
+    "Notes/Publish Subscribe.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Server Sent Events.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Sidecar Pattern.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Stateless vs Stateful.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
+    "Notes/Communication Protocol Properties.md",
     "--Attachments/Pasted image 20250313003642.png",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/rabbitMQ-pushAPI.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Postgres-Pipelining.pdf",
@@ -246,34 +311,14 @@
     "--Attachments/Protocol Properties p1.png",
     "--Attachments/Pasted image 20250313003633.png",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Introduction.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Sidecar Pattern.md",
     "--Attachments/Pasted image 20250313004033.png",
     "--Attachments/Pasted image 20250313004024.png",
     "--Attachments/Pasted image 20250313003722.png",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Server Sent Events.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/_note_Udemy - Fundamentals of Backend Engineering.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/ts-types/value/is.d.ts",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/ts-types/time-value/ensure.d.ts",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/ts-types/value/ensure.d.ts",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/ts-types/thenable/is.d.ts",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/docs/value.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/docs/thenable.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/docs/time-value.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/docs/string.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/docs/set.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/docs/reg-exp.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/docs/safe-integer.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/docs/prototype.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/docs/promise.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/docs/plain-object.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/docs/object.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/docs/plain-function.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/docs/iterable.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/docs/number.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/docs/natural-number.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/docs/map.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/docs/integer.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/docs/error.md",
     "--Attachments/Multiplexing example HTTP2.png",
     "--Attachments/Stateless Backend.png",
     "--Attachments/Multiplexing HTTP2 on the backend.png",

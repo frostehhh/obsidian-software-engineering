@@ -2,10 +2,10 @@
 tags:
   - reference-notes
   - backend
-Draft: true
+Draft: false
 ---
 
-Take with a grain of salt
+Take with a grain of salt. More important to emphasize or focus on performance, relevance of the solution and is ideal in terms of maintainability, etc.
 
 # What is a protocol
 It is simply a system or a process of communication in the context of Software Engineering
