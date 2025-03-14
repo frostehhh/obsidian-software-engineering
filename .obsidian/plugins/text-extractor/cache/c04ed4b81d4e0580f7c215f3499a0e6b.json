@@ -1,0 +1,1 @@
+{"path":"Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/kernel+queues.pdf","text":"SYN queue ACCEPT queue SYN SYN queue ACCEPT queue SYN/ACK SYN queue ACCEPT queue ACK SYN queue ACCEPT queue ACK Userspace Backend appaccept() Receive Queue Write data Userspace Backend app recv() Send Queue write()","libVersion":"0.3.2","langs":""}
