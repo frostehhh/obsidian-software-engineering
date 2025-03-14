@@ -37,8 +37,7 @@
               "title": "Sidecar Pattern"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,11 +218,14 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6fac4799be3ad931",
+  "active": "8c20442d460fbe55",
   "lastOpenFiles": [
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Sidecar Pattern.md",
     "--Attachments/Pasted image 20250313004033.png",
     "--Attachments/Pasted image 20250313004024.png",
     "--Attachments/Pasted image 20250313003722.png",
@@ -232,7 +234,6 @@
     "--Obsidian Template--/Frontmatter - Reference Notes Backend.md",
     "--Obsidian Template--/Frontmatter - Backend Notes.md",
     "--Obsidian Template--/Frontmatter - Reference Notes.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Sidecar Pattern.md",
     "Notes/Connection Pooling.md",
     "Dataviews/Draft Notes.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Stateless vs Stateful.md",
@@ -258,7 +259,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Polling.md",
     "Notes/Publish Subscribe.md",
     "Notes/Push.md",
-    "--Attachments/Pasted image 20250304232827.png",
     "Notes/Server Sent Events.md",
     "Excalidraw",
     "Dataviews",
