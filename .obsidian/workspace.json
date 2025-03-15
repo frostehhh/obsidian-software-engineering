@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalibrain/excalibrain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for excalibrain"
+              "title": "Backlinks"
             }
           },
           {
@@ -200,7 +199,9 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "floating": {
@@ -219,12 +220,12 @@
                 "id": "4a7b1494027913d5",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw-loading",
+                  "type": "excalidraw",
                   "state": {
                     "file": "Excalibrain/excalibrain.md"
                   },
-                  "icon": "lucide-file",
-                  "title": "Loading Excalidraw... excalibrain"
+                  "icon": "excalidraw-icon",
+                  "title": "excalibrain"
                 }
               }
             ]
@@ -240,13 +241,13 @@
       }
     ]
   },
-  "active": "4a7b1494027913d5",
+  "active": "0c1457d722f150ab",
   "lastOpenFiles": [
+    "Excalibrain/excalibrain.md",
     "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/OSI Model.md",
     "Topics/Networking/OSI 7-Layer Model/OSI 7-Layer Model.md",
     "Notes/OSI Model.md",
-    "Excalibrain/excalibrain.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",
     "Reference Notes/Hussein Nasser/_note_Hussein Nasser.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/_note_Udemy - Fundamentals of Backend Engineering.md",
