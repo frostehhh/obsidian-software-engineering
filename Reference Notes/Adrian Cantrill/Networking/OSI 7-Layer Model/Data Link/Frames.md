@@ -12,7 +12,7 @@ A frame is a unit of communication in the data link layer. Data link layer takes
 	2. Source MAC Address
 	3. Ethertype(ET) 16 Bits - specifies which layer 3 protocol is putting its data in the frame (e.g. IP)
 3. Payload
-	Data that the frame carries from source to destination. Generally provided by [[Network|Layer 3]]
+	Data that the frame carries from source to destination. Generally provided by [[Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/Network|Layer 3]]
 	64 - 1500 bytes
 4. Frame Check Sequence (FCS)
 	Checks if there are any errors

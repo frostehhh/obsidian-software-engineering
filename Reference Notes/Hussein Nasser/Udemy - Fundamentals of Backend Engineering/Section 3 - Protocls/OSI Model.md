@@ -5,7 +5,7 @@ tags:
 Draft: false
 ---
 
-See [[Notes/OSI Model|OSI Model]]
+See [[Notes/OSI Model/OSI Model|OSI Model]]
 See [[TCP-IP Model]].
 
 > [!note] 

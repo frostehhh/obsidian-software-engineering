@@ -1,6 +1,6 @@
 
 ![[OSI-LAYER4-TRANSORT-2.png]]
-- They don't have SRC or DST IPs because they rely on [[Network|Layer 3]] for this
+- They don't have SRC or DST IPs because they rely on [[Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/Network|Layer 3]] for this
 - Because of [[Ports]], you can have multiple streams of communication
 - Sequence Number - incremented with each segment that's sent, and it's unique. It can be used for error correction, etc. It is a way of uniquely identifiying a particular segment in a particular connection so that both sides can make observations about it. 
 - These observations are done with **Acknowledgements**

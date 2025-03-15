@@ -1,1 +1,1 @@
-- Where [[IP Packet|packet]]s are directed to in a network
+- Where [[Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/IP Packet|packet]]s are directed to in a network

@@ -85,7 +85,7 @@
   "inferAllLinksAsFriends": true,
   "inverseInfer": false,
   "inverseArrowDirection": true,
-  "renderAlias": false,
+  "renderAlias": true,
   "nodeTitleScript": "",
   "backgroundColor": "#0c3e6aff",
   "excludeFilepaths": [

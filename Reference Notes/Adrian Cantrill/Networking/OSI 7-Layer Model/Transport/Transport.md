@@ -7,7 +7,7 @@ Layer 4, the transport layer, is <mark style="background: #FFF3A3A6;">responsibl
 
 # More Info
 
-- Layer 4 resolves the following issues with [[Network|Layer 3]]
+- Layer 4 resolves the following issues with [[Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/Network|Layer 3]]
 	- when multiple packets sent in a specific order, it can be received in a different order by the destination device.
 	- There are no communication channels. IP packets on their own cannot be used to distinguish the intended application at the destination IP
 - [[Transmission Control Protocol]] (TCP) and [[User Datagram Protocol]] (UDP) which both run on top of [[Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/Internet Protocol|IP]]

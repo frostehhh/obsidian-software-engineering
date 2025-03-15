@@ -2,17 +2,19 @@
 tags:
   - notes
   - backend/networking
+  - backend/communication
 Draft: false
-aliases: Open Systems Interconnection Model
-related:: [[OSI 7-Layer Model]]
-related:: [[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/OSI Model|OSI Model]]
+aliases:
+  - Open Systems Interconnection Model
+"related:":
+  - - Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/OSI Model|OSI Model
 ---
 
 # What is the OSI Model?
 The OSI model is a conceptual framework of how communication occurs in software. There are 7 layers
 1. Physical - ethernet, Wi-Fi, fiber cables, radio waves
 2. Data Link - MAC Address
-3. Network - IP Address
+3. [[Notes/OSI Model/Network|Network]] - IP Address
 4. Transport - Ports
 5. Session - TLS
 6. Presentation - plain text, JSON

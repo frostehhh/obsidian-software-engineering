@@ -5,8 +5,8 @@ aliases: [TCP]
 - for reliability,error correction and ordering of data
 - Used by HTTP, HTTPS, SSH, etc.
 - connection-oriented protocol
-- Segments are another container for data similar to [[IP Packet|packet]]s and [[Frames]], but they are specific to TCP
-- [[Segments]] are encapsulated within [[IP Packet]]s
+- Segments are another container for data similar to [[Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/IP Packet|packet]]s and [[Frames]], but they are specific to TCP
+- [[Segments]] are encapsulated within [[Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/IP Packet]]s
 
 ### Example
 ![[OSI-LAYER4-TRANSORT-3.png]]

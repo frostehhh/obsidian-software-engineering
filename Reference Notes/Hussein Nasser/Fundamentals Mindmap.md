@@ -148,7 +148,7 @@ Rf7aSM0T: [[Notes/Multiplexing and Demultiplexing]]
 
 9uDxXlPR: [[Notes/Multiplexing and Demultiplexing]]
 
-nnmdtSQR: [[Notes/OSI Model]]
+nnmdtSQR: [[Notes/OSI Model/OSI Model]]
 
 VD1xYjzZ: [[TCP-IP Model]]
 

@@ -4,23 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "7384c8f2623cda15",
+        "id": "2251b0a199b69f2f",
         "type": "tabs",
         "children": [
-          {
-            "id": "4b2949076595d071",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "Fundamentals+of+Backend+Communications+and+Protocols"
-            }
-          },
           {
             "id": "ed3016ddd2ef8d29",
             "type": "leaf",
@@ -52,21 +38,23 @@
             }
           },
           {
-            "id": "5f89ecd5f29963ff",
+            "id": "44c276b58d255ba0",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Internet Protocol.md",
+                "file": "IP Packet.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Internet Protocol"
+              "title": "IP Packet"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.0110321044922,
-    "collapsed": true
+    "width": 407.0026054382324
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -140,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Internet Protocol.md",
+                "file": "IP Packet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +137,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Internet Protocol"
+              "title": "Backlinks for IP Packet"
             }
           },
           {
@@ -159,12 +146,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Internet Protocol.md",
+                "file": "IP Packet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Internet Protocol"
+              "title": "Outgoing links from IP Packet"
             }
           },
           {
@@ -232,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377
+    "width": 377,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,16 +240,69 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5f89ecd5f29963ff",
+  "floating": {
+    "id": "65ba2ea5ed7a962d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "611329806b485c2d",
+        "type": "window",
+        "children": [
+          {
+            "id": "c48be8bf79309349",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "af6d4c31010473cf",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalibrain/excalibrain.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "excalibrain"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1057,
+        "y": 287,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1
+      }
+    ]
+  },
+  "active": "44c276b58d255ba0",
   "lastOpenFiles": [
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/Internet Protocol.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
+    "Notes/_note_Notes.md",
+    "IP Packet.md",
     "Notes/Internet Protocol.md",
+    "Untitled",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
+    "Notes/OSI Model/OSI Model.md",
+    "Notes/OSI Model/Network.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",
+    "--Obsidian Template--/Frontmatter - Reference Notes - Backend.md",
+    "--Obsidian Template--/Frontmatter - Notes - Backend.md",
+    "--Obsidian Template--/Frontmatter - Reference Notes.md",
+    "--Obsidian Template--/Frontmatter - Video Reference.md",
+    "--Obsidian Template--/Frontmatter - Reference Notes with source.md",
+    "Excalibrain/excalibrain.md",
+    "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/IP Addressing/Address Resolution Protocol.md",
+    "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/IP Addressing/IPv4 Addressing/IPv4 Addressing.md",
+    "Excalidraw/ExcaliBrain Snapshot - Internet Protocol.excalidraw.md",
+    "Notes/OSI Model",
+    "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/IP Addressing/IPv4 Addressing/IPv4 Address Space.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/OSI Model.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/Protocol Properties.md",
     "Notes/Communication Protocol Properties.md",
-    "Notes/OSI Model.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Introduction.md",
     "Topics/Project Management/Methodologies/Agile/Allen Holub/How we can correct the mistakes made with Agile • Allen Holub.md",
     "--Attachments/youtube_f42a3r28wmu.a_en.en.vtt",
@@ -269,22 +310,9 @@
     "Media Note - War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020 1.md",
     "--Attachments/War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020PT16.489S.webp",
     "--Attachments/War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020PT0.933S.webp",
-    "Excalibrain/excalibrain.md",
     "excalibrain.md",
     "Reference Notes/Docker/_note_Docker.md",
-    "Reference Notes/Docker/Overview.md",
-    "--Obsidian Template--/Frontmatter - Reference Notes with source.md",
-    "--Obsidian Template--/Frontmatter - Reference Notes.md",
-    "Reference Notes/Github - donnemartin system-design-primer/_note_Github - donnemartin system-design-primer.md",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
-    "Topics/Search Engine Optimization/Introduction.md",
-    "Topics/Search Engine Optimization/Crawling and indexing.md",
-    "Topics/Search Engine Optimization/--Table of Contents--.md",
-    "Notes/YAML.md",
-    "Reference Notes/Adrian Cantrill/Networking/Attacks/Distributed Denial of Service.md",
-    "Topics/Quality Assurance/Types of Automation Tests.md",
-    "Reference Notes/Adrian Cantrill/Kubernetes/Basics.md",
-    "Reference Notes/Adrian Cantrill/Kubernetes/--Table of Contents--.md",
     "Reference Notes/Adrian Cantrill/Cloud Computing/Images/Pasted image 20221229142305.png",
     "Reference Notes/Spring Documentation",
     "--Attachments/Pasted image 20250315025342.png",
@@ -295,8 +323,6 @@
     "--Attachments/Pasted image 20250313003642.png",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/rabbitMQ-pushAPI.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Postgres-Pipelining.pdf",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/kernel+queues.pdf",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
     "--Attachments/Protocol Properties p2.png",
     "--Attachments/Protocol Properties p1.png",
     "Canvas/Untitled.canvas",
