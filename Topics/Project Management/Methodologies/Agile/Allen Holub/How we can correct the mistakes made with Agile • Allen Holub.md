@@ -1,5 +1,12 @@
-[How we can correct the mistakes made with Agile • Allen Holub-)](https://youtu.be/F42A3R28WMU)
+---
+tags:
+  - reference-notes
+---
 
+
+[How we can correct the mistakes made with Agile • Allen Holub-)|embed](https://youtu.be/F42A3R28WMU)
+
+[01:46](https://www.youtube.com/watch?v=F42A3R28WMU&t=106#t=01:46.00)
 - Do half of scrum and use Jira
 - Jira moves people away from agility
 	- Tools are working against us

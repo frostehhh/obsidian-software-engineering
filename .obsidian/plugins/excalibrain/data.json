@@ -233,7 +233,6 @@
     "related": {}
   },
   "navigationHistory": [
-    "Reference Notes/Hussein Nasser/Drawing 2025-03-04 21.44.52.excalidraw.md",
     "Reference Notes/Andrej Karpathy - How I use LLMs.md",
     "Topics/_note_Topics.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
@@ -282,7 +281,8 @@
     "--Attachments/Multiplexing example HTTP2.png",
     "Notes/Stateful.md",
     "Notes/Stateless.md",
-    "tag:notes"
+    "tag:notes",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "--p",

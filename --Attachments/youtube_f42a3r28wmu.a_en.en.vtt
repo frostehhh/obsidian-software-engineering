@@ -1,0 +1,5107 @@
+WEBVTT
+Kind: subtitles
+ID: a.en
+Source: https&#58;//www.youtube.com/watch?v&#61;F42A3R28WMU
+Title: War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020
+Language: en
+Label: English (auto-generated)
+
+0
+00:00:00.000 --> 00:00:07.839
+thank you
+
+1
+00:00:00.970 --> 00:00:07.838
+[Music]
+
+2
+00:00:12.360 --> 00:00:18.480
+good afternoon everybody
+
+3
+00:00:14.700 --> 00:00:20.460
+um the the I see 79 but to be honest I
+
+4
+00:00:18.480 --> 00:00:22.740
+don't believe it is that I I my
+
+5
+00:00:20.460 --> 00:00:25.619
+experience going in and doing agile
+
+6
+00:00:22.740 --> 00:00:27.839
+consulting which I do a lot of is that
+
+7
+00:00:25.619 --> 00:00:29.039
+the vast majority of companies that I
+
+8
+00:00:27.840 --> 00:00:31.380
+work with that think that they're being
+
+9
+00:00:29.039 --> 00:00:33.120
+agile or not
+
+10
+00:00:31.380 --> 00:00:34.739
+um that doesn't mean that they all
+
+11
+00:00:33.120 --> 00:00:36.780
+aren't as they're a bunch of perfectly
+
+12
+00:00:34.739 --> 00:00:39.000
+good perfectly agile companies out there
+
+13
+00:00:36.780 --> 00:00:42.600
+in the world but
+
+14
+00:00:39.000 --> 00:00:45.960
+uh truth to tell agile has come to to
+
+15
+00:00:42.600 --> 00:00:47.760
+mean something other than it means in
+
+16
+00:00:45.960 --> 00:00:48.960
+order to put it another way
+
+17
+00:00:47.760 --> 00:00:50.460
+um the word agile has been kind of
+
+18
+00:00:48.960 --> 00:00:52.680
+twisted around to the point where people
+
+19
+00:00:50.460 --> 00:00:56.100
+don't really even recognize it anymore
+
+20
+00:00:52.680 --> 00:00:57.480
+and the the obvious problem there is not
+
+21
+00:00:56.100 --> 00:01:00.239
+so much that the word is being messed
+
+22
+00:00:57.480 --> 00:01:01.620
+with but rather that uh if you're not
+
+23
+00:01:00.239 --> 00:01:04.259
+doing
+
+24
+00:01:01.620 --> 00:01:05.700
+things in an agile way then you're not
+
+25
+00:01:04.260 --> 00:01:07.200
+going to get the results that you expect
+
+26
+00:01:05.700 --> 00:01:08.040
+to get when you do things in a natural
+
+27
+00:01:07.200 --> 00:01:10.439
+way
+
+28
+00:01:08.040 --> 00:01:11.880
+so that's essentially what this talk is
+
+29
+00:01:10.439 --> 00:01:13.740
+about is I'm going to talk about what's
+
+30
+00:01:11.880 --> 00:01:15.600
+gone wrong I'm going to talk about how
+
+31
+00:01:13.740 --> 00:01:18.360
+to fix it about what agile actually is
+
+32
+00:01:15.600 --> 00:01:19.740
+what it should be and then at the end of
+
+33
+00:01:18.360 --> 00:01:21.420
+things we'll have some questions have
+
+34
+00:01:19.740 --> 00:01:23.820
+some time for questions
+
+35
+00:01:21.420 --> 00:01:25.619
+so first of all there's this notion of
+
+36
+00:01:23.820 --> 00:01:28.619
+agile being dead the death of agile
+
+37
+00:01:25.619 --> 00:01:30.479
+death of agile was a meme a few years
+
+38
+00:01:28.619 --> 00:01:32.460
+ago is that you saw a lot of talks about
+
+39
+00:01:30.479 --> 00:01:34.320
+the death Evangel I gave one myself Andy
+
+40
+00:01:32.460 --> 00:01:36.419
+Hunt gave one with the same title this
+
+41
+00:01:34.320 --> 00:01:38.339
+was completely random we both had
+
+42
+00:01:36.420 --> 00:01:41.159
+scheduled these stocks long before we
+
+43
+00:01:38.340 --> 00:01:45.060
+knew about each other's titles and
+
+44
+00:01:41.159 --> 00:01:47.159
+um the the problem was is that both of
+
+45
+00:01:45.060 --> 00:01:48.720
+us were seeing the same difficulty with
+
+46
+00:01:47.159 --> 00:01:50.640
+the way that agile is implemented out in
+
+47
+00:01:48.720 --> 00:01:53.520
+the real world uh the way that Andy put
+
+48
+00:01:50.640 --> 00:01:57.180
+it was that that agile has come to mean
+
+49
+00:01:53.520 --> 00:01:59.158
+do half of scrum badly and use jira and
+
+50
+00:01:57.180 --> 00:02:01.200
+there's some truth to that is that the
+
+51
+00:01:59.159 --> 00:02:04.259
+Jura is the work of the devil as far as
+
+52
+00:02:01.200 --> 00:02:06.780
+I'm concerned it is not a viable tool
+
+53
+00:02:04.259 --> 00:02:08.818
+for doing things in a natural way and in
+
+54
+00:02:06.780 --> 00:02:11.099
+fact tools like jira actually move
+
+55
+00:02:08.818 --> 00:02:13.859
+people away from agility is that the
+
+56
+00:02:11.099 --> 00:02:15.060
+tool itself kind of manipulates people
+
+57
+00:02:13.860 --> 00:02:16.319
+into
+
+58
+00:02:15.060 --> 00:02:19.020
+um
+
+59
+00:02:16.319 --> 00:02:20.760
+um not thinking in natural ways uh
+
+60
+00:02:19.020 --> 00:02:24.480
+there's a lot of stuff in jira that is
+
+61
+00:02:20.760 --> 00:02:26.819
+just wrong I think uh the idea of a of a
+
+62
+00:02:24.480 --> 00:02:28.738
+hierarchy of epics that contains stories
+
+63
+00:02:26.819 --> 00:02:31.260
+for example that's just really not the
+
+64
+00:02:28.739 --> 00:02:33.959
+way it actually works so the issue then
+
+65
+00:02:31.260 --> 00:02:35.700
+is that the tools are working against us
+
+66
+00:02:33.959 --> 00:02:39.599
+um the other the other
+
+67
+00:02:35.700 --> 00:02:41.700
+um with my clicker the there we go the
+
+68
+00:02:39.599 --> 00:02:46.140
+other issue um which is an important one
+
+69
+00:02:41.700 --> 00:02:48.238
+is that um is kept back uh catback was
+
+70
+00:02:46.140 --> 00:02:50.640
+one of The Originators of agile and
+
+71
+00:02:48.239 --> 00:02:51.720
+Quebec said I think uh quite reasonably
+
+72
+00:02:50.640 --> 00:02:54.839
+that
+
+73
+00:02:51.720 --> 00:02:57.239
+um agile has come to uh be a devastated
+
+74
+00:02:54.840 --> 00:02:58.980
+Wasteland to use his own tools his own
+
+75
+00:02:57.239 --> 00:03:00.620
+his own terms
+
+76
+00:02:58.980 --> 00:03:03.000
+um that the the
+
+77
+00:03:00.620 --> 00:03:05.040
+I'm paraphrasing here but basically what
+
+78
+00:03:03.000 --> 00:03:06.780
+he's saying is that it's become a
+
+79
+00:03:05.040 --> 00:03:09.120
+priesthood where the priests don't
+
+80
+00:03:06.780 --> 00:03:11.340
+really understand the rituals that
+
+81
+00:03:09.120 --> 00:03:14.640
+they're telling people to follow anymore
+
+82
+00:03:11.340 --> 00:03:17.640
+and that's a that's also I think quite
+
+83
+00:03:14.640 --> 00:03:20.220
+true is the the
+
+84
+00:03:17.640 --> 00:03:23.339
+more and more it's become a formulaic
+
+85
+00:03:20.220 --> 00:03:25.680
+way of working where the formulas are
+
+86
+00:03:23.340 --> 00:03:29.340
+again not well understood
+
+87
+00:03:25.680 --> 00:03:31.860
+so we need to fix that this agile really
+
+88
+00:03:29.340 --> 00:03:34.560
+is not agile anymore so let's talk about
+
+89
+00:03:31.860 --> 00:03:36.180
+the problems the first I'm going to do
+
+90
+00:03:34.560 --> 00:03:37.620
+this in the context of George Orwell
+
+91
+00:03:36.180 --> 00:03:39.420
+because I think that's very important
+
+92
+00:03:37.620 --> 00:03:42.599
+here so it actually works the first
+
+93
+00:03:39.420 --> 00:03:44.720
+issue is war is peace
+
+94
+00:03:42.599 --> 00:03:44.720
+okay
+
+95
+00:03:45.500 --> 00:03:51.959
+that was Orwell's uh one of the things
+
+96
+00:03:50.220 --> 00:03:54.540
+written on the side of the ministry of
+
+97
+00:03:51.959 --> 00:03:56.760
+information in Orwell's 1984.
+
+98
+00:03:54.540 --> 00:03:58.620
+so what does that mean is first of all
+
+99
+00:03:56.760 --> 00:04:01.500
+there's a tension
+
+100
+00:03:58.620 --> 00:04:03.239
+between what agile is and what agile is
+
+101
+00:04:01.500 --> 00:04:04.439
+supposed to be what the industry says it
+
+102
+00:04:03.239 --> 00:04:06.900
+is
+
+103
+00:04:04.439 --> 00:04:10.140
+um in in Orwell's book the notion of War
+
+104
+00:04:06.900 --> 00:04:12.060
+peace was you had a totalitarian state
+
+105
+00:04:10.140 --> 00:04:14.879
+who
+
+106
+00:04:12.060 --> 00:04:16.738
+was in a Perpetual state of War and what
+
+107
+00:04:14.879 --> 00:04:19.019
+they were saying is that you maintain
+
+108
+00:04:16.738 --> 00:04:22.739
+Peace by being in a Perpetual state of
+
+109
+00:04:19.019 --> 00:04:25.400
+War now the the fact is that that oops
+
+110
+00:04:22.740 --> 00:04:28.380
+sorry it's like technical problem here
+
+111
+00:04:25.400 --> 00:04:30.560
+uh this will take about two seconds to
+
+112
+00:04:28.380 --> 00:04:30.560
+fix
+
+113
+00:04:31.860 --> 00:04:34.800
+all right
+
+114
+00:04:33.419 --> 00:04:37.080
+um
+
+115
+00:04:34.800 --> 00:04:40.740
+the and we see that a lot in the agile
+
+116
+00:04:37.080 --> 00:04:43.198
+Community there is uh ongoing series of
+
+117
+00:04:40.740 --> 00:04:45.060
+process Wars between the people that
+
+118
+00:04:43.199 --> 00:04:47.639
+have well between people that have their
+
+119
+00:04:45.060 --> 00:04:49.500
+own processes to sell uh I was just I
+
+120
+00:04:47.639 --> 00:04:51.300
+got some advertising material from David
+
+121
+00:04:49.500 --> 00:04:52.800
+Anderson's kanban method the other day
+
+122
+00:04:51.300 --> 00:04:55.680
+that was basically attacking every other
+
+123
+00:04:52.800 --> 00:04:58.020
+agile method it was saying we have the
+
+124
+00:04:55.680 --> 00:04:59.400
+one true agile and everything else is
+
+125
+00:04:58.020 --> 00:05:00.960
+completely ineffective and you've
+
+126
+00:04:59.400 --> 00:05:02.219
+completely wasted your time and money by
+
+127
+00:05:00.960 --> 00:05:04.440
+dealing with it and you've got to go
+
+128
+00:05:02.220 --> 00:05:06.419
+take our course instead
+
+129
+00:05:04.440 --> 00:05:09.120
+um uh Jeff Sutherland who's pushing
+
+130
+00:05:06.419 --> 00:05:10.740
+agile certification with his scrum Inc
+
+131
+00:05:09.120 --> 00:05:12.300
+and also to some extent with the agile
+
+132
+00:05:10.740 --> 00:05:14.940
+Alliance
+
+133
+00:05:12.300 --> 00:05:16.800
+um Jeff has been hardcore about saying
+
+134
+00:05:14.940 --> 00:05:18.419
+scrum is the one true agile to the point
+
+135
+00:05:16.800 --> 00:05:21.240
+where there's been a quite a bit of
+
+136
+00:05:18.419 --> 00:05:24.060
+revisionism historically about how agile
+
+137
+00:05:21.240 --> 00:05:25.680
+worked is that back when I first learned
+
+138
+00:05:24.060 --> 00:05:27.720
+about agile ways of working or at least
+
+139
+00:05:25.680 --> 00:05:29.580
+formally agile ways of working the only
+
+140
+00:05:27.720 --> 00:05:32.400
+agile process that anybody had heard of
+
+141
+00:05:29.580 --> 00:05:33.900
+was extreme programming XP uh Kent
+
+142
+00:05:32.400 --> 00:05:35.820
+Beck's book extreme programming
+
+143
+00:05:33.900 --> 00:05:37.198
+explained was the first book on agile
+
+144
+00:05:35.820 --> 00:05:39.120
+that anybody had ever read nobody had
+
+145
+00:05:37.199 --> 00:05:41.460
+ever heard of scrum it wasn't until
+
+146
+00:05:39.120 --> 00:05:43.500
+three four five years later that scrum
+
+147
+00:05:41.460 --> 00:05:45.000
+started kind of coming onto the scene
+
+148
+00:05:43.500 --> 00:05:47.520
+and people started paying attention to
+
+149
+00:05:45.000 --> 00:05:51.139
+it and in fact scrum when it first came
+
+150
+00:05:47.520 --> 00:05:53.940
+onto the scene was uh
+
+151
+00:05:51.139 --> 00:05:55.800
+presented as a rapper around XP if you
+
+152
+00:05:53.940 --> 00:05:57.660
+go find the very first book on scrum
+
+153
+00:05:55.800 --> 00:06:00.600
+that was written by Ken schwabber and
+
+154
+00:05:57.660 --> 00:06:02.880
+Mike beedle back in the very early 2000s
+
+155
+00:06:00.600 --> 00:06:06.180
+on the back of the cover in big letters
+
+156
+00:06:02.880 --> 00:06:08.580
+it presents scrum as a rapper around XP
+
+157
+00:06:06.180 --> 00:06:11.220
+that makes XP more palatable if you will
+
+158
+00:06:08.580 --> 00:06:13.139
+to people in business so this notion
+
+159
+00:06:11.220 --> 00:06:15.180
+that scrum is agile and scrum came first
+
+160
+00:06:13.139 --> 00:06:17.280
+that's part of these process Wars is
+
+161
+00:06:15.180 --> 00:06:19.680
+that the the people who are pushing
+
+162
+00:06:17.280 --> 00:06:21.419
+certificates the people who are pushing
+
+163
+00:06:19.680 --> 00:06:22.860
+their own methods they're in constant
+
+164
+00:06:21.419 --> 00:06:25.198
+war with each other and they see that as
+
+165
+00:06:22.860 --> 00:06:27.240
+a good thing because it makes them money
+
+166
+00:06:25.199 --> 00:06:29.520
+so
+
+167
+00:06:27.240 --> 00:06:31.199
+so it that's not of course benefiting
+
+168
+00:06:29.520 --> 00:06:32.758
+any of us is that for one thing there
+
+169
+00:06:31.199 --> 00:06:33.960
+are too many companies that believe the
+
+170
+00:06:32.759 --> 00:06:37.740
+propaganda
+
+171
+00:06:33.960 --> 00:06:39.900
+and they come into the world of agile
+
+172
+00:06:37.740 --> 00:06:41.759
+thinking that agile is a specific thing
+
+173
+00:06:39.900 --> 00:06:44.818
+you can bring in a bunch of trainers and
+
+174
+00:06:41.759 --> 00:06:46.620
+the trainers will do their work and
+
+175
+00:06:44.819 --> 00:06:48.780
+um suddenly you'll be agile is that
+
+176
+00:06:46.620 --> 00:06:50.940
+you'll sprinkle around magic agile fairy
+
+177
+00:06:48.780 --> 00:06:52.799
+dust and poof the company turns into
+
+178
+00:06:50.940 --> 00:06:55.080
+agile and that's really not the way it
+
+179
+00:06:52.800 --> 00:06:56.759
+works is what we have in other words to
+
+180
+00:06:55.080 --> 00:06:59.159
+use Martin Fowler's term is an agile
+
+181
+00:06:56.759 --> 00:07:01.319
+industrial complex a bunch of
+
+182
+00:06:59.160 --> 00:07:03.120
+corporations that are making money by
+
+183
+00:07:01.319 --> 00:07:05.220
+pushing this false notion of agile onto
+
+184
+00:07:03.120 --> 00:07:06.720
+us and it might benefit those
+
+185
+00:07:05.220 --> 00:07:08.520
+corporations but it sure doesn't benefit
+
+186
+00:07:06.720 --> 00:07:09.539
+the companies that think that they're
+
+187
+00:07:08.520 --> 00:07:12.479
+agile
+
+188
+00:07:09.539 --> 00:07:15.180
+so what they're doing is not agile but
+
+189
+00:07:12.479 --> 00:07:17.039
+they nonetheless call it agile so let me
+
+190
+00:07:15.180 --> 00:07:20.400
+give you some examples is that
+
+191
+00:07:17.039 --> 00:07:23.460
+all agile processes Center work around
+
+192
+00:07:20.400 --> 00:07:25.620
+so-called self-organizing teams and by
+
+193
+00:07:23.460 --> 00:07:28.138
+self-organizing people really mean
+
+194
+00:07:25.620 --> 00:07:30.300
+self-organizing they really mean that
+
+195
+00:07:28.139 --> 00:07:31.560
+that the team gets to control how it
+
+196
+00:07:30.300 --> 00:07:33.840
+does its work
+
+197
+00:07:31.560 --> 00:07:36.539
+the team gets to control who's on the
+
+198
+00:07:33.840 --> 00:07:38.520
+team the team gets control gets to
+
+199
+00:07:36.539 --> 00:07:40.740
+control what it's working on
+
+200
+00:07:38.520 --> 00:07:44.639
+is that the team is is it's not
+
+201
+00:07:40.740 --> 00:07:46.500
+autonomous in the in the uh completely
+
+202
+00:07:44.639 --> 00:07:48.060
+isolated from everything else since but
+
+203
+00:07:46.500 --> 00:07:50.580
+it's autonomous in the sense that it has
+
+204
+00:07:48.060 --> 00:07:52.800
+control over its own destiny most
+
+205
+00:07:50.580 --> 00:07:55.020
+companies that claim to do Agile are not
+
+206
+00:07:52.800 --> 00:07:56.759
+doing that you go into an agile
+
+207
+00:07:55.020 --> 00:07:58.440
+so-called agile shop and the first thing
+
+208
+00:07:56.759 --> 00:08:01.620
+that I see in a lot of them is somebody
+
+209
+00:07:58.440 --> 00:08:03.599
+with the title of project manager
+
+210
+00:08:01.620 --> 00:08:05.940
+in charge of the agile team well agile
+
+211
+00:08:03.599 --> 00:08:07.919
+teams don't have project managers
+
+212
+00:08:05.940 --> 00:08:10.199
+because they're self-organizing first of
+
+213
+00:08:07.919 --> 00:08:11.940
+all there's no there's nobody to manage
+
+214
+00:08:10.199 --> 00:08:14.099
+them they manage themselves let's put it
+
+215
+00:08:11.940 --> 00:08:15.780
+that way is that they manage their own
+
+216
+00:08:14.099 --> 00:08:18.000
+work so if you have somebody that has
+
+217
+00:08:15.780 --> 00:08:19.979
+the role of a project manager or the
+
+218
+00:08:18.000 --> 00:08:22.500
+role of a team manager or the role of a
+
+219
+00:08:19.979 --> 00:08:24.360
+line manager that's taking away from the
+
+220
+00:08:22.500 --> 00:08:26.280
+self-organization which is Central to
+
+221
+00:08:24.360 --> 00:08:29.039
+the way that agile teams have to work
+
+222
+00:08:26.280 --> 00:08:30.719
+but companies of course don't want the
+
+223
+00:08:29.039 --> 00:08:33.000
+teams to be fully autonomous because
+
+224
+00:08:30.720 --> 00:08:36.300
+they don't trust them is we are working
+
+225
+00:08:33.000 --> 00:08:39.240
+in a oh a 19th century taylorist model
+
+226
+00:08:36.299 --> 00:08:40.859
+where the the
+
+227
+00:08:39.240 --> 00:08:43.979
+software development is seen as a
+
+228
+00:08:40.860 --> 00:08:45.480
+assembly line kind of operation where
+
+229
+00:08:43.979 --> 00:08:47.399
+the people on the assembly line are
+
+230
+00:08:45.480 --> 00:08:49.019
+inherently lazy and competent workers
+
+231
+00:08:47.399 --> 00:08:50.580
+and you have to have managers watching
+
+232
+00:08:49.019 --> 00:08:52.860
+over them in order to make sure that
+
+233
+00:08:50.580 --> 00:08:54.360
+they get work done and that's not the
+
+234
+00:08:52.860 --> 00:08:55.560
+way that the real world works it's
+
+235
+00:08:54.360 --> 00:08:57.360
+certainly not the way that the software
+
+236
+00:08:55.560 --> 00:09:00.180
+development World works and it's
+
+237
+00:08:57.360 --> 00:09:02.279
+certainly not agile is agile centers on
+
+238
+00:09:00.180 --> 00:09:04.019
+people and if you're not treating your
+
+239
+00:09:02.279 --> 00:09:05.279
+people well then you're not working in a
+
+240
+00:09:04.019 --> 00:09:07.740
+natural way
+
+241
+00:09:05.279 --> 00:09:09.660
+so the other thing about project
+
+242
+00:09:07.740 --> 00:09:11.220
+managers which is equally important is
+
+243
+00:09:09.660 --> 00:09:13.860
+that more and more now in the agile
+
+244
+00:09:11.220 --> 00:09:15.720
+world the whole notion of a project is
+
+245
+00:09:13.860 --> 00:09:17.279
+considered a bad idea in other words
+
+246
+00:09:15.720 --> 00:09:18.899
+instead of working on projects we're
+
+247
+00:09:17.279 --> 00:09:19.860
+working on products on the entire
+
+248
+00:09:18.899 --> 00:09:22.380
+product
+
+249
+00:09:19.860 --> 00:09:24.660
+so uh you try and get work done how do
+
+250
+00:09:22.380 --> 00:09:26.100
+you do that well you look at a agile
+
+251
+00:09:24.660 --> 00:09:27.600
+team that's working in the proper way
+
+252
+00:09:26.100 --> 00:09:30.180
+you have a bunch of so-called user
+
+253
+00:09:27.600 --> 00:09:32.279
+stories but what are users stories user
+
+254
+00:09:30.180 --> 00:09:36.239
+stories are nothing but very short
+
+255
+00:09:32.279 --> 00:09:38.160
+descriptions of what your users do in
+
+256
+00:09:36.240 --> 00:09:38.940
+the real world to get their own work
+
+257
+00:09:38.160 --> 00:09:40.380
+done
+
+258
+00:09:38.940 --> 00:09:41.459
+because they need to accomplish
+
+259
+00:09:40.380 --> 00:09:43.980
+something
+
+260
+00:09:41.459 --> 00:09:46.079
+so you grab one of these user stories
+
+261
+00:09:43.980 --> 00:09:47.640
+and you implement it well how do you
+
+262
+00:09:46.080 --> 00:09:49.140
+organize that you organize it around the
+
+263
+00:09:47.640 --> 00:09:51.839
+product you look at the product as a
+
+264
+00:09:49.140 --> 00:09:54.420
+whole and you say what do we need to do
+
+265
+00:09:51.839 --> 00:09:56.940
+or put it back put it in a better way
+
+266
+00:09:54.420 --> 00:09:59.399
+what can they what can users not do now
+
+267
+00:09:56.940 --> 00:10:01.079
+that they need to do in order to make
+
+268
+00:09:59.399 --> 00:10:02.519
+the product a better product
+
+269
+00:10:01.079 --> 00:10:03.719
+and
+
+270
+00:10:02.519 --> 00:10:05.700
+the
+
+271
+00:10:03.720 --> 00:10:07.860
+um the focus is entirely Pro on the
+
+272
+00:10:05.700 --> 00:10:09.380
+product as a whole not on projects right
+
+273
+00:10:07.860 --> 00:10:12.540
+individual projects are just a little
+
+274
+00:10:09.380 --> 00:10:14.700
+corner of the product where
+
+275
+00:10:12.540 --> 00:10:15.599
+um the you can't you can't see the big
+
+276
+00:10:14.700 --> 00:10:18.779
+picture
+
+277
+00:10:15.600 --> 00:10:20.519
+so there aren't any projects in an agile
+
+278
+00:10:18.779 --> 00:10:22.860
+system there's just the product and
+
+279
+00:10:20.519 --> 00:10:25.260
+every story I suppose you could look at
+
+280
+00:10:22.860 --> 00:10:27.360
+as a miniature project but every story
+
+281
+00:10:25.260 --> 00:10:29.339
+is its own thing
+
+282
+00:10:27.360 --> 00:10:30.779
+um so if there are no products or if
+
+283
+00:10:29.339 --> 00:10:32.820
+there are no projects rather than what
+
+284
+00:10:30.779 --> 00:10:33.720
+exactly is a project manager going to
+
+285
+00:10:32.820 --> 00:10:35.519
+manage
+
+286
+00:10:33.720 --> 00:10:38.820
+and the answer is well there's nothing
+
+287
+00:10:35.519 --> 00:10:40.380
+for them to manage so uh but as I said
+
+288
+00:10:38.820 --> 00:10:41.579
+you go into these companies that think
+
+289
+00:10:40.380 --> 00:10:43.260
+that they're agile and there's project
+
+290
+00:10:41.579 --> 00:10:45.000
+managers all over the place they're like
+
+291
+00:10:43.260 --> 00:10:46.079
+they're like cockroaches it's just when
+
+292
+00:10:45.000 --> 00:10:47.279
+you think you've got them all stamped
+
+293
+00:10:46.079 --> 00:10:50.279
+out another thousand of them come out
+
+294
+00:10:47.279 --> 00:10:52.680
+from under the sink so we really don't
+
+295
+00:10:50.279 --> 00:10:55.140
+want to have that kind of situation
+
+296
+00:10:52.680 --> 00:10:57.660
+so that brings me to the next of
+
+297
+00:10:55.140 --> 00:10:59.100
+Orwell's points also written on the
+
+298
+00:10:57.660 --> 00:11:02.240
+ministry of information which is
+
+299
+00:10:59.100 --> 00:11:02.240
+ignorance's strength
+
+300
+00:11:11.339 --> 00:11:14.760
+so ignorance is strength what does that
+
+301
+00:11:13.140 --> 00:11:16.740
+mean well I have I'm sorry about the
+
+302
+00:11:14.760 --> 00:11:18.120
+reflection here well you can you can
+
+303
+00:11:16.740 --> 00:11:19.560
+read it so we'll just leave it where it
+
+304
+00:11:18.120 --> 00:11:22.200
+is
+
+305
+00:11:19.560 --> 00:11:25.079
+um ignorance is his strength is another
+
+306
+00:11:22.200 --> 00:11:27.360
+important aspect of the way agile has
+
+307
+00:11:25.079 --> 00:11:30.359
+gone wrong
+
+308
+00:11:27.360 --> 00:11:32.339
+um the idea here is that the agile
+
+309
+00:11:30.360 --> 00:11:34.380
+industrial complex people want people to
+
+310
+00:11:32.339 --> 00:11:35.760
+be ignorant they want people to believe
+
+311
+00:11:34.380 --> 00:11:37.200
+they're party lying because they can't
+
+312
+00:11:35.760 --> 00:11:40.920
+sell certificates people don't believe
+
+313
+00:11:37.200 --> 00:11:43.019
+their party line so this notion of you
+
+314
+00:11:40.920 --> 00:11:44.699
+are strong by not knowing too much about
+
+315
+00:11:43.019 --> 00:11:46.500
+what's going on is that something that
+
+316
+00:11:44.700 --> 00:11:48.420
+the the certificate people are actually
+
+317
+00:11:46.500 --> 00:11:49.800
+pushing pretty hard
+
+318
+00:11:48.420 --> 00:11:51.420
+um the people who are pushing scrum
+
+319
+00:11:49.800 --> 00:11:53.040
+don't want you to know that there's more
+
+320
+00:11:51.420 --> 00:11:56.099
+to Agile than scrum because what are
+
+321
+00:11:53.040 --> 00:11:57.899
+they going to sell if they if agile is a
+
+322
+00:11:56.100 --> 00:12:00.180
+big thing and they're a very small piece
+
+323
+00:11:57.899 --> 00:12:02.639
+of it in the corner so they're trying to
+
+324
+00:12:00.180 --> 00:12:05.160
+convince people that the non-agile thing
+
+325
+00:12:02.639 --> 00:12:07.740
+is actually the agile thing
+
+326
+00:12:05.160 --> 00:12:11.579
+the entire agile industrial complex to
+
+327
+00:12:07.740 --> 00:12:13.980
+use Fowler's term is is is focused on
+
+328
+00:12:11.579 --> 00:12:15.959
+doing exactly that and again you see a
+
+329
+00:12:13.980 --> 00:12:17.880
+lot of examples of that
+
+330
+00:12:15.959 --> 00:12:19.439
+um scrum scrum ink comes to mind
+
+331
+00:12:17.880 --> 00:12:21.480
+immediately right what they're peddling
+
+332
+00:12:19.440 --> 00:12:24.000
+is not agile
+
+333
+00:12:21.480 --> 00:12:26.000
+um just take Jeff Sutherland's latest
+
+334
+00:12:24.000 --> 00:12:28.860
+book twice the work at half the time
+
+335
+00:12:26.000 --> 00:12:30.120
+that's a appallingly bad title for
+
+336
+00:12:28.860 --> 00:12:33.060
+something that's supposed to be agile
+
+337
+00:12:30.120 --> 00:12:34.860
+agile is not about work it's not about
+
+338
+00:12:33.060 --> 00:12:37.739
+how much output you have it's not about
+
+339
+00:12:34.860 --> 00:12:40.380
+producing twice as much stuff
+
+340
+00:12:37.740 --> 00:12:43.079
+producing twice the garbage and half the
+
+341
+00:12:40.380 --> 00:12:46.620
+time buys nobody anything
+
+342
+00:12:43.079 --> 00:12:49.859
+so the idea that agile should somehow be
+
+343
+00:12:46.620 --> 00:12:51.240
+doing twice as much work in less time is
+
+344
+00:12:49.860 --> 00:12:53.579
+just craziness
+
+345
+00:12:51.240 --> 00:12:56.279
+is not about output is what agile is
+
+346
+00:12:53.579 --> 00:12:58.138
+about is value what agile is about is
+
+347
+00:12:56.279 --> 00:13:00.360
+writing software and getting it into our
+
+348
+00:12:58.139 --> 00:13:01.860
+users hands and the thing that we're
+
+349
+00:13:00.360 --> 00:13:03.240
+getting into our users hands is
+
+350
+00:13:01.860 --> 00:13:05.639
+something that they find valuable it's
+
+351
+00:13:03.240 --> 00:13:08.639
+something that lets them get something
+
+352
+00:13:05.639 --> 00:13:10.680
+done that they couldn't get done before
+
+353
+00:13:08.639 --> 00:13:12.600
+so that's got nothing to do with really
+
+354
+00:13:10.680 --> 00:13:15.060
+how fast we do it that we want it
+
+355
+00:13:12.600 --> 00:13:17.579
+quickly we want to do it fast
+
+356
+00:13:15.060 --> 00:13:19.560
+um it has to do with how valuable it is
+
+357
+00:13:17.579 --> 00:13:21.120
+to the people who are ultimately buying
+
+358
+00:13:19.560 --> 00:13:22.800
+our software
+
+359
+00:13:21.120 --> 00:13:25.019
+um now let me say as an aside here stand
+
+360
+00:13:22.800 --> 00:13:28.500
+aside let's give it as an aside
+
+361
+00:13:25.019 --> 00:13:30.360
+um the the speed is is a factor is the
+
+362
+00:13:28.500 --> 00:13:32.399
+way that all agile systems work and I'll
+
+363
+00:13:30.360 --> 00:13:35.880
+talk more about this in a second is is
+
+364
+00:13:32.399 --> 00:13:37.139
+uh by getting feedback feedback is an
+
+365
+00:13:35.880 --> 00:13:39.120
+essential part of working in a natural
+
+366
+00:13:37.139 --> 00:13:40.980
+way so we build small things
+
+367
+00:13:39.120 --> 00:13:43.139
+and we deploy them we get them to our
+
+368
+00:13:40.980 --> 00:13:44.160
+users hands and then we get feedback
+
+369
+00:13:43.139 --> 00:13:46.019
+from them
+
+370
+00:13:44.160 --> 00:13:47.579
+and then we use that feedback to make
+
+371
+00:13:46.019 --> 00:13:49.680
+what we just built better everything is
+
+372
+00:13:47.579 --> 00:13:52.739
+done incrementally in small small
+
+373
+00:13:49.680 --> 00:13:54.660
+increments that feedback loop has to be
+
+374
+00:13:52.740 --> 00:13:56.459
+very tight and in fact in a fully agile
+
+375
+00:13:54.660 --> 00:13:58.560
+shop you will be measuring the feedback
+
+376
+00:13:56.459 --> 00:14:00.660
+loop in minutes or hours not even in
+
+377
+00:13:58.560 --> 00:14:03.719
+days is that you'll be working on
+
+378
+00:14:00.660 --> 00:14:06.480
+something at your keyboard and you will
+
+379
+00:14:03.720 --> 00:14:07.980
+um walk up to or not walk up but you'll
+
+380
+00:14:06.480 --> 00:14:09.660
+you'll be peering at the keyboard going
+
+381
+00:14:07.980 --> 00:14:10.980
+oh gosh is this right or not and you'll
+
+382
+00:14:09.660 --> 00:14:12.300
+say hey Fred come over here take a look
+
+383
+00:14:10.980 --> 00:14:14.100
+at this and somebody who actually
+
+384
+00:14:12.300 --> 00:14:16.560
+understands the domain ideally a
+
+385
+00:14:14.100 --> 00:14:17.820
+customer will literally come over and
+
+386
+00:14:16.560 --> 00:14:19.260
+take a look at it and tell you whether
+
+387
+00:14:17.820 --> 00:14:20.820
+you're on the right track or not that's
+
+388
+00:14:19.260 --> 00:14:23.279
+fast feedback
+
+389
+00:14:20.820 --> 00:14:25.800
+feedback to a larger user Community well
+
+390
+00:14:23.279 --> 00:14:27.779
+uh maybe once or twice a day you'll push
+
+391
+00:14:25.800 --> 00:14:29.699
+some something into
+
+392
+00:14:27.779 --> 00:14:31.500
+um into production in other words you'll
+
+393
+00:14:29.699 --> 00:14:34.439
+just check it in you check the code in
+
+394
+00:14:31.500 --> 00:14:37.019
+as a side effect of that a cicd pipeline
+
+395
+00:14:34.440 --> 00:14:38.820
+will wake up and execute a whole bunch
+
+396
+00:14:37.019 --> 00:14:40.680
+of tests and if the automated tests pass
+
+397
+00:14:38.820 --> 00:14:42.360
+will literally push it to the user so
+
+398
+00:14:40.680 --> 00:14:44.459
+once or twice a day there's a new
+
+399
+00:14:42.360 --> 00:14:46.199
+version in the user's hands everybody's
+
+400
+00:14:44.459 --> 00:14:47.939
+heard that statistic about Amazon
+
+401
+00:14:46.199 --> 00:14:49.859
+pushing stuff out to the users once
+
+402
+00:14:47.940 --> 00:14:51.360
+every 11 seconds
+
+403
+00:14:49.860 --> 00:14:53.100
+um that's not that the teams are pushing
+
+404
+00:14:51.360 --> 00:14:54.779
+out every 11 seconds so the team is
+
+405
+00:14:53.100 --> 00:14:56.820
+pushing things out maybe once a day but
+
+406
+00:14:54.779 --> 00:14:58.320
+there's a lot of teams in Amazon so you
+
+407
+00:14:56.820 --> 00:15:00.600
+put them all together and there's stuff
+
+408
+00:14:58.320 --> 00:15:02.579
+being pushed out very quickly but the
+
+409
+00:15:00.600 --> 00:15:04.440
+point here is that that feedback loop is
+
+410
+00:15:02.579 --> 00:15:07.079
+really really really fast or it has to
+
+411
+00:15:04.440 --> 00:15:08.459
+be so you need to be working in such a
+
+412
+00:15:07.079 --> 00:15:10.439
+way that you can get feedback in a
+
+413
+00:15:08.459 --> 00:15:12.420
+timely fashion and that the speed is a
+
+414
+00:15:10.440 --> 00:15:14.100
+factor there but the speed at which we
+
+415
+00:15:12.420 --> 00:15:15.839
+generate output is not particularly
+
+416
+00:15:14.100 --> 00:15:18.300
+important from the normal management
+
+417
+00:15:15.839 --> 00:15:20.459
+sense right our idea is not to push more
+
+418
+00:15:18.300 --> 00:15:23.399
+junk out to the users the idea is to get
+
+419
+00:15:20.459 --> 00:15:24.680
+value to the users in small increments
+
+420
+00:15:23.399 --> 00:15:26.820
+so
+
+421
+00:15:24.680 --> 00:15:27.479
+the the
+
+422
+00:15:26.820 --> 00:15:29.459
+um
+
+423
+00:15:27.480 --> 00:15:31.199
+Next Issue then though is that people
+
+424
+00:15:29.459 --> 00:15:33.719
+come in and they try and push this
+
+425
+00:15:31.199 --> 00:15:35.219
+ignorance of strength Thing by kind of
+
+426
+00:15:33.720 --> 00:15:37.500
+deliberately teaching people the wrong
+
+427
+00:15:35.220 --> 00:15:40.199
+things now I I have to say as an aside
+
+428
+00:15:37.500 --> 00:15:42.899
+that this isn't strictly speaking true
+
+429
+00:15:40.199 --> 00:15:45.420
+is that I know uh several extremely good
+
+430
+00:15:42.899 --> 00:15:47.339
+strong approaches for example is that
+
+431
+00:15:45.420 --> 00:15:50.099
+they don't follow the party line as they
+
+432
+00:15:47.339 --> 00:15:53.220
+come in and they talk to people about
+
+433
+00:15:50.100 --> 00:15:55.440
+agile and then they talk about how scrum
+
+434
+00:15:53.220 --> 00:15:57.600
+can help them do things in a natural way
+
+435
+00:15:55.440 --> 00:16:00.120
+and that's a perfectly reasonable way to
+
+436
+00:15:57.600 --> 00:16:02.579
+approach scrum so I don't much like
+
+437
+00:16:00.120 --> 00:16:04.980
+scrum but if you're working in the right
+
+438
+00:16:02.579 --> 00:16:06.599
+kind of Corporation the people who run
+
+439
+00:16:04.980 --> 00:16:08.639
+the corporation will like it is that
+
+440
+00:16:06.600 --> 00:16:11.220
+it's uh it provides a familiar layer
+
+441
+00:16:08.639 --> 00:16:13.079
+around agility that that makes the
+
+442
+00:16:11.220 --> 00:16:14.339
+people that are running things happy so
+
+443
+00:16:13.079 --> 00:16:18.479
+if they're happy that I'm happy that's
+
+444
+00:16:14.339 --> 00:16:21.060
+okay but if you don't treat scrum as
+
+445
+00:16:18.480 --> 00:16:22.279
+being just a small piece of agile you
+
+446
+00:16:21.060 --> 00:16:24.959
+haven't done anybody a favor
+
+447
+00:16:22.279 --> 00:16:28.380
+unfortunately all too many of the people
+
+448
+00:16:24.959 --> 00:16:30.959
+in the scrum industrial complex are are
+
+449
+00:16:28.380 --> 00:16:33.480
+teaching these classes as if scrum is
+
+450
+00:16:30.959 --> 00:16:35.300
+agile as if they're the same thing and
+
+451
+00:16:33.480 --> 00:16:37.980
+they're not and that's actually
+
+452
+00:16:35.300 --> 00:16:40.199
+deliberately preaching a kind of
+
+453
+00:16:37.980 --> 00:16:42.300
+ignorance is that you ignorance is not
+
+454
+00:16:40.199 --> 00:16:44.279
+strength is you need to know a lot about
+
+455
+00:16:42.300 --> 00:16:46.319
+a lot of things other than scrum in
+
+456
+00:16:44.279 --> 00:16:48.600
+order to be effective at scrum because
+
+457
+00:16:46.320 --> 00:16:50.880
+scrum is a lightweight rapper around
+
+458
+00:16:48.600 --> 00:16:52.740
+agile and if you don't know agile you
+
+459
+00:16:50.880 --> 00:16:54.720
+can't do scrub it's that simple
+
+460
+00:16:52.740 --> 00:16:56.040
+so we have a problem
+
+461
+00:16:54.720 --> 00:16:58.019
+um the other thing that you see in the
+
+462
+00:16:56.040 --> 00:17:00.599
+ignition strength problem is you go into
+
+463
+00:16:58.019 --> 00:17:02.699
+a company and everybody's doing scrum
+
+464
+00:17:00.600 --> 00:17:04.620
+every team in the company is doing
+
+465
+00:17:02.699 --> 00:17:06.959
+exactly the same thing in the worst
+
+466
+00:17:04.619 --> 00:17:09.000
+possible situation every team in the
+
+467
+00:17:06.959 --> 00:17:12.059
+company starts their Sprint on Wednesday
+
+468
+00:17:09.000 --> 00:17:13.980
+and the Sprint's last exactly two weeks
+
+469
+00:17:12.059 --> 00:17:15.660
+and the Sprints are all over on a
+
+470
+00:17:13.980 --> 00:17:17.640
+Wednesday and the teams are just
+
+471
+00:17:15.660 --> 00:17:20.059
+merchanting and lockstep doing exactly
+
+472
+00:17:17.640 --> 00:17:22.860
+the same thing and there's a there's a
+
+473
+00:17:20.059 --> 00:17:25.319
+some company level office making sure
+
+474
+00:17:22.859 --> 00:17:27.299
+that everybody is is doing scrum by the
+
+475
+00:17:25.319 --> 00:17:28.620
+book and that that's the opposite of
+
+476
+00:17:27.299 --> 00:17:30.780
+being agile
+
+477
+00:17:28.620 --> 00:17:33.899
+when everybody's marching and lock stuff
+
+478
+00:17:30.780 --> 00:17:37.139
+like that you cannot be rigid and agile
+
+479
+00:17:33.900 --> 00:17:38.220
+at the same time it's just not possible
+
+480
+00:17:37.140 --> 00:17:40.140
+so
+
+481
+00:17:38.220 --> 00:17:41.820
+if I go into a company and I see that
+
+482
+00:17:40.140 --> 00:17:43.080
+everybody is doing the same thing if
+
+483
+00:17:41.820 --> 00:17:44.639
+everybody in the company is doing scrum
+
+484
+00:17:43.080 --> 00:17:46.379
+that tells me right off the bat that
+
+485
+00:17:44.640 --> 00:17:48.120
+it's not an agile company because your
+
+486
+00:17:46.380 --> 00:17:50.640
+teams are self-organizing I mentioned
+
+487
+00:17:48.120 --> 00:17:51.659
+self-organizing a moment ago well one of
+
+488
+00:17:50.640 --> 00:17:55.500
+the things that goes with
+
+489
+00:17:51.660 --> 00:17:58.260
+self-organization is the notion that the
+
+490
+00:17:55.500 --> 00:18:01.140
+teams get to decide how they do the work
+
+491
+00:17:58.260 --> 00:18:03.480
+and if you look at a fully agile company
+
+492
+00:18:01.140 --> 00:18:05.160
+the individual teams will all be working
+
+493
+00:18:03.480 --> 00:18:07.260
+in slightly different ways you know look
+
+494
+00:18:05.160 --> 00:18:09.059
+at Spotify for example there's several
+
+495
+00:18:07.260 --> 00:18:10.500
+agile processes scattered across the
+
+496
+00:18:09.059 --> 00:18:13.139
+whole organization
+
+497
+00:18:10.500 --> 00:18:14.520
+and there's some some scrum teams that's
+
+498
+00:18:13.140 --> 00:18:15.720
+fine but there are a lot of teams that
+
+499
+00:18:14.520 --> 00:18:18.600
+aren't doing scrum there are a lot of
+
+500
+00:18:15.720 --> 00:18:20.520
+teams that are doing variations on scrum
+
+501
+00:18:18.600 --> 00:18:21.780
+um there are one day Sprints there are
+
+502
+00:18:20.520 --> 00:18:23.160
+one week Sprints there are two week
+
+503
+00:18:21.780 --> 00:18:24.660
+Sprints
+
+504
+00:18:23.160 --> 00:18:27.000
+um there are no Sprints at all and the
+
+505
+00:18:24.660 --> 00:18:28.260
+teams that are using different kinds of
+
+506
+00:18:27.000 --> 00:18:31.020
+processes something that's more linear
+
+507
+00:18:28.260 --> 00:18:32.520
+like kanbam and the point here is that
+
+508
+00:18:31.020 --> 00:18:33.780
+if you're self-organizing that's what
+
+509
+00:18:32.520 --> 00:18:36.179
+you expect to see
+
+510
+00:18:33.780 --> 00:18:37.980
+so if agile teams are self-organizing
+
+511
+00:18:36.179 --> 00:18:39.059
+teams the fact that they're all doing
+
+512
+00:18:37.980 --> 00:18:40.980
+we're all doing the same thing well
+
+513
+00:18:39.059 --> 00:18:44.700
+that's that's telling me that we don't
+
+514
+00:18:40.980 --> 00:18:47.160
+actually have a agile organization
+
+515
+00:18:44.700 --> 00:18:48.900
+so Marching In lockstep is kind of
+
+516
+00:18:47.160 --> 00:18:51.120
+really a bad thing as I said you cannot
+
+517
+00:18:48.900 --> 00:18:53.280
+be rigid about process and agile
+
+518
+00:18:51.120 --> 00:18:55.320
+flexible at the same time it's just not
+
+519
+00:18:53.280 --> 00:18:59.700
+really it just really doesn't work that
+
+520
+00:18:55.320 --> 00:19:01.500
+way so the third thing
+
+521
+00:18:59.700 --> 00:19:04.620
+that
+
+522
+00:19:01.500 --> 00:19:07.580
+Orwell had was the the notion that
+
+523
+00:19:04.620 --> 00:19:07.580
+freedom is slavery
+
+524
+00:19:14.960 --> 00:19:20.460
+and freedom of slavery is uh is uh it's
+
+525
+00:19:18.900 --> 00:19:22.740
+another interesting term it's the basic
+
+526
+00:19:20.460 --> 00:19:25.280
+idea that oral was trying to push was
+
+527
+00:19:22.740 --> 00:19:28.620
+that if you were truly free to do things
+
+528
+00:19:25.280 --> 00:19:31.080
+that that was working against you that
+
+529
+00:19:28.620 --> 00:19:32.639
+you could not live a fulfilled life if
+
+530
+00:19:31.080 --> 00:19:34.918
+you actually had freedom in order to
+
+531
+00:19:32.640 --> 00:19:36.840
+have freedom in order to have something
+
+532
+00:19:34.919 --> 00:19:38.280
+that's fulfilling there has to be
+
+533
+00:19:36.840 --> 00:19:39.780
+structure and that structure has to be
+
+534
+00:19:38.280 --> 00:19:41.340
+imposed by the state
+
+535
+00:19:39.780 --> 00:19:43.020
+well of course
+
+536
+00:19:41.340 --> 00:19:44.639
+the situation I was just describing
+
+537
+00:19:43.020 --> 00:19:46.260
+inside an agile shop is exactly that
+
+538
+00:19:44.640 --> 00:19:48.360
+it's the stages the company and the
+
+539
+00:19:46.260 --> 00:19:51.059
+company is imposing process on you you
+
+540
+00:19:48.360 --> 00:19:52.678
+don't have any real Freedom right in an
+
+541
+00:19:51.059 --> 00:19:54.000
+organization like that you can't say I
+
+542
+00:19:52.679 --> 00:19:56.520
+don't like scrum I'm not going to do it
+
+543
+00:19:54.000 --> 00:19:57.360
+is that they'll just fire you and the
+
+544
+00:19:56.520 --> 00:19:58.918
+the
+
+545
+00:19:57.360 --> 00:20:01.199
+um so what they're saying is that true
+
+546
+00:19:58.919 --> 00:20:03.299
+freedom is a kind of slavery because
+
+547
+00:20:01.200 --> 00:20:05.520
+it's chaos if we had true Freedom we'd
+
+548
+00:20:03.299 --> 00:20:07.320
+have chaos is the way that's presented
+
+549
+00:20:05.520 --> 00:20:09.299
+and that's of course not the way it
+
+550
+00:20:07.320 --> 00:20:11.039
+works is that when you have truly
+
+551
+00:20:09.299 --> 00:20:13.918
+autonomous teams that doesn't mean that
+
+552
+00:20:11.039 --> 00:20:16.260
+they are working alone in a locked room
+
+553
+00:20:13.919 --> 00:20:19.260
+and not talking to anybody we're all
+
+554
+00:20:16.260 --> 00:20:21.600
+adults and we're all adults who want to
+
+555
+00:20:19.260 --> 00:20:23.879
+do the best job we possibly can so if
+
+556
+00:20:21.600 --> 00:20:25.740
+you have independent teams
+
+557
+00:20:23.880 --> 00:20:27.299
+they understand that the work they're
+
+558
+00:20:25.740 --> 00:20:28.980
+doing depends on what the other teams
+
+559
+00:20:27.299 --> 00:20:29.700
+are doing so the teams talk to each
+
+560
+00:20:28.980 --> 00:20:32.580
+other
+
+561
+00:20:29.700 --> 00:20:34.799
+and by the same token the the
+
+562
+00:20:32.580 --> 00:20:36.120
+um the people on the teams talk to each
+
+563
+00:20:34.799 --> 00:20:37.679
+other there's a lot of conversations
+
+564
+00:20:36.120 --> 00:20:40.199
+going on
+
+565
+00:20:37.679 --> 00:20:42.780
+so the point is is that you don't need
+
+566
+00:20:40.200 --> 00:20:44.880
+to have a process forcing everybody to
+
+567
+00:20:42.780 --> 00:20:47.700
+March and locks up in order to
+
+568
+00:20:44.880 --> 00:20:49.679
+coordinate and have a coherent system in
+
+569
+00:20:47.700 --> 00:20:51.480
+the larger sense of the word system for
+
+570
+00:20:49.679 --> 00:20:52.700
+getting work done
+
+571
+00:20:51.480 --> 00:20:55.140
+um the the
+
+572
+00:20:52.700 --> 00:20:57.419
+company full of adults will do that just
+
+573
+00:20:55.140 --> 00:21:00.419
+fine without having to without having to
+
+574
+00:20:57.419 --> 00:21:04.559
+be forced if you will so
+
+575
+00:21:00.419 --> 00:21:06.539
+the the problem then is this attitude of
+
+576
+00:21:04.559 --> 00:21:08.820
+you know my God we cannot let the teams
+
+577
+00:21:06.539 --> 00:21:11.640
+manage themselves how is that going to
+
+578
+00:21:08.820 --> 00:21:13.020
+work we have to keep control and if
+
+579
+00:21:11.640 --> 00:21:14.940
+you're doing that again you're not doing
+
+580
+00:21:13.020 --> 00:21:16.860
+things in a natural way because the
+
+581
+00:21:14.940 --> 00:21:18.419
+teams are self-organizing but that gets
+
+582
+00:21:16.860 --> 00:21:21.539
+us into the freedom of slavery we can't
+
+583
+00:21:18.419 --> 00:21:22.980
+give the teams Freedom not real freedom
+
+584
+00:21:21.539 --> 00:21:25.679
+right now again if you look at a real
+
+585
+00:21:22.980 --> 00:21:27.659
+agile organization the teams have huge
+
+586
+00:21:25.679 --> 00:21:29.460
+amounts of autonomy
+
+587
+00:21:27.659 --> 00:21:31.020
+um the teams are in charge of their own
+
+588
+00:21:29.460 --> 00:21:33.179
+composition they get to decide who's on
+
+589
+00:21:31.020 --> 00:21:34.799
+the team and who's on them uh teams will
+
+590
+00:21:33.179 --> 00:21:36.360
+do their own hiring
+
+591
+00:21:34.799 --> 00:21:38.039
+um teams won't do firing usually because
+
+592
+00:21:36.360 --> 00:21:39.959
+there are legal issues associated with
+
+593
+00:21:38.039 --> 00:21:41.220
+firing but a team can certainly decide
+
+594
+00:21:39.960 --> 00:21:43.919
+that they don't want to work with
+
+595
+00:21:41.220 --> 00:21:45.419
+somebody anymore and say to the to the
+
+596
+00:21:43.919 --> 00:21:46.980
+so-called human resources department
+
+597
+00:21:45.419 --> 00:21:49.500
+don't get me started on the word
+
+598
+00:21:46.980 --> 00:21:50.760
+resources used to mean human being but
+
+599
+00:21:49.500 --> 00:21:51.780
+they'll say to the human resources
+
+600
+00:21:50.760 --> 00:21:53.460
+department
+
+601
+00:21:51.780 --> 00:21:55.620
+um we can't work with this guy so find
+
+602
+00:21:53.460 --> 00:21:57.240
+some team that can work with him better
+
+603
+00:21:55.620 --> 00:21:59.158
+that's different than firing that's just
+
+604
+00:21:57.240 --> 00:22:00.240
+saying we the team can't work with him
+
+605
+00:21:59.159 --> 00:22:01.740
+but that doesn't mean that he's not
+
+606
+00:22:00.240 --> 00:22:03.000
+competent doesn't mean that he can't
+
+607
+00:22:01.740 --> 00:22:04.799
+work with anybody it just means that
+
+608
+00:22:03.000 --> 00:22:05.940
+there's a personality conflict or
+
+609
+00:22:04.799 --> 00:22:08.158
+something that's preventing it from
+
+610
+00:22:05.940 --> 00:22:10.440
+happening with us but the point is is
+
+611
+00:22:08.159 --> 00:22:11.880
+the teams are in charge of that uh the
+
+612
+00:22:10.440 --> 00:22:13.020
+teams have the freedom to decide how
+
+613
+00:22:11.880 --> 00:22:14.700
+they're going to work the freedom the
+
+614
+00:22:13.020 --> 00:22:16.080
+teams have the freedom to decide what
+
+615
+00:22:14.700 --> 00:22:18.539
+they're going to work on
+
+616
+00:22:16.080 --> 00:22:20.220
+so you have a big product backlog that
+
+617
+00:22:18.539 --> 00:22:22.320
+has a list of all of the things that
+
+618
+00:22:20.220 --> 00:22:23.880
+need to get done it's sorted in order of
+
+619
+00:22:22.320 --> 00:22:25.080
+value to the customer
+
+620
+00:22:23.880 --> 00:22:27.419
+now
+
+621
+00:22:25.080 --> 00:22:29.820
+ideally you're pulling things off of
+
+622
+00:22:27.419 --> 00:22:31.679
+that backlog in value order but they're
+
+623
+00:22:29.820 --> 00:22:33.899
+a perfectly good technical reasons to
+
+624
+00:22:31.679 --> 00:22:35.220
+not do that sometime because the teams
+
+625
+00:22:33.900 --> 00:22:36.659
+will look at that backlog and they'll
+
+626
+00:22:35.220 --> 00:22:38.880
+say you know the third thing on the list
+
+627
+00:22:36.659 --> 00:22:40.620
+if we do that first
+
+628
+00:22:38.880 --> 00:22:42.840
+we'll be able to do this first and
+
+629
+00:22:40.620 --> 00:22:44.520
+second things much more quickly
+
+630
+00:22:42.840 --> 00:22:46.439
+so if that's the case of course that's
+
+631
+00:22:44.520 --> 00:22:48.179
+the way you want to do the work so the
+
+632
+00:22:46.440 --> 00:22:49.679
+teams make that decision as they look at
+
+633
+00:22:48.179 --> 00:22:52.080
+the backlog and they say I want to work
+
+634
+00:22:49.679 --> 00:22:54.059
+on that one even if it isn't the one on
+
+635
+00:22:52.080 --> 00:22:55.980
+the top is that one of the huge
+
+636
+00:22:54.059 --> 00:22:59.580
+dysfunctions I see in a lot of fake
+
+637
+00:22:55.980 --> 00:23:01.080
+agile pseudo scrum shops is the PO the
+
+638
+00:22:59.580 --> 00:23:02.879
+product owner has turned into some kind
+
+639
+00:23:01.080 --> 00:23:05.399
+of manager who's assigning work to the
+
+640
+00:23:02.880 --> 00:23:07.500
+teams you must do this and that's not
+
+641
+00:23:05.400 --> 00:23:08.880
+the way it works is that in a in uh when
+
+642
+00:23:07.500 --> 00:23:11.220
+you have freedom when you have a fully
+
+643
+00:23:08.880 --> 00:23:12.539
+self-organizing situation the teams get
+
+644
+00:23:11.220 --> 00:23:15.360
+to decide what they're going to work on
+
+645
+00:23:12.539 --> 00:23:17.460
+but we're all grown-ups we're all adults
+
+646
+00:23:15.360 --> 00:23:18.899
+is that nobody is going to work on
+
+647
+00:23:17.460 --> 00:23:20.280
+something that's going to damage the
+
+648
+00:23:18.900 --> 00:23:21.900
+company we're not we're going to work on
+
+649
+00:23:20.280 --> 00:23:23.460
+the things that are most valuable to the
+
+650
+00:23:21.900 --> 00:23:25.919
+customer
+
+651
+00:23:23.460 --> 00:23:27.840
+so they're always constraints let's put
+
+652
+00:23:25.919 --> 00:23:29.460
+it that way and as adults we understand
+
+653
+00:23:27.840 --> 00:23:31.320
+that those constraints are there and we
+
+654
+00:23:29.460 --> 00:23:32.640
+work around them is that's fine
+
+655
+00:23:31.320 --> 00:23:35.100
+so
+
+656
+00:23:32.640 --> 00:23:36.419
+the issue issue then is that we don't
+
+657
+00:23:35.100 --> 00:23:38.399
+have the freedom we need we need the
+
+658
+00:23:36.419 --> 00:23:40.320
+freedom to invent processes we need the
+
+659
+00:23:38.400 --> 00:23:41.880
+freedom to be agile we need the freedom
+
+660
+00:23:40.320 --> 00:23:44.220
+to look at what we're doing and improve
+
+661
+00:23:41.880 --> 00:23:46.620
+it we need the freedom to make product
+
+662
+00:23:44.220 --> 00:23:48.779
+decisions right and to talk about agile
+
+663
+00:23:46.620 --> 00:23:50.760
+and speed the we need that fast feedback
+
+664
+00:23:48.779 --> 00:23:52.080
+loop well how does that work well the
+
+665
+00:23:50.760 --> 00:23:53.700
+way that works is that you give
+
+666
+00:23:52.080 --> 00:23:55.139
+something you put into your users hands
+
+667
+00:23:53.700 --> 00:23:56.940
+and then you talk to them
+
+668
+00:23:55.140 --> 00:23:59.340
+and then they come back and say well
+
+669
+00:23:56.940 --> 00:24:00.659
+this is okay but we really need this
+
+670
+00:23:59.340 --> 00:24:03.959
+change and then you make the change
+
+671
+00:24:00.659 --> 00:24:05.820
+right then if you have to get permission
+
+672
+00:24:03.960 --> 00:24:08.880
+from somebody to make a product level
+
+673
+00:24:05.820 --> 00:24:10.678
+change then you're not being agile
+
+674
+00:24:08.880 --> 00:24:12.419
+anymore so the teams have to be able to
+
+675
+00:24:10.679 --> 00:24:15.179
+make lots of decisions which are often
+
+676
+00:24:12.419 --> 00:24:17.460
+made in centralized ways and these
+
+677
+00:24:15.179 --> 00:24:19.740
+companies that are not working in actual
+
+678
+00:24:17.460 --> 00:24:22.440
+agile ways and that's a that's a big
+
+679
+00:24:19.740 --> 00:24:24.240
+problem right is that the the team is
+
+680
+00:24:22.440 --> 00:24:27.059
+empowered to do its own work it's
+
+681
+00:24:24.240 --> 00:24:28.620
+trusted to do its own work
+
+682
+00:24:27.059 --> 00:24:30.480
+um of course there's also a level of
+
+683
+00:24:28.620 --> 00:24:32.879
+fear there right is that if you have a
+
+684
+00:24:30.480 --> 00:24:36.299
+control and a control Focus management
+
+685
+00:24:32.880 --> 00:24:37.679
+hierarchy the people in management kind
+
+686
+00:24:36.299 --> 00:24:39.480
+of understand that they're not actually
+
+687
+00:24:37.679 --> 00:24:41.460
+doing anything useful so when they start
+
+688
+00:24:39.480 --> 00:24:44.039
+hearing the teams managing their own
+
+689
+00:24:41.460 --> 00:24:46.980
+work they start thinking so what about
+
+690
+00:24:44.039 --> 00:24:48.480
+me I'm a manager if the teams are
+
+691
+00:24:46.980 --> 00:24:51.000
+managing their own work what am I going
+
+692
+00:24:48.480 --> 00:24:53.460
+to do and that's a perfectly legitimate
+
+693
+00:24:51.000 --> 00:24:55.080
+fear is that if you look at fully agile
+
+694
+00:24:53.460 --> 00:24:58.020
+organizations there isn't much in the
+
+695
+00:24:55.080 --> 00:25:00.240
+way of of middle management so the one
+
+696
+00:24:58.020 --> 00:25:02.279
+has to think of something else to do in
+
+697
+00:25:00.240 --> 00:25:05.700
+that kind of situation and clearly they
+
+698
+00:25:02.279 --> 00:25:08.039
+they worry about that is that when I
+
+699
+00:25:05.700 --> 00:25:10.320
+work as an agile coach when I work as a
+
+700
+00:25:08.039 --> 00:25:12.658
+what I typically do when I do Agile work
+
+701
+00:25:10.320 --> 00:25:14.220
+is I don't I I often work at the team
+
+702
+00:25:12.659 --> 00:25:16.620
+level where I'll sit down with the teams
+
+703
+00:25:14.220 --> 00:25:19.380
+and literally pair with people and and
+
+704
+00:25:16.620 --> 00:25:20.699
+programmer and stuff Hands-On but more
+
+705
+00:25:19.380 --> 00:25:22.860
+often than not I'm working up at the
+
+706
+00:25:20.700 --> 00:25:24.360
+executive level where I'm coming in and
+
+707
+00:25:22.860 --> 00:25:26.100
+I'm looking at an organization and I'm
+
+708
+00:25:24.360 --> 00:25:29.039
+saying well what's wrong here where is
+
+709
+00:25:26.100 --> 00:25:32.639
+it were you agile were you not agile and
+
+710
+00:25:29.039 --> 00:25:35.279
+how can we fix that one of the first
+
+711
+00:25:32.640 --> 00:25:37.200
+things you have to do in order to
+
+712
+00:25:35.279 --> 00:25:38.940
+successfully transition to Agile is take
+
+713
+00:25:37.200 --> 00:25:41.400
+care of the people who don't have
+
+714
+00:25:38.940 --> 00:25:42.840
+anything to do in an agile world all
+
+715
+00:25:41.400 --> 00:25:45.539
+those middle managers who are afraid of
+
+716
+00:25:42.840 --> 00:25:47.399
+their jobs quite justifiably if if you
+
+717
+00:25:45.539 --> 00:25:49.379
+don't help them they're going to be
+
+718
+00:25:47.400 --> 00:25:52.740
+fighting tooth and nail to prevent agile
+
+719
+00:25:49.380 --> 00:25:54.480
+from happening and if half the company
+
+720
+00:25:52.740 --> 00:25:55.440
+is working hard to prevent agile from
+
+721
+00:25:54.480 --> 00:25:58.500
+happening it's never going to happen
+
+722
+00:25:55.440 --> 00:26:00.659
+believe me so the companies that
+
+723
+00:25:58.500 --> 00:26:03.600
+transition successfully they talk to
+
+724
+00:26:00.659 --> 00:26:05.640
+people they say you know uh the the this
+
+725
+00:26:03.600 --> 00:26:06.779
+job is not going to be here anymore the
+
+726
+00:26:05.640 --> 00:26:07.860
+job that you have that doesn't mean that
+
+727
+00:26:06.779 --> 00:26:09.120
+you're not going to be here anymore but
+
+728
+00:26:07.860 --> 00:26:11.699
+it means that the job you're doing is
+
+729
+00:26:09.120 --> 00:26:13.439
+going to change so uh we have some
+
+730
+00:26:11.700 --> 00:26:14.940
+choices here you can learn how to do the
+
+731
+00:26:13.440 --> 00:26:16.080
+new job that's fine
+
+732
+00:26:14.940 --> 00:26:17.520
+um you can decide you don't want to have
+
+733
+00:26:16.080 --> 00:26:19.020
+anything to do with it which is fine too
+
+734
+00:26:17.520 --> 00:26:21.779
+in which case we will actively help you
+
+735
+00:26:19.020 --> 00:26:23.220
+find another job right not kick you out
+
+736
+00:26:21.779 --> 00:26:25.200
+on the street you're on your own but
+
+737
+00:26:23.220 --> 00:26:27.240
+we'll keep paying you until you find
+
+738
+00:26:25.200 --> 00:26:28.919
+another job somewhere that uh this will
+
+739
+00:26:27.240 --> 00:26:30.840
+be satisfying we'll be gratifying to you
+
+740
+00:26:28.919 --> 00:26:32.340
+so you need to help the people in the
+
+741
+00:26:30.840 --> 00:26:33.840
+middle in order to be able to move
+
+742
+00:26:32.340 --> 00:26:36.418
+forward
+
+743
+00:26:33.840 --> 00:26:37.860
+the the you can't just ignore people
+
+744
+00:26:36.419 --> 00:26:39.779
+right so there's another Central aspect
+
+745
+00:26:37.860 --> 00:26:42.899
+of agility is that agile is a very
+
+746
+00:26:39.779 --> 00:26:44.279
+people focused they
+
+747
+00:26:42.900 --> 00:26:46.140
+um the other thing that I see a lot in
+
+748
+00:26:44.279 --> 00:26:49.140
+terms of the freedom of slavery is this
+
+749
+00:26:46.140 --> 00:26:51.120
+in the real world argument this
+
+750
+00:26:49.140 --> 00:26:52.559
+statement that well that's all well and
+
+751
+00:26:51.120 --> 00:26:54.959
+good but that's kind of Ivory Tower
+
+752
+00:26:52.559 --> 00:26:57.779
+thinking and it in the real world we
+
+753
+00:26:54.960 --> 00:26:59.880
+can't do that and that's sort of a
+
+754
+00:26:57.779 --> 00:27:01.440
+nonsensical argument is it what what do
+
+755
+00:26:59.880 --> 00:27:03.720
+they mean by real world in my real world
+
+756
+00:27:01.440 --> 00:27:05.520
+you can do it because I see people do it
+
+757
+00:27:03.720 --> 00:27:07.440
+it works
+
+758
+00:27:05.520 --> 00:27:08.879
+um in their real world you can't do it
+
+759
+00:27:07.440 --> 00:27:10.260
+because they've never experienced
+
+760
+00:27:08.880 --> 00:27:12.659
+anything other than what they've
+
+761
+00:27:10.260 --> 00:27:15.299
+experienced which is usually a tightly
+
+762
+00:27:12.659 --> 00:27:16.620
+controlled focused organization
+
+763
+00:27:15.299 --> 00:27:18.960
+um that's not working in any kind of
+
+764
+00:27:16.620 --> 00:27:20.340
+agile way and has no no hope of ever
+
+765
+00:27:18.960 --> 00:27:23.820
+being able to work in any kind of
+
+766
+00:27:20.340 --> 00:27:27.299
+natural way so the issue here then is
+
+767
+00:27:23.820 --> 00:27:28.620
+that the actual real world agile works
+
+768
+00:27:27.299 --> 00:27:30.360
+just fine right there are a lot of big
+
+769
+00:27:28.620 --> 00:27:32.639
+companies that do things in agile ways
+
+770
+00:27:30.360 --> 00:27:34.199
+Spotify of course is the poster child of
+
+771
+00:27:32.640 --> 00:27:37.320
+agility but
+
+772
+00:27:34.200 --> 00:27:39.360
+um you have Banks ANC bank and um in
+
+773
+00:27:37.320 --> 00:27:43.200
+Australia New Zealand uh they're medical
+
+774
+00:27:39.360 --> 00:27:45.000
+companies medtronics Viva the NASA does
+
+775
+00:27:43.200 --> 00:27:46.620
+things in a natural way there's plenty
+
+776
+00:27:45.000 --> 00:27:49.020
+of retail organizations that are doing
+
+777
+00:27:46.620 --> 00:27:50.580
+and things in a natural way it's a Home
+
+778
+00:27:49.020 --> 00:27:53.580
+Depot for example
+
+779
+00:27:50.580 --> 00:27:56.760
+um I know the CTO at Kohl's who's moving
+
+780
+00:27:53.580 --> 00:27:59.639
+them very much into a true agile way of
+
+781
+00:27:56.760 --> 00:28:01.320
+doing things and um so it's agility
+
+782
+00:27:59.640 --> 00:28:02.580
+actually works in the real world it just
+
+783
+00:28:01.320 --> 00:28:04.559
+doesn't work in the real world of the
+
+784
+00:28:02.580 --> 00:28:07.260
+people who are objecting to it
+
+785
+00:28:04.559 --> 00:28:08.700
+so the company that one works for is not
+
+786
+00:28:07.260 --> 00:28:10.679
+the real world
+
+787
+00:28:08.700 --> 00:28:12.000
+so that finally gets us to the scrum is
+
+788
+00:28:10.679 --> 00:28:13.440
+agile part which I've really been
+
+789
+00:28:12.000 --> 00:28:15.120
+talking about all along so I don't need
+
+790
+00:28:13.440 --> 00:28:17.299
+that I know that I even have to write it
+
+791
+00:28:15.120 --> 00:28:17.299
+down
+
+792
+00:28:20.340 --> 00:28:23.580
+because scrum is not agile they're not
+
+793
+00:28:22.020 --> 00:28:25.980
+the same thing
+
+794
+00:28:23.580 --> 00:28:27.899
+um scrum is uh is a
+
+795
+00:28:25.980 --> 00:28:30.720
+from my point of view what scrum is is
+
+796
+00:28:27.899 --> 00:28:32.459
+it's a wrapper around agile that makes
+
+797
+00:28:30.720 --> 00:28:34.860
+it more palatable to people that don't
+
+798
+00:28:32.460 --> 00:28:38.399
+actually want to be agile is that it
+
+799
+00:28:34.860 --> 00:28:40.979
+provides uh uh structured controlled
+
+800
+00:28:38.399 --> 00:28:42.178
+environment that appeals to companies
+
+801
+00:28:40.980 --> 00:28:43.980
+that are used to structured and
+
+802
+00:28:42.179 --> 00:28:45.539
+controlled environments but it has
+
+803
+00:28:43.980 --> 00:28:47.520
+nothing to do with agility or to put in
+
+804
+00:28:45.539 --> 00:28:49.379
+another way
+
+805
+00:28:47.520 --> 00:28:51.418
+um going back to that original book on
+
+806
+00:28:49.380 --> 00:28:52.860
+agile so Ken schwabber and Mike Doodle's
+
+807
+00:28:51.419 --> 00:28:55.140
+original book are not on agile but on
+
+808
+00:28:52.860 --> 00:28:57.000
+scrum
+
+809
+00:28:55.140 --> 00:28:59.600
+where their notion was that scrum is
+
+810
+00:28:57.000 --> 00:29:02.399
+something that you can do alongside XP
+
+811
+00:28:59.600 --> 00:29:03.959
+in order to act in order to make XP more
+
+812
+00:29:02.399 --> 00:29:06.120
+business-like right that was their the
+
+813
+00:29:03.960 --> 00:29:06.779
+way they were pushing scrum
+
+814
+00:29:06.120 --> 00:29:09.239
+um
+
+815
+00:29:06.779 --> 00:29:12.000
+that can work but the problem is that
+
+816
+00:29:09.240 --> 00:29:13.260
+agile works right XP extreme programming
+
+817
+00:29:12.000 --> 00:29:17.520
+works fine
+
+818
+00:29:13.260 --> 00:29:20.580
+and scrum plus XP works fine and in fact
+
+819
+00:29:17.520 --> 00:29:23.639
+scrum without XP doesn't work at all but
+
+820
+00:29:20.580 --> 00:29:24.539
+more importantly XP without scrum works
+
+821
+00:29:23.640 --> 00:29:27.600
+just fine
+
+822
+00:29:24.539 --> 00:29:29.760
+so if that's the case I ask myself what
+
+823
+00:29:27.600 --> 00:29:31.799
+value is Scrum adding to the to the
+
+824
+00:29:29.760 --> 00:29:35.039
+picture and I can't find any really
+
+825
+00:29:31.799 --> 00:29:36.840
+so it's a technique that that a bunch of
+
+826
+00:29:35.039 --> 00:29:39.658
+management things that make sense to
+
+827
+00:29:36.840 --> 00:29:41.039
+some managers but it's certainly not
+
+828
+00:29:39.659 --> 00:29:43.020
+necessary if you're going to do things
+
+829
+00:29:41.039 --> 00:29:45.059
+in a natural way and when these these
+
+830
+00:29:43.020 --> 00:29:47.760
+bad trainers come along and they say
+
+831
+00:29:45.059 --> 00:29:49.799
+well scrum is agile or even we're safe
+
+832
+00:29:47.760 --> 00:29:51.480
+is agile right the scaled agile
+
+833
+00:29:49.799 --> 00:29:52.559
+so-called scaled agile framework is
+
+834
+00:29:51.480 --> 00:29:54.059
+agile
+
+835
+00:29:52.559 --> 00:29:56.279
+um they're lying to you it's not true
+
+836
+00:29:54.059 --> 00:29:58.260
+because these are all kind of rappers
+
+837
+00:29:56.279 --> 00:30:00.179
+around agility safe is a replacement for
+
+838
+00:29:58.260 --> 00:30:04.140
+agility safe is not an agile process at
+
+839
+00:30:00.179 --> 00:30:06.360
+all it's a big complicated bunch of
+
+840
+00:30:04.140 --> 00:30:08.399
+rules that you have to have to follow to
+
+841
+00:30:06.360 --> 00:30:11.178
+the letter mandates what all the
+
+842
+00:30:08.399 --> 00:30:13.320
+meetings look like and all these well
+
+843
+00:30:11.179 --> 00:30:15.240
+don't get me started I could do it an
+
+844
+00:30:13.320 --> 00:30:16.678
+hour on what's wrong with safe
+
+845
+00:30:15.240 --> 00:30:19.080
+um safe might be a perfectly good
+
+846
+00:30:16.679 --> 00:30:21.840
+process but it's not an agile process
+
+847
+00:30:19.080 --> 00:30:23.879
+because agile has to be agile it has to
+
+848
+00:30:21.840 --> 00:30:25.320
+be flexible it has to
+
+849
+00:30:23.880 --> 00:30:26.760
+um the people who are doing it have to
+
+850
+00:30:25.320 --> 00:30:28.559
+have the flexibility to work in ways
+
+851
+00:30:26.760 --> 00:30:30.120
+that they think are effective and if you
+
+852
+00:30:28.559 --> 00:30:32.100
+start making changes to the way you're
+
+853
+00:30:30.120 --> 00:30:33.059
+working you're not doing safe or scrum
+
+854
+00:30:32.100 --> 00:30:35.219
+anymore
+
+855
+00:30:33.059 --> 00:30:37.200
+so no technique that mandates the way
+
+856
+00:30:35.220 --> 00:30:39.960
+that you work is a is an agile technique
+
+857
+00:30:37.200 --> 00:30:43.260
+it just it just doesn't work that way
+
+858
+00:30:39.960 --> 00:30:45.840
+so agile is all about flexibility
+
+859
+00:30:43.260 --> 00:30:47.879
+is that um if you look at safe if you
+
+860
+00:30:45.840 --> 00:30:50.760
+look at scrum there is no flexibility
+
+861
+00:30:47.880 --> 00:30:53.880
+there in the scrum guide it says
+
+862
+00:30:50.760 --> 00:30:57.059
+specifically that scrum is defined by
+
+863
+00:30:53.880 --> 00:30:59.460
+the scrum guide in its entirety and that
+
+864
+00:30:57.059 --> 00:31:01.260
+if you are not doing scrum as defined by
+
+865
+00:30:59.460 --> 00:31:02.700
+the scrum guide well then you're just
+
+866
+00:31:01.260 --> 00:31:05.640
+not doing scrum
+
+867
+00:31:02.700 --> 00:31:07.019
+so it's very rigid framework it says
+
+868
+00:31:05.640 --> 00:31:08.519
+exactly what you have to do and if you
+
+869
+00:31:07.019 --> 00:31:09.899
+don't do exactly what it says then
+
+870
+00:31:08.519 --> 00:31:12.960
+you're not doing scram well as I said
+
+871
+00:31:09.899 --> 00:31:16.080
+earlier you cannot be rigid and agile at
+
+872
+00:31:12.960 --> 00:31:19.399
+the same time it's just not possible
+
+873
+00:31:16.080 --> 00:31:19.399
+so um
+
+874
+00:31:21.840 --> 00:31:25.678
+the other issue which I think is an
+
+875
+00:31:23.580 --> 00:31:27.779
+important one is a lesson that comes out
+
+876
+00:31:25.679 --> 00:31:29.760
+of the lean manufacturing world
+
+877
+00:31:27.779 --> 00:31:31.500
+now I'll bring up lean with a little bit
+
+878
+00:31:29.760 --> 00:31:33.120
+of trepidation is that we are not
+
+879
+00:31:31.500 --> 00:31:36.480
+working in factories
+
+880
+00:31:33.120 --> 00:31:39.178
+and there's a tendency sometimes to have
+
+881
+00:31:36.480 --> 00:31:42.059
+people talk about things that do work in
+
+882
+00:31:39.179 --> 00:31:43.980
+factories as if we can apply those
+
+883
+00:31:42.059 --> 00:31:46.440
+Concepts directly to software
+
+884
+00:31:43.980 --> 00:31:48.720
+development and have it work but the
+
+885
+00:31:46.440 --> 00:31:50.580
+fact is that software development is is
+
+886
+00:31:48.720 --> 00:31:52.980
+a very different thing than building a
+
+887
+00:31:50.580 --> 00:31:54.240
+car and simply because something does
+
+888
+00:31:52.980 --> 00:31:55.620
+work in a factory does not mean that
+
+889
+00:31:54.240 --> 00:31:57.179
+it's going to work for us doing software
+
+890
+00:31:55.620 --> 00:31:58.439
+on the other hand there are a lot of
+
+891
+00:31:57.179 --> 00:32:01.380
+things in lean that are really really
+
+892
+00:31:58.440 --> 00:32:05.100
+valuable in the software world one of
+
+893
+00:32:01.380 --> 00:32:06.419
+the key things is the notion of the team
+
+894
+00:32:05.100 --> 00:32:08.158
+being in charge of the work that's
+
+895
+00:32:06.419 --> 00:32:10.860
+something that came out of lean thinking
+
+896
+00:32:08.159 --> 00:32:12.960
+is that if you look at a Toyota factory
+
+897
+00:32:10.860 --> 00:32:15.059
+for example every team gets to decide
+
+898
+00:32:12.960 --> 00:32:16.559
+how it's going to do whatever it does at
+
+899
+00:32:15.059 --> 00:32:17.879
+its Workstation
+
+900
+00:32:16.559 --> 00:32:20.220
+and
+
+901
+00:32:17.880 --> 00:32:23.700
+that sort of control is built into the
+
+902
+00:32:20.220 --> 00:32:25.380
+culture of the way things work now the
+
+903
+00:32:23.700 --> 00:32:27.899
+the what I want to bring up here is the
+
+904
+00:32:25.380 --> 00:32:29.760
+numi plant in used to be in Fremont
+
+905
+00:32:27.899 --> 00:32:33.299
+California down where the Tesla plant is
+
+906
+00:32:29.760 --> 00:32:36.000
+now new United Motors was a joint effort
+
+907
+00:32:33.299 --> 00:32:38.700
+between Toyota and General Motors and
+
+908
+00:32:36.000 --> 00:32:42.299
+they were building cars and they were
+
+909
+00:32:38.700 --> 00:32:44.399
+doing that using very very lean if you
+
+910
+00:32:42.299 --> 00:32:47.760
+will agile techniques
+
+911
+00:32:44.399 --> 00:32:51.299
+um the plant started out as one of the
+
+912
+00:32:47.760 --> 00:32:53.879
+least effective car factories on the
+
+913
+00:32:51.299 --> 00:32:55.740
+planet it was the huge absentee rates uh
+
+914
+00:32:53.880 --> 00:32:57.419
+they were not productive at all there
+
+915
+00:32:55.740 --> 00:32:58.740
+were huge numbers of defects coming out
+
+916
+00:32:57.419 --> 00:33:01.019
+of the cars that were being produced
+
+917
+00:32:58.740 --> 00:33:02.399
+there and Toyota moved in and within a
+
+918
+00:33:01.019 --> 00:33:05.519
+couple years it had become one of the
+
+919
+00:33:02.399 --> 00:33:07.500
+best manufacturing plants in the in the
+
+920
+00:33:05.519 --> 00:33:09.480
+you can't see it but I have a dog down
+
+921
+00:33:07.500 --> 00:33:11.460
+here who's bugging Nissan we'll reach
+
+922
+00:33:09.480 --> 00:33:14.279
+down and pay him occasionally but the
+
+923
+00:33:11.460 --> 00:33:16.860
+the um uh the
+
+924
+00:33:14.279 --> 00:33:19.559
+issue here is that that transition
+
+925
+00:33:16.860 --> 00:33:21.658
+happened because they were applying the
+
+926
+00:33:19.559 --> 00:33:24.178
+principles now one of those lean
+
+927
+00:33:21.659 --> 00:33:25.620
+principles again key one is that the
+
+928
+00:33:24.179 --> 00:33:27.059
+people working on the teams get to
+
+929
+00:33:25.620 --> 00:33:28.139
+decide how they are going to do their
+
+930
+00:33:27.059 --> 00:33:30.779
+own work
+
+931
+00:33:28.140 --> 00:33:32.340
+and the the there are some things that
+
+932
+00:33:30.779 --> 00:33:34.559
+happen in lean that don't happen in
+
+933
+00:33:32.340 --> 00:33:36.000
+agile typically for example uh there's a
+
+934
+00:33:34.559 --> 00:33:37.559
+lot of documentation a lot of process
+
+935
+00:33:36.000 --> 00:33:39.960
+documentation that happens as part of
+
+936
+00:33:37.559 --> 00:33:41.519
+the Toyota's process that you tend to
+
+937
+00:33:39.960 --> 00:33:43.260
+not see in the agile world that's fine
+
+938
+00:33:41.519 --> 00:33:45.419
+it's just a natural difference between
+
+939
+00:33:43.260 --> 00:33:47.279
+the two approaches but the important
+
+940
+00:33:45.419 --> 00:33:48.960
+thing is the teams decide how they do
+
+941
+00:33:47.279 --> 00:33:50.820
+their own work so what happened right
+
+942
+00:33:48.960 --> 00:33:53.220
+the point of this story is rambling on
+
+943
+00:33:50.820 --> 00:33:55.860
+here but the point of the story is that
+
+944
+00:33:53.220 --> 00:33:58.380
+GM didn't understand that at all
+
+945
+00:33:55.860 --> 00:34:00.000
+is that what GM did is they said oh the
+
+946
+00:33:58.380 --> 00:34:02.399
+teams are working in a way that's very
+
+947
+00:34:00.000 --> 00:34:04.200
+very effective and they've documented it
+
+948
+00:34:02.399 --> 00:34:05.760
+they've written everything down all
+
+949
+00:34:04.200 --> 00:34:07.260
+there's all these details about exactly
+
+950
+00:34:05.760 --> 00:34:10.379
+what they do so they took that
+
+951
+00:34:07.260 --> 00:34:12.418
+documentation and they put it in a box
+
+952
+00:34:10.379 --> 00:34:15.060
+and they flew back to Detroit and they
+
+953
+00:34:12.418 --> 00:34:17.158
+said to the factories in Detroit you
+
+954
+00:34:15.060 --> 00:34:19.619
+will now work exactly the way we're
+
+955
+00:34:17.159 --> 00:34:22.020
+working in Fremont you will do what this
+
+956
+00:34:19.619 --> 00:34:25.020
+documentation said and it was a complete
+
+957
+00:34:22.020 --> 00:34:27.060
+utter disaster
+
+958
+00:34:25.020 --> 00:34:30.000
+I can tell
+
+959
+00:34:27.060 --> 00:34:32.219
+that's not true your hair is clean
+
+960
+00:34:30.000 --> 00:34:33.060
+I'm I'm hearing you guys talk should I
+
+961
+00:34:32.219 --> 00:34:35.879
+be
+
+962
+00:34:33.060 --> 00:34:38.759
+well anyway it was a complete disaster
+
+963
+00:34:35.879 --> 00:34:39.418
+so the point here is that the the
+
+964
+00:34:38.760 --> 00:34:41.940
+um
+
+965
+00:34:39.418 --> 00:34:43.440
+processes don't transfer is you can't
+
+966
+00:34:41.940 --> 00:34:45.060
+take a process that was developed in one
+
+967
+00:34:43.440 --> 00:34:46.918
+place and use it in another now strong
+
+968
+00:34:45.060 --> 00:34:49.199
+let's look at scrum
+
+969
+00:34:46.918 --> 00:34:52.560
+Ken schwabber had a team back in around
+
+970
+00:34:49.199 --> 00:34:54.899
+2000 that was very effective team and
+
+971
+00:34:52.560 --> 00:34:56.279
+that team was doing something which came
+
+972
+00:34:54.899 --> 00:34:57.839
+to be called scrum they developed their
+
+973
+00:34:56.280 --> 00:34:59.099
+own practice they developed their own
+
+974
+00:34:57.839 --> 00:35:01.799
+process
+
+975
+00:34:59.099 --> 00:35:04.320
+and it worked great for them
+
+976
+00:35:01.800 --> 00:35:07.020
+but you cannot transfer that process out
+
+977
+00:35:04.320 --> 00:35:09.119
+of Ken's team any more than you can take
+
+978
+00:35:07.020 --> 00:35:11.040
+a process on a workstation an assembly
+
+979
+00:35:09.119 --> 00:35:13.980
+line and transfer it to another assembly
+
+980
+00:35:11.040 --> 00:35:16.680
+line practices do not transfer
+
+981
+00:35:13.980 --> 00:35:19.140
+what does transfer our values and that's
+
+982
+00:35:16.680 --> 00:35:23.279
+the key issue here is that agile is
+
+983
+00:35:19.140 --> 00:35:24.900
+defined by a set of values and teams to
+
+984
+00:35:23.280 --> 00:35:27.300
+be effective in an agile way have to
+
+985
+00:35:24.900 --> 00:35:29.760
+develop their own processes in such a
+
+986
+00:35:27.300 --> 00:35:33.240
+way that they I hate to use the word
+
+987
+00:35:29.760 --> 00:35:35.820
+conform but they align with the common
+
+988
+00:35:33.240 --> 00:35:37.078
+values that you see across all agile
+
+989
+00:35:35.820 --> 00:35:39.359
+organizations
+
+990
+00:35:37.079 --> 00:35:41.099
+so that the values are what's important
+
+991
+00:35:39.359 --> 00:35:43.500
+it's the values that can transfer it's
+
+992
+00:35:41.099 --> 00:35:45.300
+the principles that transfer the actual
+
+993
+00:35:43.500 --> 00:35:46.320
+way in which you do the work that does
+
+994
+00:35:45.300 --> 00:35:49.320
+not transfer at all that's something
+
+995
+00:35:46.320 --> 00:35:50.940
+that has to be uh developed by the teams
+
+996
+00:35:49.320 --> 00:35:52.859
+that are doing the work so you look at
+
+997
+00:35:50.940 --> 00:35:54.720
+the agile Manifesto the agile Manifesto
+
+998
+00:35:52.859 --> 00:35:57.359
+really defines what is agile and what is
+
+999
+00:35:54.720 --> 00:36:01.140
+not and you look at the agile Manifesto
+
+1000
+00:35:57.359 --> 00:36:03.000
+and the fact is that that it's entirely
+
+1001
+00:36:01.140 --> 00:36:05.160
+values and principles
+
+1002
+00:36:03.000 --> 00:36:07.020
+you know 12 principles four values
+
+1003
+00:36:05.160 --> 00:36:08.879
+nothing else actually one of the
+
+1004
+00:36:07.020 --> 00:36:11.160
+principles is also a practice
+
+1005
+00:36:08.880 --> 00:36:12.900
+only one though right the one the one
+
+1006
+00:36:11.160 --> 00:36:15.420
+principle that is actually a practice is
+
+1007
+00:36:12.900 --> 00:36:17.460
+uh retrospectives right is that the
+
+1008
+00:36:15.420 --> 00:36:19.020
+agile Manifesto says that periodically
+
+1009
+00:36:17.460 --> 00:36:21.119
+you need to stop stop what you're doing
+
+1010
+00:36:19.020 --> 00:36:22.500
+and look around and assess the way that
+
+1011
+00:36:21.119 --> 00:36:23.700
+you do things and change the way that
+
+1012
+00:36:22.500 --> 00:36:25.140
+you do things in order to make them
+
+1013
+00:36:23.700 --> 00:36:26.939
+better
+
+1014
+00:36:25.140 --> 00:36:28.618
+um the the only change I would make to
+
+1015
+00:36:26.940 --> 00:36:30.660
+that is that I believe in the lean
+
+1016
+00:36:28.619 --> 00:36:32.040
+notion of continuous Improvement I don't
+
+1017
+00:36:30.660 --> 00:36:33.720
+think you should stop every two weeks
+
+1018
+00:36:32.040 --> 00:36:35.339
+and do a retrospective I think you
+
+1019
+00:36:33.720 --> 00:36:37.439
+should be constantly looking at what
+
+1020
+00:36:35.339 --> 00:36:39.060
+you're doing things and fixing them is
+
+1021
+00:36:37.440 --> 00:36:40.079
+that it's a continuous process from my
+
+1022
+00:36:39.060 --> 00:36:43.200
+point of view it's not something that
+
+1023
+00:36:40.079 --> 00:36:44.400
+happens periodically on some schedule
+
+1024
+00:36:43.200 --> 00:36:46.078
+so
+
+1025
+00:36:44.400 --> 00:36:47.579
+the only practice in other words that's
+
+1026
+00:36:46.079 --> 00:36:48.900
+in there is continuous Improvement but
+
+1027
+00:36:47.579 --> 00:36:51.300
+continuous Improvement is also a
+
+1028
+00:36:48.900 --> 00:36:53.400
+cultural value you can't do continuous
+
+1029
+00:36:51.300 --> 00:36:55.740
+Improvement if you're not working in a
+
+1030
+00:36:53.400 --> 00:36:58.079
+culture that sets things up so that it
+
+1031
+00:36:55.740 --> 00:36:59.459
+values that improvement work if again
+
+1032
+00:36:58.079 --> 00:37:01.560
+you have one of these organizations
+
+1033
+00:36:59.460 --> 00:37:04.380
+that's making everybody March and
+
+1034
+00:37:01.560 --> 00:37:05.880
+lockstep there is no culture of
+
+1035
+00:37:04.380 --> 00:37:07.680
+continuous Improvement in that kind of
+
+1036
+00:37:05.880 --> 00:37:09.839
+organization at all
+
+1037
+00:37:07.680 --> 00:37:10.980
+so or there's no way to have a common a
+
+1038
+00:37:09.839 --> 00:37:12.420
+common culture in that kind of
+
+1039
+00:37:10.980 --> 00:37:16.200
+organization and all
+
+1040
+00:37:12.420 --> 00:37:18.240
+so the basic idea here then is that um
+
+1041
+00:37:16.200 --> 00:37:19.919
+things are not going to transfer and the
+
+1042
+00:37:18.240 --> 00:37:22.379
+scrum is agile it's just nonsense right
+
+1043
+00:37:19.920 --> 00:37:26.220
+because it's saying we have a solution
+
+1044
+00:37:22.380 --> 00:37:27.599
+right one of the one of the um good
+
+1045
+00:37:26.220 --> 00:37:29.578
+indicator of this that I really found
+
+1046
+00:37:27.599 --> 00:37:31.320
+kind of repulsive to be honest is that
+
+1047
+00:37:29.579 --> 00:37:33.480
+back when the covid-19
+
+1048
+00:37:31.320 --> 00:37:35.640
+uh was at its worst where the hospitals
+
+1049
+00:37:33.480 --> 00:37:37.859
+were overflowing and people were dying
+
+1050
+00:37:35.640 --> 00:37:40.200
+and people were having to be triaged
+
+1051
+00:37:37.859 --> 00:37:41.940
+into getting health care or not Jeff
+
+1052
+00:37:40.200 --> 00:37:43.980
+Sutherland got onto Twitter and he said
+
+1053
+00:37:41.940 --> 00:37:45.780
+the hospitals that are helping people
+
+1054
+00:37:43.980 --> 00:37:48.060
+are doing scrum
+
+1055
+00:37:45.780 --> 00:37:50.220
+and if the hospitals that where people
+
+1056
+00:37:48.060 --> 00:37:52.799
+are dying would do scrum people wouldn't
+
+1057
+00:37:50.220 --> 00:37:55.078
+die and that's just repulsive to me it's
+
+1058
+00:37:52.800 --> 00:37:57.839
+just not true is that he took that quote
+
+1059
+00:37:55.079 --> 00:38:00.180
+that tweet down within about 20 minutes
+
+1060
+00:37:57.839 --> 00:38:02.578
+of putting it up but I I think he
+
+1061
+00:38:00.180 --> 00:38:05.279
+actually believed that so the point here
+
+1062
+00:38:02.579 --> 00:38:07.500
+is that this notion that um that the
+
+1063
+00:38:05.280 --> 00:38:09.000
+framework rules right the scrum is
+
+1064
+00:38:07.500 --> 00:38:11.040
+what's important and if we all do strum
+
+1065
+00:38:09.000 --> 00:38:13.380
+all our all our problems will be solved
+
+1066
+00:38:11.040 --> 00:38:14.759
+that's just a nonsensical notion uh that
+
+1067
+00:38:13.380 --> 00:38:16.920
+has to do with selling scrum
+
+1068
+00:38:14.760 --> 00:38:19.619
+certificates that has nothing at all to
+
+1069
+00:38:16.920 --> 00:38:20.579
+do with actual agility
+
+1070
+00:38:19.619 --> 00:38:22.380
+so
+
+1071
+00:38:20.579 --> 00:38:24.420
+let's talk for a moment then about what
+
+1072
+00:38:22.380 --> 00:38:25.619
+what agile actually is are we doing for
+
+1073
+00:38:24.420 --> 00:38:26.820
+time here
+
+1074
+00:38:25.619 --> 00:38:29.820
+let's talk for a moment about what
+
+1075
+00:38:26.820 --> 00:38:31.500
+actually what agile actually is
+
+1076
+00:38:29.820 --> 00:38:33.420
+um first of all if you're going to be
+
+1077
+00:38:31.500 --> 00:38:34.800
+agile people have to be first
+
+1078
+00:38:33.420 --> 00:38:36.359
+so that's the first order of business
+
+1079
+00:38:34.800 --> 00:38:38.640
+people have to be first
+
+1080
+00:38:36.359 --> 00:38:40.799
+so self-organization is an indication of
+
+1081
+00:38:38.640 --> 00:38:42.960
+that people get to decide how they work
+
+1082
+00:38:40.800 --> 00:38:45.359
+at the center of the Notions of agility
+
+1083
+00:38:42.960 --> 00:38:47.700
+is the notion of trust right is that you
+
+1084
+00:38:45.359 --> 00:38:50.640
+have to be able to trust people to get
+
+1085
+00:38:47.700 --> 00:38:51.899
+the job done you trust people to work in
+
+1086
+00:38:50.640 --> 00:38:53.460
+the way that they need to work you trust
+
+1087
+00:38:51.900 --> 00:38:55.380
+people to spend money in ways that make
+
+1088
+00:38:53.460 --> 00:38:57.119
+sense there's a story around Spotify
+
+1089
+00:38:55.380 --> 00:38:59.280
+about how
+
+1090
+00:38:57.119 --> 00:39:01.020
+um they all an entire team was working
+
+1091
+00:38:59.280 --> 00:39:02.460
+with another team in New York a team in
+
+1092
+00:39:01.020 --> 00:39:04.740
+Sweden was working with a team in New
+
+1093
+00:39:02.460 --> 00:39:06.180
+York and the team in Europe decided that
+
+1094
+00:39:04.740 --> 00:39:08.220
+they needed to actually get together and
+
+1095
+00:39:06.180 --> 00:39:09.299
+have some face-to-face time with the
+
+1096
+00:39:08.220 --> 00:39:10.560
+people in New York and they just all
+
+1097
+00:39:09.300 --> 00:39:12.420
+bought plane tickets and went to New
+
+1098
+00:39:10.560 --> 00:39:14.759
+York they didn't ask anybody there was
+
+1099
+00:39:12.420 --> 00:39:16.380
+no permission there was no hierarchy
+
+1100
+00:39:14.760 --> 00:39:18.839
+that you had to go up and down in order
+
+1101
+00:39:16.380 --> 00:39:20.099
+to get approval they just did it they'd
+
+1102
+00:39:18.839 --> 00:39:21.900
+all had company credit cards they bought
+
+1103
+00:39:20.099 --> 00:39:23.220
+plane tickets they organized for hotels
+
+1104
+00:39:21.900 --> 00:39:25.020
+and they just went
+
+1105
+00:39:23.220 --> 00:39:26.399
+so that's what Pro that's what trust is
+
+1106
+00:39:25.020 --> 00:39:28.140
+that's what people putting people first
+
+1107
+00:39:26.400 --> 00:39:30.540
+is if you don't trust the teams to do
+
+1108
+00:39:28.140 --> 00:39:32.098
+the work you can't move fast enough if
+
+1109
+00:39:30.540 --> 00:39:33.119
+you have to ask permission it slows you
+
+1110
+00:39:32.099 --> 00:39:35.160
+down
+
+1111
+00:39:33.119 --> 00:39:37.440
+and our goal here then is to produce
+
+1112
+00:39:35.160 --> 00:39:39.180
+software
+
+1113
+00:39:37.440 --> 00:39:40.440
+as quickly as possible but we want the
+
+1114
+00:39:39.180 --> 00:39:42.480
+software to be right we want it to be
+
+1115
+00:39:40.440 --> 00:39:44.599
+value valuable so that's the next
+
+1116
+00:39:42.480 --> 00:39:47.099
+important value right the working
+
+1117
+00:39:44.599 --> 00:39:48.660
+software is all that matters
+
+1118
+00:39:47.099 --> 00:39:50.160
+what we're trying to do and by working I
+
+1119
+00:39:48.660 --> 00:39:51.720
+don't mean it just barely works I mean
+
+1120
+00:39:50.160 --> 00:39:54.299
+it does something valuable and it works
+
+1121
+00:39:51.720 --> 00:39:56.578
+well high quality well written
+
+1122
+00:39:54.300 --> 00:39:58.619
+well-engineered
+
+1123
+00:39:56.579 --> 00:40:00.599
+software with a good architecture in it
+
+1124
+00:39:58.619 --> 00:40:01.920
+that's what working means to me
+
+1125
+00:40:00.599 --> 00:40:03.300
+and
+
+1126
+00:40:01.920 --> 00:40:04.619
+the rate at which you can produce
+
+1127
+00:40:03.300 --> 00:40:06.060
+working software is really the only
+
+1128
+00:40:04.619 --> 00:40:07.920
+metric that matters right are we getting
+
+1129
+00:40:06.060 --> 00:40:09.540
+working software into our user sense if
+
+1130
+00:40:07.920 --> 00:40:11.460
+you are not delivering you are not agile
+
+1131
+00:40:09.540 --> 00:40:13.800
+so if you're doing scrum and you're only
+
+1132
+00:40:11.460 --> 00:40:15.720
+delivering once every two weeks that's
+
+1133
+00:40:13.800 --> 00:40:18.060
+too too long I think you need to be
+
+1134
+00:40:15.720 --> 00:40:20.540
+pushing stuff out to your users faster
+
+1135
+00:40:18.060 --> 00:40:23.279
+the next value we work collaboratively
+
+1136
+00:40:20.540 --> 00:40:25.140
+agile organizations cannot work if
+
+1137
+00:40:23.280 --> 00:40:27.060
+people are isolated into little silos
+
+1138
+00:40:25.140 --> 00:40:29.879
+working alone this is a big deal
+
+1139
+00:40:27.060 --> 00:40:31.500
+nowadays in the covet world is the all
+
+1140
+00:40:29.880 --> 00:40:32.579
+too often working from home has come to
+
+1141
+00:40:31.500 --> 00:40:34.680
+me and I'm going to work in my own
+
+1142
+00:40:32.579 --> 00:40:36.180
+personal Silo I won't talk to anybody
+
+1143
+00:40:34.680 --> 00:40:37.319
+else all day or maybe once or twice a
+
+1144
+00:40:36.180 --> 00:40:38.879
+day I'll communicate with other people
+
+1145
+00:40:37.319 --> 00:40:40.980
+but otherwise I'm working alone that's
+
+1146
+00:40:38.880 --> 00:40:43.140
+not a team that's a bunch of individuals
+
+1147
+00:40:40.980 --> 00:40:45.480
+working separately talking occasionally
+
+1148
+00:40:43.140 --> 00:40:48.180
+agile work is truly collaborative now
+
+1149
+00:40:45.480 --> 00:40:49.859
+you can collaborate on Zoom is that I do
+
+1150
+00:40:48.180 --> 00:40:51.660
+my programming workshops with people on
+
+1151
+00:40:49.859 --> 00:40:54.240
+Zoom all the time and it works great
+
+1152
+00:40:51.660 --> 00:40:55.980
+so this is not covet forcing us to do it
+
+1153
+00:40:54.240 --> 00:40:58.200
+this is just not thinking in an agile
+
+1154
+00:40:55.980 --> 00:41:00.839
+way you need to work collaboratively
+
+1155
+00:40:58.200 --> 00:41:01.560
+uh communication is an essential part of
+
+1156
+00:41:00.839 --> 00:41:03.359
+this
+
+1157
+00:41:01.560 --> 00:41:05.160
+is that if you are not communicating
+
+1158
+00:41:03.359 --> 00:41:06.540
+with uh with each other you cannot be
+
+1159
+00:41:05.160 --> 00:41:08.640
+flexible enough
+
+1160
+00:41:06.540 --> 00:41:09.900
+so communication also means you know you
+
+1161
+00:41:08.640 --> 00:41:12.118
+have to communicate with communicate
+
+1162
+00:41:09.900 --> 00:41:14.040
+with your customers communication is a
+
+1163
+00:41:12.119 --> 00:41:15.060
+constant process you are constantly
+
+1164
+00:41:14.040 --> 00:41:16.680
+talking to the people that you're
+
+1165
+00:41:15.060 --> 00:41:18.599
+working with you are constantly talking
+
+1166
+00:41:16.680 --> 00:41:20.339
+to your customers you are constantly
+
+1167
+00:41:18.599 --> 00:41:21.900
+getting feedback all of this has to do
+
+1168
+00:41:20.339 --> 00:41:23.940
+with conversation so there is an
+
+1169
+00:41:21.900 --> 00:41:26.400
+underlying conversation through the
+
+1170
+00:41:23.940 --> 00:41:29.160
+whole system that
+
+1171
+00:41:26.400 --> 00:41:31.619
+um is essential to being agile
+
+1172
+00:41:29.160 --> 00:41:33.118
+welcoming change of course you have to
+
+1173
+00:41:31.619 --> 00:41:34.619
+welcome change in order to be agile
+
+1174
+00:41:33.119 --> 00:41:37.319
+because
+
+1175
+00:41:34.619 --> 00:41:39.000
+um that's an agility is about but
+
+1176
+00:41:37.319 --> 00:41:40.200
+what that really means is that we learn
+
+1177
+00:41:39.000 --> 00:41:42.420
+as we work
+
+1178
+00:41:40.200 --> 00:41:44.819
+the key concept here is we learn as we
+
+1179
+00:41:42.420 --> 00:41:46.319
+work so as we're working we're learning
+
+1180
+00:41:44.819 --> 00:41:48.000
+things and we want to incorporate that
+
+1181
+00:41:46.319 --> 00:41:50.220
+learning into the way into the way we
+
+1182
+00:41:48.000 --> 00:41:52.380
+work and and into the things we build as
+
+1183
+00:41:50.220 --> 00:41:53.640
+soon as we learn it not months from now
+
+1184
+00:41:52.380 --> 00:41:56.099
+but right now
+
+1185
+00:41:53.640 --> 00:41:59.220
+so in order to put it another way all
+
+1186
+00:41:56.099 --> 00:42:01.079
+plans fail and the reason plans fail is
+
+1187
+00:41:59.220 --> 00:42:03.060
+because we are learning if you're if
+
+1188
+00:42:01.079 --> 00:42:06.300
+you're not learning or rather the it's
+
+1189
+00:42:03.060 --> 00:42:08.220
+the learning that um that changes the
+
+1190
+00:42:06.300 --> 00:42:10.200
+plan
+
+1191
+00:42:08.220 --> 00:42:11.700
+um technical Excellence another
+
+1192
+00:42:10.200 --> 00:42:13.140
+characteristic of all agile
+
+1193
+00:42:11.700 --> 00:42:15.118
+organizations is that if you don't have
+
+1194
+00:42:13.140 --> 00:42:17.220
+a good architecture if your code is not
+
+1195
+00:42:15.119 --> 00:42:18.660
+high quality you simply can't be agile
+
+1196
+00:42:17.220 --> 00:42:20.459
+because it slows you down too much if
+
+1197
+00:42:18.660 --> 00:42:21.598
+you need to make a small change if you
+
+1198
+00:42:20.460 --> 00:42:23.940
+can't make something that small change
+
+1199
+00:42:21.599 --> 00:42:27.359
+very very quickly then you just simply
+
+1200
+00:42:23.940 --> 00:42:28.980
+can't work in an agile way
+
+1201
+00:42:27.359 --> 00:42:30.779
+um assessment right I was talking about
+
+1202
+00:42:28.980 --> 00:42:32.460
+the the only thing that they have in the
+
+1203
+00:42:30.780 --> 00:42:37.079
+agile Manifesto that really matters is
+
+1204
+00:42:32.460 --> 00:42:39.540
+the notion of of a regular assessment
+
+1205
+00:42:37.079 --> 00:42:41.460
+and regular assessment is an essential
+
+1206
+00:42:39.540 --> 00:42:44.099
+part of again being agile right is that
+
+1207
+00:42:41.460 --> 00:42:45.540
+you have to be able to uh be flexible
+
+1208
+00:42:44.099 --> 00:42:47.640
+about the way the work you work you have
+
+1209
+00:42:45.540 --> 00:42:48.960
+to be looking at what is working and
+
+1210
+00:42:47.640 --> 00:42:51.180
+what's not working and you always need
+
+1211
+00:42:48.960 --> 00:42:53.579
+to be amplifying the good and phasing
+
+1212
+00:42:51.180 --> 00:42:55.259
+out the bad you always need to be moving
+
+1213
+00:42:53.579 --> 00:42:56.640
+things in the direction of being more
+
+1214
+00:42:55.260 --> 00:42:57.720
+effective
+
+1215
+00:42:56.640 --> 00:42:59.460
+so
+
+1216
+00:42:57.720 --> 00:43:00.899
+I don't know if anybody noticed but what
+
+1217
+00:42:59.460 --> 00:43:02.460
+I just went through is basically the
+
+1218
+00:43:00.900 --> 00:43:04.560
+agile Manifesto
+
+1219
+00:43:02.460 --> 00:43:07.740
+so the real issue about whether you want
+
+1220
+00:43:04.560 --> 00:43:09.779
+to be agile or not is you are aligning
+
+1221
+00:43:07.740 --> 00:43:13.259
+with the values in the agile Manifesto
+
+1222
+00:43:09.780 --> 00:43:15.900
+and you know sometimes you see that uh
+
+1223
+00:43:13.260 --> 00:43:17.819
+incorporated into a something's a little
+
+1224
+00:43:15.900 --> 00:43:20.040
+bit easier to remember right the XP for
+
+1225
+00:43:17.819 --> 00:43:23.520
+example is the XP values are what
+
+1226
+00:43:20.040 --> 00:43:25.800
+communication Simplicity feedback
+
+1227
+00:43:23.520 --> 00:43:28.319
+courage that's a big one courage right
+
+1228
+00:43:25.800 --> 00:43:29.940
+is that agile is a radical departure
+
+1229
+00:43:28.319 --> 00:43:32.759
+from what we're doing it's really
+
+1230
+00:43:29.940 --> 00:43:33.660
+revolutionary and if you don't have a
+
+1231
+00:43:32.760 --> 00:43:35.099
+certain amount of Courage you're never
+
+1232
+00:43:33.660 --> 00:43:36.299
+going to make that work and then finally
+
+1233
+00:43:35.099 --> 00:43:37.980
+respect for the people that are doing
+
+1234
+00:43:36.300 --> 00:43:39.480
+the work trust for people that are doing
+
+1235
+00:43:37.980 --> 00:43:40.920
+the work so you can take all of the
+
+1236
+00:43:39.480 --> 00:43:43.680
+things I was just discussing and kind of
+
+1237
+00:43:40.920 --> 00:43:47.160
+concentrated down into a set of five
+
+1238
+00:43:43.680 --> 00:43:49.259
+five keywords if you will but the the
+
+1239
+00:43:47.160 --> 00:43:51.118
+point here is that
+
+1240
+00:43:49.260 --> 00:43:53.280
+um all of the things I were just talking
+
+1241
+00:43:51.119 --> 00:43:55.800
+about that's what makes a company agile
+
+1242
+00:43:53.280 --> 00:43:58.319
+and all of the other junk
+
+1243
+00:43:55.800 --> 00:44:00.780
+all of the processes all the garbage is
+
+1244
+00:43:58.319 --> 00:44:03.779
+in scrum right all the product owners
+
+1245
+00:44:00.780 --> 00:44:06.540
+and scrum Masters and Sprints and all
+
+1246
+00:44:03.780 --> 00:44:07.920
+that junk none of that is part of being
+
+1247
+00:44:06.540 --> 00:44:09.960
+agile
+
+1248
+00:44:07.920 --> 00:44:12.359
+none of it as those are things that you
+
+1249
+00:44:09.960 --> 00:44:13.500
+might come up with in order to implement
+
+1250
+00:44:12.359 --> 00:44:16.920
+some of the things I was just talking
+
+1251
+00:44:13.500 --> 00:44:18.420
+about but those are secondary and they
+
+1252
+00:44:16.920 --> 00:44:20.220
+will change because if you're being
+
+1253
+00:44:18.420 --> 00:44:21.780
+agile you're flexible about the way that
+
+1254
+00:44:20.220 --> 00:44:23.459
+you do the work and you're constantly
+
+1255
+00:44:21.780 --> 00:44:25.980
+improving it so those those ways of
+
+1256
+00:44:23.460 --> 00:44:27.480
+doing things are going to change
+
+1257
+00:44:25.980 --> 00:44:29.520
+so of course there's a lot more to
+
+1258
+00:44:27.480 --> 00:44:32.880
+agility than what I can talk about in 45
+
+1259
+00:44:29.520 --> 00:44:34.079
+minutes or so or 50 minutes or so and
+
+1260
+00:44:32.880 --> 00:44:36.079
+the the
+
+1261
+00:44:34.079 --> 00:44:36.079
+um
+
+1262
+00:44:36.420 --> 00:44:39.300
+I obviously can't talk about that now
+
+1263
+00:44:37.859 --> 00:44:41.098
+there's a lot to learn I have a reading
+
+1264
+00:44:39.300 --> 00:44:42.180
+list on my website I'll put the URL up
+
+1265
+00:44:41.099 --> 00:44:45.300
+here
+
+1266
+00:44:42.180 --> 00:44:45.299
+um solo.com
+
+1267
+00:44:48.300 --> 00:44:51.800
+reading surprisingly
+
+1268
+00:44:53.040 --> 00:44:57.660
+no long reading list a whole bunch of
+
+1269
+00:44:54.720 --> 00:44:58.859
+books that you can read in order to get
+
+1270
+00:44:57.660 --> 00:45:01.799
+better at this
+
+1271
+00:44:58.859 --> 00:45:03.420
+but the point is is that if you have the
+
+1272
+00:45:01.800 --> 00:45:05.460
+values and if you follow the principles
+
+1273
+00:45:03.420 --> 00:45:10.040
+what you're going to end up with is
+
+1274
+00:45:05.460 --> 00:45:10.040
+something that works in a very agile way
