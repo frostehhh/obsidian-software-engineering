@@ -1,1 +1,0 @@
-[[Topics/Kubernetes/Basics]]

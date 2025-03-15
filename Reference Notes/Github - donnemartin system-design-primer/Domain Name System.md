@@ -9,4 +9,4 @@ A Domain Name System (DNS) translates a domain name such as [www.example.com](h
 https://github.com/donnemartin/system-design-primer?tab=readme-ov-file#domain-name-system
 
 # Related
-[[Topics/Networking/Domain Name System/Domain Name System|Domain Name System]]
+[[Reference Notes/Adrian Cantrill/Networking/Domain Name System/Domain Name System|Domain Name System]]
