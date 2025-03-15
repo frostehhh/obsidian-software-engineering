@@ -2,7 +2,7 @@
 tags:
   - notes
   - backend/networking
-Draft: true
+Draft: false
 alternatives:: [[Notes/OSI Model|OSI Model]]
 ---
 

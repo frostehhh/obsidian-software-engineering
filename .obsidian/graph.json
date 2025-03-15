@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": " tag:#mind-maps  ",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.2644587316080755,
+  "scale": 0.9541553023189021,
   "close": false
 }

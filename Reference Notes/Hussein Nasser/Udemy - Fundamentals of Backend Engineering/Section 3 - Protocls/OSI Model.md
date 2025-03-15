@@ -2,12 +2,14 @@
 tags:
   - reference-notes
   - backend
-Draft: true
+Draft: false
 ---
 
 See [[Notes/OSI Model|OSI Model]]
+See [[TCP-IP Model]].
 
 > [!note] 
 > The video lesson is example heavy and emphasizes more having you understand real life examples of how the OSI model is related. 
 
-See [[TCP-IP Model]].
+# Reference
+[[Fundamentals+of+Backend+Communications+and+Protocols.pdf#page=86]]

@@ -8,69 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c20442d460fbe55",
+            "id": "4b2949076595d071",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md"
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf"
               },
               "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "Fundamentals Mindmap"
-            }
-          },
-          {
-            "id": "791e7d559a0d5651",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/OSI Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "OSI Model"
-            }
-          },
-          {
-            "id": "b5444283486980f8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/OSI Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "OSI Model"
-            }
-          },
-          {
-            "id": "5445a1668f05137f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/OSI Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "OSI Model"
+              "icon": "lucide-file-text",
+              "title": "Fundamentals+of+Backend+Communications+and+Protocols"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"related:\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -143,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Asynchronous.md",
+                "file": "Excalibrain/excalibrain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Asynchronous"
+              "title": "Backlinks for excalibrain"
             }
           },
           {
@@ -162,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Asynchronous.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Asynchronous"
+              "title": "Outgoing links from Fundamentals+of+Backend+Communications+and+Protocols"
             }
           },
           {
@@ -230,8 +181,7 @@
               "title": "Markdown-Autocomplete"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -250,9 +200,7 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "workspaces:Manage workspace layouts": false
     }
   },
   "floating": {
@@ -271,12 +219,12 @@
                 "id": "4a7b1494027913d5",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw",
+                  "type": "excalidraw-loading",
                   "state": {
                     "file": "Excalibrain/excalibrain.md"
                   },
-                  "icon": "excalidraw-icon",
-                  "title": "excalibrain"
+                  "icon": "lucide-file",
+                  "title": "Loading Excalidraw... excalibrain"
                 }
               }
             ]
@@ -292,33 +240,39 @@
       }
     ]
   },
-  "active": "b5444283486980f8",
+  "active": "4a7b1494027913d5",
   "lastOpenFiles": [
     "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/OSI Model.md",
-    "Notes/OSI Model.md",
-    "Notes/Publish Subscribe.md",
-    "Excalibrain/excalibrain.md",
-    "Notes/TCP-IP Model.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/Protocol Properties.md",
-    "Notes/Push.md",
-    "Notes/Request Response Model.md",
-    "Notes/Stateful.md",
-    "Notes/Stateless.md",
     "Topics/Networking/OSI 7-Layer Model/OSI 7-Layer Model.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Polling.md",
-    "Topics/Networking/OSI 7-Layer Model/Presentation.md",
-    "Topics/Networking/OSI 7-Layer Model/Session.md",
-    "Topics/Networking/OSI 7-Layer Model/Transport/Transport.md",
-    "Notes/Connection Pooling.md",
-    "Notes/Multiplexing and Demultiplexing.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
-    "Notes/Server Sent Events.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Server Sent Events.md",
+    "Notes/OSI Model.md",
+    "Excalibrain/excalibrain.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",
+    "Reference Notes/Hussein Nasser/_note_Hussein Nasser.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/_note_Udemy - Fundamentals of Backend Engineering.md",
+    "Reference Notes/Github - donnemartin system-design-primer/_note_Github - donnemartin system-design-primer.md",
+    "Reference Notes/Github - Learn Node.js Hardway/_note_Github - Learn Node.js Hardway.md",
+    "Dataviews/Draft Notes.md",
+    "Notes/TCP-IP Model.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Sidecar Pattern.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Stateless vs Stateful.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
-    "Notes/Communication Protocol Properties.md",
+    "--Attachments/Pasted image 20250315025342.png",
+    "Topics/Networking/OSI 7-Layer Model/Physical.md",
+    "Topics/Search Engine Optimization/Crawling and indexing.md",
+    "--Attachments/Pasted image 20250313004024.png",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/short-polling/node_modules/depd/Readme.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/long-polling/node_modules/ms/license.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/long-polling/node_modules/send/node_modules/ms/license.md",
+    "--Attachments/Pasted image 20250313004033.png",
+    "Topics/Search Engine Optimization/Introduction.md",
+    "Topics/Search Engine Optimization/--Table of Contents--.md",
+    "Topics/Quality Assurance/Types of Automation Tests.md",
+    "Topics/Project Management/Methodologies/Agile/Allen Holub/No Estimates.md",
+    "Topics/Project Management/Methodologies/Agile/Allen Holub/How we can correct the mistakes made with Agile • Allen Holub.md",
+    "Topics/Project Management/Methodologies/Agile/Agile is Dead • Pragmatic Dave Thomas.md",
+    "Topics/JavaScript Object Notation(JSON)/JavaScript Object Notation.md",
+    "Topics/Kubernetes/Basics.md",
+    "Reference Notes/Adrian Cantrill",
+    "Reference Notes/Andrej Karpathy",
     "--Attachments/Pasted image 20250313003642.png",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/rabbitMQ-pushAPI.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Postgres-Pipelining.pdf",
@@ -326,20 +280,13 @@
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/DNS-Slides.pdf",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Multiplexing and Demultiplexing.md",
     "--Attachments/Protocol Properties p2.png",
     "--Attachments/Protocol Properties p1.png",
     "--Attachments/Pasted image 20250313003633.png",
-    "--Attachments/Pasted image 20250313004033.png",
-    "--Attachments/Pasted image 20250313004024.png",
     "--Attachments/Pasted image 20250313003722.png",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/ts-types/value/is.d.ts",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/ts-types/time-value/ensure.d.ts",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/ts-types/value/ensure.d.ts",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/websocket-push/node_modules/ext/node_modules/type/ts-types/thenable/is.d.ts",
     "--Attachments/Multiplexing example HTTP2.png",
     "--Attachments/Stateless Backend.png",
-    "--Attachments/Multiplexing HTTP2 on the backend.png",
     "Canvas/Untitled.canvas",
     "Untitled.canvas",
     "Canvas/canvas 2.canvas",
