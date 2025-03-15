@@ -1,6 +1,6 @@
 ---
 tags:
-  - backend
+  - backend/communication
 Draft: false
 related:: [[Protocol Properties]]
 ---
