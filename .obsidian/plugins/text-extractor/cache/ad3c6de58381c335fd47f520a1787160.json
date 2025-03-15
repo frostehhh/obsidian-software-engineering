@@ -1,0 +1,1 @@
+{"path":"Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230423145434.png","text":"3 EBS Snapshot Architecture @ tissisemncancnia © s us-east-1 AZ-A AZ-B o o— 0 0—0 [ = = s3 TG _ Full Incr e ap-southeast-2 X Ll Restore Volume","libVersion":"0.3.2","langs":"eng"}
