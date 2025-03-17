@@ -235,9 +235,7 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "workspaces:Manage workspace layouts": false
     }
   },
   "floating": {
@@ -277,17 +275,17 @@
       }
     ]
   },
-  "active": "44c276b58d255ba0",
+  "active": "e64a256a7c13fa25",
   "lastOpenFiles": [
+    "IP Packet.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/Internet Protocol.md",
     "Notes/_note_Notes.md",
-    "IP Packet.md",
     "Notes/Internet Protocol.md",
     "Untitled",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
     "Notes/OSI Model/OSI Model.md",
     "Notes/OSI Model/Network.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",
     "--Obsidian Template--/Frontmatter - Reference Notes - Backend.md",
     "--Obsidian Template--/Frontmatter - Notes - Backend.md",
@@ -311,7 +309,6 @@
     "--Attachments/War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020PT16.489S.webp",
     "--Attachments/War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020PT0.933S.webp",
     "excalibrain.md",
-    "Reference Notes/Docker/_note_Docker.md",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
     "Reference Notes/Adrian Cantrill/Cloud Computing/Images/Pasted image 20221229142305.png",
     "Reference Notes/Spring Documentation",
