@@ -36,14 +36,7 @@
               "icon": "lucide-file",
               "title": "Internet Protocol"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "8fa3e14fbc85237c",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "44c276b58d255ba0",
             "type": "leaf",
@@ -61,45 +54,19 @@
             }
           },
           {
-            "id": "edc48ea0ab84d297",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/YAML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "YAML"
-            }
-          },
-          {
             "id": "1126a1f85fd9c1e2",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Notes/Internet Control Message Protocol.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Internet Control Message Protocol"
-            }
-          },
-          {
-            "id": "e94160aba05d6056",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IP Packet.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "IP Packet"
+              "title": "Internet Control Message Protocol"
             }
           }
         ],
@@ -326,11 +293,12 @@
       }
     ]
   },
-  "active": "e94160aba05d6056",
+  "active": "1126a1f85fd9c1e2",
   "lastOpenFiles": [
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/Internet Protocol.md",
-    "Notes/Internet Control Message Protocol.md",
     "Notes/OSI Model/Network.md",
+    "Notes/Internet Control Message Protocol.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/Internet Protocol.md",
+    "IP Packet.md",
     "Notes/OSI Model/OSI Model.md",
     "Notes/YAML.md",
     "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Data Link/Jumbo Frames.md",
@@ -354,7 +322,6 @@
     "Notes/Internet Protocol.md",
     "Notes/Communication Protocol Properties.md",
     "Notes/Asynchronous.md",
-    "IP Packet.md",
     "--Attachments/Pasted image 20250317224513.png",
     "Untitled",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",

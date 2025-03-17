@@ -10,7 +10,7 @@ Parent:: [[Notes/Internet Protocol|Internet Protocol]]
 	- Header - Max 480 bits
 		- Source IP address
 		- Destination IP Address
-		- Data
+
 		- Options
 		- Total Length - 2 bytes = 16 bits - to indicate total size of IP packet. Size to IP packet is equivalent to 2^16 bits 65536 bits or 65.536 kb. 
 		- Version - v4 or v6
