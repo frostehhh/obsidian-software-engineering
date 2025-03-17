@@ -6,8 +6,7 @@ tags:
 Draft: true
 "Parent:":
   - - Notes/OSI Model/Network|Network
-"related:":
-  - - Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/Internet Protocol|Internet Protocol
+related-reference-note:: [[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/Internet Protocol|Internet Protocol]]
 ---
 # IP Address
 - Layer 3 property

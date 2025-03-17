@@ -36,22 +36,9 @@
               "icon": "lucide-file",
               "title": "Internet Protocol"
             }
-          },
-          {
-            "id": "bb3c66aa9894c15d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Data Link/Jumbo Frames.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jumbo Frames"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8fa3e14fbc85237c",
@@ -64,16 +51,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IP Packet.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/Internet Protocol.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
+              "title": "Internet Protocol"
+            }
+          },
+          {
+            "id": "edc48ea0ab84d297",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/YAML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "YAML"
+            }
+          },
+          {
+            "id": "1126a1f85fd9c1e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Internet Control Message Protocol.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Internet Control Message Protocol"
+            }
+          },
+          {
+            "id": "e94160aba05d6056",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IP Packet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
               "title": "IP Packet"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -296,38 +326,40 @@
       }
     ]
   },
-  "active": "44c276b58d255ba0",
+  "active": "e94160aba05d6056",
   "lastOpenFiles": [
-    "Excalibrain/excalibrain.md",
-    "IP Packet.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/Internet Protocol.md",
-    "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Data Link/Jumbo Frames.md",
-    "Notes/_note_Notes.md",
-    "Notes/Internet Protocol.md",
-    "Untitled",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
-    "Notes/OSI Model/OSI Model.md",
+    "Notes/Internet Control Message Protocol.md",
     "Notes/OSI Model/Network.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",
-    "--Obsidian Template--/Frontmatter - Reference Notes - Backend.md",
-    "--Obsidian Template--/Frontmatter - Notes - Backend.md",
-    "--Obsidian Template--/Frontmatter - Reference Notes.md",
-    "--Obsidian Template--/Frontmatter - Video Reference.md",
-    "--Obsidian Template--/Frontmatter - Reference Notes with source.md",
-    "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/IP Addressing/Address Resolution Protocol.md",
-    "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/IP Addressing/IPv4 Addressing/IPv4 Addressing.md",
-    "Excalidraw/ExcaliBrain Snapshot - Internet Protocol.excalidraw.md",
-    "Notes/OSI Model",
-    "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/IP Addressing/IPv4 Addressing/IPv4 Address Space.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/OSI Model.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/Protocol Properties.md",
+    "Notes/OSI Model/OSI Model.md",
+    "Notes/YAML.md",
+    "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Data Link/Jumbo Frames.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
+    "Notes/TCP-IP Model.md",
+    "Notes/Synchronous.md",
+    "Notes/Stateless.md",
+    "Notes/Stateful.md",
+    "Notes/Server Sent Events.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
+    "Excalibrain/excalibrain.md",
+    "Notes/Request Response Model.md",
+    "Notes/Push.md",
+    "Notes/Publish Subscribe.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Publish Subscribe.md",
+    "Notes/Polling.md",
+    "Notes/Multiplexing and Demultiplexing.md",
+    "Notes/Connection Pooling.md",
+    "Notes/Long Polling.md",
+    "Notes/JavaScript Object Notation.md",
+    "Notes/Internet Protocol.md",
     "Notes/Communication Protocol Properties.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Introduction.md",
-    "Topics/Project Management/Methodologies/Agile/Allen Holub/How we can correct the mistakes made with Agile • Allen Holub.md",
+    "Notes/Asynchronous.md",
+    "IP Packet.md",
+    "--Attachments/Pasted image 20250317224513.png",
+    "Untitled",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",
+    "Notes/OSI Model",
     "--Attachments/youtube_f42a3r28wmu.a_en.en.vtt",
-    "Media Note - War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020.md",
-    "Media Note - War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020 1.md",
     "--Attachments/War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020PT16.489S.webp",
     "--Attachments/War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020PT0.933S.webp",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
@@ -342,7 +374,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/rabbitMQ-pushAPI.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Postgres-Pipelining.pdf",
     "--Attachments/Protocol Properties p2.png",
-    "--Attachments/Protocol Properties p1.png",
     "Canvas/Untitled.canvas",
     "Untitled.canvas",
     "Canvas/canvas 2.canvas",

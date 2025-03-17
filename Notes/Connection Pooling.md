@@ -3,8 +3,7 @@ tags:
   - backend/networking
   - notes
 Draft: false
-"related:":
-  - - Notes/Multiplexing and Demultiplexing|Multiplexing and Demultiplexing
+related-reference-note:: [[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Multiplexing and Demultiplexing|Multiplexing and Demultiplexing]]
 ---
 
 Connection pooling is a method of maintaining active connection states that can be reused for multiple different independent requests.

@@ -4,7 +4,6 @@ tags:
   - data-format
 ---
 
-
 YAML is a human readable data serialization language.
 A YAML document is an unordered collection of `key:value` pairs.
 

@@ -4,7 +4,7 @@ tags:
   - backend
 Draft: false
 opposite:: [[Stateless]]
-related:: [[Stateless vs Stateful]]
+related-reference-note::  [[Stateless vs Stateful]]
 ---
 
 - A stateful entity stores state within it

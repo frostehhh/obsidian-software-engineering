@@ -54,6 +54,7 @@
       "Jumps",
       "pros",
       "related",
+      "related-reference-note",
       "similar",
       "supports"
     ],
@@ -230,7 +231,8 @@
     "n": {},
     "Next": {},
     "opposite": {},
-    "related": {}
+    "related": {},
+    "related-reference-note": {}
   },
   "navigationHistory": [
     "Reference Notes/Andrej Karpathy - How I use LLMs.md",
