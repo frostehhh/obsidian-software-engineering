@@ -3,7 +3,7 @@ tags:
   - reference-notes
   - backend/communication
   - backend/networking
-Draft: true
+Draft: false
 ---
 
 > [!info] 
@@ -12,7 +12,7 @@ Draft: true
 0:00 Internet Protocol
 19:23 IP Packet
 
-See [[Notes/Internet Protocol]], [[IP Packet]], 
+See [[Notes/Internet Protocol]], [[IP Packet]], [[Internet Control Message Protocol|ICMP]]
 
 # Reference
 [[IP-TCP-UDP-TLS+Slides.pdf]]

@@ -54,19 +54,17 @@
             }
           },
           {
-            "id": "1126a1f85fd9c1e2",
+            "id": "db72fd91b61f9f87",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Internet Control Message Protocol.md",
+                "file": "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Network Interfaces, Instance IPs and DNS.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Internet Control Message Protocol"
+              "title": "Network Interfaces, Instance IPs and DNS"
             }
           }
         ],
@@ -251,53 +249,17 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "65ba2ea5ed7a962d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "611329806b485c2d",
-        "type": "window",
-        "children": [
-          {
-            "id": "c48be8bf79309349",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "af6d4c31010473cf",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalibrain/excalibrain.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "excalibrain"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1057,
-        "y": 287,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1
-      }
-    ]
-  },
-  "active": "1126a1f85fd9c1e2",
+  "active": "db72fd91b61f9f87",
   "lastOpenFiles": [
-    "Notes/OSI Model/Network.md",
-    "Notes/Internet Control Message Protocol.md",
+    "Excalibrain/excalibrain.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/Internet Protocol.md",
+    "Dataviews/Draft Notes.md",
+    "Notes/Internet Control Message Protocol.md",
+    "Notes/OSI Model/Network.md",
+    "Notes/Internet Protocol.md",
     "IP Packet.md",
     "Notes/OSI Model/OSI Model.md",
     "Notes/YAML.md",
@@ -309,7 +271,6 @@
     "Notes/Stateful.md",
     "Notes/Server Sent Events.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
-    "Excalibrain/excalibrain.md",
     "Notes/Request Response Model.md",
     "Notes/Push.md",
     "Notes/Publish Subscribe.md",
@@ -319,9 +280,7 @@
     "Notes/Connection Pooling.md",
     "Notes/Long Polling.md",
     "Notes/JavaScript Object Notation.md",
-    "Notes/Internet Protocol.md",
     "Notes/Communication Protocol Properties.md",
-    "Notes/Asynchronous.md",
     "--Attachments/Pasted image 20250317224513.png",
     "Untitled",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",

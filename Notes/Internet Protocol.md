@@ -3,7 +3,7 @@ tags:
   - backend/networking
   - notes
   - backend/communication
-Draft: true
+Draft: false
 "Parent:":
   - - Notes/OSI Model/Network|Network
 related-reference-note:: [[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/Internet Protocol|Internet Protocol]]
