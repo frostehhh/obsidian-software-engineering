@@ -32,7 +32,7 @@ Network ^DuM2kpKL
 ## Element Links
 ZnWIxc66: [[Notes/Internet Protocol.md]]
 
-1taQfYzT: [[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/Internet Protocol.md]]
+1taQfYzT: [[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/Internet Protocol]]
 
 iBQCOKLd: [[Notes/OSI Model/Network.md]]
 

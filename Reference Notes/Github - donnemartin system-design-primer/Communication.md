@@ -9,4 +9,4 @@ https://github.com/donnemartin/system-design-primer?tab=readme-ov-file#communica
 [[OSI 7-Layer Model]]
 [[What is HTTP and HTTPS]]
 [[Transmission Control Protocol]]
-[[User Datagram Protocol|UDP]]
+[[Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Transport/User Datagram Protocol|UDP]]

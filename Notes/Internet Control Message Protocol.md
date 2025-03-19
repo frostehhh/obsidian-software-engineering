@@ -12,6 +12,10 @@ Draft: true
 ---
 
 Protocol used to use commands like `ping`, `traceroute` and for handling cases such as destination unreachable.
+- For diagnosing network communication issues
+- Used on routers
+- Crucial for error reporting and testing
 
+![[ICMP Header.png]]
 # References
 https://www.cloudflare.com/learning/ddos/glossary/internet-control-message-protocol-icmp/
