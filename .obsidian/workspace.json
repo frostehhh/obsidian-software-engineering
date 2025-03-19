@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "1ba925126411cbf2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "Fundamentals Mindmap"
+            }
+          },
+          {
             "id": "a8ddb96029482f1e",
             "type": "leaf",
             "pinned": true,
@@ -36,24 +50,9 @@
               "icon": "lucide-file",
               "title": "User Datagram Protocol"
             }
-          },
-          {
-            "id": "70a0ee230d110fd1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/UDP.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "UDP"
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.0026054382324
+    "width": 405.0026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -218,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377
+    "width": 377,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,22 +239,61 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ed3016ddd2ef8d29",
+  "floating": {
+    "id": "572961e694f4b311",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b0a29c2bcd5405b2",
+        "type": "window",
+        "children": [
+          {
+            "id": "bc8bb8e30f149223",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0bb051a29a86d40d",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalibrain/excalibrain.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "excalibrain"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1718,
+        "y": 332,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1
+      }
+    ]
+  },
+  "active": "a8ddb96029482f1e",
   "lastOpenFiles": [
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
     "Notes/User Datagram Protocol.md",
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/Internet Protocol.md",
+    "Notes/Internet Protocol.md",
+    "Excalibrain/excalibrain.md",
+    "Reference Notes/Hussein Nasser/Drawing 2025-03-04 21.44.52.excalidraw.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/UDP.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Postgres-Pipelining.pdf",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/Internet Protocol.md",
     "Notes/Internet Control Message Protocol.md",
-    "Notes/Internet Protocol.md",
     "--Attachments/ICMP Header.png",
     "ICMP Header.png.md",
     "Notes/OSI Model/Network.md",
     "Notes/Connection Pooling.md",
     "Dataviews/Draft Notes.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Network Interfaces, Instance IPs and DNS.md",
-    "Excalibrain/excalibrain.md",
     "IP Packet.md",
     "Notes/OSI Model/OSI Model.md",
     "Notes/YAML.md",
@@ -266,9 +306,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
     "Notes/Request Response Model.md",
     "Notes/Push.md",
-    "Notes/Publish Subscribe.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Publish Subscribe.md",
-    "Notes/Polling.md",
     "--Attachments/Pasted image 20250317224513.png",
     "Untitled",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",
