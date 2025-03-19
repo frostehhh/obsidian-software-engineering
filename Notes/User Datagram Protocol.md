@@ -14,12 +14,20 @@ related-reference-note:: [[UDP]]
 - Used by WebRTC
 - Better for processes that want more real-time processing of information
 - Address processes in a host via ports
+- 8 bytes header
+- Simple
+- Utilizes the concept of [[Notes/Multiplexing and Demultiplexing#Multiplexing|Multiplexing]] and [[Notes/Multiplexing and Demultiplexing#Demultiplexing|Demultiplexing]]
+	- Client multiplexes multiple connections from different processes into 1 UDP connection. Receivers demultiplexes
 # Examples
 - Online games
 - Livestreams
 - Video calls
+# Anatomy
 
-DNS poisoning?
+# Pros
+# Cons
+
 # Questions
 
 How does TCP use UDP?
+DNS poisoning?
