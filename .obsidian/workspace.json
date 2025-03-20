@@ -234,9 +234,7 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "workspaces:Manage workspace layouts": false
     }
   },
   "floating": {
@@ -276,15 +274,17 @@
       }
     ]
   },
-  "active": "a8ddb96029482f1e",
+  "active": "8408cec06d4f9c66",
   "lastOpenFiles": [
-    "Notes/Multiplexing and Demultiplexing.md",
+    "Excalibrain/excalibrain.md",
     "Notes/User Datagram Protocol.md",
+    "--Attachments/Pasted image 20250320011242.png",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
+    "--Attachments/Pasted image 20250320011231.png",
     "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Notes/Multiplexing and Demultiplexing.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/Internet Protocol.md",
     "Notes/Internet Protocol.md",
-    "Excalibrain/excalibrain.md",
     "Reference Notes/Hussein Nasser/Drawing 2025-03-04 21.44.52.excalidraw.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/UDP.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Postgres-Pipelining.pdf",
@@ -306,7 +306,6 @@
     "Notes/Server Sent Events.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Request Response.md",
     "Notes/Request Response Model.md",
-    "Notes/Push.md",
     "--Attachments/Pasted image 20250317224513.png",
     "Untitled",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",
@@ -319,7 +318,6 @@
     "Reference Notes/Spring Documentation",
     "--Attachments/Pasted image 20250315025342.png",
     "--Attachments/Pasted image 20250313004024.png",
-    "--Attachments/Pasted image 20250313004033.png",
     "Reference Notes/Adrian Cantrill",
     "Reference Notes/Andrej Karpathy",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/rabbitMQ-pushAPI.pdf",

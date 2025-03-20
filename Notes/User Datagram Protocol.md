@@ -23,9 +23,23 @@ related-reference-note:: [[UDP]]
 - Livestreams
 - Video calls
 # Anatomy
+The header simply contains the following
+- Source port
+- destination port
+- length
+- checksum
 
 # Pros
+- Low latency due to low overhead
+- simple
+- No need to connection
+- stateless
+![[Pasted image 20250320011231.png]]
 # Cons
+- Can be abused by spamming UDP datagrams to a target that they will be forced to process due to the stateless nature of UDP
+- No flow control
+- No congestion control
+![[Pasted image 20250320011242.png]]
 
 # Questions
 
