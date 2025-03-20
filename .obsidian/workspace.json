@@ -234,47 +234,12 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "floating": {
-    "id": "572961e694f4b311",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b0a29c2bcd5405b2",
-        "type": "window",
-        "children": [
-          {
-            "id": "bc8bb8e30f149223",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0bb051a29a86d40d",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalibrain/excalibrain.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "excalibrain"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1718,
-        "y": 332,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1
-      }
-    ]
-  },
-  "active": "8408cec06d4f9c66",
+  "active": "a8ddb96029482f1e",
   "lastOpenFiles": [
     "Excalibrain/excalibrain.md",
     "Notes/User Datagram Protocol.md",
