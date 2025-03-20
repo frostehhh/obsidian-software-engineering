@@ -1,19 +1,17 @@
 {
-  "editor:open-search": [],
-  "global-search:open": [],
-  "omnisearch:show-modal-infile": [
+  "omnisearch:show-modal": [
     {
       "modifiers": [
-        "Mod"
+        "Alt",
+        "Shift"
       ],
       "key": "F"
     }
   ],
-  "omnisearch:show-modal": [
+  "omnisearch:show-modal-infile": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt"
       ],
       "key": "F"
     }
