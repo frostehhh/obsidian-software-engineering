@@ -22,7 +22,7 @@ aliases:
 - set of protocols used by [[TLS]]. Includes these algorithms
 	- Algorithms included in a Cipher Suite
 		- Key exchange algorithm
-		- Bulk enctryption algorithm
+		- Bulk encryption algorithm
 		- Message authentication code algorithm (MAC)
 	- Specific versions of these tied together are known as a cipher suite 
 	- In the first step, the client does a client HELLO

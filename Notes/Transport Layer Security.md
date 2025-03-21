@@ -3,7 +3,7 @@ tags:
   - notes
   - backend/communication
   - backend/networking
-Draft: true
+Draft: false
 aliases:
   - TLS
 related-reference-note:: [[TLS]]
@@ -12,15 +12,17 @@ related-reference-note:: [[TLS]]
 # Transport Layer Security
 TLS is a protocol for a client and a server to agree to use a symmetric key to encrypt data sent between each other. Prior to data communication, a handshake is performed with asymmetric keys to acquire the symmetric key to be used.
 
-
 # TLS 1.2
-Uses RSA
+Uses [[RSA]]
+- Flawed due to forward secrecy vulnerability
+- 2 round trip handshake
 
 
-![[Diffie-Hellman Algorithm]]
+![[Diffie-Hellman Algorithm#Diffie-Hellman Algorithm]]
 
 # TLS 1.3
-The flow goes as follows
+- 1 round trip handshake
+The flow goes as follows(uses Diffie-Hellman Algorithm):
 1. The client generates their own private key
 2. The client uses the public key to encrypt the private key
 3. The server receives the encrypted client's private key
@@ -30,4 +32,6 @@ The flow goes as follows
 7. The client received the response from the server and encrypts the received key with the client private key.
 8. Both the client and the server obtain a copy of a symmetric key.
 
+# References
+https://www.thesslstore.com/blog/tls-1-3-handshake-tls-1-2/
 ![[TLS#References]]

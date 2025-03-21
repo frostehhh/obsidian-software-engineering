@@ -50,39 +50,35 @@
             }
           },
           {
-            "id": "b504fcb1f90f43a5",
+            "id": "7a4d85af509a8361",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Transport Layer Security.md",
-                "mode": "source",
+                "file": "Dataviews/Draft Notes.md",
+                "mode": "preview",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Transport Layer Security"
+              "title": "Draft Notes"
             }
           },
           {
-            "id": "36a44732df8e7254",
+            "id": "0aea779fd4387fe0",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Diffie-Hellman Algorithm.md",
+                "file": "Notes/Hypertext Transfer Protocol.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Diffie-Hellman Algorithm"
+              "title": "Hypertext Transfer Protocol"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.0026054382324
+    "width": 352
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -155,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IP Packet.md",
+                "file": "Notes/Hypertext Transfer Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +161,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for IP Packet"
+              "title": "Backlinks for Hypertext Transfer Protocol"
             }
           },
           {
@@ -174,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IP Packet.md",
+                "file": "Notes/Hypertext Transfer Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from IP Packet"
+              "title": "Outgoing links from Hypertext Transfer Protocol"
             }
           },
           {
@@ -203,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Transport Layer Security.md",
+                "file": "Notes/Hypertext Transfer Protocol.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Transport Layer Security"
+              "title": "Outline of Hypertext Transfer Protocol"
             }
           },
           {
@@ -244,12 +240,11 @@
               "title": "excalibrain"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 1143,
+    "width": 544,
     "collapsed": true
   },
   "left-ribbon": {
@@ -270,39 +265,40 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b504fcb1f90f43a5",
+  "active": "0aea779fd4387fe0",
   "lastOpenFiles": [
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/HTTP 1.1.md",
+    "Notes/Hypertext Transfer Protocol.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
-    "Notes/Transport Layer Security.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Dataviews/Draft Notes.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/TLS.md",
+    "Notes/RSA.md",
     "Notes/Diffie-Hellman Algorithm.md",
+    "Reference Notes/Adrian Cantrill/Cybersecurity/SSL and TLS/SSL and TLS.md",
+    "Notes/Transport Layer Security.md",
+    "Reference Notes/Adrian Cantrill/Cybersecurity/SSL and TLS/Transport Layer Security.md",
+    "--Obsidian Template--/Frontmatter - Notes - Cryptography.md",
+    "--Attachments/Transport Layer Security 2025-03-22 00.07.53.excalidraw.md",
+    "Notes/User Datagram Protocol.md",
+    "Notes/YAML.md",
+    "Reference Notes/Github - Learn Node.js Hardway/_note_Github - Learn Node.js Hardway.md",
+    "Reference Notes/_note_Reference Notes.md",
+    "Notes/TCP-IP Model.md",
     "Notes/JavaScript Object Notation.md",
     "Topics/_note_Topics.md",
     "Notes/Communication Protocol Properties.md",
     "Untitled",
-    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/TLS.md",
-    "--Attachments/Transport Layer Security 2025-03-22 00.07.53.excalidraw.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
     "Excalibrain/excalibrain.md",
-    "Reference Notes/Adrian Cantrill/Cybersecurity/SSL and TLS/SSL and TLS.md",
     "Notes/Internet Protocol.md",
     "Notes/Transmission Control Protocol.md",
     "Notes/OSI Model/OSI Model.md",
     "Notes/OSI Model/Network.md",
     "Notes/OSI Model/Transport.md",
-    "Dataviews/Draft Notes.md",
-    "Notes/Internet Control Message Protocol.md",
-    "Notes/User Datagram Protocol.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/TCP.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/UDP.md",
-    "IP Packet.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/Internet Protocol.md",
-    "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Data Link/Jumbo Frames.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",
     "--Attachments/Pasted image 20250321231911.png",
     "--Attachments/Pasted image 20250321231824.png",
-    "Notes/Multiplexing and Demultiplexing.md",
-    "--Attachments/Transmission Control Protocol 3-way handshake.excalidraw.md",
     "--Attachments/Pasted image 20250321185637.png",
     "--Attachments/Pasted image 20250320011242.png",
     "--Attachments/Pasted image 20250320011231.png",
