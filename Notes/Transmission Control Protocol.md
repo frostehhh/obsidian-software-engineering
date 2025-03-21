@@ -3,22 +3,30 @@ tags:
   - notes
   - backend/networking
   - backend/communication
-Draft: true
-related-reference-note:: [[TCP]]
-Parent:: [[Notes/OSI Model/Transport|OSI Model - Layer 4]]
-similar:: [[Notes/User Datagram Protocol|User Datagram Protocol]]
+Draft: false
+"related-reference-note:":
+  - - TCP
+"Parent:":
+  - - Notes/OSI Model/Transport|OSI Model - Layer 4
+"similar:":
+  - - Notes/User Datagram Protocol|User Datagram Protocol
 ---
 
-- layer 4 Protocol
+- [[Notes/OSI Model/Transport|OSI Model - Layer 4]]
+- Stateful
 - Control of communication
 - Requires communication/session to be established
 	- Establishment of session is layer 5
-- Stateful
+	- Requires handshake
 - Used by HTTP
 - Reliable
 - TCP Segment
+- Address processes in a host via ports
 - bi-directional
 - file descriptor - contains information regarding connection "ID"
+- Utilizes the concept of [[Notes/Multiplexing and Demultiplexing#Multiplexing|Multiplexing]] and [[Notes/Multiplexing and Demultiplexing#Demultiplexing|Demultiplexing]]
+	- Client multiplexes multiple connections from different processes into 1 UDP connection. Receivers demultiplexes
+- 20 bytes headers **Segment**(max 60 bytes)
 
 # Use Cases
 - Database queries
@@ -28,6 +36,7 @@ similar:: [[Notes/User Datagram Protocol|User Datagram Protocol]]
 # Connection
 - Sender sends TCP segments
 - Receiver confirms receival of segments
+- Segments are sequenced
 - If there are missing segments, sender retransmits them
 
 # How is a connection established?
@@ -46,5 +55,24 @@ Combination of the following determines a connection:
 # Closing a connection
 ![[Transmission Control Protocol 2025-03-21 18.44.11.excalidraw]]
 
+# Anatomy
+- Ports - source and destination
+- Sequence number
+- ACK number
+- 9 control bits
+	- SYN
+	- ACK
+	- FIN
+	- ...
+- Window size - Accepted size by server(?)
+- options
+- checksum
+![[Pasted image 20250321231911.png]]
+
+# Maximum Segment Size
+![[Pasted image 20250321231824.png]]
 # Questions
 What is TCP vs UDP?
+
+# References
+https://en.wikipedia.org/wiki/Transmission_Control_Protocol

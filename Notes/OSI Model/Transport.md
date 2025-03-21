@@ -5,6 +5,6 @@ tags:
   - backend/networking
 aliases:
   - OSI Model - Layer 4
-Draft: true
+Draft: false
 "Parent:": "[[Notes/OSI Model/OSI Model|OSI Model]]"
 ---

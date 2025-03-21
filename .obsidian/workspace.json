@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9eeed23f61bed307",
+        "id": "2251b0a199b69f2f",
         "type": "tabs",
         "children": [
           {
@@ -20,13 +20,21 @@
               "icon": "lucide-file-text",
               "title": "IP-TCP-UDP-TLS+Slides"
             }
-          }
-        ]
-      },
-      {
-        "id": "2251b0a199b69f2f",
-        "type": "tabs",
-        "children": [
+          },
+          {
+            "id": "ea9b226fdfc3dde0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "Fundamentals+of+Backend+Communications+and+Protocols(Autosaved)"
+            }
+          },
           {
             "id": "1ba925126411cbf2",
             "type": "leaf",
@@ -42,58 +50,23 @@
             }
           },
           {
-            "id": "2703d5b139aca6c0",
+            "id": "c55f1b1a862c9c38",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Transmission Control Protocol.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/TLS.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Transmission Control Protocol"
-            }
-          },
-          {
-            "id": "5b07b05bd7f4c333",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "--Attachments/Transmission Control Protocol 3-way handshake.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Transmission Control Protocol 3-way handshake.excalidraw"
-            }
-          },
-          {
-            "id": "8062defae3fb982e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "--Attachments/Transmission Control Protocol 2025-03-21 18.44.11.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Transmission Control Protocol 2025-03-21 18.44.11.excalidraw"
-            }
-          },
-          {
-            "id": "a646f1a904749cc6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalibrain/excalibrain.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "excalibrain"
+              "title": "TLS"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.0026054382324,
+    "width": 454.0026054382324,
     "collapsed": true
   },
   "right": {
@@ -215,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Asynchronous.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/TLS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Asynchronous"
+              "title": "Outline of TLS"
             }
           },
           {
@@ -235,16 +208,6 @@
             }
           },
           {
-            "id": "4265431c93419ccb",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "ab5b390bbb469339",
             "type": "leaf",
             "state": {
@@ -253,14 +216,25 @@
               "icon": "viewIcon",
               "title": "Markdown-Autocomplete"
             }
+          },
+          {
+            "id": "a646f1a904749cc6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalibrain/excalibrain.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "excalibrain"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 377,
-    "collapsed": true
+    "width": 518
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,53 +254,53 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1ba925126411cbf2",
+  "active": "c55f1b1a862c9c38",
   "lastOpenFiles": [
-    "Notes/Transmission Control Protocol.md",
     "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/TLS.md",
+    "Notes/Transport Layer Security.md",
+    "Excalibrain/excalibrain.md",
+    "Reference Notes/Adrian Cantrill/Cybersecurity/SSL and TLS/SSL and TLS.md",
+    "Notes/Internet Protocol.md",
+    "Notes/Transmission Control Protocol.md",
+    "Notes/OSI Model/OSI Model.md",
+    "Notes/OSI Model/Network.md",
+    "Notes/OSI Model/Transport.md",
+    "Dataviews/Draft Notes.md",
+    "Notes/Internet Control Message Protocol.md",
+    "Notes/User Datagram Protocol.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/TCP.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/UDP.md",
+    "IP Packet.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/Internet Protocol.md",
+    "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Data Link/Jumbo Frames.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",
+    "--Attachments/Pasted image 20250321231911.png",
+    "--Attachments/Pasted image 20250321231824.png",
+    "Notes/Multiplexing and Demultiplexing.md",
     "--Attachments/Transmission Control Protocol 3-way handshake.excalidraw.md",
     "--Attachments/Transmission Control Protocol 2025-03-21 18.44.11.excalidraw.md",
-    "Excalibrain/excalibrain.md",
     "--Attachments/Pasted image 20250321185637.png",
-    "Notes/User Datagram Protocol.md",
-    "Notes/OSI Model/Transport.md",
-    "Notes/OSI Model/Network.md",
-    "Notes/OSI Model/OSI Model.md",
-    "Notes/Internet Protocol.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/TCP.md",
     "--Attachments/Pasted image 20250320011242.png",
     "--Attachments/Pasted image 20250320011231.png",
-    "Notes/Multiplexing and Demultiplexing.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/Internet Protocol.md",
     "Reference Notes/Hussein Nasser/Drawing 2025-03-04 21.44.52.excalidraw.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/UDP.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Postgres-Pipelining.pdf",
-    "Notes/Internet Control Message Protocol.md",
     "--Attachments/ICMP Header.png",
     "ICMP Header.png.md",
     "Notes/Connection Pooling.md",
-    "Dataviews/Draft Notes.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Network Interfaces, Instance IPs and DNS.md",
-    "IP Packet.md",
-    "Notes/YAML.md",
-    "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Data Link/Jumbo Frames.md",
-    "Notes/TCP-IP Model.md",
-    "Notes/Synchronous.md",
     "--Attachments/Pasted image 20250317224513.png",
     "Untitled",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",
     "Notes/OSI Model",
     "--Attachments/youtube_f42a3r28wmu.a_en.en.vtt",
     "--Attachments/War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020PT16.489S.webp",
     "--Attachments/War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020PT0.933S.webp",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
-    "Reference Notes/Adrian Cantrill/Cloud Computing/Images/Pasted image 20221229142305.png",
     "Reference Notes/Spring Documentation",
-    "--Attachments/Pasted image 20250315025342.png",
     "Reference Notes/Adrian Cantrill",
     "Reference Notes/Andrej Karpathy",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/rabbitMQ-pushAPI.pdf",
     "Canvas/Untitled.canvas",
     "Untitled.canvas",
     "Canvas/canvas 2.canvas",

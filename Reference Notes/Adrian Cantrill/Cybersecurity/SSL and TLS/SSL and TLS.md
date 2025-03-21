@@ -3,7 +3,7 @@ aliases:
   - Secure Sockets Layer and Transport Layer Security
 ---
 
-**[[Secure Sockets Layer|SSL]] and [[Transport Layer Security|TLS]] both provide**
+**[[Secure Sockets Layer|SSL]] and [[Reference Notes/Adrian Cantrill/Cybersecurity/SSL and TLS/Transport Layer Security|TLS]] both provide**
 - Privacy and Data Integrity between client and server
 - Privacy - communications are encrypted. See also [[Reference Notes/Adrian Cantrill/Cybersecurity/Encryption/Encryption]]
 - Identity (server or client/server) verified

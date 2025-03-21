@@ -4,10 +4,12 @@ tags:
   - notes
   - backend/communication
 Draft: false
-"Parent:":
-  - - Notes/OSI Model/Network|Network
-related-reference-note:: [[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/Internet Protocol|Internet Protocol]]
+"Parent:": "[[Notes/OSI Model/Network|OSI Model - Layer 3]]"
+"related-reference-note:":
+  - - Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/Internet Protocol|Internet Protocol
 ---
+# Internet Protocol
+This is a protocol responsible for routing and addressing [[IP Packet]]
 # IP Address
 - Layer 3 property
 - Can be set automatically or statically

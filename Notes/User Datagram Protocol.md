@@ -3,22 +3,25 @@ tags:
   - notes
   - backend/communication
   - backend/networking
-Draft: true
-aliases: UDP
-related-reference-note:: [[UDP]]
-similar:: [[Notes/Transmission Control Protocol|Transmission Control Protocol]]
+Draft: false
+aliases:
+  - UDP
+"related-reference-note:":
+  - - UDP
+"similar:":
+  - - Notes/Transmission Control Protocol|Transmission Control Protocol
 ---
 
-- [[layer 4 protocol]]
+- [[Notes/OSI Model/Transport|Transport]]
 - Stateless
 - No initial connection needed
 - Used by WebRTC
 - Better for processes that want more real-time processing of information
 - Address processes in a host via ports
-- 8 bytes header
 - Simple
 - Utilizes the concept of [[Notes/Multiplexing and Demultiplexing#Multiplexing|Multiplexing]] and [[Notes/Multiplexing and Demultiplexing#Demultiplexing|Demultiplexing]]
 	- Client multiplexes multiple connections from different processes into 1 UDP connection. Receivers demultiplexes
+- 8 bytes header
 # Examples
 - Online games
 - Livestreams
