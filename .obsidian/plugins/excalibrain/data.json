@@ -99,7 +99,7 @@
   "showURLNodes": true,
   "showVirtualNodes": false,
   "showFolderNodes": false,
-  "showTagNodes": true,
+  "showTagNodes": false,
   "showPageNodes": true,
   "showNeighborCount": true,
   "showFullTagName": false,

@@ -42,13 +42,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/User Datagram Protocol.md",
-                "mode": "preview",
+                "file": "Notes/Transmission Control Protocol.md",
+                "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "User Datagram Protocol"
+              "title": "Transmission Control Protocol"
             }
           },
           {
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.0026054382324
+    "width": 405.0026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -253,9 +254,9 @@
   "active": "2703d5b139aca6c0",
   "lastOpenFiles": [
     "Excalibrain/excalibrain.md",
+    "Notes/Transmission Control Protocol.md",
     "Notes/User Datagram Protocol.md",
     "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
-    "Notes/Transmission Control Protocol.md",
     "Notes/OSI Model/Transport.md",
     "Notes/OSI Model/Network.md",
     "Notes/OSI Model/OSI Model.md",

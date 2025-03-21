@@ -16,11 +16,16 @@ similar:: [[Notes/User Datagram Protocol|User Datagram Protocol]]
 - Stateful
 - Used by HTTP
 - Reliable
+- TCP Segment
+- bi-directional
+- file descriptor - contains information regarding connection "ID"
 
 # Use Cases
 - Database queries
 - Requests to update data
 - Uploads and downloads of files
+
+# Connection
 
 # How is a connection established?
 3-way TCP handshake?
