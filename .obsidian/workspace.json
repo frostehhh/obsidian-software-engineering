@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "fd80f902551d53e8",
+            "id": "b504fcb1f90f43a5",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -63,6 +63,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Transport Layer Security"
+            }
+          },
+          {
+            "id": "36a44732df8e7254",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Diffie-Hellman Algorithm.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Diffie-Hellman Algorithm"
             }
           }
         ],
@@ -123,8 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.0026054382324,
-    "collapsed": true
+    "width": 454.0026054382324
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -230,11 +245,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 518
+    "width": 1143,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,13 +270,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fd80f902551d53e8",
+  "active": "b504fcb1f90f43a5",
   "lastOpenFiles": [
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/TLS.md",
-    "Notes/Transport Layer Security.md",
-    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
+    "Notes/Transport Layer Security.md",
+    "Notes/Diffie-Hellman Algorithm.md",
+    "Notes/JavaScript Object Notation.md",
+    "Topics/_note_Topics.md",
+    "Notes/Communication Protocol Properties.md",
+    "Untitled",
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/TLS.md",
+    "--Attachments/Transport Layer Security 2025-03-22 00.07.53.excalidraw.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
     "Excalibrain/excalibrain.md",
     "Reference Notes/Adrian Cantrill/Cybersecurity/SSL and TLS/SSL and TLS.md",
     "Notes/Internet Protocol.md",
@@ -281,18 +303,12 @@
     "--Attachments/Pasted image 20250321231824.png",
     "Notes/Multiplexing and Demultiplexing.md",
     "--Attachments/Transmission Control Protocol 3-way handshake.excalidraw.md",
-    "--Attachments/Transmission Control Protocol 2025-03-21 18.44.11.excalidraw.md",
     "--Attachments/Pasted image 20250321185637.png",
     "--Attachments/Pasted image 20250320011242.png",
     "--Attachments/Pasted image 20250320011231.png",
-    "Reference Notes/Hussein Nasser/Drawing 2025-03-04 21.44.52.excalidraw.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Postgres-Pipelining.pdf",
     "--Attachments/ICMP Header.png",
-    "ICMP Header.png.md",
-    "Notes/Connection Pooling.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Network Interfaces, Instance IPs and DNS.md",
     "--Attachments/Pasted image 20250317224513.png",
-    "Untitled",
     "Notes/OSI Model",
     "--Attachments/youtube_f42a3r28wmu.a_en.en.vtt",
     "--Attachments/War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020PT16.489S.webp",
