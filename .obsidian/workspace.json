@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2251b0a199b69f2f",
+        "id": "9eeed23f61bed307",
         "type": "tabs",
         "children": [
           {
@@ -20,7 +20,13 @@
               "icon": "lucide-file-text",
               "title": "IP-TCP-UDP-TLS+Slides"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "2251b0a199b69f2f",
+        "type": "tabs",
+        "children": [
           {
             "id": "1ba925126411cbf2",
             "type": "leaf",
@@ -52,18 +58,6 @@
             }
           },
           {
-            "id": "8062defae3fb982e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "--Attachments/Transmission Control Protocol 2025-03-21 18.44.11.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Transmission Control Protocol 2025-03-21 18.44.11.excalidraw"
-            }
-          },
-          {
             "id": "5b07b05bd7f4c333",
             "type": "leaf",
             "state": {
@@ -73,6 +67,18 @@
               },
               "icon": "excalidraw-icon",
               "title": "Transmission Control Protocol 3-way handshake.excalidraw"
+            }
+          },
+          {
+            "id": "8062defae3fb982e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "--Attachments/Transmission Control Protocol 2025-03-21 18.44.11.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Transmission Control Protocol 2025-03-21 18.44.11.excalidraw"
             }
           },
           {
@@ -87,8 +93,7 @@
               "title": "excalibrain"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -275,16 +280,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2703d5b139aca6c0",
+  "active": "1ba925126411cbf2",
   "lastOpenFiles": [
-    "--Attachments/Pasted image 20250321185637.png",
-    "--Attachments/Transmission Control Protocol 2025-03-21 18.44.11.excalidraw.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
     "Notes/Transmission Control Protocol.md",
-    "--Attachments/Transmission Control Protocol 3-way handshake.excalidraw.md",
-    "Excalibrain/excalibrain.md",
-    "Notes/User Datagram Protocol.md",
     "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
+    "--Attachments/Transmission Control Protocol 3-way handshake.excalidraw.md",
+    "--Attachments/Transmission Control Protocol 2025-03-21 18.44.11.excalidraw.md",
+    "Excalibrain/excalibrain.md",
+    "--Attachments/Pasted image 20250321185637.png",
+    "Notes/User Datagram Protocol.md",
     "Notes/OSI Model/Transport.md",
     "Notes/OSI Model/Network.md",
     "Notes/OSI Model/OSI Model.md",
@@ -319,7 +324,6 @@
     "Reference Notes/Adrian Cantrill/Cloud Computing/Images/Pasted image 20221229142305.png",
     "Reference Notes/Spring Documentation",
     "--Attachments/Pasted image 20250315025342.png",
-    "--Attachments/Pasted image 20250313004024.png",
     "Reference Notes/Adrian Cantrill",
     "Reference Notes/Andrej Karpathy",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/rabbitMQ-pushAPI.pdf",
