@@ -50,19 +50,19 @@
             }
           },
           {
-            "id": "c55f1b1a862c9c38",
+            "id": "fd80f902551d53e8",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/TLS.md",
+                "file": "Notes/Transport Layer Security.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "TLS"
+              "title": "Transport Layer Security"
             }
           }
         ],
@@ -188,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/TLS.md",
+                "file": "Notes/Transport Layer Security.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TLS"
+              "title": "Outline of Transport Layer Security"
             }
           },
           {
@@ -254,13 +254,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c55f1b1a862c9c38",
+  "active": "fd80f902551d53e8",
   "lastOpenFiles": [
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/TLS.md",
+    "Notes/Transport Layer Security.md",
     "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/TLS.md",
-    "Notes/Transport Layer Security.md",
     "Excalibrain/excalibrain.md",
     "Reference Notes/Adrian Cantrill/Cybersecurity/SSL and TLS/SSL and TLS.md",
     "Notes/Internet Protocol.md",
