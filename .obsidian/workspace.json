@@ -50,35 +50,53 @@
             }
           },
           {
-            "id": "7a4d85af509a8361",
+            "id": "037750345a0bdbe5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dataviews/Draft Notes.md",
-                "mode": "preview",
+                "file": "Notes/Push.md",
+                "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Draft Notes"
+              "title": "Push"
             }
           },
           {
-            "id": "0aea779fd4387fe0",
+            "id": "8b89f8c5b903a8a6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/WebSockets.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "WebSockets"
+            }
+          },
+          {
+            "id": "ea9e8c6615b00845",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Hypertext Transfer Protocol.md",
+                "file": "Notes/WebSockets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hypertext Transfer Protocol"
+              "title": "WebSockets"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#computer-science",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -151,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Hypertext Transfer Protocol.md",
+                "file": "Notes/WebSockets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +179,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hypertext Transfer Protocol"
+              "title": "Backlinks for WebSockets"
             }
           },
           {
@@ -170,12 +188,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Hypertext Transfer Protocol.md",
+                "file": "Notes/WebSockets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hypertext Transfer Protocol"
+              "title": "Outgoing links from WebSockets"
             }
           },
           {
@@ -199,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Hypertext Transfer Protocol.md",
+                "file": "Notes/WebSockets.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hypertext Transfer Protocol"
+              "title": "Outline of WebSockets"
             }
           },
           {
@@ -240,12 +258,12 @@
               "title": "excalibrain"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 544,
-    "collapsed": true
+    "width": 828
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,38 +283,40 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0aea779fd4387fe0",
+  "active": "ea9e8c6615b00845",
   "lastOpenFiles": [
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/HTTP 1.1.md",
-    "Notes/Hypertext Transfer Protocol.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/WebSockets.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
-    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
-    "Dataviews/Draft Notes.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/TLS.md",
-    "Notes/RSA.md",
-    "Notes/Diffie-Hellman Algorithm.md",
-    "Reference Notes/Adrian Cantrill/Cybersecurity/SSL and TLS/SSL and TLS.md",
-    "Notes/Transport Layer Security.md",
-    "Reference Notes/Adrian Cantrill/Cybersecurity/SSL and TLS/Transport Layer Security.md",
-    "--Obsidian Template--/Frontmatter - Notes - Cryptography.md",
-    "--Attachments/Transport Layer Security 2025-03-22 00.07.53.excalidraw.md",
-    "Notes/User Datagram Protocol.md",
-    "Notes/YAML.md",
-    "Reference Notes/Github - Learn Node.js Hardway/_note_Github - Learn Node.js Hardway.md",
-    "Reference Notes/_note_Reference Notes.md",
-    "Notes/TCP-IP Model.md",
-    "Notes/JavaScript Object Notation.md",
-    "Topics/_note_Topics.md",
-    "Notes/Communication Protocol Properties.md",
-    "Untitled",
-    "Excalibrain/excalibrain.md",
-    "Notes/Internet Protocol.md",
-    "Notes/Transmission Control Protocol.md",
-    "Notes/OSI Model/OSI Model.md",
-    "Notes/OSI Model/Network.md",
-    "Notes/OSI Model/Transport.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
+    "Excalibrain/excalibrain.md",
+    "Notes/WebSockets.md",
+    "Notes/Push.md",
+    "Notes/Stateless.md",
+    "Notes/Synchronous.md",
+    "Notes/Stateful.md",
+    "Notes/Asynchronous.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/HTTP 1.1.md",
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/long-polling/node_modules/express/Readme.md",
+    "Dataviews/Backend.md",
+    "Notes/Internet Control Message Protocol.md",
+    "IP Packet.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/Internet Protocol.md",
+    "Notes/OSI Model/Network.md",
+    "Notes/OSI Model/OSI Model.md",
+    "--Obsidian Template--/Frontmatter - Notes - Backend.md",
+    "Notes/Internet Protocol.md",
+    "Notes/Connection Pooling.md",
+    "Notes/Hypertext Transfer Protocol.md",
+    "Notes/Multiplexing and Demultiplexing.md",
+    "Notes/Request Response Model.md",
+    "Dataviews/Draft Notes.md",
+    "Notes/RSA.md",
+    "--Attachments/HTTP2.png",
+    "--Attachments/Pasted image 20250322024120.png",
+    "--Attachments/HTTP Request Structure.png",
+    "Untitled",
     "--Attachments/Pasted image 20250321231911.png",
     "--Attachments/Pasted image 20250321231824.png",
     "--Attachments/Pasted image 20250321185637.png",
@@ -307,9 +327,6 @@
     "--Attachments/Pasted image 20250317224513.png",
     "Notes/OSI Model",
     "--Attachments/youtube_f42a3r28wmu.a_en.en.vtt",
-    "--Attachments/War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020PT16.489S.webp",
-    "--Attachments/War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020PT0.933S.webp",
-    "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
     "Reference Notes/Spring Documentation",
     "Reference Notes/Adrian Cantrill",
     "Reference Notes/Andrej Karpathy",

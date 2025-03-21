@@ -2,7 +2,7 @@
 tags:
   - notes
   - backend/security
-  - key-exhange-algorithm
+  - cryptography
 Draft: false
 aliases:
   - Rivest-Shamir-Adleman
