@@ -26,13 +26,25 @@ similar:: [[Notes/User Datagram Protocol|User Datagram Protocol]]
 - Uploads and downloads of files
 
 # Connection
+- Sender sends TCP segments
+- Receiver confirms receival of segments
+- If there are missing segments, sender retransmits them
 
 # How is a connection established?
-3-way TCP handshake?
+3-way TCP handshake
+![[Transmission Control Protocol 3-way handshake.excalidraw]]
 Combination of the following determines a connection:
 - Source IP
 - Source Port
 - Destination IP
 - Destination Port
+
+# During a connection
+- Sender can send multiple segments at a time.
+- Receiver will acknowledge the received segments and indicate the latest segment received where all previous segments are successfully received.
+![[Pasted image 20250321185637.png]]
+# Closing a connection
+![[Transmission Control Protocol 2025-03-21 18.44.11.excalidraw]]
+
 # Questions
 What is TCP vs UDP?
