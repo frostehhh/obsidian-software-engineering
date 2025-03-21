@@ -95,9 +95,9 @@
   "autoOpenCentralDocument": true,
   "toggleEmbedTogglesAutoOpen": true,
   "showInferredNodes": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "showURLNodes": true,
-  "showVirtualNodes": true,
+  "showVirtualNodes": false,
   "showFolderNodes": false,
   "showTagNodes": true,
   "showPageNodes": true,
@@ -235,8 +235,6 @@
     "related-reference-note": {}
   },
   "navigationHistory": [
-    "--Attachments/Pasted image 20250304232827.png",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Polling.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Push.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Server Sent Events.md",
     "--Attachments/Pasted image 20250312205815.png",
@@ -284,7 +282,9 @@
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/Internet Protocol.md",
     "Notes/Internet Control Message Protocol.md",
     "https://www.networkworld.com",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Network Interfaces, Instance IPs and DNS.md"
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Network Interfaces, Instance IPs and DNS.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/TCP.md",
+    "Notes/Transmission Control Protocol.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "--p",

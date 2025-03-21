@@ -6,6 +6,7 @@ tags:
 Draft: true
 aliases: UDP
 related-reference-note:: [[UDP]]
+similar:: [[Notes/Transmission Control Protocol|Transmission Control Protocol]]
 ---
 
 - [[layer 4 protocol]]

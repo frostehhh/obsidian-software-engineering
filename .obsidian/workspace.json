@@ -42,17 +42,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Transmission Control Protocol.md",
-                "mode": "source",
+                "file": "Notes/User Datagram Protocol.md",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Transmission Control Protocol"
+              "title": "User Datagram Protocol"
             }
           },
           {
-            "id": "d0002a1e5d193675",
+            "id": "a646f1a904749cc6",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,12 +117,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 405.0026054382324
+    "width": 405.0026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -246,20 +246,21 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2703d5b139aca6c0",
+  "active": "b8f3968853ca01bd",
   "lastOpenFiles": [
+    "Notes/User Datagram Protocol.md",
     "Excalibrain/excalibrain.md",
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Notes/Transmission Control Protocol.md",
+    "Notes/OSI Model/Transport.md",
+    "Notes/OSI Model/Network.md",
+    "Notes/OSI Model/OSI Model.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
     "Notes/Internet Protocol.md",
-    "Notes/Transmission Control Protocol.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/TCP.md",
-    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
-    "Notes/User Datagram Protocol.md",
     "--Attachments/Pasted image 20250320011242.png",
     "--Attachments/Pasted image 20250320011231.png",
     "Notes/Multiplexing and Demultiplexing.md",
@@ -270,12 +271,10 @@
     "Notes/Internet Control Message Protocol.md",
     "--Attachments/ICMP Header.png",
     "ICMP Header.png.md",
-    "Notes/OSI Model/Network.md",
     "Notes/Connection Pooling.md",
     "Dataviews/Draft Notes.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Network Interfaces, Instance IPs and DNS.md",
     "IP Packet.md",
-    "Notes/OSI Model/OSI Model.md",
     "Notes/YAML.md",
     "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Data Link/Jumbo Frames.md",
     "Notes/TCP-IP Model.md",
