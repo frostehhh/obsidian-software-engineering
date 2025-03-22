@@ -52,6 +52,7 @@
           {
             "id": "9593450a960d5ed9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -59,6 +60,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "HTTP2"
             }
@@ -254,10 +256,14 @@
   },
   "active": "9593450a960d5ed9",
   "lastOpenFiles": [
-    "Notes/Internet Control Message Protocol.md",
-    "Notes/Hypertext Transfer Protocol/HTTP2.md",
     "Excalibrain/excalibrain.md",
     "Notes/Hypertext Transfer Protocol/HTTP3.md",
+    "Notes/OSI Model/Data Link.md",
+    "Notes/OSI Model/Network.md",
+    "Notes/OSI Model/OSI Model.md",
+    "Notes/OSI Model/Transport.md",
+    "Notes/Hypertext Transfer Protocol/HTTP2.md",
+    "Notes/Internet Control Message Protocol.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/HTTP3.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
     "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
@@ -282,15 +288,11 @@
     "--Attachments/WebSocket.png",
     "--Attachments/WebSocket - Client Server RequestResponse.png",
     "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md",
-    "Notes/OSI Model/OSI Model.md",
     "Braindump",
     "Dataviews/Backend.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",
     "Notes/Stateless.md",
     "Notes/Synchronous.md",
-    "Notes/Stateful.md",
-    "Notes/Asynchronous.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/long-polling/node_modules/express/Readme.md",
     "--Attachments/HTTP2.png",
     "--Attachments/Pasted image 20250322024120.png",
     "--Attachments/HTTP Request Structure.png",

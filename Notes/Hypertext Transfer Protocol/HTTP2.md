@@ -27,7 +27,7 @@ next-version:: [[Notes/Hypertext Transfer Protocol/HTTP3|HTTP3]]
 - Compression(headers and data)
 	- HPACK for header compression[^2]
 # Cons
-- TCP Head of line blocking
+- TCP Head of line blocking - succeeding segments are ignored by server when there are missing preceding TCP segments
 - More resources required by server to process multiplexed connection. There is overhead of processing what stream a request is for
 - Server push not picked up due to issues
 # See Also

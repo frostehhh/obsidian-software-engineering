@@ -5,7 +5,7 @@
 	- TRUNK ports - connection between two 802.1Q capable devices. Carries all VIDs with TAGGING
 - Devices on different VLANs cannot communicate with each other without a [[Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/Network|Layer 3]] device(router)
 
-- VLANs allow to create separate [[Data Link|Layer 2]] network segments
+- VLANs allow to create separate [[Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Data Link/Data Link|Layer 2]] network segments
 - Isolated traffic isolation
 
 > [!info] 

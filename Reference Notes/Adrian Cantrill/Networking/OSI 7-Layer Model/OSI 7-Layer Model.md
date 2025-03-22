@@ -1,7 +1,7 @@
 The OSI 7-Layer [[Networking]] model consists of the following layers:
 1. Media Layer
 	1. [[Physical]] - hardware
-	2. [[Data Link]]
+	2. [[Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Data Link/Data Link]]
 	3. [[Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/Network]]
 2. Host
 	1. [[Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Transport/Transport]]
