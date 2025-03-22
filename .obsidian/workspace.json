@@ -278,17 +278,19 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f0d02a38743aa0f9",
+  "active": "a646f1a904749cc6",
   "lastOpenFiles": [
+    "Excalibrain/excalibrain.md",
+    "Notes/WebSockets.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/WebSockets.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
-    "Excalibrain/excalibrain.md",
-    "Notes/WebSockets.md",
     "Notes/Push.md",
     "Notes/Stateless.md",
     "Notes/Synchronous.md",
