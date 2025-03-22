@@ -82,17 +82,17 @@
             }
           },
           {
-            "id": "ea9e8c6615b00845",
+            "id": "6f75f83b6587543e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/WebSockets.md",
-                "mode": "source",
+                "file": "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WebSockets"
+              "title": "Hussein Nasser Fundamentals of backend braindump.excalidraw"
             }
           }
         ],
@@ -153,7 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352
+    "width": 335.0026054382324
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -263,7 +263,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 828
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,12 +284,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a646f1a904749cc6",
+  "active": "6f75f83b6587543e",
   "lastOpenFiles": [
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
+    "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/WebSockets.md",
+    "Notes/OSI Model/OSI Model.md",
+    "Braindump",
+    "Dataviews/Backend.md",
     "Excalibrain/excalibrain.md",
     "Notes/WebSockets.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/WebSockets.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
     "Notes/Push.md",
@@ -297,14 +303,11 @@
     "Notes/Stateful.md",
     "Notes/Asynchronous.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/HTTP 1.1.md",
-    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/long-polling/node_modules/express/Readme.md",
-    "Dataviews/Backend.md",
     "Notes/Internet Control Message Protocol.md",
     "IP Packet.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/Internet Protocol.md",
     "Notes/OSI Model/Network.md",
-    "Notes/OSI Model/OSI Model.md",
     "--Obsidian Template--/Frontmatter - Notes - Backend.md",
     "Notes/Internet Protocol.md",
     "Notes/Connection Pooling.md",
@@ -312,7 +315,6 @@
     "Notes/Multiplexing and Demultiplexing.md",
     "Notes/Request Response Model.md",
     "Dataviews/Draft Notes.md",
-    "Notes/RSA.md",
     "--Attachments/HTTP2.png",
     "--Attachments/Pasted image 20250322024120.png",
     "--Attachments/HTTP Request Structure.png",
@@ -329,7 +331,6 @@
     "--Attachments/youtube_f42a3r28wmu.a_en.en.vtt",
     "Reference Notes/Spring Documentation",
     "Reference Notes/Adrian Cantrill",
-    "Reference Notes/Andrej Karpathy",
     "Canvas/Untitled.canvas",
     "Untitled.canvas",
     "Canvas/canvas 2.canvas",
