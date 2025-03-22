@@ -3,5 +3,31 @@ tags:
   - notes
   - backend/communication
   - backend/networking
-Draft: true
+Draft: false
+Parent:: [[Hypertext Transfer Protocol|HTTP]]
+prev-version:: [[Hypertext Transfer Protocol#HTTP/1.1|HTTP]]
+next-version:: [[Notes/Hypertext Transfer Protocol/HTTP3|HTTP3]]
 ---
+
+# Purpose
+- Not an upgrade in a sense that 1.1 -> 2 is a must do
+- Primary motivation for HTTP/2 is for when a client needs many multiple requests to send to a server
+
+
+# Diagram
+![[Pasted image 20250322175949.png]]
+# Diagram with Push(deprecated)
+![[Pasted image 20250322180015.png]]
+# Pros
+- Multiplexing multiple requests into one connection. Each request is identified via a stream-id
+- Fast throughput of data traveling from client to server
+- Server push available
+- Secure by default
+	- On its own, it is not secure. However, browser implementations require usage of HTTP/2 over [[Notes/Transport Layer Security|TLS]]
+- Compression(headers and data)
+# Cons
+- TCP Head of line blocking
+- More resources required by server to process multiplexed connection. There is overhead of processing what stream a request is for
+- Server push not picked up due to issues
+# See Also
+https://kinsta.com/learn/what-is-http2/#:~:text=HTTP%2F2%20implementation%20addresses%20these,in%20previous%20client%2Dserver%20requests.

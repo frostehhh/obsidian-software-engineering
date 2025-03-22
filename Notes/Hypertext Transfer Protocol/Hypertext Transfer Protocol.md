@@ -38,6 +38,7 @@ HTTP Smuggling?
 # HTTP/2
 - Applies [[Notes/Multiplexing and Demultiplexing#Multiplexing|Multiplexing and Demultiplexing]]
 ![[HTTP2.png]]
+See [[Notes/Hypertext Transfer Protocol/HTTP2|HTTP2]]
 # HTTP/3
 - All features of [[#HTTP/2]]
 - Uses [[QUIC]](UDP with congestion control) instead of TCP
