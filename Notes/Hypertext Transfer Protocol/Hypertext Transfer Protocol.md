@@ -3,7 +3,7 @@ tags:
   - notes
   - backend/networking
   - backend/communication
-Draft: false
+Draft: true
 aliases:
   - HTTP
 related-reference-note:: [[HTTP 1.1]]
