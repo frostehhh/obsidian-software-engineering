@@ -56,13 +56,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Hypertext Transfer Protocol/HTTP2.md",
+                "file": "Notes/Hypertext Transfer Protocol/HTTP3.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "HTTP2"
+              "title": "HTTP3"
             }
           }
         ],
@@ -123,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.0026054382324
+    "width": 335.0026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -257,12 +258,12 @@
   "active": "9593450a960d5ed9",
   "lastOpenFiles": [
     "Excalibrain/excalibrain.md",
+    "Notes/Hypertext Transfer Protocol/HTTP2.md",
     "Notes/Hypertext Transfer Protocol/HTTP3.md",
     "Notes/OSI Model/Data Link.md",
     "Notes/OSI Model/Network.md",
     "Notes/OSI Model/OSI Model.md",
     "Notes/OSI Model/Transport.md",
-    "Notes/Hypertext Transfer Protocol/HTTP2.md",
     "Notes/Internet Control Message Protocol.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/HTTP3.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
