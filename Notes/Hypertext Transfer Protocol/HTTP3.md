@@ -3,9 +3,10 @@ tags:
   - notes
   - backend/communication
   - backend/networking
-Draft: true
+Draft: false
 "Parent:": "[[Hypertext Transfer Protocol]]"
-prev-version:: [[Notes/Hypertext Transfer Protocol/HTTP2|HTTP2]]
+"prev-version:":
+  - - Notes/Hypertext Transfer Protocol/HTTP2|HTTP2
 ---
 
 - HTTP/3 is an improvement over HTTP/2.

@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed3016ddd2ef8d29",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "IP-TCP-UDP-TLS+Slides"
-            }
-          },
-          {
             "id": "ea9b226fdfc3dde0",
             "type": "leaf",
             "pinned": true,
@@ -63,6 +49,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "gRPC"
+            }
+          },
+          {
+            "id": "c7d3147f7070ec64",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Web Real-time Communication.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Web Real-time Communication"
             }
           }
         ],
@@ -254,25 +256,29 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "315ef07117bb2ab2",
+  "active": "c7d3147f7070ec64",
   "lastOpenFiles": [
-    "--Attachments/gRPC Pros and Cons.png",
-    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Dataviews/Draft Notes.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/HTTP3.md",
+    "Notes/Hypertext Transfer Protocol/HTTP3.md",
+    "Notes/Web Real-time Communication.md",
+    "Notes/WebSockets.md",
+    "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
+    "Notes/gRPC.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/WebRTC.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
-    "Notes/gRPC.md",
+    "--Attachments/gRPC Pros and Cons.png",
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "Notes/Hypertext Transfer Protocol/HTTP2.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/gRPC.md",
     "Excalibrain/excalibrain.md",
-    "Notes/Hypertext Transfer Protocol/HTTP3.md",
     "--Attachments/Pasted image 20250322221133.png",
     "Notes/OSI Model/Data Link.md",
     "Notes/OSI Model/Network.md",
     "Notes/OSI Model/OSI Model.md",
     "Notes/OSI Model/Transport.md",
     "Notes/Internet Control Message Protocol.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/HTTP3.md",
-    "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/HTTP 1.1.md",
     "--Attachments/Pasted image 20250322180015.png",
     "--Attachments/Pasted image 20250322180006.png",
@@ -286,17 +292,13 @@
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/OSI Model.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/Internet Protocol.md",
     "Notes/Hypertext Transfer Protocol",
-    "Notes/Push.md",
-    "Notes/WebSockets.md",
     "--Attachments/WebSocket Handshake.png",
     "--Attachments/WebSocket.png",
     "--Attachments/WebSocket - Client Server RequestResponse.png",
-    "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md",
     "Braindump",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",
     "--Attachments/HTTP2.png",
     "--Attachments/Pasted image 20250322024120.png",
-    "--Attachments/HTTP Request Structure.png",
     "Untitled",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Postgres-Pipelining.pdf",
     "Notes/OSI Model",
