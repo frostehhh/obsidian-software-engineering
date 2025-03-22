@@ -23,11 +23,16 @@ next-version:: [[Notes/Hypertext Transfer Protocol/HTTP3|HTTP3]]
 - Fast throughput of data traveling from client to server
 - Server push available
 - Secure by default
-	- On its own, it is not secure. However, browser implementations require usage of HTTP/2 over [[Notes/Transport Layer Security|TLS]]
+	- On its own, it is not secure. However, browser implementations require usage of HTTP/2 over [[Notes/Transport Layer Security|TLS]][^1]
 - Compression(headers and data)
+	- HPACK for header compression[^2]
 # Cons
 - TCP Head of line blocking
 - More resources required by server to process multiplexed connection. There is overhead of processing what stream a request is for
 - Server push not picked up due to issues
 # See Also
 https://kinsta.com/learn/what-is-http2/#:~:text=HTTP%2F2%20implementation%20addresses%20these,in%20previous%20client%2Dserver%20requests.
+
+[^1]: https://en.wikipedia.org/wiki/HTTP/2#:~:text=Although%20the%20standard%20itself%20does,IE%2C%20Edge)%20have%20stated%20that
+
+[^2]: https://kinsta.com/learn/what-is-http2/#:~:text=HTTP%2F2%20implementation%20addresses%20these,in%20previous%20client%2Dserver%20requests.
