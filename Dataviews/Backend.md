@@ -8,7 +8,7 @@ TABLE tags
 
 # Communication
 ```dataview
-TABLE file.aliases, tags
+TABLE file.aliases as "Aliases", tags
  FROM #backend/communication   AND #notes
  SORT tags ASC
 ```
