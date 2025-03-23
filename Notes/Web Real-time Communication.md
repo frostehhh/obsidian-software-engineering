@@ -20,7 +20,25 @@ aliases: WebRTC
 
 
 STUN(Session Traversal Utilities for NAT)
+- Server
+- uses ICE?
 
 TURN(Traversal Using Relays around NAT)
+- TURN Server
+- Solution for clients/servers that use symmetric NAT
 
 ICE(Interactive Connectivity Establishment)
+- Explores possible connections?
+
+SDP(Session Description Protocol)
+- Offer a client sends to another client it wants to connect to
+
+SDP Signaling
+- Responsible for passing SDPs
+
+
+# Questions
+How do these components complement each other?
+
+# References
+https://www.youtube.com/watch?v=WmR9IMUD_CY
