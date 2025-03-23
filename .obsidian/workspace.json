@@ -36,37 +36,21 @@
             }
           },
           {
-            "id": "6c47ca188e4cc99a",
+            "id": "72539fc6c1190641",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Reading and Sending Socket Data.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Single Listener, Acceptor and Reader Thread Execution Pattern.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Reading and Sending Socket Data"
-            }
-          },
-          {
-            "id": "7491df97f090a881",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Network Socket.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Network Socket"
+              "title": "Single Listener, Acceptor and Reader Thread Execution Pattern"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:backend",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -123,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.0026054382324
+    "width": 682.0026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -139,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalibrain/excalibrain.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Single Listener, Acceptor and Reader Thread Execution Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for excalibrain"
+              "title": "Backlinks for Single Listener, Acceptor and Reader Thread Execution Pattern"
             }
           },
           {
@@ -226,7 +211,8 @@
               "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -288,21 +274,25 @@
       }
     ]
   },
-  "active": "a7ccb85047c53f1e",
+  "active": "72539fc6c1190641",
   "lastOpenFiles": [
+    "Excalibrain/excalibrain.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/The Listener, the Acceptor and the Reader.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Single Listener, Acceptor and Reader Thread Execution Pattern.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Single Listener, Acceptor, Reader and Message Load Balancing Execution Pattern.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Single Listener, Acceptor and Multiple Readers Thread Execution Pattern.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Reading and Sending Socket Data.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/How The Backend Accepts Connections.md",
+    "--Attachments/Pasted image 20250323221528.png",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
+    "--Attachments/Pasted image 20250323221516.png",
+    "--Attachments/Pasted image 20250323221502.png",
     "Notes/Network Socket.md",
     "Notes/Internet Protocol.md",
     "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/How The Backend Accepts Connections.md",
     "Notes/Network Interface.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Reading and Sending Socket Data.md",
     "Dataviews/Draft Notes.md",
     "Notes/WebSockets.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Single Listener, Acceptor, Reader and Message Load Balancing Execution Pattern.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Single Listener, Acceptor and Multiple Readers Thread Execution Pattern.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Single Listener, Acceptor and Reader Thread Execution Pattern.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/The Listener, the Acceptor and the Reader.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 4 - Many ways to HTTPS/HTTPS Communication Basics Intro.md",
     "Notes/Transport Layer Security/TLS 1.2.md",
     "Notes/IP Packet.md",
@@ -314,25 +304,20 @@
     "--Attachments/War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020PT16.489S.webp",
     "--Attachments/Transmission Control Protocol 3-way handshake.excalidraw.md",
     "--Attachments/Transmission Control Protocol 2025-03-21 18.44.11.excalidraw.md",
-    "Excalibrain/excalibrain.md",
     "Notes/Process and Thread Patterns.md",
     "Notes/Thread.md",
     "Notes/Process.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/The Process and the Thread and how they compete for CPU time.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 4 - Many ways to HTTPS/HTTPS over TCP with TLS 1.3 and 0RTT.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Introduction.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns",
     "--Attachments/Pasted image 20250323173617.png",
     "--Attachments/Pasted image 20250323173529.png",
     "--Attachments/Pasted image 20250323171913.png",
-    "--Attachments/Pasted image 20250323171836.png",
-    "--Attachments/Pasted image 20250323171642.png",
     "Notes/Transport Layer Security",
     "Untitled",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 4 - Many ways to HTTPS",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/asynchronous-replication-postgres.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
-    "--Attachments/gRPC Pros and Cons.png",
     "Notes/Hypertext Transfer Protocol",
     "Braindump",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",
