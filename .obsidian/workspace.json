@@ -51,7 +51,8 @@
               "title": "How The Backend Accepts Connections"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -236,10 +237,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ea9b226fdfc3dde0",
+  "active": "786c5d2019791ba8",
   "lastOpenFiles": [
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/How The Backend Accepts Connections.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/How The Backend Accepts Connections.md",
     "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "--Attachments/WebSocket.png",
     "--Attachments/WebSocket - Client Server RequestResponse.png",

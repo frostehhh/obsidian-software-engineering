@@ -16,3 +16,7 @@ Draft: true
 7. Server Kernel receives the SYN, removes the SYN from the SYN queue and then adds an entry to the accept queue
 8. Server Backend completes the connection and removes it from the accept queue
 9. A file descriptor is created for the connection
+
+# Problems with accepting connections
+Backend is slow
+SYN flooding - when clients send SYN but don't ACK
