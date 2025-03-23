@@ -36,19 +36,17 @@
             }
           },
           {
-            "id": "72539fc6c1190641",
+            "id": "0d035c71d8eb2c02",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Listener, Acceptor and Readers Execution Patterns.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/How The Backend Accepts Connections.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Listener, Acceptor and Readers Execution Patterns"
+              "title": "How The Backend Accepts Connections"
             }
           }
         ],
@@ -109,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 682.0026054382324,
-    "collapsed": true
+    "width": 682.0026054382324
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -126,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Listener, Acceptor and Readers Execution Patterns.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/How The Backend Accepts Connections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +133,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Listener, Acceptor and Readers Execution Patterns"
+              "title": "Backlinks for How The Backend Accepts Connections"
             }
           },
           {
@@ -276,23 +273,36 @@
       }
     ]
   },
-  "active": "72539fc6c1190641",
+  "active": "0d035c71d8eb2c02",
   "lastOpenFiles": [
-    "--Attachments/Pasted image 20250323230156.png",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Backend Indempotency.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/How The Backend Accepts Connections.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Listener, Acceptor and Readers Execution Patterns.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Nagle's Algorithm.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Reading and Sending Socket Data.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Introduction.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 4 - Many ways to HTTPS/HTTPS over QUIC (HTTP3).md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 4 - Many ways to HTTPS/HTTPS over TCP with TLS 1.2.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 4 - Many ways to HTTPS/HTTPS over TCP with TLS 1.3 and 0RTT.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 4 - Many ways to HTTPS/HTTPS over TCP with TLS 1.3.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 4 - Many ways to HTTPS/HTTPS over QUIC with 0RTT.md",
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "--Attachments/Pasted image 20250323232437.png",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
+    "--Attachments/Pasted image 20250323232426.png",
+    "--Attachments/Pasted image 20250323231929.png",
+    "--Attachments/Pasted image 20250323231313.png",
+    "--Attachments/Pasted image 20250323230359.png",
+    "--Attachments/Pasted image 20250323230156.png",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Single Listener, Acceptor, Reader and Message Load Balancing Execution Pattern.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Single Listener, Acceptor and Reader Thread Execution Pattern.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/The Listener, the Acceptor and the Reader.md",
     "Excalibrain/excalibrain.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Reading and Sending Socket Data.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/How The Backend Accepts Connections.md",
     "--Attachments/Pasted image 20250323221528.png",
     "--Attachments/Pasted image 20250323221516.png",
     "--Attachments/Pasted image 20250323221502.png",
     "Notes/Network Socket.md",
     "Notes/Internet Protocol.md",
-    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "Notes/Network Interface.md",
     "Dataviews/Draft Notes.md",
     "Notes/WebSockets.md",
@@ -301,21 +311,8 @@
     "Notes/IP Packet.md",
     "Dataviews/Backend.md",
     "--Attachments/WebSocket.png",
-    "--Attachments/WebSocket - Client Server RequestResponse.png",
     "--Attachments/Transport Layer Security 2025-03-22 00.07.53.excalidraw.md",
-    "--Attachments/War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020PT0.933S.webp",
-    "--Attachments/War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020PT16.489S.webp",
-    "--Attachments/Transmission Control Protocol 3-way handshake.excalidraw.md",
-    "--Attachments/Transmission Control Protocol 2025-03-21 18.44.11.excalidraw.md",
-    "Notes/Process and Thread Patterns.md",
-    "Notes/Thread.md",
-    "Notes/Process.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/The Process and the Thread and how they compete for CPU time.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 4 - Many ways to HTTPS/HTTPS over TCP with TLS 1.3 and 0RTT.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns",
-    "--Attachments/Pasted image 20250323173617.png",
-    "--Attachments/Pasted image 20250323173529.png",
-    "--Attachments/Pasted image 20250323171913.png",
     "Notes/Transport Layer Security",
     "Untitled",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 4 - Many ways to HTTPS",
