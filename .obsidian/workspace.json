@@ -34,47 +34,9 @@
               "icon": "excalidraw-icon",
               "title": "Fundamentals Mindmap"
             }
-          },
-          {
-            "id": "c7d3147f7070ec64",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Web Real-time Communication.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Web Real-time Communication"
-            }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "c29c681447f76504",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "06ca4f16415ef0a7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Network Address Translation.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Network Address Translation"
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:backend",
+                "query": "duplex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.0026054382324,
-    "collapsed": true
+    "width": 335.0026054382324
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -237,13 +198,23 @@
               "icon": "excalidraw-icon",
               "title": "excalibrain"
             }
+          },
+          {
+            "id": "41874f675ef48c26",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 812,
+    "width": 325,
     "collapsed": true
   },
   "left-ribbon": {
@@ -264,14 +235,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "06ca4f16415ef0a7",
+  "active": "1ba925126411cbf2",
   "lastOpenFiles": [
+    "Notes/WebSockets.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
     "Notes/Web Real-time Communication.md",
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "Notes/Network Address Translation.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/_note_Udemy - Fundamentals of Backend Engineering.md",
     "--Attachments/Web Real-time Communication 2025-03-23 15.07.41.excalidraw.md",
-    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
     "Notes/gRPC.md",
     "Excalibrain/excalibrain.md",
     "Notes/Push.md",
@@ -292,8 +264,6 @@
     "Notes/OSI Model/Transport.md",
     "Notes/OSI Model/Data Link.md",
     "Dataviews/Backend.md",
-    "Notes/Internet Protocol.md",
-    "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
     "--Attachments/gRPC Pros and Cons.png",
     "--Attachments/Pasted image 20250322221133.png",

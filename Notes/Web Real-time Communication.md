@@ -3,43 +3,42 @@ tags:
   - notes
   - backend/communication
   - backend/networking
-Draft: true
+Draft: false
 related-reference-note:: [[WebRTC]]
 aliases: WebRTC
 ---
 
 # WebRTC
 - protocol helps in finding best route for communication. Shortest path through the internet
+# Usecases
+- Peer-to-peer connection
+- Video call
+- Voice call
+- Streaming
+- Online Gaming
 
 ![[Notes/Network Address Translation#Network Address Translation|Network Address Translation]]
 
-## Types
-- One to One NAT
-- Address Restricted NAT
-- Port Restricted NAT
-- Symmetric NAT
-
-
-STUN(Session Traversal Utilities for NAT)
+# Session Traversal Utilities For NAT(STUN)
 - Server
-- uses ICE?
-- Helps peers
+- uses ICE
+- Helps peers connect to each other
 
-TURN(Traversal Using Relays around NAT)
+# Traversal Using Relays around NAT(TURN)
 - TURN Server
 - Solution for clients/servers that use symmetric NAT
 
-ICE(Interactive Connectivity Establishment)
-- Explores possible connections?
-- To find the best communication path
+# Interactive Connectivity Establishment(ICE)
+- Explores possible connections to find the best communication path
 - Framework
 
-SDP(Session Description Protocol)
-- Offer a client sends to another client it wants to connect to
+# Session Description Protocol(SDP)
+- It is an "Offer" a client sends to another client it wants to connect to
 - Contains information gathered from ICE. Connection candidates
+- Contains other relevant information
 
-SDP Signaling
-- Responsible for passing SDPs
+# SDP Signaling
+- Responsible for passing SDPs between 2 clients
 - Responsibility can be passed to a server
 
 # How WebRTC and underlying components work with each other to establish a connection between 2 peers
