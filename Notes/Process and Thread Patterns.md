@@ -3,11 +3,10 @@ tags:
   - notes
   - operating-system
 Draft: false
-related-reference-note:: d
-
-"Parent:":
-
-
+related-reference-note:: "[[The Process and the Thread and how they compete for CPU time]]"
+Parent:: 
+  - "[[Process]]"
+  - "[[Thread]]"
 ---
 
 ## Single-Threaded Process
@@ -24,4 +23,4 @@ related-reference-note:: d
 - A single process contains multiple threads sharing the same memory
 - There can be race conditions among the threads(competing)
 - Example: SQL
-	- **Locks and Latches issue**. There is
+	- **Locks and Latches issue**. There is an issue with SQL 

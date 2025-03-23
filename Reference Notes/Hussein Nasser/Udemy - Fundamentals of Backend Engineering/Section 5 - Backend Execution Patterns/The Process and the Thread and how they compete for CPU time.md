@@ -3,7 +3,7 @@ tags:
   - reference-notes
   - backend
   - operating-system
-Draft: true
+Draft: false
 ---
 
 ![[Process]]
