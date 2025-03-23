@@ -51,8 +51,7 @@
               "title": "How The Backend Accepts Connections"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,8 +236,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "786c5d2019791ba8",
+  "active": "ea9b226fdfc3dde0",
   "lastOpenFiles": [
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/How The Backend Accepts Connections.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
     "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "--Attachments/WebSocket.png",
@@ -248,7 +248,6 @@
     "--Attachments/War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020PT16.489S.webp",
     "--Attachments/Transmission Control Protocol 3-way handshake.excalidraw.md",
     "--Attachments/Transmission Control Protocol 2025-03-21 18.44.11.excalidraw.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/How The Backend Accepts Connections.md",
     "Excalibrain/excalibrain.md",
     "Notes/Process and Thread Patterns.md",
     "Notes/Thread.md",
