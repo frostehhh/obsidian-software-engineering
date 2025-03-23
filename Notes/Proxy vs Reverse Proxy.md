@@ -2,10 +2,10 @@
 tags:
   - notes
   - backend
-Draft: true
+Draft: false
 related-reference-note:: 
 - "[[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 6 - Proxying and Load Balancing/Proxy vs Reverse Proxy|Proxy vs Reverse Proxy]]"
-- "[[rev]]"
+- "[[Reverse proxy]]"
 ---
 
 # Proxy
@@ -21,7 +21,7 @@ Middleman for clients to communicate with servers
 Middleman for server communication
 
 ## Purposes
-- Caching
+- Caching - CDNs
 - Microservices
 - Load balancing
 - Ingress
