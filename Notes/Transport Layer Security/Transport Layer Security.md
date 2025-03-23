@@ -33,6 +33,8 @@ The flow goes as follows(uses Diffie-Hellman Algorithm):
 
 ![[Pasted image 20250323171642.png]]
 
+## With 0RTT
+![[Pasted image 20250323173529.png]]
 # References
 https://www.thesslstore.com/blog/tls-1-3-handshake-tls-1-2/
 ![[TLS#References]]

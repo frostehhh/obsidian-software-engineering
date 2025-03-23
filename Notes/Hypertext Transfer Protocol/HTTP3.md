@@ -33,3 +33,6 @@ Head-of-line blocking and reliance of in-order segments to be sent due to TCP be
 # HTTPS with QUIC
 ![[Pasted image 20250323171913.png]]
 HTTPS is implemented as part of the connection establishment
+
+## With 0RTT
+![[Pasted image 20250323173617.png]]
