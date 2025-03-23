@@ -6,8 +6,7 @@ tags:
 Draft: false
 aliases:
   - HTTP
-"related-reference-note:":
-  - - HTTP 1.1
+"related-reference-note:": "[[HTTP 1.1]]"
 ---
 
 # HTTP/1.0

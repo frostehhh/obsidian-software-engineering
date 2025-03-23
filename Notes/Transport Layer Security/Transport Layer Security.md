@@ -3,10 +3,12 @@ tags:
   - notes
   - backend/communication
   - backend/networking
+  - backend/security
 Draft: false
 aliases:
   - TLS
-related-reference-note:: [[TLS]]
+"related-reference-note:":
+  - - TLS
 ---
 
 # Transport Layer Security
@@ -28,6 +30,8 @@ The flow goes as follows(uses Diffie-Hellman Algorithm):
 6. The server returns as a response the server private key encrypted via the public key
 7. The client received the response from the server and encrypts the received key with the client private key.
 8. Both the client and the server obtain a copy of a symmetric key.
+
+![[Pasted image 20250323171642.png]]
 
 # References
 https://www.thesslstore.com/blog/tls-1-3-handshake-tls-1-2/

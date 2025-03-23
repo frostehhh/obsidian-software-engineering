@@ -5,8 +5,7 @@ tags:
   - backend/networking
 Draft: false
 "Parent:": "[[Hypertext Transfer Protocol]]"
-"prev-version:":
-  - - Notes/Hypertext Transfer Protocol/HTTP2|HTTP2
+"prev-version:": "[[Notes/Hypertext Transfer Protocol/HTTP2|HTTP2]]"
 ---
 
 - HTTP/3 is an improvement over HTTP/2.
@@ -30,3 +29,7 @@ Head-of-line blocking and reliance of in-order segments to be sent due to TCP be
 - Requires more CPU resources
 - UDP could be blocked
 - IP Fragmentation could break this
+
+# HTTPS with QUIC
+![[Pasted image 20250323171913.png]]
+HTTPS is implemented as part of the connection establishment

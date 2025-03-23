@@ -4,9 +4,9 @@ tags:
   - backend/communication
   - backend/networking
 Draft: false
-Parent:: [[Hypertext Transfer Protocol|HTTP]]
-prev-version:: [[Hypertext Transfer Protocol#HTTP/1.1|HTTP]]
-next-version:: [[Notes/Hypertext Transfer Protocol/HTTP3|HTTP3]]
+"Parent:": "[[Hypertext Transfer Protocol]]"
+"prev-version:": 
+"next-version:": "[[Notes/Hypertext Transfer Protocol/HTTP3|HTTP3]]"
 ---
 
 # Purpose
