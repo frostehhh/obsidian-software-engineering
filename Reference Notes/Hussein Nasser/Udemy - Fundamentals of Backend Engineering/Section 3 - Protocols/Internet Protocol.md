@@ -12,7 +12,7 @@ Draft: false
 0:00 Internet Protocol
 19:23 IP Packet
 
-See [[Notes/Internet Protocol]], [[IP Packet]], [[Internet Control Message Protocol|ICMP]]
+See [[Notes/Internet Protocol]], [[Notes/IP Packet]], [[Internet Control Message Protocol|ICMP]]
 
 # Reference
 [[IP-TCP-UDP-TLS+Slides.pdf]]

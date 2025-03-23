@@ -9,7 +9,7 @@ Draft: false
   - - Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/Internet Protocol|Internet Protocol
 ---
 # Internet Protocol
-This is a protocol responsible for routing and addressing [[IP Packet]]
+This is a protocol responsible for routing and addressing [[Notes/IP Packet]]
 # IP Address
 - Layer 3 property
 - Can be set automatically or statically

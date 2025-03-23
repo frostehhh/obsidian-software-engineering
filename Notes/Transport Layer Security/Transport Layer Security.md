@@ -12,10 +12,7 @@ related-reference-note:: [[TLS]]
 # Transport Layer Security
 TLS is a protocol for a client and a server to agree to use a symmetric key to encrypt data sent between each other. Prior to data communication, a handshake is performed with asymmetric keys to acquire the symmetric key to be used.
 
-# TLS 1.2
-Uses [[RSA]]
-- Flawed due to forward secrecy vulnerability
-- 2 round trip handshake
+![[TLS 1.2]]
 
 
 ![[Diffie-Hellman Algorithm#Diffie-Hellman Algorithm]]

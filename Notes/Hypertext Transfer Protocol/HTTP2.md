@@ -23,7 +23,7 @@ next-version:: [[Notes/Hypertext Transfer Protocol/HTTP3|HTTP3]]
 - Fast throughput of data traveling from client to server
 - Server push available
 - Secure by default
-	- On its own, it is not secure. However, browser implementations require usage of HTTP/2 over [[Notes/Transport Layer Security|TLS]][^1]
+	- On its own, it is not secure. However, browser implementations require usage of HTTP/2 over [[Notes/Transport Layer Security/Transport Layer Security|TLS]][^1]
 - Compression(headers and data)
 	- HPACK for header compression[^2]
 # Cons
