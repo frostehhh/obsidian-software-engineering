@@ -7,7 +7,7 @@ aliases: [Layer 3]
 - Routers (L3) decides, remove frame encapsulation and add new frame encapsulation at every hop
 - Adds [[Route Table & Routes]]
 - Adds [[Address Resolution Protocol|ARP]]
-- Can utilize [[Network Address Translation|NAT]]
+- Can utilize [[Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/Network Address Translation/Network Address Translation|NAT]]
 
 ### Example
 
