@@ -3,8 +3,9 @@ tags:
   - notes
   - backend/networking
   - backend/communication
-Draft: true
-Parent:: [[Notes/Internet Protocol|Internet Protocol]]
+Draft: false
+"Parent:":
+  - - Notes/Internet Protocol|Internet Protocol
 ---
 - IP Packet contains importantly the following
 	- Header - Max 480 bits

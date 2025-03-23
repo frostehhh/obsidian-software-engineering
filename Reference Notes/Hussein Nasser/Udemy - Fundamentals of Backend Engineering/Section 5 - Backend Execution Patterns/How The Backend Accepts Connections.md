@@ -3,11 +3,12 @@ tags:
   - reference-notes
   - backend
   - backend/communication
-Draft: true
+Draft: false
 ---
 
 # How the Backend Accepts Connections
 1. Server's Kernel creates a socket for handling connections and SYN queue and an Accept queue
+
 2. Client sends a SYN to the server
 3. Server adds to a SYN queue
 4. Server sends back a SYN/ACK
