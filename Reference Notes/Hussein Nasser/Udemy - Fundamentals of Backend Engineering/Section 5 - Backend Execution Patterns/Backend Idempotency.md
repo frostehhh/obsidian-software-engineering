@@ -5,4 +5,4 @@ tags:
 Draft: false
 ---
 
-See [[Notes/Nagle's Algorithm|Nagle's Algorithm]]
+See [[Notes/Backend Idempotency|Backend Idempotency]]

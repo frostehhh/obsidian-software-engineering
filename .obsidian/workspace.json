@@ -36,17 +36,19 @@
             }
           },
           {
-            "id": "0d035c71d8eb2c02",
+            "id": "71f9e257cb663d5d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/How The Backend Accepts Connections.md",
+                "file": "Notes/Nagle's Algorithm.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "How The Backend Accepts Connections"
+              "title": "Nagle's Algorithm"
             }
           }
         ],
@@ -123,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/How The Backend Accepts Connections.md",
+                "file": "Notes/Nagle's Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +135,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for How The Backend Accepts Connections"
+              "title": "Backlinks for Nagle's Algorithm"
             }
           },
           {
@@ -273,22 +275,28 @@
       }
     ]
   },
-  "active": "0d035c71d8eb2c02",
+  "active": "71f9e257cb663d5d",
   "lastOpenFiles": [
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Backend Indempotency.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/How The Backend Accepts Connections.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Listener, Acceptor and Readers Execution Patterns.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Nagle's Algorithm.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Reading and Sending Socket Data.md",
+    "Notes/Nagle's Algorithm.md",
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Listener, Acceptor and Readers Execution Patterns.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Backend Idempotency.md",
+    "Notes/Backend Idempotency.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Introduction.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/How The Backend Accepts Connections.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/The Process and the Thread and how they compete for CPU time.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/The Listener, the Acceptor and the Reader.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Reading and Sending Socket Data.md",
+    "Notes/Listener, Acceptor and Readers Execution Patterns.md",
+    "Notes/The Listener, the Acceptor and the Reader.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 4 - Many ways to HTTPS/HTTPS over QUIC (HTTP3).md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 4 - Many ways to HTTPS/HTTPS over TCP with TLS 1.2.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 4 - Many ways to HTTPS/HTTPS over TCP with TLS 1.3 and 0RTT.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 4 - Many ways to HTTPS/HTTPS over TCP with TLS 1.3.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 4 - Many ways to HTTPS/HTTPS over QUIC with 0RTT.md",
-    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "--Attachments/Pasted image 20250323232437.png",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
     "--Attachments/Pasted image 20250323232426.png",
     "--Attachments/Pasted image 20250323231929.png",
     "--Attachments/Pasted image 20250323231313.png",
@@ -296,7 +304,6 @@
     "--Attachments/Pasted image 20250323230156.png",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Single Listener, Acceptor, Reader and Message Load Balancing Execution Pattern.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Single Listener, Acceptor and Reader Thread Execution Pattern.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/The Listener, the Acceptor and the Reader.md",
     "Excalibrain/excalibrain.md",
     "--Attachments/Pasted image 20250323221528.png",
     "--Attachments/Pasted image 20250323221516.png",
@@ -306,12 +313,7 @@
     "Notes/Network Interface.md",
     "Dataviews/Draft Notes.md",
     "Notes/WebSockets.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 4 - Many ways to HTTPS/HTTPS Communication Basics Intro.md",
-    "Notes/Transport Layer Security/TLS 1.2.md",
-    "Notes/IP Packet.md",
-    "Dataviews/Backend.md",
     "--Attachments/WebSocket.png",
-    "--Attachments/Transport Layer Security 2025-03-22 00.07.53.excalidraw.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns",
     "Notes/Transport Layer Security",
     "Untitled",
