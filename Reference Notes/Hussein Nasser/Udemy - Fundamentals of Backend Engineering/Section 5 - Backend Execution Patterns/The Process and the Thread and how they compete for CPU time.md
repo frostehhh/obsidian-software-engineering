@@ -2,7 +2,13 @@
 tags:
   - reference-notes
   - backend
+  - operating-system
 Draft: true
 ---
 
-# Process vs Thread
+![[Process]]
+
+
+![[Thread]]
+
+![[Process and Thread Patterns]]
