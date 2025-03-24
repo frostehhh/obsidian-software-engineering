@@ -10,7 +10,7 @@ aliases:
 
 **[[Secure Sockets Layer|SSL]] and [[Reference Notes/Adrian Cantrill/Cybersecurity/SSL and TLS/Transport Layer Security|TLS]] both provide**
 - Privacy and Data Integrity between client and server
-- Privacy - communications are encrypted. See also [[Reference Notes/Adrian Cantrill/Cybersecurity/Encryption/Encryption]]
+- Privacy - communications are encrypted. See also [[Notes/Encryption]]
 - Identity (server or client/server) verified
 - Reliable connection - protect against alteration
 

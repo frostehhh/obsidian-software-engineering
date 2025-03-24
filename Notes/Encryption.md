@@ -1,8 +1,10 @@
 ---
-Draft: false
+Draft: true
 tags:
-  - reference-notes
+  - notes
   - backend/security
+related-reference-note:: 
+- "[[Reference Notes/Adrian Cantrill/Cybersecurity/Encryption/Encryption|Encryption]]"
 ---
 
 ###### Encryption Approaches

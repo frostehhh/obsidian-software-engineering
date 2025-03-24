@@ -1,3 +1,3 @@
-[[Reference Notes/Adrian Cantrill/Cybersecurity/Encryption/Encryption|Encryption]]
+[[Notes/Encryption|Encryption]]
 [[Steganography]]
 [[Envelope Encryption]]

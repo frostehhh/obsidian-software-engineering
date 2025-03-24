@@ -50,9 +50,21 @@
               "icon": "lucide-file",
               "title": "JSON Web Token"
             }
+          },
+          {
+            "id": "2a479543c2208116",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Reference Notes/Adrian Cantrill/Cybersecurity/Images/Pasted image 20230107213156.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20230107213156"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -72,7 +84,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -84,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "# Questions",
+                "query": "encryption",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -275,12 +287,22 @@
       }
     ]
   },
-  "active": "873de2cf7760cee0",
+  "active": "2a479543c2208116",
   "lastOpenFiles": [
+    "Reference Notes/Adrian Cantrill/Cybersecurity/Images/Pasted image 20230107204232.png",
+    "Reference Notes/Adrian Cantrill/Cybersecurity/Encryption/Steganography.md",
+    "Reference Notes/Adrian Cantrill/Cybersecurity/Encryption/Types of Encryption/Asymmetric Encryption.md",
+    "Reference Notes/Adrian Cantrill/Cybersecurity/Encryption/Types of Encryption/Symmetric Encryption.md",
+    "Reference Notes/Adrian Cantrill/Cybersecurity/Encryption/--Table of Contents--.md",
+    "Reference Notes/Adrian Cantrill/Cybersecurity/Encryption/Envelope Encryption.md",
+    "Reference Notes/Adrian Cantrill/Cybersecurity/Encryption/Encryption.md",
+    "Notes/Encryption.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 7 - Extras/JSON Web Token.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Storage Service/Encryption.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Encryption.md",
     "Dataviews/Draft Notes.md",
     "Dataviews/Backend.md",
     "Dataviews/Has Questions.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 7 - Extras/JSON Web Token.md",
     "--Properties/knowledge-confidence-level.md",
     "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "Notes/HTTP Cookies.md",
@@ -295,8 +317,6 @@
     "Notes/JSON Web Token.md",
     "--Attachments/Session-based Authentication 2025-03-24 20.15.27.excalidraw.md",
     "--Attachments/Stateful Backend.png",
-    "Excalibrain/excalibrain.md",
-    "Notes/Session-based Authentication.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/rabbitMQ-pushAPI.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Postgres-Pipelining.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/kernel+queues.pdf",
@@ -306,14 +326,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 6 - Proxying and Load Balancing/Layer 4 vs Layer 7 Load Balancers.md",
-    "Notes/Layer 4 vs Layer 7 Load Balancers.md",
-    "Reference Notes/Github - donnemartin system-design-primer/Reverse proxy.md",
-    "Notes/Proxy vs Reverse Proxy.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Relational Database Service/Proxy.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 6 - Proxying and Load Balancing/Proxy vs Reverse Proxy.md",
-    "Notes/Nagle's Algorithm.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 7 - Extras/SELECT COUNT ALL can impact your Backend Application performance and here's why.md",
     "--Attachments/Pasted image 20250323232437.png",
     "--Attachments/Pasted image 20250323232426.png",
     "--Attachments/Pasted image 20250323231929.png",
