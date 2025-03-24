@@ -27,6 +27,9 @@ This token makes it so that we can expire the token every x interval. When this 
 	- On successful refresh, the refresh token may also be updated
 
 # JWT Secret Sharing
+When all services need to share the same symmetric key for auth, it can be dangerous when an attacker steals this via secret sharing.
+
+# Asymmetric JWT
 
 # Questions
 Where does the client store the token/s? 
