@@ -17,11 +17,24 @@ knowledge-confidence-level:
 - Each service should have access to the same symmetric key for decryption and encryption.
 ## Pros
 - Simple
+- Stateless backend
+- Secure
+- Great for APIs
+- Carry useful info
+- Can store info that derive UX
+- No need for centralized database
 ## Cons
 - When the token gets stolen, there is nothing that can be done to revoke the authentication token and prevent the bad actor to keep using the token.
-
+- Key management
+- Secret sharing in microservices
+- Very tricky to consume correctly
+- Storage of refresh tokens
+- Token revocation and control
+- insecure implementation
 ## Refresh Token
-This token makes it so that we can expire the token every x interval. When this token exists, the access token includes the expiration datetime in itself. The refresh token also has an expiration datetime but it is valid for a longer period.
+- This token makes it so that we can expire the token every x interval.
+- When this token exists, the access token includes the expiration datetime in itself.
+- The refresh token also has an expiration datetime but it is valid for a longer period.
 
 ## Flow with Refresh Token
 1. User sends a POST request to login successfully
