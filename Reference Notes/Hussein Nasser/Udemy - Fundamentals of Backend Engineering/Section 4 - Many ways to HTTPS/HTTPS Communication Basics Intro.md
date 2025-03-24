@@ -1,8 +1,8 @@
 ---
 tags:
   - reference-notes
-  - backend/networking
-  - backend/security
+  - networking
+  - security
   - backend/communication
 Draft: false
 ---

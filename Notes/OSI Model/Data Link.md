@@ -2,7 +2,7 @@
 tags:
   - backend
   - backend/communication
-  - backend/networking
+  - networking
 aliases:
   - OSI Model - Layer 2
 Draft: false

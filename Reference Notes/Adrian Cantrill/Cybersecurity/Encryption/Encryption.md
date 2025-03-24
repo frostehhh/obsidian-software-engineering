@@ -2,7 +2,7 @@
 Draft: false
 tags:
   - reference-notes
-  - backend/security
+  - security
 ---
 
 ###### Encryption Approaches

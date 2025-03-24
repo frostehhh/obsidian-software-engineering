@@ -2,11 +2,13 @@
 Draft: true
 tags:
   - notes
-  - backend/security
+  - security
 related-reference-note:: 
 - "[[Reference Notes/Adrian Cantrill/Cybersecurity/Encryption/Encryption|Encryption]]"
 ---
-
+- Two-way conversion of plain text to a ciphertext. 
+- Ciphertext can be converted back to plain text
+- It is like hiding data in plain sight
 ###### Encryption Approaches
 1. Encryption At Rest
 2. Encryption In Transit

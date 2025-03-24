@@ -1,15 +1,13 @@
 ---
 tags:
 - security
-- reference-notes
+- notes
+related-reference-note:: 
+- "[[Reference Notes/Adrian Cantrill/Cybersecurity/Hashing/Hashing|Hashing]]"
 ---
-
-- Hashing is a process where we use an algorithm to transform data into a fixed length representation of that data
-- Used by passwords, digital certificates, etc.
-- Can't get the original data from a HASH
-- same data should always result to the same hash
-- different data should always have different hash
-- downloaded data can be verified by using a hash
+- One-way conversion of plaintext to another presentation
+- Impossible to get the original plaintext from a hash
+- Used for data verification
 
 # Algorithms
 - MD5

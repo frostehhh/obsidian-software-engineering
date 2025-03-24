@@ -1,7 +1,7 @@
 ---
 tags:
   - notes
-  - backend/security/authentication
+  - security/authentication
 Draft: false
 "related-reference-note:":
   - "[[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 7 - Extras/JSON Web Token]]"

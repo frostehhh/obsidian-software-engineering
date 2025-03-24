@@ -1,7 +1,7 @@
 ---
 tags:
   - notes
-  - backend/networking
+  - networking
 Draft: false
 related-reference-note:: [[Request Response]]
 ---

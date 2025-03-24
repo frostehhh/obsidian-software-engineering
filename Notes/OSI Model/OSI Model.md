@@ -1,7 +1,7 @@
 ---
 tags:
   - notes
-  - backend/networking
+  - networking
   - backend/communication
 Draft: false
 aliases:

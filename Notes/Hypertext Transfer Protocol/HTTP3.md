@@ -2,7 +2,7 @@
 tags:
   - notes
   - backend/communication
-  - backend/networking
+  - networking
 Draft: false
 "Parent:": "[[Hypertext Transfer Protocol]]"
 "prev-version:": "[[Notes/Hypertext Transfer Protocol/HTTP2|HTTP2]]"

@@ -1,7 +1,7 @@
 ---
 tags:
   - reference-notes
-  - backend/security/authentication
+  - security/authentication
 Draft: true
 "related:":
   - "[[HTTP Cookies]]"

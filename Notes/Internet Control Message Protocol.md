@@ -3,7 +3,7 @@ aliases:
   - ICMP
 tags:
   - backend/communication
-  - backend/networking
+  - networking
   - notes
 Draft: false
 "related-reference-note:":

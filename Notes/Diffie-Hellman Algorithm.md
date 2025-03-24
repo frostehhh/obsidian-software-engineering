@@ -1,7 +1,7 @@
 ---
 tags:
   - notes
-  - backend/security
+  - security
   - cryptography
 Draft: false
 ---

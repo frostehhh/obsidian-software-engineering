@@ -1,3 +1,11 @@
+---
+tags:
+  - reference-notes
+  - security
+Draft: false
+---
+
+
 ![[Pasted image 20230107204232.png]]
 
 

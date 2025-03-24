@@ -2,7 +2,7 @@
 tags:
   - reference-notes
   - backend/communication
-  - backend/networking
+  - networking
 Draft: false
 ---
 See [[Notes/Transport Layer Security/Transport Layer Security|TLS]]

@@ -240,7 +240,6 @@
     "prev-version": {}
   },
   "navigationHistory": [
-    "Notes/Multiplexing and Demultiplexing.md",
     "Notes/User Datagram Protocol.md",
     "Notes/Transmission Control Protocol.md",
     "Notes/OSI Model/Transport.md",
@@ -289,7 +288,8 @@
     "Notes/Process.md",
     "Notes/Thread.md",
     "Notes/Process and Thread Patterns.md",
-    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md"
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Notes/Digital Signatures.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "--p",

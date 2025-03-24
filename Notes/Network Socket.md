@@ -2,7 +2,7 @@
 tags:
   - notes
   - backend/communication
-  - backend/networking
+  - networking
 Draft: false
 aliases:
   - Internet Socket

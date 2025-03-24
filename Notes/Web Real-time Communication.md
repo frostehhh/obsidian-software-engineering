@@ -2,7 +2,7 @@
 tags:
   - notes
   - backend/communication
-  - backend/networking
+  - networking
 Draft: false
 related-reference-note:: [[WebRTC]]
 aliases: WebRTC

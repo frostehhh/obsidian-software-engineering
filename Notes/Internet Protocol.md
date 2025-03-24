@@ -1,6 +1,6 @@
 ---
 tags:
-  - backend/networking
+  - networking
   - notes
   - backend/communication
 Draft: false

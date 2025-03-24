@@ -34,37 +34,63 @@
               "icon": "excalidraw-icon",
               "title": "Fundamentals Mindmap"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "3d447cdfd189633a",
+        "type": "tabs",
+        "children": [
           {
-            "id": "873de2cf7760cee0",
+            "id": "e0140e6234463db0",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 7 - Extras/JSON Web Token.md",
+                "file": "Notes/Encryption.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "JSON Web Token"
+              "title": "Encryption"
             }
           },
           {
-            "id": "2a479543c2208116",
+            "id": "387b69cf8552e4b0",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Reference Notes/Adrian Cantrill/Cybersecurity/Images/Pasted image 20230107213156.png"
+                "file": "Notes/Hashing.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20230107213156"
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Hashing"
+            }
+          },
+          {
+            "id": "5bc415e4ad94c043",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Adrian Cantrill/Cybersecurity/Digital Signatures/Digital Signatures.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Digital Signatures"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 682.0026054382324
+    "width": 466.0026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -250,45 +277,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "floating": {
-    "id": "89df508aa9d01a8b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1a0de45ff7310fb1",
-        "type": "window",
-        "children": [
-          {
-            "id": "672ad34ec38fa2e1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a7ccb85047c53f1e",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalibrain/excalibrain.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "excalibrain"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1,
-        "y": 1,
-        "width": 1022,
-        "height": 718,
-        "maximize": false,
-        "zoom": 1
-      }
-    ]
-  },
-  "active": "2a479543c2208116",
+  "active": "1ba925126411cbf2",
   "lastOpenFiles": [
+    "Notes/Digital Signatures.md",
+    "Notes/Encryption.md",
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Reference Notes/Adrian Cantrill/Cybersecurity/Digital Signatures/Digital Signatures.md",
+    "Notes/Hashing.md",
+    "Reference Notes/Adrian Cantrill/Cybersecurity/Hashing/Hashing.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 7 - Extras/JSON Web Token.md",
+    "Excalibrain/excalibrain.md",
+    "Reference Notes/Adrian Cantrill/Cybersecurity/Images/Pasted image 20230107213156.png",
     "Reference Notes/Adrian Cantrill/Cybersecurity/Images/Pasted image 20230107204232.png",
     "Reference Notes/Adrian Cantrill/Cybersecurity/Encryption/Steganography.md",
     "Reference Notes/Adrian Cantrill/Cybersecurity/Encryption/Types of Encryption/Asymmetric Encryption.md",
@@ -296,26 +295,18 @@
     "Reference Notes/Adrian Cantrill/Cybersecurity/Encryption/--Table of Contents--.md",
     "Reference Notes/Adrian Cantrill/Cybersecurity/Encryption/Envelope Encryption.md",
     "Reference Notes/Adrian Cantrill/Cybersecurity/Encryption/Encryption.md",
-    "Notes/Encryption.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 7 - Extras/JSON Web Token.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Storage Service/Encryption.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Encryption.md",
     "Dataviews/Draft Notes.md",
     "Dataviews/Backend.md",
     "Dataviews/Has Questions.md",
     "--Properties/knowledge-confidence-level.md",
-    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "Notes/HTTP Cookies.md",
     "--Properties",
     "--Personal Notes--/-- TODO --/Question Notes/Why do Linux distributions have different available packages.md",
     "Notes/User Datagram Protocol.md",
     "Notes/Transmission Control Protocol.md",
     "Notes/Server Sent Events.md",
-    "--Personal Notes--/-- TODO --/Questions.md",
-    "--Obsidian Template--/Questions.md",
-    "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
-    "Notes/JSON Web Token.md",
-    "--Attachments/Session-based Authentication 2025-03-24 20.15.27.excalidraw.md",
     "--Attachments/Stateful Backend.png",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/rabbitMQ-pushAPI.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Postgres-Pipelining.pdf",
@@ -333,8 +324,6 @@
     "--Attachments/Pasted image 20250323230359.png",
     "--Attachments/Pasted image 20250323230156.png",
     "--Attachments/Pasted image 20250323221528.png",
-    "--Attachments/Pasted image 20250323221516.png",
-    "--Attachments/Pasted image 20250323221502.png",
     "Canvas/Untitled.canvas",
     "Untitled.canvas",
     "Canvas/canvas 2.canvas",

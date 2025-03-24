@@ -2,8 +2,8 @@
 tags:
   - notes
   - backend/communication
-  - backend/networking
-  - backend/security
+  - networking
+  - security
 Draft: false
 "Parent:": "[[Notes/Transport Layer Security/Transport Layer Security|TLS]]"
 "related-reference-note:":
