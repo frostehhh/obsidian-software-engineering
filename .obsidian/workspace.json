@@ -4,90 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2251b0a199b69f2f",
+        "id": "b06d081adcd621bc",
         "type": "tabs",
         "children": [
           {
-            "id": "ea9b226fdfc3dde0",
+            "id": "584aee07fdb4cdc5",
             "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "Fundamentals+of+Backend+Communications+and+Protocols(Autosaved)"
-            }
-          },
-          {
-            "id": "1ba925126411cbf2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "Fundamentals Mindmap"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "3d447cdfd189633a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e0140e6234463db0",
-            "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Encryption.md",
+                "file": "Reference Notes/Github - Learn Node.js Hardway/_note_Github - Learn Node.js Hardway.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Encryption"
-            }
-          },
-          {
-            "id": "387b69cf8552e4b0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Hashing.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Hashing"
-            }
-          },
-          {
-            "id": "5bc415e4ad94c043",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Adrian Cantrill/Cybersecurity/Digital Signatures/Digital Signatures.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Digital Signatures"
+              "title": "_note_Github - Learn Node.js Hardway"
             }
           }
         ]
@@ -110,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -147,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.0026054382324,
-    "collapsed": true
+    "width": 462.0026054382324
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -277,11 +207,24 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1ba925126411cbf2",
+  "active": "bd2714a80d3d3c1d",
   "lastOpenFiles": [
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 16 - Answering your questions",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 15 - Homomorphic Encryption - Performing Database Queries",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 14 - Database Security",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 13 - SQL vs NoSQL Architectures",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 12 - Database Cursors",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 11 - Database Engines",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 10 - Database System Design",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 9 - Database Replication",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 7 - Database Sharding",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 6 - Database Partitioning",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/_note_Udemy - Fundamentals of Backend Engineering.md",
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Notes/Publish Subscribe.md",
     "Notes/Digital Signatures.md",
     "Notes/Encryption.md",
-    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "Reference Notes/Adrian Cantrill/Cybersecurity/Digital Signatures/Digital Signatures.md",
     "Notes/Hashing.md",
     "Reference Notes/Adrian Cantrill/Cybersecurity/Hashing/Hashing.md",
@@ -302,21 +245,9 @@
     "Dataviews/Has Questions.md",
     "--Properties/knowledge-confidence-level.md",
     "Notes/HTTP Cookies.md",
-    "--Properties",
     "--Personal Notes--/-- TODO --/Question Notes/Why do Linux distributions have different available packages.md",
     "Notes/User Datagram Protocol.md",
-    "Notes/Transmission Control Protocol.md",
-    "Notes/Server Sent Events.md",
     "--Attachments/Stateful Backend.png",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/rabbitMQ-pushAPI.pdf",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Postgres-Pipelining.pdf",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/kernel+queues.pdf",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Chrome-6-Connections-Limit.pdf",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/asynchronous-replication-postgres.pdf",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/DNS-Slides.pdf",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
     "--Attachments/Pasted image 20250323232437.png",
     "--Attachments/Pasted image 20250323232426.png",
     "--Attachments/Pasted image 20250323231929.png",
