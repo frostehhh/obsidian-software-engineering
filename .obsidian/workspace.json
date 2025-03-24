@@ -50,6 +50,18 @@
               "icon": "lucide-file",
               "title": "JSON Web Token"
             }
+          },
+          {
+            "id": "588654d0f4da3be0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "--Attachments/Session-based Authentication 2025-03-24 20.15.27.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Session-based Authentication 2025-03-24 20.15.27.excalidraw"
+            }
           }
         ],
         "currentTab": 2
@@ -109,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 682.0026054382324
+    "width": 682.0026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -277,7 +290,10 @@
   },
   "active": "873de2cf7760cee0",
   "lastOpenFiles": [
+    "Notes/Session-based Authentication.md",
+    "--Attachments/Session-based Authentication 2025-03-24 20.15.27.excalidraw.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 7 - Extras/JSON Web Token.md",
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/rabbitMQ-pushAPI.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Postgres-Pipelining.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/kernel+queues.pdf",
@@ -290,7 +306,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 6 - Proxying and Load Balancing/Layer 4 vs Layer 7 Load Balancers.md",
     "Excalibrain/excalibrain.md",
     "Notes/Layer 4 vs Layer 7 Load Balancers.md",
-    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "Reference Notes/Github - donnemartin system-design-primer/Reverse proxy.md",
     "Notes/Proxy vs Reverse Proxy.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Relational Database Service/Proxy.md",
@@ -311,7 +326,6 @@
     "Notes/Backend Idempotency.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Introduction.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/How The Backend Accepts Connections.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/The Process and the Thread and how they compete for CPU time.md",
     "--Attachments/Pasted image 20250323232437.png",
     "--Attachments/Pasted image 20250323232426.png",
     "--Attachments/Pasted image 20250323231929.png",
