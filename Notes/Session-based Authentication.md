@@ -3,8 +3,8 @@ tags:
   - notes
   - backend/security/authentication
 Draft: false
-related-reference-note:: 
-- "[[JSON Web Token]]"
+"related-reference-note:":
+  - "[[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 7 - Extras/JSON Web Token]]"
 ---
 
 An authentication method where after a user is initially authenticated via login, a `sessionId` is persisted in a database and the sessionId is returned to the user as a response to the login request.

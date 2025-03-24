@@ -71,8 +71,6 @@ Combination of the following determines a connection:
 
 # Maximum Segment Size
 ![[Pasted image 20250321231824.png]]
-# Questions
-What is TCP vs UDP?
 
 # References
 https://en.wikipedia.org/wiki/Transmission_Control_Protocol

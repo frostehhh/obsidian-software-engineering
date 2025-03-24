@@ -7,9 +7,10 @@ Draft: false
 aliases:
   - UDP
 "related-reference-note:":
-  - - UDP
+  - "[[UDP]]"
 "similar:":
-  - - Notes/Transmission Control Protocol|Transmission Control Protocol
+  - "[[Notes/Transmission Control Protocol|Transmission Control Protocol]]"
+has-questions: true
 ---
 
 - [[Notes/OSI Model/Transport|Transport]]

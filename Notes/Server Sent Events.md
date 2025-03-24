@@ -4,6 +4,7 @@ tags:
   - backend
 Draft: false
 similar:: [[Notes/Push|Push]]
+has-questions: true
 ---
 
 # Server Sent Events

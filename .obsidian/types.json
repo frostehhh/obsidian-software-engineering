@@ -26,6 +26,7 @@
     "Source": "multitext",
     "Channel": "multitext",
     "opposite": "text",
-    "opposite:": "text"
+    "opposite:": "text",
+    "knowledge-confidence-level": "multitext"
   }
 }

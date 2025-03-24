@@ -92,7 +92,8 @@
   "nodeTitleScript": "",
   "backgroundColor": "#0c3e6aff",
   "excludeFilepaths": [
-    "--Obsidian Template--"
+    "--Obsidian Template--",
+    "--Properties"
   ],
   "autoOpenCentralDocument": true,
   "toggleEmbedTogglesAutoOpen": true,

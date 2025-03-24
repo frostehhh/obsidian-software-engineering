@@ -3,6 +3,11 @@ tags:
   - reference-notes
   - backend/security/authentication
 Draft: true
+"related:":
+  - "[[HTTP Cookies]]"
+has-questions: true
+knowledge-confidence-level:
+  - 2 - Needs improvement
 ---
 
 ![[Session-based Authentication]]
@@ -32,5 +37,5 @@ When all services need to share the same symmetric key for auth, it can be dange
 # Asymmetric JWT
 
 # Questions
-Where does the client store the token/s? 
-How does the client include the tokens in each request?
+- Where does the client store the token/s? 
+- How does the client include the tokens in each request?

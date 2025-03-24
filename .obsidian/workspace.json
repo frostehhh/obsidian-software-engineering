@@ -43,7 +43,7 @@
               "type": "markdown",
               "state": {
                 "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 7 - Extras/JSON Web Token.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
@@ -52,19 +52,21 @@
             }
           },
           {
-            "id": "588654d0f4da3be0",
+            "id": "2a574c9a06827001",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "--Attachments/Session-based Authentication 2025-03-24 20.15.27.excalidraw.md"
+                "file": "Dataviews/Draft Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Session-based Authentication 2025-03-24 20.15.27.excalidraw"
+              "icon": "lucide-file",
+              "title": "Draft Notes"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "# Questions",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 682.0026054382324,
-    "collapsed": true
+    "width": 682.0026054382324
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -288,13 +289,28 @@
       }
     ]
   },
-  "active": "873de2cf7760cee0",
+  "active": "2a574c9a06827001",
   "lastOpenFiles": [
-    "Excalibrain/excalibrain.md",
+    "Dataviews/Backend.md",
+    "Dataviews/Draft Notes.md",
+    "Dataviews/Has Questions.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 7 - Extras/JSON Web Token.md",
-    "Notes/Session-based Authentication.md",
-    "--Attachments/Session-based Authentication 2025-03-24 20.15.27.excalidraw.md",
+    "--Properties/knowledge-confidence-level.md",
     "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Notes/HTTP Cookies.md",
+    "--Properties",
+    "--Personal Notes--/-- TODO --/Question Notes/Why do Linux distributions have different available packages.md",
+    "Notes/User Datagram Protocol.md",
+    "Notes/Transmission Control Protocol.md",
+    "Notes/Server Sent Events.md",
+    "--Personal Notes--/-- TODO --/Questions.md",
+    "--Obsidian Template--/Questions.md",
+    "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
+    "Notes/JSON Web Token.md",
+    "--Attachments/Session-based Authentication 2025-03-24 20.15.27.excalidraw.md",
+    "--Attachments/Stateful Backend.png",
+    "Excalibrain/excalibrain.md",
+    "Notes/Session-based Authentication.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/rabbitMQ-pushAPI.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Postgres-Pipelining.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/kernel+queues.pdf",
@@ -312,20 +328,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 6 - Proxying and Load Balancing/Proxy vs Reverse Proxy.md",
     "Notes/Nagle's Algorithm.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 7 - Extras/SELECT COUNT ALL can impact your Backend Application performance and here's why.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 7 - Extras/The Journey of a Request to the Backend.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 7 - Extras/How I Design Software.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 7 - Extras/How ChatGPT Uses Server Sent Events.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 7 - Extras",
-    "Notes/Thread.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Untitled.md",
-    "Notes/Push.md",
-    "Notes/Process.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Nagle's Algorithm.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Listener, Acceptor and Readers Execution Patterns.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Backend Idempotency.md",
-    "Notes/Backend Idempotency.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Introduction.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/How The Backend Accepts Connections.md",
     "--Attachments/Pasted image 20250323232437.png",
     "--Attachments/Pasted image 20250323232426.png",
     "--Attachments/Pasted image 20250323231929.png",
@@ -335,7 +337,6 @@
     "--Attachments/Pasted image 20250323221528.png",
     "--Attachments/Pasted image 20250323221516.png",
     "--Attachments/Pasted image 20250323221502.png",
-    "--Attachments/WebSocket.png",
     "Canvas/Untitled.canvas",
     "Untitled.canvas",
     "Canvas/canvas 2.canvas",
