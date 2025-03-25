@@ -2,10 +2,11 @@
 tags:
   - notes
   - backend
+  - comparison
 Draft: false
-related-reference-note:: 
-- "[[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 6 - Proxying and Load Balancing/Proxy vs Reverse Proxy|Proxy vs Reverse Proxy]]"
-- "[[Reverse proxy]]"
+"related-reference-note:":
+  - "[[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 6 - Proxying and Load Balancing/Proxy vs Reverse Proxy|Proxy vs Reverse Proxy]]"
+  - "[[Reverse proxy]]"
 ---
 
 # Proxy

@@ -1,7 +1,8 @@
 ---
 tags:
-  - reference-notes
   - backend
+  - notes
+  - comparison
 Draft: false
 "related-reference-note:":
   - "[[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 6 - Proxying and Load Balancing/Layer 4 vs Layer 7 Load Balancers]]"

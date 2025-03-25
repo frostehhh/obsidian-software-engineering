@@ -42,6 +42,7 @@
       "down",
       "leads to",
       "nurtures",
+      "relation",
       "South"
     ],
     "leftFriends": [
@@ -237,7 +238,8 @@
     "related-reference-note": {},
     "next-version": {},
     "West": {},
-    "prev-version": {}
+    "prev-version": {},
+    "relation": {}
   },
   "navigationHistory": [
     "Notes/User Datagram Protocol.md",
