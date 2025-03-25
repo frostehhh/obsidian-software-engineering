@@ -28,22 +28,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/ACID/ACID.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "ACID"
-            }
-          },
-          {
-            "id": "299c42330b6b1681",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Notes/ACID/Isolation.md",
                 "mode": "source",
                 "source": false
@@ -54,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,11 +224,49 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "299c42330b6b1681",
+  "floating": {
+    "id": "e503e9138b790e0e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b7f064647af1ac8d",
+        "type": "window",
+        "children": [
+          {
+            "id": "1bd634c285887c28",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "71789e63afa068fa",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalibrain/excalibrain.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "excalibrain"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1295,
+        "y": 272,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1
+      }
+    ]
+  },
+  "active": "f4d1db0699013229",
   "lastOpenFiles": [
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Isolation.md",
+    "Excalibrain/excalibrain.md",
     "Notes/ACID/Isolation.md",
     "Notes/ACID/ACID.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Isolation.md",
     "Notes/ACID/Atomicity.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Atomicity.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/ACID-Updated.pdf",
@@ -277,7 +299,6 @@
     "Notes/JSON Web Token.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Fundamentals of Database engineering Mindmap.excalidraw.md",
     "Notes/_note_Notes.md",
-    "--Obsidian Template--/Frontmatter - Notes - Database.md",
     "Reference Notes/Adrian Cantrill/Cybersecurity/Images/Pasted image 20230107213156.png",
     "Reference Notes/Adrian Cantrill/Cybersecurity/Images/Pasted image 20230107204232.png",
     "--Attachments/Stateful Backend.png",

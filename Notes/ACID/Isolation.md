@@ -9,3 +9,16 @@ Draft: false
  - "[[ACID]]"
 ---
 
+Database transactions must run independent of other transactions
+# Read Phenomena
+## Dirty Read
+
+## Non-repeatable Read
+Non-repeatable because the s
+
+## Phantom Read
+
+## Lost updates
+
+# References
+https://learn.microsoft.com/en-us/sql/odbc/reference/develop-app/transaction-isolation-levels?view=sql-server-ver16
