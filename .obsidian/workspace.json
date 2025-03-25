@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/Primary Key vs Secondary Key - What you probably don't know.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/Database Pages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primary Key vs Secondary Key - What you probably don't know"
+              "title": "Database Pages"
             }
           }
         ],
@@ -273,13 +273,14 @@
       }
     ]
   },
-  "active": "e174cde7d2f78a9b",
+  "active": "71789e63afa068fa",
   "lastOpenFiles": [
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Fundamentals of Database engineering Mindmap.excalidraw.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/Database Pages.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/Primary Key vs Secondary Key - What you probably don't know.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/How tables and indexes are stored on disk.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Fundamentals of Database engineering Mindmap.excalidraw.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/Row-based vs Column-based Databases.md",
     "Notes/Row-based vs Column-based Databases.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/How tables and indexes are stored on disk.md",
     "Notes/How tables and indexes are stored on disk.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Row-Based+vs+Column-Based+Databases.pdf",
     "--Attachments/Row-based database and column-based database pros and cons.png",
@@ -304,7 +305,6 @@
     "Notes/Proxy vs Reverse Proxy.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 6 - Proxying and Load Balancing/Proxy vs Reverse Proxy.md",
     "Notes/Layer 4 vs Layer 7 Load Balancers.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 6 - Proxying and Load Balancing/Layer 4 vs Layer 7 Load Balancers.md",
     "--Attachments/Isolation Levels vs read phenomena.png",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/ACID-Updated.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Solo Leveling - S02E05 - This is What We're Trained to Do.mkv",
