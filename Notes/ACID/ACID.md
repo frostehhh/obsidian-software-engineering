@@ -10,3 +10,5 @@ related-reference-note::
 A set of properties for databases
 
 ![[Notes/ACID/Atomicity|Atomicity]]
+
+![[Notes/ACID/Consistency|Consistency]]
