@@ -1,3 +1,11 @@
+---
+tags:
+  - reference-notes
+  - database
+Draft: true
+---
+
+
 ![[Pasted image 20230501194202.png]]
 
 # ACID

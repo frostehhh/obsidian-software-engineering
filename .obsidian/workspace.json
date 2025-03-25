@@ -10,16 +10,35 @@
           {
             "id": "584aee07fdb4cdc5",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Relational Database Service/ACID vs BASE.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "ACID vs BASE"
+            }
+          },
+          {
+            "id": "181dbc58bdbaa78f",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Drawing 2025-03-04 21.44.52.excalidraw.md"
+                "file": "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md"
               },
+              "pinned": true,
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-04 21.44.52.excalidraw"
+              "title": "Fundamentals Mindmap"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,8 +224,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "584aee07fdb4cdc5",
+  "active": "181dbc58bdbaa78f",
   "lastOpenFiles": [
+    "Notes/Connection Pooling.md",
+    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
+    "Notes/RSA.md",
+    "Notes/User Datagram Protocol.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Relational Database Service/ACID vs BASE.md",
+    "Reference Notes/Hussein Nasser/Drawing 2025-03-04 21.44.52.excalidraw.md",
     "Reference Notes/Github - Learn Node.js Hardway/_note_Github - Learn Node.js Hardway.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 16 - Answering your questions",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 15 - Homomorphic Encryption - Performing Database Queries",
@@ -219,7 +244,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 7 - Database Sharding",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/_note_Udemy - Fundamentals of Backend Engineering.md",
-    "Reference Notes/Hussein Nasser/Fundamentals Mindmap.md",
     "Notes/Publish Subscribe.md",
     "Notes/Digital Signatures.md",
     "Notes/Encryption.md",
@@ -240,11 +264,6 @@
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Encryption.md",
     "Dataviews/Draft Notes.md",
     "Dataviews/Backend.md",
-    "Dataviews/Has Questions.md",
-    "--Properties/knowledge-confidence-level.md",
-    "Notes/HTTP Cookies.md",
-    "--Personal Notes--/-- TODO --/Question Notes/Why do Linux distributions have different available packages.md",
-    "Notes/User Datagram Protocol.md",
     "--Attachments/Stateful Backend.png",
     "--Attachments/Pasted image 20250323232437.png",
     "--Attachments/Pasted image 20250323232426.png",

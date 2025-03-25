@@ -8,6 +8,9 @@ related-reference-note:: [[Reference Notes/Hussein Nasser/Udemy - Fundamentals o
 
 Connection pooling is a method of maintaining active connection states that can be reused for multiple different independent requests.
 
+> [!note] 
+>  Connection pool is a list of connections maintained by a server to a database for anyone's reuse.
+
 See the example below. The incoming requests can be seen as many multiple connections. These are demultiplexed into 4 database connections in the backend.
 
 ![[ConnectionPooling.png]]
