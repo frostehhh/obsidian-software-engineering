@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "53ff5e0f075fb87a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/How+tables+and+indexes+are+stored+on+disk.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "How+tables+and+indexes+are+stored+on+disk"
+            }
+          },
+          {
             "id": "58d60fb0897532de",
             "type": "leaf",
             "pinned": true,
@@ -35,20 +49,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "How tables and indexes are stored on disk"
-            }
-          },
-          {
-            "id": "8de5f4ce455bb32a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/Row-based vs Column-based Databases.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Row-based vs Column-based Databases"
             }
           }
         ],
@@ -275,19 +275,19 @@
       }
     ]
   },
-  "active": "8de5f4ce455bb32a",
+  "active": "82f1fef9f3769361",
   "lastOpenFiles": [
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/How+tables+and+indexes+are+stored+on+disk.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/How tables and indexes are stored on disk.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/Row-based vs Column-based Databases.md",
+    "Excalibrain/excalibrain.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Fundamentals of Database engineering Mindmap.excalidraw.md",
     "Database Transaction.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/What is a transaction.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Serializable vs Repeatable Read.md",
     "Notes/Eventual Consistency.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/How+tables+and+indexes+are+stored+on+disk.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Eventual Consistency.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Serializable vs non-repeatable.pdf",
-    "Excalibrain/excalibrain.md",
     "Notes/ACID/Isolation.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/IAM, Accounts and AWS Organizations/User Pool vs Identity Pool.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
@@ -305,7 +305,6 @@
     "--Attachments/Isolation Levels vs read phenomena.png",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Horizontal vs Vertical Scaling.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Fundamentals/High-Availability vs Fault-Tolerance vs Disaster Recovery.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/DEMO - SSH vs Instance Connect.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/ACID-Updated.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Solo Leveling - S02E05 - This is What We're Trained to Do.mkv",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Solo Leveling - S02E09 - It Was All Worth It.mkv",
