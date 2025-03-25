@@ -35,6 +35,4 @@ has-questions: true
 - What if a row spans 2 or more pages?
 	- is this possible?
 		Answer: https://learn.microsoft.com/en-us/sql/relational-databases/pages-and-extents-architecture-guide?view=sql-server-ver16.
-		No. There is a concept of row 
-- What happens if we insert a row?
-	- between pages?
+		No. There is a concept of row overflow where overflow data is stored
