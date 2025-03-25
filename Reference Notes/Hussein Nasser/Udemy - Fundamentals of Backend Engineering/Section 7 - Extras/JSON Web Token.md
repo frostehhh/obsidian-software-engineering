@@ -2,10 +2,10 @@
 tags:
   - reference-notes
   - security/authentication
-Draft: true
+Draft: false
 "related:":
   - "[[HTTP Cookies]]"
-has-questions: true
+has-questions: false
 knowledge-confidence-level:
   - 2 - Needs improvement
 ---

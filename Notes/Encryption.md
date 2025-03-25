@@ -1,10 +1,10 @@
 ---
-Draft: true
+Draft: false
 tags:
   - notes
   - security
-related-reference-note:: 
-- "[[Reference Notes/Adrian Cantrill/Cybersecurity/Encryption/Encryption|Encryption]]"
+"related-reference-note:":
+  - "[[Reference Notes/Adrian Cantrill/Cybersecurity/Encryption/Encryption|Encryption]]"
 ---
 - Two-way conversion of plain text to a ciphertext. 
 - Ciphertext can be converted back to plain text

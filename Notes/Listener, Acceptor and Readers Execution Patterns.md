@@ -3,11 +3,11 @@ tags:
   - notes
   - backend
   - operating-system
-Draft: true
+Draft: false
 "Prev:":
   - "[[Notes/The Listener, the Acceptor and the Reader|The Listener, the Acceptor and the Reader]]"
-related-reference-note:: 
-- "[[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Listener, Acceptor and Readers Execution Patterns|Listener, Acceptor and Readers Execution Patterns]]"
+"related-reference-note:":
+  - "[[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Listener, Acceptor and Readers Execution Patterns|Listener, Acceptor and Readers Execution Patterns]]"
 ---
 
 # Single Listener, Acceptor and Reader Thread Execution Pattern

@@ -3,6 +3,7 @@ tags:
   - notes
   - backend/communication
   - security/authentication
-Draft: true
-aliases: JWT
+Draft: false
+aliases:
+  - JWT
 ---
