@@ -50,9 +50,39 @@
               "icon": "lucide-file",
               "title": "How tables and indexes are stored on disk"
             }
+          },
+          {
+            "id": "d72cecd87d81bff4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/Row-based vs Column-based Databases.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Row-based vs Column-based Databases"
+            }
+          },
+          {
+            "id": "438d2852de1155c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/How tables and indexes are stored on disk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How tables and indexes are stored on disk"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -275,11 +305,12 @@
       }
     ]
   },
-  "active": "82f1fef9f3769361",
+  "active": "d72cecd87d81bff4",
   "lastOpenFiles": [
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/How+tables+and+indexes+are+stored+on+disk.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/How tables and indexes are stored on disk.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/Row-based vs Column-based Databases.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Row-Based+vs+Column-Based+Databases.pdf",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/How+tables+and+indexes+are+stored+on+disk.pdf",
     "Excalibrain/excalibrain.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Fundamentals of Database engineering Mindmap.excalidraw.md",
     "Database Transaction.md",
@@ -312,7 +343,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Solo Leveling - S02E11 - It's Going to Get Even More Intense.mkv",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Solo Leveling - S02E10 - We Need a Hero.mkv",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Solo Leveling - S02E03 - Still a Long Way to Go.mkv",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Solo Leveling - S02E06 - Don't Look Down on My Guys.mkv",
     "Reference Notes/Adrian Cantrill/Cybersecurity/Images/Pasted image 20230107213156.png",
     "Reference Notes/Adrian Cantrill/Cybersecurity/Images/Pasted image 20230107204232.png",
     "--Attachments/Stateful Backend.png",
