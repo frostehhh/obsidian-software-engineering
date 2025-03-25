@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,10 +275,11 @@
       }
     ]
   },
-  "active": "f822bd5b3633e5b5",
+  "active": "7338433b41f49cdb",
   "lastOpenFiles": [
-    "Notes/HTTP Cookies.md",
     "Dataviews/Backend.md",
+    "Notes/JavaScript Object Notation.md",
+    "Notes/HTTP Cookies.md",
     "Notes/ACID/Consistency.md",
     "Notes/ACID/Isolation.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/ACID-Updated.pdf",
@@ -313,7 +314,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 7 - Extras/JSON Web Token.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Relational Database Service/ACID vs BASE.md",
     "Notes/Encryption.md",
-    "Notes/Listener, Acceptor and Readers Execution Patterns.md",
     "Reference Notes/Adrian Cantrill/Cybersecurity/Images/Pasted image 20230107213156.png",
     "Reference Notes/Adrian Cantrill/Cybersecurity/Images/Pasted image 20230107204232.png",
     "--Attachments/Stateful Backend.png",
