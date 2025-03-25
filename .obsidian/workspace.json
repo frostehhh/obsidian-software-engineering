@@ -22,23 +22,37 @@
             }
           },
           {
-            "id": "f4d1db0699013229",
+            "id": "7338433b41f49cdb",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/ACID/Isolation.md",
+                "file": "Notes/ACID/Consistency.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Isolation"
+              "title": "Consistency"
+            }
+          },
+          {
+            "id": "f822bd5b3633e5b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataviews/Backend.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Backend"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -58,7 +72,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -203,7 +217,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 533
+    "width": 533,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,16 +275,20 @@
       }
     ]
   },
-  "active": "f4d1db0699013229",
+  "active": "f822bd5b3633e5b5",
   "lastOpenFiles": [
-    "--Attachments/Isolation Levels vs read phenomena.png",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/ACID-Updated.pdf",
+    "Notes/HTTP Cookies.md",
+    "Dataviews/Backend.md",
+    "Notes/ACID/Consistency.md",
     "Notes/ACID/Isolation.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/ACID-Updated.pdf",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Consistency.md",
     "Excalibrain/excalibrain.md",
-    "Notes/ACID/ACID.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Isolation.md",
     "Notes/ACID/Atomicity.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Atomicity.md",
+    "--Attachments/Isolation Levels vs read phenomena.png",
+    "Notes/ACID/ACID.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Isolation.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Solo Leveling - S02E05 - This is What We're Trained to Do.mkv",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Solo Leveling - S02E09 - It Was All Worth It.mkv",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Solo Leveling - S02E07 - The 10th S-Rank Hunter.mkv",
@@ -286,7 +305,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Phantom Reads.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/ACID by Practical Examples.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Durability.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Consistency.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Introduction to ACID.md",
     "Dataviews/Draft Notes.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 6 - Proxying and Load Balancing/Proxy vs Reverse Proxy.md",
@@ -296,8 +314,6 @@
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Relational Database Service/ACID vs BASE.md",
     "Notes/Encryption.md",
     "Notes/Listener, Acceptor and Readers Execution Patterns.md",
-    "Notes/JSON Web Token.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Fundamentals of Database engineering Mindmap.excalidraw.md",
     "Reference Notes/Adrian Cantrill/Cybersecurity/Images/Pasted image 20230107213156.png",
     "Reference Notes/Adrian Cantrill/Cybersecurity/Images/Pasted image 20230107204232.png",
     "--Attachments/Stateful Backend.png",
@@ -307,7 +323,6 @@
     "--Attachments/Pasted image 20250323231313.png",
     "--Attachments/Pasted image 20250323230359.png",
     "--Attachments/Pasted image 20250323230156.png",
-    "--Attachments/Pasted image 20250323221528.png",
     "Canvas/Untitled.canvas",
     "Untitled.canvas",
     "Canvas/canvas 2.canvas",

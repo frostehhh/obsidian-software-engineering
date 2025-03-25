@@ -12,3 +12,10 @@ TABLE file.aliases as "Aliases", tags
  FROM #backend/communication   AND #notes
  SORT tags ASC
 ```
+
+# Database
+```dataview
+TABLE file.aliases as "Aliases", tags
+ FROM #database AND #notes
+ SORT tags ASC
+```

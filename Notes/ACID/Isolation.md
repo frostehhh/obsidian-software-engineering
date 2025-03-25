@@ -40,6 +40,7 @@ With two different transactions where both update the same row, one will overwri
 - Pessimistic locking
 - Optimistic locking
 - Repeatable reads
+- Serializable
 ## Pessimistic locking
 - Uses locks to ensure no other transactions will write over a transaction's changes
 - Pessimistic in the sense that we have a mechanism set up eagerly to prevent unexpected changes
@@ -48,6 +49,8 @@ With two different transactions where both update the same row, one will overwri
 - Can implement this in update scenarios by having a version int column in data rows. The version is incremented on update.
 ## Repeatable reads
 - Read rows are snapshotted(this is done by Postgres)
-- 
+# Serializable
+- Usually implemented with optimistic locking due to expensive resources needed for pessimistic locking
+- If pessimistic locking, can use `SELECT FOR UPDATE`
 # References
 https://learn.microsoft.com/en-us/sql/odbc/reference/develop-app/transaction-isolation-levels?view=sql-server-ver16
