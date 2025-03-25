@@ -203,8 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 533,
-    "collapsed": true
+    "width": 533
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,13 +262,14 @@
   },
   "active": "f4d1db0699013229",
   "lastOpenFiles": [
-    "Excalibrain/excalibrain.md",
+    "--Attachments/Isolation Levels vs read phenomena.png",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/ACID-Updated.pdf",
     "Notes/ACID/Isolation.md",
+    "Excalibrain/excalibrain.md",
     "Notes/ACID/ACID.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Isolation.md",
     "Notes/ACID/Atomicity.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Atomicity.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/ACID-Updated.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Solo Leveling - S02E05 - This is What We're Trained to Do.mkv",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Solo Leveling - S02E09 - It Was All Worth It.mkv",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Solo Leveling - S02E07 - The 10th S-Rank Hunter.mkv",
@@ -298,7 +298,6 @@
     "Notes/Listener, Acceptor and Readers Execution Patterns.md",
     "Notes/JSON Web Token.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Fundamentals of Database engineering Mindmap.excalidraw.md",
-    "Notes/_note_Notes.md",
     "Reference Notes/Adrian Cantrill/Cybersecurity/Images/Pasted image 20230107213156.png",
     "Reference Notes/Adrian Cantrill/Cybersecurity/Images/Pasted image 20230107204232.png",
     "--Attachments/Stateful Backend.png",
