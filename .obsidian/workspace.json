@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -290,14 +290,14 @@
       }
     ]
   },
-  "active": "3231492342e55bcd",
+  "active": "f0a8ccc6898d43e2",
   "lastOpenFiles": [
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/b-tree-original-paper.pdf",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 5 - B-Tree vs B+Tree in Production Database Systems/B-Tree and B+Tree.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/B-trees+vs+B+trees.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Fundamentals of Database engineering Mindmap.excalidraw.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 5 - B-Tree vs B+Tree in Production Database Systems/Introduction and Agenda.md",
     "--Attachments/Pasted image 20250326233028.png",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 5 - B-Tree vs B+Tree in Production Database Systems/B-Tree and B+Tree.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/b-tree-original-paper.pdf",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/B-trees+vs+B+trees.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Microsoft SQL Server Clustered Index Design.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/The Cost of Long-running Transactions.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Working with a Billion row table.md",
