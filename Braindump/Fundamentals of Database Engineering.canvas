@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"4ecb9e4eed91b66d","type":"text","text":"# Consistency\n- Data consistency\n\tData in 2 related tables may be inconsistent. Table A can represent data in Table B incorrectly.\n- Read consistency\n  Reads may be outdated. Can occur due to eventual consistency. Can occur with database read replicas where there is a delay with the master DB and the syncing to replica DBs","x":-220,"y":0,"width":250,"height":540},
+		{"id":"1916e02a6e10cf2e","type":"text","text":"# ACID","x":-95,"y":-240,"width":250,"height":80},
+		{"id":"68a624b97718a6b9","type":"text","text":"# Isolation\n\n## Read Phenomena\n**Dirty Read**\n**Phantom reads** - Read a newly inserted row\n**Non-repeatable reads** - same or similar query results to different result\n**Lost Updates** - multiple writes overwriting each other\n## Isolation Levels\n\n**ReadAll** - All changes are read even in ongoing transactions where changes are not yet committed\n**Read Committed** - Ongoing transactions read all committed changes regardless whether a change was committed during the ongoing transaction\n**Repeatable read** - overcomes non-repeatable read phenomena\n**Snapshot** - Snapshot of relevant data is stored at the beginning of the transaction\n**Serializable** - transactions are run as if executed linearly. Expensive, usually done optimistically","x":70,"y":0,"width":330,"height":780},
+		{"id":"b0e86a233d375bb2","type":"text","text":"# Transactions\n- Set or collection of queries\n- Usually making data updates\n- Also applicable and usable for reads\n- DBMS may implicitly use transactions if not specified","x":-780,"y":-500,"width":250,"height":360},
+		{"id":"e7e3405e10006054","type":"text","text":"# Database internals\n- Database queries data by blocks/pages\n- A page is a fundamental unit of storage in databases\n- A page is a fixed size. ex. 8kb\n- A page can contain at least 1 row.\n- A row cannot span multiple pages.\n- Row overflow occurs for rows that need to span multiple pages\n- Smaller page size is more optimal for read/writes\n- Larger page size makes page metadata less impactful since there are less pages = less total page metadata","x":-865,"y":-1200,"width":420,"height":480},
+		{"id":"6e3fc34bc94cd3f1","type":"text","text":"# Durability\n\nResilience of data when crashes happen\n\nCommitted data should be persisted safely.\nPersisted data should be in non-volatile storage","x":440,"y":0,"width":250,"height":280},
+		{"id":"4e85df9bcc1fd911","type":"text","text":"# Atomicity\nQueries must succeed or fail together\n\nAssuming a transactions with 10 updates, if only 5 succeed and 5 fail, that is not atomic. In this case, all changes should be reverted as soon as 1 fails.\n\n","x":-520,"y":0,"width":250,"height":340}
+	],
+	"edges":[
+		{"id":"8ee5c45bcc636408","fromNode":"1916e02a6e10cf2e","fromSide":"bottom","toNode":"4e85df9bcc1fd911","toSide":"top"},
+		{"id":"5077c9c8b237ec64","fromNode":"1916e02a6e10cf2e","fromSide":"left","toNode":"b0e86a233d375bb2","toSide":"right","fromEnd":"arrow"},
+		{"id":"491f9090a23cbcd2","fromNode":"1916e02a6e10cf2e","fromSide":"bottom","toNode":"4ecb9e4eed91b66d","toSide":"top"},
+		{"id":"09f685646aaebdc5","fromNode":"1916e02a6e10cf2e","fromSide":"bottom","toNode":"68a624b97718a6b9","toSide":"top"},
+		{"id":"3adfef251781082d","fromNode":"1916e02a6e10cf2e","fromSide":"bottom","toNode":"6e3fc34bc94cd3f1","toSide":"top"},
+		{"id":"76b8cdf413667eb4","fromNode":"e7e3405e10006054","fromSide":"bottom","toNode":"b0e86a233d375bb2","toSide":"top"}
+	]
+}
