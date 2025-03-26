@@ -17,7 +17,9 @@ What's the harm of leaving those dead rows in? It's not really correctness issue
 Other databases do the eager approach and won’t let you even start the database before rolling back is successfully complete, using undo logs. Which one is right and which one is wrong? Here is the fun part! Nothing is wrong or right, it's all decisions that we engineers make. It's all fundamentals. It's up to you to understand and pick. Anything can work. You can make anything work if you know what you are dealing with.
 
 > [!tldr] 
->  Dead rows from long-running transactions may not be immediately cleaned. These rows can still be queried, which is a waste.
+>  Dead rows from long-running transactions may not be immediately cleaned. These rows can still be queried although filtered out from query results, which is a waste of IO effort.
 >
->It is possible to clean to rollback as soon as failure occurs, but this can be expensive.
+>   It is possible to clean to rollback as soon as failure occurs, but this can be expensive.
+>
+>   The best thing to do depends on your use case.
 

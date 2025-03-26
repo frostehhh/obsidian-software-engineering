@@ -22,17 +22,47 @@
             }
           },
           {
-            "id": "8ccadaa821d9479f",
+            "id": "3231492342e55bcd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/The Cost of Long-running Transactions.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 5 - B-Tree vs B+Tree in Production Database Systems/B-Tree and B+Tree.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "The Cost of Long-running Transactions"
+              "title": "B-Tree and B+Tree"
+            }
+          },
+          {
+            "id": "1214625ba45627c5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/b-tree-original-paper.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "b-tree-original-paper"
+            }
+          },
+          {
+            "id": "f0a8ccc6898d43e2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/B-trees+vs+B+trees.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "B-trees+vs+B+trees"
             }
           }
         ],
@@ -202,7 +232,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353
+    "width": 353,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,11 +290,17 @@
       }
     ]
   },
-  "active": "8ccadaa821d9479f",
+  "active": "3231492342e55bcd",
   "lastOpenFiles": [
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Working with a Billion row table.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/The Cost of Long-running Transactions.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Fundamentals of Database engineering Mindmap.excalidraw.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 5 - B-Tree vs B+Tree in Production Database Systems/Introduction and Agenda.md",
+    "--Attachments/Pasted image 20250326233028.png",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 5 - B-Tree vs B+Tree in Production Database Systems/B-Tree and B+Tree.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/b-tree-original-paper.pdf",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/B-trees+vs+B+trees.pdf",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Microsoft SQL Server Clustered Index Design.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/The Cost of Long-running Transactions.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Working with a Billion row table.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Bloom Filters.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/bloom-filter.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/How Database Optimizers Decide to use Indexes.md",
@@ -290,16 +327,10 @@
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/Primary Key vs Secondary Key - What you probably don't know.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/How tables and indexes are stored on disk.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/Row-based vs Column-based Databases.md",
-    "Notes/Row-based vs Column-based Databases.md",
-    "Notes/How tables and indexes are stored on disk.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Row-Based+vs+Column-Based+Databases.pdf",
     "--Attachments/Row-based database and column-based database pros and cons.png",
-    "Database Transaction.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/What is a transaction.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Serializable vs non-repeatable.pdf",
     "--Attachments/Isolation Levels vs read phenomena.png",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/ACID-Updated.pdf",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Solo Leveling - S02E05 - This is What We're Trained to Do.mkv",
     "Reference Notes/Adrian Cantrill/Cybersecurity/Images/Pasted image 20230107213156.png",
     "Reference Notes/Adrian Cantrill/Cybersecurity/Images/Pasted image 20230107204232.png",
     "--Attachments/Stateful Backend.png",
@@ -307,7 +338,6 @@
     "--Attachments/Pasted image 20250323232426.png",
     "--Attachments/Pasted image 20250323231929.png",
     "--Attachments/Pasted image 20250323231313.png",
-    "--Attachments/Pasted image 20250323230359.png",
     "Canvas/Untitled.canvas",
     "Untitled.canvas",
     "Canvas/canvas 2.canvas",
