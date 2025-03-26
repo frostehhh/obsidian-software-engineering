@@ -5,6 +5,9 @@ tags:
 Draft: false
 ---
 
+> [!info] 
+> Useful for testing performance 
+
 ```
 docker run -e POSTGRES_PASSWORD=postgres --name pg postgres 
 
