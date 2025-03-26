@@ -71,7 +71,11 @@ from
   generate_series(0, 50000000);
 
 vacuum (analyze, verbose, full);
+```
 
+
+# Testing
+```sql
 explain analyze
 select
   id,
@@ -79,8 +83,21 @@ select
 from
   students
 where
-  g > 80
-  and g < 95
+  g > 10
+  and g < 20
 order by
-  g;
+  g desc;
+-- 16s exec time
+
+-- seq scan or parallel seq scan when you use this since we also need to access the heap
+create index g_idx on students(g);
+
+-- index only scan if you do this
+create index g_idx on students(g) include(id);
 ```
+
+> [!info] 
+> When you have an indexed value in a `WHERE` clause and you need to retrieve other values from the heap, the database may opt for seq scan and not utilize the related index.
+> 
+> To utilize the index, you can use `include(...)` to include other values to an index.
+

@@ -10,9 +10,9 @@ Bitmap Index Scan
 Bitmap Heap Scan
 
 ```sql
--- Bitmap heap scan
+-- Bitmap heap scan and bitmap index scan
 EXPLAIN SELECT * FROM grades where g > 95;
--- Bitmap heap scan
+-- Bitmap heap scan and bitmap index scan
 EXPLAIN SELECT id FROM grades where g > 95 ORDER BY id;
 -- Index only scan
 EXPLAIN SELECT g FROM grades where g > 95;
