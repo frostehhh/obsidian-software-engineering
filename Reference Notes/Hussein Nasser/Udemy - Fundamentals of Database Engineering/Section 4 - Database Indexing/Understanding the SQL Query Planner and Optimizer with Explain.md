@@ -5,6 +5,8 @@ tags:
 Draft: true
 ---
 
+> [!note] 
+> Mostly about `EXPLAIN` 
 # Script
 ```sql
 -- EXPLAIN ANALYZE
@@ -39,3 +41,25 @@ ORDER BY
 
 CREATE INDEX grades_g ON grades (g);
 ```
+
+# Test Scripts
+```sql
+EXPLAIN SELECT id, g FROM grades;
+
+EXPLAIN
+SELECT * FROM grades
+ORDER BY g;
+
+EXPLAIN SELECT id FROM grades;
+
+EXPLAIN SELECT * FROM grades where id = 10;
+```
+
+> [!info] 
+> Cost - initial value - startup time
+> Cost - second value - total time
+> Width - average width in bytes per row retrieved
+> Rows - Estimated number of row output
+
+# References
+https://www.postgresql.org/docs/current/using-explain.html#USING-EXPLAIN-BASICS
