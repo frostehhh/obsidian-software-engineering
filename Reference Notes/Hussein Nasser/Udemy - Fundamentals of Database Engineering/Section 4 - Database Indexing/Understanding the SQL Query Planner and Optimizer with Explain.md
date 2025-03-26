@@ -2,7 +2,8 @@
 tags:
   - database
   - reference-notes
-Draft: true
+  - procedural
+Draft: false
 ---
 
 > [!note] 
@@ -61,5 +62,8 @@ EXPLAIN SELECT * FROM grades where id = 10;
 > Width - average width in bytes per row retrieved
 > Rows - Estimated number of row output
 
+> [!info] 
+> Seq Scan - scans heaps page by page
+> Index scan - scans indexes 
 # References
 https://www.postgresql.org/docs/current/using-explain.html#USING-EXPLAIN-BASICS
