@@ -4,8 +4,30 @@
     "type": "split",
     "children": [
       {
+        "id": "262c0d3bb0b4120c",
+        "type": "tabs",
+        "dimension": 41.88334504567814,
+        "children": [
+          {
+            "id": "f0a8ccc6898d43e2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/B-trees+vs+B+trees.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "B-trees+vs+B+trees"
+            }
+          }
+        ]
+      },
+      {
         "id": "801b694c6814a1f4",
         "type": "tabs",
+        "dimension": 58.11665495432186,
         "children": [
           {
             "id": "58d60fb0897532de",
@@ -50,23 +72,9 @@
               "icon": "lucide-file-text",
               "title": "b-tree-original-paper"
             }
-          },
-          {
-            "id": "f0a8ccc6898d43e2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/B-trees+vs+B+trees.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "B-trees+vs+B+trees"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -290,13 +298,14 @@
       }
     ]
   },
-  "active": "f0a8ccc6898d43e2",
+  "active": "3231492342e55bcd",
   "lastOpenFiles": [
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/b-tree-original-paper.pdf",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 5 - B-Tree vs B+Tree in Production Database Systems/B-Tree and B+Tree.md",
+    "--Attachments/Pasted image 20250327004013.png",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/B-trees+vs+B+trees.pdf",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Fundamentals of Database engineering Mindmap.excalidraw.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 5 - B-Tree vs B+Tree in Production Database Systems/B-Tree and B+Tree.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 5 - B-Tree vs B+Tree in Production Database Systems/Introduction and Agenda.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/b-tree-original-paper.pdf",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Fundamentals of Database engineering Mindmap.excalidraw.md",
     "--Attachments/Pasted image 20250326233028.png",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Microsoft SQL Server Clustered Index Design.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/The Cost of Long-running Transactions.md",
