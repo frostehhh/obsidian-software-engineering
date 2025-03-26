@@ -231,9 +231,7 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "workspaces:Manage workspace layouts": false
     }
   },
   "floating": {
@@ -264,8 +262,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 1295,
-        "y": 272,
+        "x": 716,
+        "y": 248,
         "width": 1024,
         "height": 800,
         "maximize": false,
@@ -273,8 +271,9 @@
       }
     ]
   },
-  "active": "71789e63afa068fa",
+  "active": "4b77621aef5e7941",
   "lastOpenFiles": [
+    "Excalibrain/excalibrain.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/Database Pages.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/Primary Key vs Secondary Key - What you probably don't know.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/How tables and indexes are stored on disk.md",
@@ -285,7 +284,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Row-Based+vs+Column-Based+Databases.pdf",
     "--Attachments/Row-based database and column-based database pros and cons.png",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/How+tables+and+indexes+are+stored+on+disk.pdf",
-    "Excalibrain/excalibrain.md",
     "Database Transaction.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/What is a transaction.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Serializable vs Repeatable Read.md",
