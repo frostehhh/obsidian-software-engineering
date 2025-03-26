@@ -2,7 +2,8 @@
 tags:
   - reference-notes
   - database
-Draft: true
+  - procedural
+Draft: false
 ---
 
 Practical example via postgres
@@ -64,7 +65,22 @@ SELECT random_string(10)
 FROM generate_series(0, 1000000);
 ```
 
-## Index
+## Index and test scripts
 ```sql
+EXPLAIN ANALYZE SELECT name from employees where id = 1;
+
+EXPLAIN ANALYZE SELECT id from employees where id = 5000;
+
+EXPLAIN ANALYZE SELECT id from employees where name = 'Zs';
+EXPLAIN ANALYZE SELECT id, name from employees where name = 'sA';
+EXPLAIN ANALYZE SELECT * from employees where name = 'sA';
+
+EXPLAIN ANALYZE SELECT id, name from employees where name like '%ZA%';
+
+
 CREATE INDEX employees_name on employees(name);
+DROP INDEX employees_name;
 ```
+
+> [!note] 
+> Index seems to be based on the filter we include 

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Getting started with indexing.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Understanding the SQL Query Planner and Optimizer with Explain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Getting started with indexing"
+              "title": "Understanding the SQL Query Planner and Optimizer with Explain"
             }
           },
           {
@@ -288,9 +288,10 @@
   },
   "active": "e174cde7d2f78a9b",
   "lastOpenFiles": [
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/employees.sql",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Create Postgres table with a million rows.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Getting started with indexing.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Understanding the SQL Query Planner and Optimizer with Explain.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Create Postgres table with a million rows.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/employees.sql",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/one-million-pg.txt",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md",
@@ -326,7 +327,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Solo Leveling - S02E05 - This is What We're Trained to Do.mkv",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Solo Leveling - S02E09 - It Was All Worth It.mkv",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Solo Leveling - S02E07 - The 10th S-Rank Hunter.mkv",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Solo Leveling - S02E11 - It's Going to Get Even More Intense.mkv",
     "Reference Notes/Adrian Cantrill/Cybersecurity/Images/Pasted image 20230107213156.png",
     "Reference Notes/Adrian Cantrill/Cybersecurity/Images/Pasted image 20230107204232.png",
     "--Attachments/Stateful Backend.png",
