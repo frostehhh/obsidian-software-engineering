@@ -12,4 +12,4 @@ related-reference-note::
 - Databases store data in fixed block/page sizes(8kb per block, 16kb per block, etc.)
 - Querying data -> querying pages of data
 - Data is stored in heap data structure
-- Index = b-tree representations of a table - sorted
+- Index = [[B-Tree and B+ Tree|B-tree]] representations of a table - sorted
