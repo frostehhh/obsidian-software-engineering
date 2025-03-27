@@ -10,7 +10,7 @@ Draft: true
 
 # What is Partitioning?
 Splitting of a database table into multiple tables with the same schema
-
+![[Pasted image 20250327215037.png]]
 # Horizontal vs Vertical Partitioning
 - Horizontal partitioning splits rows into partitions
 	- Example - 100 rows split into 5 partitions with 20 rows each
