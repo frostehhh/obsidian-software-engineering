@@ -42,6 +42,11 @@ Cassandra DB
 - Archive old data are barely accessed into cheap storage
 
 # Cons
+- Slow transfer partition to partition via update query
+	- Under the hood, deletes from current partition and create in new partition
+- Inefficient queries could accidentally scan all partitions resulting in slower performance
+- Schema changes can be challenging
+
 
 # References
 https://www.postgresql.org/docs/current/ddl-partitioning.html
