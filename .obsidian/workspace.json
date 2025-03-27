@@ -233,9 +233,7 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "workspaces:Manage workspace layouts": false
     }
   },
   "floating": {
@@ -275,8 +273,9 @@
       }
     ]
   },
-  "active": "c9c990d3c8181cf1",
+  "active": "71789e63afa068fa",
   "lastOpenFiles": [
+    "Excalibrain/excalibrain.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 6 - Database Partitioning/Partitioning.md",
     "Notes/Partitioning.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 6 - Database Partitioning/Untitled.md",
@@ -318,7 +317,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/How+tables+and+indexes+are+stored+on+disk.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/Database Pages.md",
     "Self-tests",
-    "Excalibrain/excalibrain.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Row-Based+vs+Column-Based+Databases.pdf",
     "--Attachments/Row-based database and column-based database pros and cons.png",
     "--Attachments/Isolation Levels vs read phenomena.png",
