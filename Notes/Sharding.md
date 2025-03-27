@@ -15,6 +15,11 @@ Splitting of a database table into multiple database servers
 ![[Pasted image 20250327215051.png]]
 # Consistent Hashing
 A hashing function that gives always gives the same output for an input.
+
+# Pros
+
+# Cons
+hakdog
 # Questions
 When should you do partitioning vs Sharding?
 
