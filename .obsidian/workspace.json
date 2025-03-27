@@ -64,6 +64,22 @@
               "icon": "lucide-file",
               "title": "B-Tree and B+Tree"
             }
+          },
+          {
+            "id": "93461729519b5156",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 6 - Database Partitioning/Partitioning Demo.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Partitioning Demo"
+            }
           }
         ],
         "currentTab": 2
@@ -291,6 +307,8 @@
   },
   "active": "6c9dfffaa85982da",
   "lastOpenFiles": [
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 6 - Database Partitioning/Partitioning Demo.md",
+    "Notes/Partitioning.md",
     "Notes/How tables and indexes are stored on disk.md",
     "Dataviews/Backend.md",
     "Notes/Row-based vs Column-based Databases.md",
@@ -298,13 +316,11 @@
     "Dataviews/Has Questions.md",
     "Notes/B-Tree and B+ Tree.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 5 - B-Tree vs B+Tree in Production Database Systems/B-Tree and B+Tree.md",
-    "Notes/Partitioning.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 6 - Database Partitioning/Partitioning.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Partitioning.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Fundamentals of Database engineering Mindmap.excalidraw.md",
     "--Attachments/Pasted image 20250327174725.png",
     "Excalibrain/excalibrain.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 6 - Database Partitioning/Untitled.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/b-tree-original-paper.pdf",
     "--Attachments/Pasted image 20250327010441.png",
     "--Attachments/Pasted image 20250327010418.png",
