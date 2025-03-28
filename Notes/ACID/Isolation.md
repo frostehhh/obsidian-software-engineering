@@ -7,6 +7,9 @@ Draft: false
   - "[[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Isolation|Isolation]]"
 "Parent:": 
  - "[[ACID]]"
+Friend:: 
+- "[[Optimistic Locks]]"
+- "[[Pessimistic Locks]]"
 ---
 
 Database transactions must run independent of other transactions
@@ -41,10 +44,10 @@ With two different transactions where both update the same row, one will overwri
 - Optimistic locking
 - Repeatable reads
 - Serializable
-## Pessimistic locking
+## [[Pessimistic Locks]]
 - Uses locks to ensure no other transactions will write over a transaction's changes
 - Pessimistic in the sense that we have a mechanism set up eagerly to prevent unexpected changes
-## Optimistic locking
+## [[Optimistic Locks]]
 - Deal with dirty updates or reads that moment you see them
 - Can implement this in update scenarios by having a version int column in data rows. The version is incremented on update.
 ## Repeatable reads
