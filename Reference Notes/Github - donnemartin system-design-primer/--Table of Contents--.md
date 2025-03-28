@@ -12,7 +12,7 @@ Source - https://github.com/donnemartin/system-design-primer
 [[Load Balancer]]
 [[Reverse proxy]]
 [[Application layer]]
-[[Database]]
+[[Reference Notes/Github - donnemartin system-design-primer/Database]]
 [[Cache]]
 [[Asynchronism]]
 [[Communication]]

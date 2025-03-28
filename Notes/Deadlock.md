@@ -1,8 +1,8 @@
 ---
 tags:
   - database
-  - reference-notes
-  - computer-science
+  - notes
+  - computer-science/locks
 Draft: false
 related-reference-note:: 
 - "[[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Deadlock|Deadlock]]"
