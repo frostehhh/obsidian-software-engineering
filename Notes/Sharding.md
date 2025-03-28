@@ -2,12 +2,12 @@
 tags:
   - database
   - notes
-Draft: true
+Draft: false
 "related-reference-note:":
   - "[[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 7 - Database Sharding/Sharding|Sharding]]"
 has-questions: true
-similar:: 
- - "[[Notes/Partitioning|Partitioning]]"
+"similar:":
+  - "[[Notes/Partitioning|Partitioning]]"
 ---
 
 # What is sharding

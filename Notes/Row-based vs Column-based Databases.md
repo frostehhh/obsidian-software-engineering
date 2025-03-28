@@ -3,7 +3,7 @@ tags:
   - database
   - notes
   - comparison
-Draft: true
+Draft: false
 "related-reference-note:":
   - "[[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/Row-based vs Column-based Databases|Row-based vs Column-based Databases]]"
 has-questions: true

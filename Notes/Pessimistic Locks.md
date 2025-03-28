@@ -2,9 +2,9 @@
 tags:
   - notes
   - computer-science/locks
-Draft: true
-opposite:: 
-- "[[Optimistic Locks]]"
+Draft: false
+"opposite:":
+  - "[[Optimistic Locks]]"
 ---
 - A lock created prior to an action/set of actions
 - Expensive due to additional action of needing to set a lot

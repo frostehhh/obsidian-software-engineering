@@ -3,7 +3,7 @@ tags:
   - database
   - reference-notes
   - computer-science/locks
-Draft: true
+Draft: false
 ---
 
 - Select and mark as for update - use [[Exclusive Lock]]

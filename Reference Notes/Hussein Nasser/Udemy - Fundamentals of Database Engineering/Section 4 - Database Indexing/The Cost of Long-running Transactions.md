@@ -2,7 +2,7 @@
 tags:
   - database
   - reference-notes
-Draft: true
+Draft: false
 ---
 **The cost of a long-running update transaction that eventually failed in Postgres (or any other database for that matter.**
 

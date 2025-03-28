@@ -3,9 +3,9 @@ tags:
   - database
   - reference-notes
   - comparison
-Draft: true
-Parent:: 
-- "[[Notes/ACID/Isolation|Isolation]]"
+Draft: false
+"Parent:":
+  - "[[Notes/ACID/Isolation|Isolation]]"
 ---
 
 See examples below

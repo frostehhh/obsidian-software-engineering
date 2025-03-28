@@ -3,7 +3,7 @@ tags:
   - database
   - reference-notes
   - data-structures
-Draft: true
+Draft: false
 ---
 # Full Table Scan
 - Brute force of searching page per page
