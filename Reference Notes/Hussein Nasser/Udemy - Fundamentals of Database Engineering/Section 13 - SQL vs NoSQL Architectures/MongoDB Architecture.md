@@ -17,3 +17,4 @@ MMAPv1
 
 # References
 https://medium.com/@hnasr/mongodb-internal-architecture-9a32f1403d6f
+https://www.udemy.com/course/database-engines-crash-course/learn/lecture/38968690#overview - internals content with Udemy course
