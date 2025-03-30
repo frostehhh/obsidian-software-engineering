@@ -13,8 +13,10 @@ Draft: false
 NoSQL vs SQL differs on the frontend side - different API and data formats
 
 # MongoDB Internals
-MMAPv1
+MMAPv1 -> WiredTiger
 
+All documents have `_id` as primary key and primary index.
+User-defined indices are secondary.
 # References
 https://medium.com/@hnasr/mongodb-internal-architecture-9a32f1403d6f
 https://www.udemy.com/course/database-engines-crash-course/learn/lecture/38968690#overview - internals content with Udemy course
