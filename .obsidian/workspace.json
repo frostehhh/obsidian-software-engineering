@@ -10,6 +10,7 @@
           {
             "id": "6c0c1b491143811c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,24 +18,40 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Twitter System Database Design"
             }
           },
           {
-            "id": "a2abbedbe7906e28",
+            "id": "79641a3cbeeff5e8",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "--Attachments/Twitter System Database Design 2025-03-30 16.15.55.excalidraw.md"
               },
+              "pinned": true,
               "icon": "excalidraw-icon",
               "title": "Twitter System Database Design 2025-03-30 16.15.55.excalidraw"
             }
+          },
+          {
+            "id": "af49e803c4a15fa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hypertext Transfer Protocol"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -108,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "--Attachments/Twitter System Database Design 2025-03-30 16.15.55.excalidraw.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 10 - Database System Design/Twitter System Database Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Twitter System Database Design 2025-03-30 16.15.55.excalidraw"
+              "title": "Backlinks for Twitter System Database Design"
             }
           },
           {
@@ -127,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "--Attachments/Twitter System Database Design 2025-03-30 16.15.55.excalidraw.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 10 - Database System Design/Twitter System Database Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Twitter System Database Design 2025-03-30 16.15.55.excalidraw"
+              "title": "Outgoing links from Twitter System Database Design"
             }
           },
           {
@@ -156,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "--Attachments/Twitter System Database Design 2025-03-30 16.15.55.excalidraw.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 10 - Database System Design/Twitter System Database Design.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Twitter System Database Design 2025-03-30 16.15.55.excalidraw"
+              "title": "Outline of Twitter System Database Design"
             }
           }
         ]
@@ -227,11 +243,13 @@
       }
     ]
   },
-  "active": "a2abbedbe7906e28",
+  "active": "6c0c1b491143811c",
   "lastOpenFiles": [
-    "Excalibrain/excalibrain.md",
     "--Attachments/Twitter System Database Design 2025-03-30 16.15.55.excalidraw.md",
+    "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 10 - Database System Design/Twitter System Database Design.md",
+    "Notes/Hypertext Transfer Protocol/HTTP2.md",
+    "Excalibrain/excalibrain.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Fundamentals of Database engineering Mindmap.excalidraw.md",
     "Reference Notes/Hussein Nasser/Drawing 2025-03-04 21.44.52.excalidraw.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Fundamentals Mindmap.md",
