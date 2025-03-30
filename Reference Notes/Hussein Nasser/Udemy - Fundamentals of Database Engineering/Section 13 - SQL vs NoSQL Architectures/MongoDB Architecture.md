@@ -5,10 +5,12 @@ tags:
 Draft: false
 ---
 
+> [!note]
+> Did not continue to absorb info from this regarding MongoDB Internals. Too much unstructured narrating
 
 
 # Database internals
-
+NoSQL vs SQL differs on the frontend side - different API and data formats
 
 # MongoDB Internals
 MMAPv1
