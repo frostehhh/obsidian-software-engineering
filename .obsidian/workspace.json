@@ -8,47 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c0c1b491143811c",
+            "id": "af49e803c4a15fa2",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 10 - Database System Design/Twitter System Database Design.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 13 - SQL vs NoSQL Architectures/MongoDB Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Twitter System Database Design"
+              "title": "MongoDB Architecture"
             }
           },
           {
-            "id": "79641a3cbeeff5e8",
+            "id": "677f02a8f6b4c59a",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "--Attachments/Twitter System Database Design 2025-03-30 16.15.55.excalidraw.md"
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Fundamentals of Database engineering Mindmap.excalidraw.md"
               },
               "pinned": true,
               "icon": "excalidraw-icon",
-              "title": "Twitter System Database Design 2025-03-30 16.15.55.excalidraw"
-            }
-          },
-          {
-            "id": "af49e803c4a15fa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hypertext Transfer Protocol"
+              "title": "Fundamentals of Database engineering Mindmap.excalidraw"
             }
           }
         ]
@@ -124,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 10 - Database System Design/Twitter System Database Design.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 13 - SQL vs NoSQL Architectures/MongoDB Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Twitter System Database Design"
+              "title": "Backlinks for MongoDB Architecture"
             }
           },
           {
@@ -143,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 10 - Database System Design/Twitter System Database Design.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 13 - SQL vs NoSQL Architectures/MongoDB Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Twitter System Database Design"
+              "title": "Outgoing links from MongoDB Architecture"
             }
           },
           {
@@ -172,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 10 - Database System Design/Twitter System Database Design.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 13 - SQL vs NoSQL Architectures/MongoDB Architecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Twitter System Database Design"
+              "title": "Outline of MongoDB Architecture"
             }
           }
         ]
@@ -243,14 +229,16 @@
       }
     ]
   },
-  "active": "6c0c1b491143811c",
+  "active": "af49e803c4a15fa2",
   "lastOpenFiles": [
-    "--Attachments/Twitter System Database Design 2025-03-30 16.15.55.excalidraw.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 10 - Database System Design/Twitter System Database Design.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Fundamentals of Database engineering Mindmap.excalidraw.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 13 - SQL vs NoSQL Architectures/MongoDB Architecture.md",
     "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 13 - SQL vs NoSQL Architectures/Memcached In-memory Database Architecture.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 10 - Database System Design/Twitter System Database Design.md",
+    "--Attachments/Twitter System Database Design 2025-03-30 16.15.55.excalidraw.md",
     "Notes/Hypertext Transfer Protocol/HTTP2.md",
     "Excalibrain/excalibrain.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Fundamentals of Database engineering Mindmap.excalidraw.md",
     "Reference Notes/Hussein Nasser/Drawing 2025-03-04 21.44.52.excalidraw.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Fundamentals Mindmap.md",
     "Dataviews/Draft Notes.md",
