@@ -1,86 +1,37 @@
 {
   "main": {
-    "id": "a93c96a744ff55e6",
+    "id": "259fce9c4680fc85",
     "type": "split",
     "children": [
       {
-        "id": "801b694c6814a1f4",
+        "id": "f82e63bf4c48390f",
         "type": "tabs",
         "children": [
           {
-            "id": "58d60fb0897532de",
+            "id": "f96ed7ae335b8670",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Fundamentals of Database engineering Mindmap.excalidraw.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "Fundamentals of Database engineering Mindmap.excalidraw"
-            }
-          },
-          {
-            "id": "38d2668025f1c729",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/offset.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "offset"
-            }
-          },
-          {
-            "id": "f49414ae26032a8c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/SQL Pagination with Offset is Very slow.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SQL Pagination with Offset is Very slow"
-            }
-          },
-          {
-            "id": "c554d04013564953",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Database Connection Pooling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Database Connection Pooling"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6f41992da3c7f59e",
+    "id": "a1d1292d2f2eb13e",
     "type": "split",
     "children": [
       {
-        "id": "7b7a61d934b5e312",
+        "id": "a06b529e31f449dc",
         "type": "tabs",
         "children": [
           {
-            "id": "bd2714a80d3d3c1d",
+            "id": "c9e86c4b43b9a499",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -93,15 +44,15 @@
             }
           },
           {
-            "id": "b0c2dedb11ea3190",
+            "id": "fa87c464967a6005",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "read committed",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -110,7 +61,7 @@
             }
           },
           {
-            "id": "0fc0c9c5268a5851",
+            "id": "25e8eb8ca9dd6221",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -123,57 +74,55 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.0026054382324
+    "width": 300
   },
   "right": {
-    "id": "2e5b03630ad99a9e",
+    "id": "5a10da42bb9a1e07",
     "type": "split",
     "children": [
       {
-        "id": "893d8ad78ecdd498",
+        "id": "9aacdc802fc8eda7",
         "type": "tabs",
         "children": [
           {
-            "id": "8f96f2b92bce22dd",
+            "id": "4367e4955fdf75ab",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 6 - Proxying and Load Balancing/Layer 4 vs Layer 7 Load Balancers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Layer 4 vs Layer 7 Load Balancers"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "b6ccd2f876a599ff",
+            "id": "12d81f68d49d54eb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/WebSockets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from WebSockets"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "e2c80372fbe8dfbc",
+            "id": "aaf7c0f012f39754",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -182,56 +131,25 @@
             }
           },
           {
-            "id": "d2667930fede267f",
+            "id": "62335ad7b46edd42",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/WebSockets.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of WebSockets"
-            }
-          },
-          {
-            "id": "b7a897f0c88ab5ce",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "ab5b390bbb469339",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
-            }
-          },
-          {
-            "id": "41874f675ef48c26",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 353
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,106 +158,15 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "media-extended:Open media": false
     }
   },
-  "floating": {
-    "id": "e503e9138b790e0e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b7f064647af1ac8d",
-        "type": "window",
-        "children": [
-          {
-            "id": "1bd634c285887c28",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "71789e63afa068fa",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalibrain/excalibrain.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "excalibrain"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2258,
-        "y": 467,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1
-      }
-    ]
-  },
-  "active": "71789e63afa068fa",
-  "lastOpenFiles": [
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Database Connection Pooling.md",
-    "Excalibrain/excalibrain.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Deadlock.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/SQL Pagination with Offset is Very slow.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/offset.pdf",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Shared vs Exclusive Locks.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Solve the Double Booking Problem (Code Example).md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Two-phase locking.md",
-    "Notes/ACID/Isolation.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Fundamentals of Database engineering Mindmap.excalidraw.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/booking-system.zip",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/The Cost of Long-running Transactions.md",
-    "Dataviews/Draft Notes.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 5 - B-Tree vs B+Tree in Production Database Systems/B-Tree and B+Tree.md",
-    "Notes/Sharding.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Serializable vs Repeatable Read.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/Database Pages.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/Row-based vs Column-based Databases.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Bitmap Index Scan vs Index Scan vs Table Scan.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 6 - Database Partitioning/How to Automate Partitioning in Postgres.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 6 - Database Partitioning/Partitioning.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 6 - Database Partitioning/Partitioning Demo.md",
-    "Notes/Pessimistic Locks.md",
-    "Notes/Row-based vs Column-based Databases.md",
-    "Notes/Eventual Consistency.md",
-    "Notes/Partitioning.md",
-    "Optimistic Locks.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Create Index Concurrently - Avoid Blocking Production Database Writes.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/sharding-links-code-commands.txt",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/sharding-commands.txt",
-    "--Attachments/Pasted image 20250327215051.png",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Sharding.pdf",
-    "--Attachments/Pasted image 20250327215037.png",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Partitioning.pdf",
-    "--Attachments/Pasted image 20250327214319.png",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/commands.txt",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/links-code-commands.txt",
-    "Braindump/Fundamentals of Database Engineering.canvas",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/automate_partitions/automate_partitions/create_partitions.mjs",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/automate_partitions/automate_partitions/package.json",
-    "--Attachments/Pasted image 20250327174725.png",
-    "--Attachments/Pasted image 20250327010441.png",
-    "--Attachments/Pasted image 20250327010418.png",
-    "--Attachments/Pasted image 20250327010218.png",
-    "--Attachments/Pasted image 20250327004935.png",
-    "--Attachments/Pasted image 20250327004013.png",
-    "--Attachments/Pasted image 20250326233028.png",
-    "Canvas/Untitled.canvas",
-    "Untitled.canvas",
-    "Canvas/canvas 2.canvas",
-    "Untitled 1.canvas"
-  ]
+  "active": "f96ed7ae335b8670",
+  "lastOpenFiles": []
 }
