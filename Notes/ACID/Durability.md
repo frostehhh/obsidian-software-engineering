@@ -11,9 +11,9 @@ Parent::
 
 Resistance to data corruption in the event of crashes.
 # Methods to implement
-- Write logs - compressed version of changes
+- Write-ahead log(WAL) - compressed version of changes
 - Asynchronous replication - expensive
-- AOF - append only file
+- AOF - append-only file
 
 # OS Cache
 - When writes are being done by an OS, the data is moved to OS cached by default
