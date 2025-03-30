@@ -22,37 +22,51 @@
             }
           },
           {
-            "id": "12814c68ec92f96a",
+            "id": "38d2668025f1c729",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/offset.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "offset"
+            }
+          },
+          {
+            "id": "f49414ae26032a8c",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Two-phase locking.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/SQL Pagination with Offset is Very slow.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Two-phase locking"
+              "title": "SQL Pagination with Offset is Very slow"
             }
           },
           {
-            "id": "38d2668025f1c729",
+            "id": "c554d04013564953",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Solve the Double Booking Problem (Code Example).md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Database Connection Pooling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solve the Double Booking Problem (Code Example)"
+              "title": "Database Connection Pooling"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -232,7 +246,9 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "floating": {
@@ -251,20 +267,20 @@
                 "id": "71789e63afa068fa",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw-loading",
+                  "type": "excalidraw",
                   "state": {
                     "file": "Excalibrain/excalibrain.md"
                   },
-                  "icon": "lucide-file",
-                  "title": "Loading Excalidraw... excalibrain"
+                  "icon": "excalidraw-icon",
+                  "title": "excalibrain"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 716,
-        "y": 248,
+        "x": 2258,
+        "y": 467,
         "width": 1024,
         "height": 800,
         "maximize": false,
@@ -274,9 +290,14 @@
   },
   "active": "71789e63afa068fa",
   "lastOpenFiles": [
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Database Connection Pooling.md",
+    "Excalibrain/excalibrain.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Deadlock.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/SQL Pagination with Offset is Very slow.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/offset.pdf",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Shared vs Exclusive Locks.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Solve the Double Booking Problem (Code Example).md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Two-phase locking.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/offset.pdf",
     "Notes/ACID/Isolation.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Fundamentals of Database engineering Mindmap.excalidraw.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/booking-system.zip",
@@ -296,11 +317,7 @@
     "Notes/Eventual Consistency.md",
     "Notes/Partitioning.md",
     "Optimistic Locks.md",
-    "Excalibrain/excalibrain.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Create Index Concurrently - Avoid Blocking Production Database Writes.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Deadlock.md",
-    "Notes/Deadlock.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Elastic Block Store(EBS).md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/sharding-links-code-commands.txt",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/sharding-commands.txt",
     "--Attachments/Pasted image 20250327215051.png",
