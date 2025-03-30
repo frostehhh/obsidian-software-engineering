@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "545d16a86fb44672",
+            "id": "f7eb79e70d84d05b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 12 - Database Cursors/Database Cursors.md",
+                "file": "Notes/Database Cursors.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Database Cursors"
             }
@@ -56,7 +58,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -109,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 12 - Database Cursors/Database Cursors.md",
+                "file": "Notes/Database Cursors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 12 - Database Cursors/Database Cursors.md",
+                "file": "Notes/Database Cursors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -157,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 12 - Database Cursors/Database Cursors.md",
+                "file": "Notes/Database Cursors.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -228,10 +230,11 @@
       }
     ]
   },
-  "active": "545d16a86fb44672",
+  "active": "f7eb79e70d84d05b",
   "lastOpenFiles": [
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Fundamentals of Database engineering Mindmap.excalidraw.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 12 - Database Cursors/Database Cursors.md",
+    "Notes/Database Cursors.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Fundamentals of Database engineering Mindmap.excalidraw.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 13 - SQL vs NoSQL Architectures/MongoDB Architecture.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 11 - Database Engines/Database Engines.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Database+Engines.pdf",
