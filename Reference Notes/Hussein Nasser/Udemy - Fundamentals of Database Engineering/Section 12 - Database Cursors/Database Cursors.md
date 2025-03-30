@@ -6,6 +6,7 @@ Draft: true
 ---
 
 - A mechanism to traverse data row by row
+- In PostgreSQL, a pl/pgsql feature
 
 # Example
 ```sql
@@ -20,6 +21,10 @@ BEGIN
 END
 $$;
 ```
+
+# Questions
+- What's the benefit of using cursors?
+- What are good examples of when to use this?
 # References
 https://en.wikipedia.org/wiki/Cursor_(databases)
 https://www.postgresql.org/docs/current/plpgsql-cursors.html
