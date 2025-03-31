@@ -1,0 +1,4 @@
+- Tier 1 Analysis - DevTools
+- Tier 2 Analysis - MITM Proxy
+- Tier 3 Analysis - Wireshark
+- Real-world Performance
