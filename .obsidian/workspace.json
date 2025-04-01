@@ -27,18 +27,28 @@
             "id": "86e94f841f411a2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 2 - Supplementary Lectures/DevTools Networking - Part 1 - RequestResponse Columns.md",
-                "mode": "source",
-                "source": false
+                "file": "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "DevTools Networking - Part 1 - RequestResponse Columns"
+              "icon": "excalidraw-icon",
+              "title": "Hussein Nasser Fundamentals of backend braindump.excalidraw"
+            }
+          },
+          {
+            "id": "24b47eb0e746568f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Braindump/Fundamentals of Database and Backend.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Fundamentals of Database and Backend.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,13 +198,19 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "86e94f841f411a2f",
+  "active": "24b47eb0e746568f",
   "lastOpenFiles": [
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 2 - Supplementary Lectures/Anatomy of a Request-Response.md",
+    "Braindump/Fundamentals of Database and Backend.md",
+    "Braindump/Fundamentals of Database and Backend.excalidraw.md",
+    "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md",
+    "Braindump/Partitioning.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 2 - Supplementary Lectures/DevTools Networking - Part 1 - RequestResponse Columns.md",
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 2 - Supplementary Lectures/Anatomy of a Request-Response.md",
     "--Attachments/Anatomy of a RequestResponse.png",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 2 - Supplementary Lectures/Tier 1 Analysis Introduction.md",
     "--Obsidian Template--/Frontmatter - Reference Notes - Backend Troubleshooting.md",
@@ -204,8 +220,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 1 - Introduction/Course Outline.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/_note_backend-analysis-course.md",
     "Dataviews/Braindumps.md",
-    "Braindump/Partitioning.md",
-    "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/webtest",
     "Dataviews/Draft Notes.md",
@@ -228,8 +242,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/debug/CHANGELOG.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/postgres-bytea/readme.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/postgres-array/readme.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/on-finished/README.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/on-finished/HISTORY.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/object-inspect/CHANGELOG.md"
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/on-finished/README.md"
   ]
 }
