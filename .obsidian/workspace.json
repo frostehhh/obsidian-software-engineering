@@ -11,12 +11,14 @@
             "id": "dd97c2ea90b3385c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md"
+                "file": "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 1 - Introduction/Socket Programming - Backend C WebServer Setup.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Hussein Nasser Fundamentals of backend braindump.excalidraw"
+              "icon": "lucide-file",
+              "title": "Socket Programming - Backend C WebServer Setup"
             }
           }
         ]
@@ -176,10 +178,11 @@
   },
   "active": "dd97c2ea90b3385c",
   "lastOpenFiles": [
+    "Dataviews/Braindumps.md",
     "Braindump/Partitioning.md",
     "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md",
-    "Dataviews/Braindumps.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/webtest",
     "Dataviews/Draft Notes.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 1 - Introduction/Socket Programming - Backend C WebServer Setup.md",
     "Untitled",
@@ -192,7 +195,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-zero-tcp-window.dSYM/Contents",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-zero-tcp-window.dSYM",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-slow-download.c",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-zero-tcp-window.c",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/setprototypeof/README.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/mime-db/README.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/mime-db/HISTORY.md",
@@ -211,7 +213,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/finalhandler/HISTORY.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/send/node_modules/ms/readme.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/send/node_modules/ms/license.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/send/SECURITY.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/send/README.md"
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/send/SECURITY.md"
   ]
 }
