@@ -14,16 +14,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 2 - Supplementary Lectures/Tier 1 Analysis.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 2 - Supplementary Lectures/Tier 1 Analysis Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Tier 1 Analysis"
+              "title": "Tier 1 Analysis Introduction"
+            }
+          },
+          {
+            "id": "86e94f841f411a2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 2 - Supplementary Lectures/DevTools Networking - Part 1 - RequestResponse Columns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DevTools Networking - Part 1 - RequestResponse Columns"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,12 +193,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "dd97c2ea90b3385c",
+  "active": "86e94f841f411a2f",
   "lastOpenFiles": [
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 2 - Supplementary Lectures/Anatomy of a Request-Response.md",
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 2 - Supplementary Lectures/DevTools Networking - Part 1 - RequestResponse Columns.md",
+    "--Attachments/Anatomy of a RequestResponse.png",
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 2 - Supplementary Lectures/Tier 1 Analysis Introduction.md",
     "--Obsidian Template--/Frontmatter - Reference Notes - Backend Troubleshooting.md",
     "--Obsidian Template--/Frontmatter - Reference Notes - Backend.md",
     "--Obsidian Template--/Frontmatter - Notes - Backend.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 2 - Supplementary Lectures/Tier 1 Analysis.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 1 - Introduction/Socket Programming - Backend C WebServer Setup.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 1 - Introduction/Course Outline.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/_note_backend-analysis-course.md",
@@ -214,8 +232,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/postgres-array/readme.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/on-finished/README.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/on-finished/HISTORY.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/object-inspect/CHANGELOG.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/finalhandler/SECURITY.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/finalhandler/README.md"
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/object-inspect/CHANGELOG.md"
   ]
 }
