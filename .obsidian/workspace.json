@@ -205,8 +205,9 @@
   },
   "active": "24b47eb0e746568f",
   "lastOpenFiles": [
-    "Braindump/Fundamentals of Database and Backend.md",
+    "Notes/_note_Notes.md",
     "Braindump/Fundamentals of Database and Backend.excalidraw.md",
+    "Braindump/Fundamentals of Database and Backend.md",
     "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md",
     "Braindump/Partitioning.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 2 - Supplementary Lectures/DevTools Networking - Part 1 - RequestResponse Columns.md",
@@ -241,7 +242,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/debug/README.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/debug/CHANGELOG.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/postgres-bytea/readme.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/postgres-array/readme.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/on-finished/README.md"
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/postgres-array/readme.md"
   ]
 }
