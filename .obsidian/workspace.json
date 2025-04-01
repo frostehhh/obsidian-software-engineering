@@ -10,15 +10,17 @@
           {
             "id": "dd97c2ea90b3385c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 1 - Introduction/Socket Programming - Backend C WebServer Setup.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 2 - Supplementary Lectures/Tier 1 Analysis.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Socket Programming - Backend C WebServer Setup"
+              "title": "Tier 1 Analysis"
             }
           }
         ]
@@ -178,17 +180,22 @@
   },
   "active": "dd97c2ea90b3385c",
   "lastOpenFiles": [
+    "--Obsidian Template--/Frontmatter - Reference Notes - Backend Troubleshooting.md",
+    "--Obsidian Template--/Frontmatter - Reference Notes - Backend.md",
+    "--Obsidian Template--/Frontmatter - Notes - Backend.md",
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 2 - Supplementary Lectures/Tier 1 Analysis.md",
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 1 - Introduction/Socket Programming - Backend C WebServer Setup.md",
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 1 - Introduction/Course Outline.md",
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/_note_backend-analysis-course.md",
     "Dataviews/Braindumps.md",
     "Braindump/Partitioning.md",
     "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/webtest",
     "Dataviews/Draft Notes.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 1 - Introduction/Socket Programming - Backend C WebServer Setup.md",
     "Untitled",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/webtest.exe",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/webtest.c",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 1 - Introduction/Course Outline.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-zero-tcp-window.dSYM/Contents/Resources/DWARF",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-zero-tcp-window.dSYM/Contents/Resources",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-zero-tcp-window.dSYM/Contents/Info.plist",
@@ -209,10 +216,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/on-finished/HISTORY.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/object-inspect/CHANGELOG.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/finalhandler/SECURITY.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/finalhandler/README.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/finalhandler/HISTORY.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/send/node_modules/ms/readme.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/send/node_modules/ms/license.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/send/SECURITY.md"
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/finalhandler/README.md"
   ]
 }
