@@ -2,7 +2,7 @@
   "ribbonIcon": true,
   "ribbonCommandUsesCode": true,
   "showFileContextMenuItem": true,
-  "executeTemplate": "cursor \"{{vaultpath}}\" \"{{vaultpath}}/{{filepath}}\"",
+  "executeTemplate": "code \"{{vaultpath}}\" \"{{vaultpath}}/{{filepath}}\"",
   "openFile": true,
   "workspacePath": "{{vaultpath}}",
   "useUrlInsiders": false
