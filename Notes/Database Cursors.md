@@ -2,9 +2,9 @@
 tags:
   - database
   - notes
-Draft: true
-related-reference-note:: 
- - "[[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 12 - Database Cursors/Database Cursors|Database Cursors]]"
+Draft: false
+"related-reference-note:":
+  - "[[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 12 - Database Cursors/Database Cursors|Database Cursors]]"
 ---
 
 - A mechanism to traverse data row by row

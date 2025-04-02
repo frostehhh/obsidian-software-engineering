@@ -2,7 +2,7 @@
 tags:
   - database
   - reference-notes
-Draft: true
+Draft: false
 ---
 
 See [[Notes/Database Cursors|Database Cursors]]

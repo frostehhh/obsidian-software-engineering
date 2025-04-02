@@ -8,47 +8,79 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd97c2ea90b3385c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 2 - Supplementary Lectures/Tier 1 Analysis Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Tier 1 Analysis Introduction"
-            }
-          },
-          {
-            "id": "86e94f841f411a2f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Hussein Nasser Fundamentals of backend braindump.excalidraw"
-            }
-          },
-          {
             "id": "24b47eb0e746568f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Braindump/Fundamentals of Database and Backend.excalidraw.md"
               },
+              "pinned": true,
               "icon": "excalidraw-icon",
               "title": "Fundamentals of Database and Backend.excalidraw"
             }
+          },
+          {
+            "id": "8fe63236ea876293",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataviews/Database.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Database"
+            }
+          },
+          {
+            "id": "c510f261faf60d08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Serializable vs Repeatable Read.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Serializable vs Repeatable Read"
+            }
+          },
+          {
+            "id": "fcc118ca4f7a8708",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Database Cursors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Database Cursors"
+            }
+          },
+          {
+            "id": "c797c160a3fb553c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/SQL Cursors - how and when to use them.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL Cursors - how and when to use them"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -80,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/\" ",
+                "query": "tag:#database",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 460.0026054382324
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -203,27 +235,37 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "24b47eb0e746568f",
+  "active": "c797c160a3fb553c",
   "lastOpenFiles": [
-    "Braindump/Fundamentals of Database Engineering.canvas",
-    "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md",
+    "--Obsidian Template--/Questions.md",
+    "Reference Notes/SQL Cursors - how and when to use them.md",
     "Braindump/Fundamentals of Database and Backend.excalidraw.md",
+    "Notes/Database Cursors.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Serializable vs Repeatable Read.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Phantom Reads.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Isolation.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/SQL Pagination with Offset is Very slow.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 10 - Database System Design/Twitter System Database Design.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 11 - Database Engines/Database Engines.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 12 - Database Cursors/Database Cursors.md",
+    "Dataviews/Database.md",
+    "Notes/B-Tree and B+ Tree.md",
+    "Dataviews/Draft Notes.md",
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 2 - Supplementary Lectures/DevTools Networking - Part 1 - RequestResponse Columns.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 13 - SQL vs NoSQL Architectures/Memcached In-memory Database Architecture.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 13 - SQL vs NoSQL Architectures/MongoDB Architecture.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Fundamentals of Database engineering Mindmap.excalidraw.md",
+    "Dataviews/Braindumps.md",
+    "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md",
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 2 - Supplementary Lectures/Tier 1 Analysis Introduction.md",
+    "Braindump/Fundamentals of Database Engineering.canvas",
     "Notes/_note_Notes.md",
     "Braindump/Fundamentals of Database and Backend.md",
     "Braindump/Partitioning.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 2 - Supplementary Lectures/DevTools Networking - Part 1 - RequestResponse Columns.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 2 - Supplementary Lectures/Anatomy of a Request-Response.md",
     "--Attachments/Anatomy of a RequestResponse.png",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 2 - Supplementary Lectures/Tier 1 Analysis Introduction.md",
     "--Obsidian Template--/Frontmatter - Reference Notes - Backend Troubleshooting.md",
-    "--Obsidian Template--/Frontmatter - Reference Notes - Backend.md",
-    "--Obsidian Template--/Frontmatter - Notes - Backend.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 1 - Introduction/Socket Programming - Backend C WebServer Setup.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 1 - Introduction/Course Outline.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/_note_backend-analysis-course.md",
-    "Dataviews/Braindumps.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/webtest",
-    "Dataviews/Draft Notes.md",
     "Untitled",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/webtest.exe",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/webtest.c",
@@ -232,15 +274,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-zero-tcp-window.dSYM/Contents/Info.plist",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-zero-tcp-window.dSYM/Contents",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-zero-tcp-window.dSYM",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-slow-download.c",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/setprototypeof/README.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/mime-db/README.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/mime-db/HISTORY.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/media-typer/README.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/media-typer/HISTORY.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/pgpass/README.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/debug/README.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/debug/CHANGELOG.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/postgres-bytea/readme.md"
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-slow-download.c"
   ]
 }
