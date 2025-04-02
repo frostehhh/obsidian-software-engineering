@@ -38,6 +38,9 @@ FETCH students_cursor;
 # Cons
 - stateful
 - Long-running transaction
+# Use cases
+- Serialize updates[^1]
+- When you have to run queries one by one
 # Questions
 - What's the benefit of using cursors?
 - What are good examples of when to use this?
@@ -47,3 +50,5 @@ https://www.postgresql.org/docs/current/plpgsql-cursors.html
 https://www.postgresql.org/docs/current/sql-declare.html
 https://www.dbvis.com/thetable/cursors-in-postgresql-a-guide/#:~:text=Cursors%20allow%20you%20to%20fetch,when%20a%20FETCH%20is%20called.
 https://www.geeksforgeeks.org/postgresql-cursor/
+
+[^1]: [[SQL Cursors - how and when to use them]]
