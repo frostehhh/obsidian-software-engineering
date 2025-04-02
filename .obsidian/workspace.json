@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "24b47eb0e746568f",
+            "id": "1b1ff72e9d585e50",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,38 +22,9 @@
             }
           },
           {
-            "id": "8fe63236ea876293",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dataviews/Database.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Database"
-            }
-          },
-          {
-            "id": "af820eec36d4c8a4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalibrain/excalibrain.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "excalibrain"
-            }
-          },
-          {
             "id": "1df7a743978112b2",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -61,40 +32,12 @@
                 "mode": "source",
                 "source": false
               },
-              "icon": "lucide-file",
-              "title": "Backend"
-            }
-          },
-          {
-            "id": "dee6047df7bab76e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mindmaps/Fundamentals of Database engineering Mindmap.excalidraw.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fundamentals of Database engineering Mindmap.excalidraw"
-            }
-          },
-          {
-            "id": "fabdc60f745ee3b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dataviews/Backend.md",
-                "mode": "preview",
-                "source": false
-              },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Backend"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,9 +70,9 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -167,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Braindump/Fundamentals of Database and Backend.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Fundamentals of Database and Backend.excalidraw"
             }
           },
           {
@@ -228,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,35 +192,72 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3dfa44906cf39035",
+  "floating": {
+    "id": "894956b269a6a662",
+    "type": "floating",
+    "children": [
+      {
+        "id": "23d7d63707dcf9f4",
+        "type": "window",
+        "children": [
+          {
+            "id": "27bfc8e402c98032",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bb8b5abd0f47ad47",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalibrain/excalibrain.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "excalibrain"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 735,
+        "y": 326,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1
+      }
+    ]
+  },
+  "active": "1b1ff72e9d585e50",
   "lastOpenFiles": [
     "Dataviews/Backend.md",
-    "Mindmaps/Backend Fundamentals.md",
-    "Notes/Layer 4 vs Layer 7 Load Balancers.md",
-    "Dataviews/Braindumps.md",
-    "Dataviews/Database.md",
-    "Dataviews/Draft Notes.md",
-    "Dataviews/Mindmaps.md",
-    "Braindump/Fundamentals of Database and Backend.excalidraw.md",
-    "Mindmaps/Fundamentals of Database engineering Mindmap.excalidraw.md",
     "Excalibrain/excalibrain.md",
-    "Mindmaps",
-    "Reference Notes/Adrian Cantrill/Kubernetes/--Table of Contents--.md",
-    "Reference Notes/Spring/Spring Framework/_note_Spring Framework.md",
-    "Reference Notes/Spring/Spring Framework/Inversion of Control Container/_note_Inversion of Control Container.md",
-    "Reference Notes/Github - Learn Node.js Hardway/_note_Github - Learn Node.js Hardway.md",
-    "Reference Notes/Github - donnemartin system-design-primer/_note_Github - donnemartin system-design-primer.md",
+    "Notes/Proxy vs Reverse Proxy.md",
+    "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
     "Notes/Transport Layer Security/Transport Layer Security.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/UDP.md",
+    "Notes/Hypertext Transfer Protocol/HTTP2.md",
     "Notes/User Datagram Protocol.md",
-    "Notes/Web Real-time Communication.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/WebRTC.md",
-    "Notes/Server Sent Events.md",
-    "Notes/Push.md",
+    "Dataviews/Braindumps.md",
+    "Braindump/Fundamentals of Database and Backend.excalidraw.md",
+    "Braindump/Partitioning.md",
+    "Notes/Hypertext Transfer Protocol/HTTP3.md",
+    "Notes/WebSockets.md",
+    "Notes/Transport Layer Security/TLS 1.2.md",
+    "Notes/Transmission Control Protocol.md",
+    "Notes/Internet Protocol.md",
+    "Notes/gRPC.md",
+    "Notes/JSON Web Token.md",
     "Notes/Internet Control Message Protocol.md",
-    "Notes/Database Cursors.md",
-    "Reference Notes/SQL Cursors - how and when to use them.md",
-    "--Obsidian Template--/Questions.md",
+    "Notes/HTTP Cookies.md",
+    "Notes/Network Socket.md",
+    "Notes/Publish Subscribe.md",
+    "Notes/Long Polling.md",
+    "Notes/Push.md",
+    "Dataviews/Database.md",
+    "Mindmaps/Backend Fundamentals.md",
+    "Mindmaps/Fundamentals of Database engineering Mindmap.excalidraw.md",
+    "Mindmaps",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "--Attachments/Anatomy of a RequestResponse.png",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/webtest",

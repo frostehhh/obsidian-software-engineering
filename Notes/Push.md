@@ -2,10 +2,14 @@
 tags:
   - notes
   - backend
+  - backend/communication
 Draft: false
-aliases: Websockets
-related:: [[Request Response Model]]
-similar:: [[Notes/Server Sent Events|Server Sent Events]]
+aliases:
+  - Websockets
+"related:":
+  - "[[Request Response Model]]"
+"similar:":
+  - "[[Notes/Server Sent Events|Server Sent Events]]"
 ---
 
 The push communication method refers to the reliance of the server to **push** updates to clients as soon as those updates are available.

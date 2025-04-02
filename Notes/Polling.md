@@ -1,7 +1,7 @@
 ---
 tags:
   - notes
-  - backend
+  - backend/communication
 Draft: false
 aliases:
   - Short Polling

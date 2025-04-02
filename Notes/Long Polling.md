@@ -2,8 +2,10 @@
 tags:
   - notes
   - backend
+  - backend/communication
 Draft: false
-alternatives:: [[Notes/Polling|Short Polling]]
+"alternatives:":
+  - - Notes/Polling|Short Polling
 ---
 
 # Long Polling

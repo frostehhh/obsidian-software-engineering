@@ -1,6 +1,6 @@
 # Notes
 ```dataview
-TABLE file.aliases as "Aliases", tags
+TABLE file.aliases as "Aliases", filter(tags, (tag) => tag != "notes") as Tags
  FROM #database AND #notes
  SORT tags ASC
 ```
