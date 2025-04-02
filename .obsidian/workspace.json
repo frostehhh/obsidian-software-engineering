@@ -198,15 +198,13 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "media-extended:Open media": false
     }
   },
-  "active": "24b47eb0e746568f",
+  "active": "8a4d235cbb11a624",
   "lastOpenFiles": [
-    "Notes/_note_Notes.md",
     "Braindump/Fundamentals of Database and Backend.excalidraw.md",
+    "Notes/_note_Notes.md",
     "Braindump/Fundamentals of Database and Backend.md",
     "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md",
     "Braindump/Partitioning.md",
