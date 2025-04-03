@@ -187,9 +187,7 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "media-extended:Open media": false
     }
   },
   "floating": {
@@ -229,17 +227,17 @@
       }
     ]
   },
-  "active": "1b1ff72e9d585e50",
+  "active": "899a181beeba0531",
   "lastOpenFiles": [
-    "Dataviews/Backend.md",
     "Excalibrain/excalibrain.md",
+    "Braindump/Fundamentals of Database and Backend.excalidraw.md",
+    "Dataviews/Backend.md",
     "Notes/Proxy vs Reverse Proxy.md",
     "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
     "Notes/Transport Layer Security/Transport Layer Security.md",
     "Notes/Hypertext Transfer Protocol/HTTP2.md",
     "Notes/User Datagram Protocol.md",
     "Dataviews/Braindumps.md",
-    "Braindump/Fundamentals of Database and Backend.excalidraw.md",
     "Braindump/Partitioning.md",
     "Notes/Hypertext Transfer Protocol/HTTP3.md",
     "Notes/WebSockets.md",
