@@ -11,10 +11,14 @@
             "id": "4659807eff8c4d69",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 3 - Tier 1 Analysis - DevTools/Identify Slow Network Request-Response with DevTools.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Identify Slow Network Request-Response with DevTools"
             }
           }
         ]
@@ -173,8 +177,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c9e86c4b43b9a499",
+  "active": "4659807eff8c4d69",
   "lastOpenFiles": [
+    "--Attachments/Pasted image 20250404182851.png",
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 3 - Tier 1 Analysis - DevTools/Identify Slow Network Request-Response with DevTools.md",
     "Notes/Hypertext Transfer Protocol/HTTP3.md",
     "Database Transaction.md",
     "Topics/Project Management/Methodologies/Agile/Allen Holub/No Estimates.md",
@@ -199,8 +205,6 @@
     "Notes/JSON Web Token.md",
     "Notes/Internet Control Message Protocol.md",
     "Notes/HTTP Cookies.md",
-    "Notes/Network Socket.md",
-    "Notes/Publish Subscribe.md",
     "Mindmaps",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "--Attachments/Anatomy of a RequestResponse.png",
