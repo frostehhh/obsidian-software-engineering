@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21bcaae7df119764",
+        "id": "4f3c5fa320060f0e",
         "type": "tabs",
         "children": [
           {
-            "id": "4659807eff8c4d69",
+            "id": "444e2f6b39db130a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,10 +177,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4659807eff8c4d69",
+  "active": "444e2f6b39db130a",
   "lastOpenFiles": [
-    "--Attachments/Pasted image 20250404182851.png",
+    "Notes/The Listener, the Acceptor and the Reader.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/The Listener, the Acceptor and the Reader.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/The Process and the Thread and how they compete for CPU time.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Reading and Sending Socket Data.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/_note_Udemy - Fundamentals of Backend Engineering.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/rabbitMQ-pushAPI.pdf",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/How The Backend Accepts Connections.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 3 - Tier 1 Analysis - DevTools/Identify Slow Network Request-Response with DevTools.md",
+    "--Attachments/Pasted image 20250404182851.png",
     "Notes/Hypertext Transfer Protocol/HTTP3.md",
     "Database Transaction.md",
     "Topics/Project Management/Methodologies/Agile/Allen Holub/No Estimates.md",
@@ -200,11 +207,6 @@
     "Notes/WebSockets.md",
     "Notes/Transport Layer Security/TLS 1.2.md",
     "Notes/Transmission Control Protocol.md",
-    "Notes/Internet Protocol.md",
-    "Notes/gRPC.md",
-    "Notes/JSON Web Token.md",
-    "Notes/Internet Control Message Protocol.md",
-    "Notes/HTTP Cookies.md",
     "Mindmaps",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "--Attachments/Anatomy of a RequestResponse.png",
@@ -215,7 +217,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-zero-tcp-window.dSYM/Contents/Resources/DWARF",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-zero-tcp-window.dSYM/Contents/Resources",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-zero-tcp-window.dSYM/Contents/Info.plist",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-zero-tcp-window.dSYM/Contents",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-zero-tcp-window.dSYM"
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-zero-tcp-window.dSYM/Contents"
   ]
 }

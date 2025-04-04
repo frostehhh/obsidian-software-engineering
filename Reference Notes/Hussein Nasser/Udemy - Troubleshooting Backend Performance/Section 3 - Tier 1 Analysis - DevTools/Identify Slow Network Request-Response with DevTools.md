@@ -12,6 +12,8 @@ Draft: true
 
 # Slow Download Time
 - Indicated by `Content Download`
-- Long content download is typical for large media file downloades
+- Long content download is typical for large media file downloads
 
-# 
+# Slow Connection Establishment
+- Indicated by slow `initial connection`
+- Time until connection request is successfully accepted
