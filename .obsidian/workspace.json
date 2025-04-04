@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9a2c19b5b657cd9f",
+        "id": "21bcaae7df119764",
         "type": "tabs",
         "children": [
           {
-            "id": "1b1ff72e9d585e50",
+            "id": "4659807eff8c4d69",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Braindump/Fundamentals of Database and Backend.excalidraw.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "Fundamentals of Database and Backend.excalidraw"
-            }
-          },
-          {
-            "id": "1df7a743978112b2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dataviews/Backend.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Backend"
+              "title": "New tab"
             }
           }
         ]
@@ -57,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -172,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,51 +168,22 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "floating": {
-    "id": "894956b269a6a662",
-    "type": "floating",
-    "children": [
-      {
-        "id": "23d7d63707dcf9f4",
-        "type": "window",
-        "children": [
-          {
-            "id": "27bfc8e402c98032",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bb8b5abd0f47ad47",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalibrain/excalibrain.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "excalibrain"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 735,
-        "y": 326,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1
-      }
-    ]
-  },
-  "active": "30117a64faebba8c",
+  "active": "c9e86c4b43b9a499",
   "lastOpenFiles": [
-    "Excalibrain/excalibrain.md",
-    "Braindump/Fundamentals of Database and Backend.excalidraw.md",
+    "Notes/Hypertext Transfer Protocol/HTTP3.md",
+    "Database Transaction.md",
+    "Topics/Project Management/Methodologies/Agile/Allen Holub/No Estimates.md",
+    "Topics/Project Management/Methodologies/Agile/Allen Holub/How we can correct the mistakes made with Agile • Allen Holub.md",
+    "Topics/Project Management/Methodologies/Agile/Gabrielle Benefield/Frankenbuilds - If Agile is so Good, Why Are Our Products so Bad Gabrielle Benefield GOTO 2012.md",
+    "Topics/Project Management/Methodologies/Agile/Agile is Dead • Pragmatic Dave Thomas.md",
     "Dataviews/Backend.md",
+    "Braindump/Fundamentals of Database and Backend.excalidraw.md",
+    "Excalibrain/excalibrain.md",
     "Notes/Proxy vs Reverse Proxy.md",
     "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
     "Notes/Transport Layer Security/Transport Layer Security.md",
@@ -239,7 +191,6 @@
     "Notes/User Datagram Protocol.md",
     "Dataviews/Braindumps.md",
     "Braindump/Partitioning.md",
-    "Notes/Hypertext Transfer Protocol/HTTP3.md",
     "Notes/WebSockets.md",
     "Notes/Transport Layer Security/TLS 1.2.md",
     "Notes/Transmission Control Protocol.md",
@@ -250,11 +201,6 @@
     "Notes/HTTP Cookies.md",
     "Notes/Network Socket.md",
     "Notes/Publish Subscribe.md",
-    "Notes/Long Polling.md",
-    "Notes/Push.md",
-    "Dataviews/Database.md",
-    "Mindmaps/Backend Fundamentals.md",
-    "Mindmaps/Fundamentals of Database engineering Mindmap.excalidraw.md",
     "Mindmaps",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "--Attachments/Anatomy of a RequestResponse.png",
