@@ -8,7 +8,8 @@ Draft: false
 aliases:
   - TLS
 "related-reference-note:":
-  - - TLS
+  - "[[TLS]]"
+  - "[[SSL and TLS]]"
 ---
 
 # Transport Layer Security
@@ -35,6 +36,7 @@ The flow goes as follows(uses Diffie-Hellman Algorithm):
 
 ## With 0RTT
 ![[Pasted image 20250323173529.png]]
+![[TF-GEN-SSLTLS.png]]
 # References
 https://www.thesslstore.com/blog/tls-1-3-handshake-tls-1-2/
 ![[TLS#References]]

@@ -10,18 +10,87 @@
           {
             "id": "444e2f6b39db130a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 4 - Tier 2 Analysis - MITM Proxy/Tier 2 Analysis.md",
+                "file": "Notes/Certificate Authority.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Certificate Authority"
+            }
+          },
+          {
+            "id": "4a89df2d7ddd08b4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230507214352.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20230507214352"
+            }
+          },
+          {
+            "id": "93e2279b1c0e1326",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230507220629.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20230507220629"
+            }
+          },
+          {
+            "id": "b53885a001289f20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Adrian Cantrill/Cybersecurity/Digital Signatures/Digital Signatures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tier 2 Analysis"
+              "title": "Digital Signatures"
+            }
+          },
+          {
+            "id": "23410608093d440e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Adrian Cantrill/Cybersecurity/SSL and TLS/SSL and TLS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SSL and TLS"
+            }
+          },
+          {
+            "id": "10cb73b74318aba8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataviews/Draft Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Draft Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -53,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "digital signature",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +143,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,11 +247,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "444e2f6b39db130a",
+  "active": "b53885a001289f20",
   "lastOpenFiles": [
-    "--Attachments/Pasted image 20250405181621.png",
+    "Notes/Digital Signatures.md",
+    "Reference Notes/Adrian Cantrill/Cybersecurity/Digital Signatures/Digital Signatures.md",
+    "Notes/Transport Layer Security/Transport Layer Security.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
+    "Notes/Certificate Authority.md",
+    "Reference Notes/Adrian Cantrill/Cybersecurity/SSL and TLS/SSL and TLS.md",
+    "Notes/Transport Layer Security/TLS 1.2.md",
+    "Dataviews/Draft Notes.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 3 - Tier 1 Analysis - DevTools/Identify Slow Network Request-Response with DevTools.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230507220629.png",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230507214352.png",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 4 - Tier 2 Analysis - MITM Proxy/Tier 2 Analysis.md",
+    "--Attachments/Pasted image 20250405181621.png",
     "Notes/The Listener, the Acceptor and the Reader.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/The Listener, the Acceptor and the Reader.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/The Process and the Thread and how they compete for CPU time.md",
@@ -201,12 +281,6 @@
     "Excalibrain/excalibrain.md",
     "Notes/Proxy vs Reverse Proxy.md",
     "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
-    "Notes/Transport Layer Security/Transport Layer Security.md",
-    "Notes/Hypertext Transfer Protocol/HTTP2.md",
-    "Notes/User Datagram Protocol.md",
-    "Dataviews/Braindumps.md",
-    "Braindump/Partitioning.md",
-    "Notes/WebSockets.md",
     "Mindmaps",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "--Attachments/Anatomy of a RequestResponse.png",
@@ -216,7 +290,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/webtest.c",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-zero-tcp-window.dSYM/Contents/Resources/DWARF",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-zero-tcp-window.dSYM/Contents/Resources",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-zero-tcp-window.dSYM/Contents/Info.plist",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-zero-tcp-window.dSYM/Contents"
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-zero-tcp-window.dSYM/Contents/Info.plist"
   ]
 }
