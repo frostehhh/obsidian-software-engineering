@@ -4,8 +4,9 @@ tags:
   - backend/communication/protocols
   - networking
   - security
-Draft: TRUE
-"Parent:": "[[Notes/Transport Layer Security/Transport Layer Security|TLS]]"
+Draft: false
+"Parent:":
+  - "[[Notes/Transport Layer Security/Transport Layer Security|TLS]]"
 "related-reference-note:":
   - "[[SSL and TLS]]"
 ---
