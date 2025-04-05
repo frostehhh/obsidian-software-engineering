@@ -10,12 +10,22 @@ tags:
 Use a manual proxy set to loopback address and port 8181
 
 > [!note]
-> Based on the video, which was done a Mac, we need to set the Web proxy. In windows, we can ignore this step.
+> Based on the video, which was done a Mac, we need to set the Web proxy. We can do this in Windows as well. Applications will usually follow the system-configured proxy(excluding curl)
 
 
 ## Extra configuration
 Update `listen_port=8181`
 `mitmproxy --set listen_port=8181`
+
+## Launching MITM
+###### Default
+```
+mitmproxy
+```
+###### Verbose
+```
+
+```
 # Using curl
 For windows, use `curl.exe` in Powershell/Command Prompt
 
@@ -27,3 +37,6 @@ For windows, use `curl.exe` in Powershell/Command Prompt
 
 # Tier 2 Analysis
 usage of MITM Proxy for intercepting client to server connection.
+
+# References
+https://docs.mitmproxy.org/stable/
