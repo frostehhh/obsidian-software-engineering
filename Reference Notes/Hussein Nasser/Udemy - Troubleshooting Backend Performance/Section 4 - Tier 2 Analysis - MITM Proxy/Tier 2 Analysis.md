@@ -19,6 +19,7 @@ Update `listen_port=8181`
 # Using curl
 For windows, use `curl.exe` in Powershell/Command Prompt
 
+###### Client to Server
 `curl.exe -x http://localhost:8181 http://localhost:8080`
 
 > [!note]
