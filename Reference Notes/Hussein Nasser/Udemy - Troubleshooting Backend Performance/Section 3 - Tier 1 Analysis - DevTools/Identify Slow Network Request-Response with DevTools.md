@@ -17,3 +17,6 @@ Draft: true
 # Slow Connection Establishment
 - Indicated by slow `initial connection`
 - Time until connection request is successfully accepted
+
+# Identify Slow DNS/TLS
+Indicated by `DNS Lookup`, `Initial Connection` and `SSL`
