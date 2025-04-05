@@ -40,5 +40,17 @@ Usage of MITM Proxy for intercepting client to server connection.
 ![[Pasted image 20250405233525.png]]
 ## Slow download of response
 ![[Pasted image 20250405233653.png]]
+
+## Simulate Reverse proxy
+```
+mitmweb --mode reverse:http://localhost:9002 -p 9000
+```
+- Can be used to setup a MITM between 2 services
+- Make it so that a service will target the proxy that will forward requests to the `-p` port value
+
+
+> [!NOTE] Title
+> Useful for testing services especially when you have no access to the source code
+
 # References
 https://docs.mitmproxy.org/stable/

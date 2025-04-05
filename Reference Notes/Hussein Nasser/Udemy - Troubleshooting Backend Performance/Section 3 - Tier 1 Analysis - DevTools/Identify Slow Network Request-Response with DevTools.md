@@ -20,3 +20,7 @@ Draft: false
 
 # Identify Slow DNS/TLS
 Indicated by `DNS Lookup`, `Initial Connection` and `SSL`
+
+> [!note]
+> You can also configure your mobile device to the proxy running on your machine!
+> 
