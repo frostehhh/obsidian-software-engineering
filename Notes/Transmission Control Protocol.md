@@ -5,11 +5,11 @@ tags:
   - backend/communication/protocols
 Draft: false
 "related-reference-note:":
-  - - TCP
+  - "[[TCP]]"
 "Parent:":
-  - - Notes/OSI Model/Transport|OSI Model - Layer 4
+  - "[[Notes/OSI Model/Transport|OSI Model - Layer 4]]"
 "similar:":
-  - - Notes/User Datagram Protocol|User Datagram Protocol
+  - "[[Notes/User Datagram Protocol|User Datagram Protocol]]"
 ---
 
 - [[Notes/OSI Model/Transport|OSI Model - Layer 4]]

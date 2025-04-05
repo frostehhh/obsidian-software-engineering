@@ -22,6 +22,22 @@
               "icon": "lucide-file",
               "title": "Tier 3 Analysis"
             }
+          },
+          {
+            "id": "45a78a0fb34617fc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Network Address Translation.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Network Address Translation"
+            }
           }
         ]
       }
@@ -55,10 +71,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diffie",
+                "query": "tcp",
                 "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -96,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Braindump/Fundamentals of Database and Backend.excalidraw.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 5 - Tier 3 Analysis - Wireshark/Tier 3 Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fundamentals of Database and Backend.excalidraw"
+              "title": "Backlinks for Tier 3 Analysis"
             }
           },
           {
@@ -115,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 12 - Database Cursors/Database Cursors.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 5 - Tier 3 Analysis - Wireshark/Tier 3 Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Database Cursors"
+              "title": "Outgoing links from Tier 3 Analysis"
             }
           },
           {
@@ -153,13 +169,11 @@
               "title": "Outline of Database Cursors"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,8 +232,20 @@
   },
   "active": "cbf5e97fd2716a86",
   "lastOpenFiles": [
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 4 - Tier 2 Analysis - MITM Proxy/Tier 2 Analysis.md",
+    "Notes/Network Address Translation.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/TCP.md",
+    "Notes/Transmission Control Protocol.md",
+    "Notes/OSI Model/Transport.md",
+    "--Attachments/Transmission Control Protocol 2025-03-21 18.44.11.excalidraw.md",
+    "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Transport/TCP Connection 3-way Handshake.md",
+    "--Attachments/Pasted image 20250323171836.png",
+    "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Transport/Transmission Control Protocol.md",
+    "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/Network Address Translation/Network Address Translation.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 5 - Tier 3 Analysis - Wireshark/Tier 3 Analysis.md",
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 4 - Tier 2 Analysis - MITM Proxy/Tier 2 Analysis.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 3 - Tier 1 Analysis - DevTools/Identify Slow Network Request-Response with DevTools.md",
     "Dataviews/Draft Notes.md",
     "--Attachments/Pasted image 20250405233653.png",
@@ -239,20 +265,10 @@
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e2/backend/node_modules/pg-pool/README.md",
     "Reference Notes/Adrian Cantrill/Cybersecurity/Digital Signatures/Digital Signatures.md",
     "Notes/Digital Signatures.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
     "--Attachments/Pasted image 20250405181621.png",
     "Notes/The Listener, the Acceptor and the Reader.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/The Listener, the Acceptor and the Reader.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/The Process and the Thread and how they compete for CPU time.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Reading and Sending Socket Data.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/_note_Udemy - Fundamentals of Backend Engineering.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/rabbitMQ-pushAPI.pdf",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/How The Backend Accepts Connections.md",
     "--Attachments/Pasted image 20250404182851.png",
-    "Notes/Hypertext Transfer Protocol/HTTP3.md",
-    "Database Transaction.md",
-    "Topics/Project Management/Methodologies/Agile/Allen Holub/No Estimates.md",
-    "Topics/Project Management/Methodologies/Agile/Allen Holub/How we can correct the mistakes made with Agile • Allen Holub.md",
     "Mindmaps",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "--Attachments/Anatomy of a RequestResponse.png",
@@ -260,8 +276,6 @@
     "Untitled",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/webtest.exe",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/webtest.c",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-zero-tcp-window.dSYM/Contents/Resources/DWARF",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-zero-tcp-window.dSYM/Contents/Resources",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-zero-tcp-window.dSYM/Contents/Info.plist"
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-zero-tcp-window.dSYM/Contents/Resources/DWARF"
   ]
 }
