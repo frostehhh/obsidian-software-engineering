@@ -112,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 5 - Tier 3 Analysis - Wireshark/Tier 3 Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Tier 3 Analysis"
             }
           },
           {
@@ -192,44 +193,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "floating": {
-    "id": "0a7526590e4527ff",
-    "type": "floating",
-    "children": [
-      {
-        "id": "808ee42c29292e1a",
-        "type": "window",
-        "children": [
-          {
-            "id": "a9d9bb1886a902c9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "78e990d61baaff5c",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalibrain/excalibrain.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "excalibrain"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1208,
-        "y": 296,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1
-      }
-    ]
-  },
-  "active": "d0c6875e89a948f7",
+  "active": "cbf5e97fd2716a86",
   "lastOpenFiles": [
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 5 - Tier 3 Analysis - Wireshark/Tier 3 Analysis.md",
     "Notes/Network Address Translation.md",
