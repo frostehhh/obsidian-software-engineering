@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#backend",
+                "query": "tag:#backend/communication/protocols",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,7 +177,7 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "902ce333131374aa",
+  "active": "fa87c464967a6005",
   "lastOpenFiles": [
     "Reference Notes/_note_Reference Notes.md",
     "Anki/Test.md",
