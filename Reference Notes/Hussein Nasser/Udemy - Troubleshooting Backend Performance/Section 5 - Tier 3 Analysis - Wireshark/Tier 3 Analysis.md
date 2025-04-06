@@ -6,4 +6,11 @@ tags:
 Draft: true
 ---
 
+
+
 Lowest level and most verbose for debugging connections
+
+# Decrypt HTTPS communication
+Use curl
+
+export SSLKEYLOGFILE=
