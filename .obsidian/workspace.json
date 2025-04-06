@@ -4,57 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c9ddc0527be9897f",
+        "id": "9ed66f5362aa95ad",
         "type": "tabs",
         "children": [
           {
-            "id": "cbf5e97fd2716a86",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 5 - Tier 3 Analysis - Wireshark/Tier 3 Analysis.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Tier 3 Analysis"
-            }
-          },
-          {
-            "id": "45a78a0fb34617fc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Network Address Translation.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Network Address Translation"
-            }
-          },
-          {
-            "id": "6dd2ded097d235af",
+            "id": "902ce333131374aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 1 - Introduction/Introduction.md",
+                "file": "Anki/Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "Test"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/\"  error",
+                "query": "path:Anki  ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -127,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 1 - Introduction/Introduction.md",
+                "file": "Anki/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introduction"
+              "title": "Backlinks for Test"
             }
           },
           {
@@ -203,45 +171,49 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "6dd2ded097d235af",
+  "active": "fa87c464967a6005",
   "lastOpenFiles": [
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 1 - Introduction/Socket Programming - Backend C WebServer Setup.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 1 - Introduction/Introduction.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 1 - Introduction/Course Outline.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 2 - Supplementary Lectures/Anatomy of a Request-Response.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 2 - Supplementary Lectures/DevTools Networking - Part 1 - RequestResponse Columns.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 2 - Supplementary Lectures/Tier 1 Analysis Introduction.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 3 - Tier 1 Analysis - DevTools/Identify Slow Network Request-Response with DevTools.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 4 - Tier 2 Analysis - MITM Proxy/Tier 2 Analysis.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 5 - Tier 3 Analysis - Wireshark/Tier 3 Analysis.md",
-    "Dataviews/Draft Notes.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 6 - Real-world Performance Analysis of Backend Applications/Real-world Examples.md",
-    "Notes/Network Address Translation.md",
+    "Notes/Optimistic Locks.md",
+    "Anki/Test.md",
+    "Notes/Database Transaction.md",
+    "Anki",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/Protocol Properties.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/server-sent-events/node_modules/vary/README.md",
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/postgres-bytea/readme.md",
+    "Excalibrain/excalibrain.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
+    "Notes/Synchronous.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/gRPC.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/HTTP 1.1.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/HTTP2.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/HTTP3.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/Internet Protocol.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/OSI Model.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/TCP.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/TLS.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/UDP.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/WebRTC.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/WebSockets.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 4 - Many ways to HTTPS/HTTPS over QUIC with 0RTT.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Backend Idempotency.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/How The Backend Accepts Connections.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Introduction.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Listener, Acceptor and Readers Execution Patterns.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Nagle's Algorithm.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/TCP.md",
-    "Notes/Transmission Control Protocol.md",
-    "Notes/OSI Model/Transport.md",
-    "--Attachments/Transmission Control Protocol 2025-03-21 18.44.11.excalidraw.md",
-    "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Transport/TCP Connection 3-way Handshake.md",
     "--Attachments/Pasted image 20250323171836.png",
-    "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Transport/Transmission Control Protocol.md",
-    "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/Network Address Translation/Network Address Translation.md",
     "--Attachments/Pasted image 20250405233653.png",
     "--Attachments/Pasted image 20250405233639.png",
     "--Attachments/Pasted image 20250405233525.png",
-    "Notes/Transport Layer Security/TLS 1.3.md",
-    "Notes/Transport Layer Security/Transport Layer Security.md",
-    "Notes/Certificate Authority.md",
-    "Reference Notes/Adrian Cantrill/Cybersecurity/SSL and TLS/SSL and TLS.md",
-    "Excalibrain/excalibrain.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230507214352.png",
-    "Notes/Transport Layer Security/TLS 1.2.md",
-    "Notes/Diffie-Hellman Algorithm.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230507220629.png",
     "--Attachments/Pasted image 20250405181621.png",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/rabbitMQ-pushAPI.pdf",
@@ -250,7 +222,6 @@
     "Braindump/Fundamentals of Database Engineering.canvas",
     "--Attachments/Anatomy of a RequestResponse.png",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/webtest",
-    "Untitled",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/webtest.exe",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/webtest.c",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/cwebserver-zero-tcp-window.dSYM/Contents/Resources/DWARF"
