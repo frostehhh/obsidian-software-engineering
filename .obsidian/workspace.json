@@ -209,12 +209,12 @@
                 "id": "78e990d61baaff5c",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw",
+                  "type": "excalidraw-loading",
                   "state": {
                     "file": "Excalibrain/excalibrain.md"
                   },
-                  "icon": "excalidraw-icon",
-                  "title": "excalibrain"
+                  "icon": "lucide-file",
+                  "title": "Loading Excalidraw... excalibrain"
                 }
               }
             ]
