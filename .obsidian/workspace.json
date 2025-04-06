@@ -22,6 +22,20 @@
               "icon": "lucide-file",
               "title": "HTTP Headers"
             }
+          },
+          {
+            "id": "fa14b775211e928a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalibrain/excalibrain.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "excalibrain"
+            }
           }
         ]
       }
@@ -182,8 +196,9 @@
   },
   "active": "902ce333131374aa",
   "lastOpenFiles": [
-    "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
+    "Excalibrain/excalibrain.md",
     "Notes/Hypertext Transfer Protocol/HTTP Headers.md",
+    "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
     "Notes/Hypertext Transfer Protocol/HTTP2.md",
     "Notes/Hypertext Transfer Protocol/HTTP 1.1.md",
     "Notes/Hypertext Transfer Protocol/HTTP3.md",
@@ -202,7 +217,6 @@
     "Anki",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/backend-course-code/server-sent-events/node_modules/vary/README.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/e0/backend/node_modules/postgres-bytea/readme.md",
-    "Excalibrain/excalibrain.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 2 - Backend Communication Design Patterns/Synchronous vs Asynchronous Workloads.md",
     "Notes/Synchronous.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/gRPC.md",
