@@ -10,15 +10,17 @@
           {
             "id": "902ce333131374aa",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anki/Test.md",
+                "file": "Notes/Hypertext Transfer Protocol/HTTP Headers.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "HTTP Headers"
             }
           }
         ]
@@ -74,8 +76,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anki/Test.md",
+                "file": "Notes/Hypertext Transfer Protocol/HTTP Headers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test"
+              "title": "Backlinks for HTTP Headers"
             }
           },
           {
@@ -152,11 +153,13 @@
               "title": "Outline of Database Cursors"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,10 +180,22 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "fa87c464967a6005",
+  "active": "902ce333131374aa",
   "lastOpenFiles": [
-    "Reference Notes/_note_Reference Notes.md",
+    "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
+    "Notes/Hypertext Transfer Protocol/HTTP Headers.md",
+    "Notes/Hypertext Transfer Protocol/HTTP2.md",
+    "Notes/Hypertext Transfer Protocol/HTTP 1.1.md",
+    "Notes/Hypertext Transfer Protocol/HTTP3.md",
     "Anki/Test.md",
+    "Notes/ACID/Isolation.md",
+    "Notes/ACID/Durability.md",
+    "Notes/ACID/Consistency.md",
+    "Notes/ACID/Atomicity.md",
+    "Notes/ACID/ACID.md",
+    "Notes/Internet Protocol.md",
+    "Notes/IP Packet.md",
+    "Reference Notes/_note_Reference Notes.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/Protocol Properties.md",
     "Notes/Optimistic Locks.md",
     "Notes/Database Transaction.md",
@@ -194,18 +209,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/HTTP 1.1.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/HTTP2.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/HTTP3.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/Internet Protocol.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/OSI Model.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/TCP.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/TLS.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/UDP.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/WebRTC.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/WebSockets.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 4 - Many ways to HTTPS/HTTPS over QUIC with 0RTT.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Backend Idempotency.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/How The Backend Accepts Connections.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Introduction.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Listener, Acceptor and Readers Execution Patterns.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/IP-TCP-UDP-TLS+Slides.pdf",

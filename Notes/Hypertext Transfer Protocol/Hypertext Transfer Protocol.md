@@ -6,18 +6,14 @@ tags:
 Draft: false
 aliases:
   - HTTP
-"related-reference-note:": "[[HTTP 1.1]]"
+"related-reference-note:": "[[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/HTTP 1.1]]"
 ---
 
 # HTTP/1.0
 - Connection is opened and closed for each and every request
 	- slow as a result
-# HTTP/1.1
-- Persistent TCP Connection
-	- faster due to less overhead of initializing connection
-- Includes pipelining(disabled by default due to flaws)
-- Supports proxying and multi-homed websites
-	- Multi-homed websites pertain to multiple DNS hostnames pointing to the same IP address
+
+![[Notes/Hypertext Transfer Protocol/HTTP 1.1|HTTP 1.1]]
 ## Request Structure
 - Method
 - Path 
