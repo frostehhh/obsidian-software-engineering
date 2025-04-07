@@ -7,6 +7,7 @@
     "delayBetweenPlugins": 40,
     "defaultStartupType": null,
     "showDescriptions": true,
+    "enableDependencies": false,
     "plugins": {
       "table-editor-obsidian": {
         "startupType": "long"
@@ -109,7 +110,11 @@
       },
       "mermaid-tools": {
         "startupType": "disabled"
+      },
+      "obsidian-to-anki-plugin": {
+        "startupType": "instant"
       }
-    }
+    },
+    "loadOrder": []
   }
 }
