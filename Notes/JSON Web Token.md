@@ -3,11 +3,11 @@ tags:
   - notes
   - backend/communication
   - security/authentication
-Draft: true
+Draft: false
 aliases:
   - JWT
-related-reference-note:: 
-- "[[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 7 - Extras/JSON Web Token|JSON Web Token]]"
+"related-reference-note:":
+  - "[[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 7 - Extras/JSON Web Token|JSON Web Token]]"
 ---
 
 - A authentication token used to contain the state of authentication of a user. It contains the data, headers and signature.

@@ -1,3 +1,10 @@
+---
+tags:
+  - reference-notes
+  - project-management/methodologies/agile
+---
+
+
 https://www.youtube.com/watch?v=QVBlnCTu9Ms&list=WL&index=160
 
 Estimating things give no value.

@@ -1,3 +1,10 @@
+---
+tags:
+  - reference-notes
+  - project-management/methodologies/agile
+---
+
+
 https://www.youtube.com/watch?v=2JNXx8VdbAE&list=WL&index=203&t=32s
 
 Are agile, scrum, and kanban really solving our problems?

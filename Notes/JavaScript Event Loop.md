@@ -1,5 +1,10 @@
-1. What is a framework? /toggle
-2. What is an event loop
+---
+tags:
+  - notes
+  - programming-languages/javascript
+---
+
+1. What is an event loop
 	[https://www.youtube.com/watch?v=8aGhZQkoFbQ](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 	An event loop is a runtime model that describes how JavaScript executes code.
 	### Heap

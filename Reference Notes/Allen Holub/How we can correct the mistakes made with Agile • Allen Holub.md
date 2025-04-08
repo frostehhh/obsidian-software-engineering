@@ -1,6 +1,7 @@
 ---
 tags:
   - reference-notes
+  - project-management/methodologies/agile
 ---
 
 

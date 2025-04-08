@@ -2,9 +2,9 @@
 tags:
   - notes
   - computer-science/locks
-Draft: true
-opposite:: 
-- "[[Pessimistic Locks]]"
+Draft: false
+"opposite:":
+  - "[[Pessimistic Locks]]"
 ---
 - No explicit lock created as opposed to [[Pessimistic Locks]]
 - Application logic handles the locking mechanism

@@ -6,9 +6,11 @@ tags:
 Draft: false
 aliases:
   - HTTP
-"related-reference-note:": "[[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/HTTP 1.1]]"
+"related-reference-note:": 
+ - "[[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocols/HTTP 1.1]]"
 ---
-
+- Stateless
+- A communication protocol primarily for data exchange
 # HTTP/1.0
 - Connection is opened and closed for each and every request
 	- slow as a result
@@ -39,3 +41,6 @@ See [[Notes/Hypertext Transfer Protocol/HTTP2|HTTP2]]
 - All features of [[#HTTP/2]]
 - Uses [[QUIC]](UDP with congestion control) instead of TCP
 - Without HOL(head-of-line)
+
+# References
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview#see_also
