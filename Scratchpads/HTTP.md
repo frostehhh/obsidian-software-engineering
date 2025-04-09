@@ -38,6 +38,7 @@ Vary
 
 - Storing of data in alternative locations typically outside of the main data storage
 - used for preventing additional resource usage and consequently, optimizing resources
+- `Cache-Control` header
 ## Types
 ### Private Cache
 Client-only cache
@@ -46,7 +47,7 @@ Cache storage from multiple different clients
 #### Proxy Cache
 Cache stored 
 #### Managed Cache
-Service-managed cache
+- Handled by services
 
 ## Validation
 ## ETAG and If-None-Match
@@ -54,6 +55,13 @@ Service-managed cache
 ## If-Modified-Since
 ## Vary
 ## Expires
+`max-age` in `Cache-Control` header
+
+## Request Collapse
+
+## Common Caching Patterns
+
+
 
 # References
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview
