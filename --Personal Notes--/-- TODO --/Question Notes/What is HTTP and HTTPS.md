@@ -1,5 +1,5 @@
 # What is HTTP
-It's an [[Application|application]] layer protocol designed to transfer information between networked devices. It uses port 80
+It's an [[Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Application|application]] layer protocol designed to transfer information between networked devices. It uses port 80
 
 # What is HTTPS
 It is the secure version of HTTP. It's HTTP but transferred data is encrypted. It uses port 443. Uses [[SSL and TLS|SSL or TLS]].

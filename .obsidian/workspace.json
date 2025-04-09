@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "1206b020e847a29d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mindmaps/HTTP.excalidraw.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "HTTP.excalidraw"
+            }
+          },
+          {
             "id": "565ef2ced5827eb5",
             "type": "leaf",
             "pinned": true,
@@ -24,16 +38,6 @@
             }
           },
           {
-            "id": "f58ebd5ac677e043",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "fa14b775211e928a",
             "type": "leaf",
             "pinned": true,
@@ -46,22 +50,9 @@
               "icon": "excalidraw-icon",
               "title": "excalibrain"
             }
-          },
-          {
-            "id": "e6c6d65d343da165",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hypertext Transfer Protocol"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,12 +105,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 460.0026054382324
+    "width": 235.00043487548828
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -221,11 +211,16 @@
   },
   "active": "565ef2ced5827eb5",
   "lastOpenFiles": [
-    "Notes/Hypertext Transfer Protocol/HTTP Headers.md",
     "Excalibrain/excalibrain.md",
-    "Notes/Hypertext Transfer Protocol/Media Type.md",
-    "Scratchpads/HTTP.md",
     "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
+    "Scratchpads/HTTP.md",
+    "Mindmaps/HTTP.excalidraw.md",
+    "Mindmaps/Backend Fundamentals.md",
+    "Notes/OSI Model/Application.md",
+    "Notes/OSI Model/Data Link.md",
+    "Notes/OSI Model/OSI Model.md",
+    "Notes/Hypertext Transfer Protocol/HTTP Headers.md",
+    "Notes/Hypertext Transfer Protocol/Media Type.md",
     "Notes/Hypertext Transfer Protocol/HTTP2.md",
     "Scratchpads/_note_Scratchpads.md",
     "Notes/JavaScript Event Loop.md",
@@ -243,11 +238,6 @@
     "Anki/Test.md",
     "Notes/ACID/Isolation.md",
     "Notes/ACID/Durability.md",
-    "Notes/ACID/Consistency.md",
-    "Notes/ACID/Atomicity.md",
-    "Notes/ACID/ACID.md",
-    "Notes/Internet Protocol.md",
-    "Notes/IP Packet.md",
     "Anki",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",
