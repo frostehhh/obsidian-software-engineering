@@ -20,7 +20,7 @@ Host
 ## Response Headers
 Connection
 Content-Encoding
-Content-Type
+Content-Type - bytes
 Date
 Etag
 Keep-Alive
@@ -31,6 +31,8 @@ Vary
 
 # Representation Header
 # Methods
+
+# HTTP2 Pseudo-headers
 
 # References
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview
