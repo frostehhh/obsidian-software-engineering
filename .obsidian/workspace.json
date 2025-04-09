@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#notes",
+                "query": "expires",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,12 +210,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "565ef2ced5827eb5",
+  "active": "fa87c464967a6005",
   "lastOpenFiles": [
-    "Excalibrain/excalibrain.md",
-    "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
+    "Notes/gRPC.md",
     "Scratchpads/HTTP.md",
+    "Excalibrain/excalibrain.md",
+    "Reference Notes/Github - donnemartin system-design-primer/Step 2 - Review the scalability article.md",
     "Mindmaps/HTTP.excalidraw.md",
+    "Reference Notes/Github - Learn Node.js Hardway/Course Notes.md",
+    "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
+    "Notes/OSI Model/Transport.md",
     "Mindmaps/Backend Fundamentals.md",
     "Notes/OSI Model/Application.md",
     "Notes/OSI Model/Data Link.md",
@@ -234,10 +239,6 @@
     "Notes/Optimistic Locks.md",
     "Reference Notes/SQL Cursors - how and when to use them.md",
     "Notes/Hypertext Transfer Protocol/HTTP3.md",
-    "Notes/Hypertext Transfer Protocol/HTTP 1.1.md",
-    "Anki/Test.md",
-    "Notes/ACID/Isolation.md",
-    "Notes/ACID/Durability.md",
     "Anki",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols.pdf",

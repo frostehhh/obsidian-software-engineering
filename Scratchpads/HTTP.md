@@ -34,16 +34,26 @@ Vary
 
 # HTTP2 Pseudo-headers
 
-# Compression
-- Decreasing data size for more efficient data transport
-- Uses `Accept-Encoding` request header to communicate supported encoding methods
-## Levels to apply
-1. Data level
-2. HTTP Level ([[Notes/OSI Model/Application|OSI Model - Layer 7]])
-3. TCP Level ([[Notes/OSI Model/Transport|OSI Model - Layer 4]])
-## Compression Libraries
-- gzip - most common
-- br - more recent
+# Caching
+
+- Storing of data in alternative locations typically outside of the main data storage
+- used for preventing additional resource usage and consequently, optimizing resources
+## Types
+### Private Cache
+Client-only cache
+### Shared Cache
+Cache storage from multiple different clients
+#### Proxy Cache
+Cache stored 
+#### Managed Cache
+Service-managed cache
+
+## Validation
+## ETAG and If-None-Match
+
+## If-Modified-Since
+## Vary
+## Expires
 
 # References
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview

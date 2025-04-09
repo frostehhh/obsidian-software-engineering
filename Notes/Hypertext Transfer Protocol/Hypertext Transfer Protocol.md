@@ -42,5 +42,20 @@ See [[Notes/Hypertext Transfer Protocol/HTTP2|HTTP2]]
 - Uses [[QUIC]](UDP with congestion control) instead of TCP
 - Without HOL(head-of-line)
 
+# Compression
+- Decreasing data size for more efficient data transport
+- Uses `Accept-Encoding` request header to communicate supported encoding methods
+## Levels to apply
+1. Data level
+2. HTTP Level ([[Notes/OSI Model/Application|OSI Model - Layer 7]])
+3. TCP Level ([[Notes/OSI Model/Transport|OSI Model - Layer 4]])
+## Compression Libraries
+- gzip - most common
+- br - more recent
+
+[^1]
+
 # References
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview#see_also
+
+[^1]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression
