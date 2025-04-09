@@ -9,9 +9,13 @@ Draft: false
 "next-version:": "[[Notes/Hypertext Transfer Protocol/HTTP3|HTTP3]]"
 ---
 
-# Purpose
+# HTTP2
 - Not an upgrade in a sense that 1.1 -> 2 is a must do
 - Primary motivation for HTTP/2 is for when a client needs many multiple requests to send to a server
+- Multiplexes connections
+- Based on the SPDY protocol
+- Compressed headers by default
+- Transmits binary data instead of text([[Notes/Hypertext Transfer Protocol/HTTP 1.1|HTTP 1.1]])
 
 
 # Diagram
