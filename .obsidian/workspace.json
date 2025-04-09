@@ -203,8 +203,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -229,15 +229,13 @@
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
   "active": "1206b020e847a29d",
   "lastOpenFiles": [
-    "Scratchpads/HTTP.md",
     "Mindmaps/HTTP.excalidraw.md",
+    "Scratchpads/HTTP.md",
     "Excalibrain/excalibrain.md",
     "Notes/Hypertext Transfer Protocol/Caching.md",
     "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
