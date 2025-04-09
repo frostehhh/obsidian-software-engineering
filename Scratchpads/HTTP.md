@@ -29,11 +29,12 @@ Server
 Transfer-Encoding
 Vary
 
-# Representation Header
+## Representation Header
 # Methods
 
 # HTTP2 Pseudo-headers
 
+# Authentication
 
 # References
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview

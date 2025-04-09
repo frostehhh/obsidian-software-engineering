@@ -50,24 +50,9 @@
               "icon": "excalidraw-icon",
               "title": "excalibrain"
             }
-          },
-          {
-            "id": "be874aa237350817",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Hypertext Transfer Protocol/Caching.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Caching"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,13 +101,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mindmaps/HTTP.excalidraw.md",
+                "file": "Scratchpads/HTTP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HTTP.excalidraw"
+              "title": "Outline of HTTP"
             }
           },
           {
@@ -203,8 +188,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -212,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257,
-    "collapsed": true
+    "width": 257
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,14 +213,16 @@
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1206b020e847a29d",
+  "active": "565ef2ced5827eb5",
   "lastOpenFiles": [
     "Mindmaps/HTTP.excalidraw.md",
-    "Scratchpads/HTTP.md",
     "Excalibrain/excalibrain.md",
+    "Scratchpads/HTTP.md",
     "Notes/Hypertext Transfer Protocol/Caching.md",
     "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
     "Notes/Hypertext Transfer Protocol/Media Type.md",

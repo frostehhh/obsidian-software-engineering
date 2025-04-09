@@ -1,3 +1,14 @@
 {
-  "items": []
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1744223841707,
+      "path": "Scratchpads/HTTP.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1744223963085,
+      "path": "Mindmaps/HTTP.excalidraw.md"
+    }
+  ]
 }
