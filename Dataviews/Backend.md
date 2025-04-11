@@ -31,3 +31,8 @@ TABLE file.aliases as "Aliases", filter(tags, (tag) => tag != "notes") as Tags
 ```
 
 ## HTTP
+```dataview
+TABLE file.aliases as "Aliases", filter(tags, (tag) => tag != "notes") as Tags
+ FROM #communication/protocols/http AND #notes
+ SORT tags ASC
+```

@@ -3,7 +3,7 @@ tags:
   - backend
   - communication/protocols
   - notes
-"Parent:":
+Friend:: 
   - "[[Hypertext Transfer Protocol|HTTP]]"
 aliases:
   - MIME Type

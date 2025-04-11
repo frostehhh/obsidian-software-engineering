@@ -54,6 +54,9 @@ See [[Notes/Hypertext Transfer Protocol/HTTP2|HTTP2]]
 - gzip - most common
 - br - more recent
 
+## Headers for deciding compression algorithm
+Response Header - `Accept-Encoding`
+Request Header - `Content-Encoding`
 [^1]
 
 # References

@@ -11,6 +11,6 @@ TABLE file.tags as "Tags", file.ctime as "Created Datetime"
 ```dataview
 TABLE file.tags as "Tags", file.ctime as "Created Datetime"
  FROM "Braindump"
-WHERE for-review = "true"
+WHERE for-review = true
  SORT file.ctime DESC
 ```
