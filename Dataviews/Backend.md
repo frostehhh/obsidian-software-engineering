@@ -9,7 +9,7 @@ TABLE filter(tags, (tag) => tag != "notes") as Tags
 # Communication
 ```dataview
 TABLE file.aliases as "Aliases", filter(tags, (tag) => tag != "notes") as Tags
- FROM #backend/communication   AND #notes
+ FROM #backend AND #communication   AND #notes
  SORT tags ASC
 ```
 
@@ -23,8 +23,11 @@ WHERE contains(tags, "backend/communication") = false
 ```
 
 # Protocols
+## All
 ```dataview
 TABLE file.aliases as "Aliases", filter(tags, (tag) => tag != "notes") as Tags
- FROM #backend/communication/protocols AND #notes
+ FROM #backend AND #communication/protocols AND #notes
  SORT tags ASC
 ```
+
+## HTTP

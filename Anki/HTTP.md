@@ -3,6 +3,7 @@ tags:
   - flashcards
   - communication/protocols/http
   - backend
+Draft: true
 ---
 
 What is ETAG for?

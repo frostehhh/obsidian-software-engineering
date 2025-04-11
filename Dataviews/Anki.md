@@ -1,4 +1,4 @@
 ```dataview
-TABLE tags.filter((tag) => tag !== "flashcards"))
+TABLE filter(tags, (tag) => tag != "flashcards") as Tags
  FROM "Anki"
 ```
