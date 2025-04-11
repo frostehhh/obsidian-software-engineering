@@ -3,7 +3,7 @@ tags:
   - backend/communication
 Draft: false
 "related-reference-note:":
-  - - Protocol Properties
+  - "[[Protocol Properties]]"
 ---
 
 See [[Protocol Properties]].
