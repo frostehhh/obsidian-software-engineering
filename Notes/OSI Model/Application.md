@@ -1,7 +1,7 @@
 ---
 tags:
   - backend
-  - backend/communication
+  - communication
   - networking
 aliases:
   - OSI Model - Layer 7

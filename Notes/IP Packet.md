@@ -2,7 +2,8 @@
 tags:
   - notes
   - networking
-  - backend/communication
+  - backend
+  - communication
 Draft: false
 "Parent:":
   - - Notes/Internet Protocol|Internet Protocol

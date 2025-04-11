@@ -2,7 +2,8 @@
 tags:
   - networking
   - notes
-  - backend/communication/protocols
+  - backend
+  - communication/protocols
 Draft: false
 "Parent:": "[[Notes/OSI Model/Network|OSI Model - Layer 3]]"
 "related-reference-note:":

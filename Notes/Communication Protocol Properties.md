@@ -1,6 +1,7 @@
 ---
 tags:
-  - backend/communication
+  - backend
+  - communication
 Draft: false
 "related-reference-note:":
   - "[[Protocol Properties]]"

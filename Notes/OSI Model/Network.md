@@ -1,7 +1,8 @@
 ---
 tags:
   - backend
-  - backend/communication
+  - backend
+  - communication
   - networking
 aliases:
   - OSI Model - Layer 3

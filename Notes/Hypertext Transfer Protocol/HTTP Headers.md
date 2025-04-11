@@ -1,7 +1,8 @@
 ---
 tags:
   - notes
-  - backend/communication/protocols
+  - backend
+  - communication/protocols/http
 Draft: true
 "Parent:":
   - "[[Hypertext Transfer Protocol]]"

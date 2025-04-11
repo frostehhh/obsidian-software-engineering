@@ -3,6 +3,7 @@ tags:
   - reference-notes
   - networking
   - security
-  - backend/communication
+  - backend
+  - communication
 Draft: false
 ---

@@ -4,7 +4,8 @@ aliases:
 tags:
   - networking
   - notes
-  - backend/communication/protocols
+  - backend
+  - communication/protocols
 Draft: false
 "related-reference-note:":
   - - Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/Internet Protocol|Internet Protocol

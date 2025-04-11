@@ -2,7 +2,8 @@
 tags:
   - notes
   - backend
-  - backend/communication
+  - backend
+  - communication
 Draft: false
 aliases:
   - Pub Sub

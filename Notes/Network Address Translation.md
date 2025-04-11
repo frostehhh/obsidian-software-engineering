@@ -2,7 +2,8 @@
 tags:
   - notes
   - networking
-  - backend/communication
+  - backend
+  - communication
 Draft: false
 aliases: NAT
 related-reference-note:: 

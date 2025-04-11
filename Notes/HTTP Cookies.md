@@ -1,7 +1,8 @@
 ---
 tags:
   - notes
-  - backend/communication
+  - backend
+  - communication
 Draft: false
 "Parent:": "[[Hypertext Transfer Protocol|HTTP]]"
 has-questions: true

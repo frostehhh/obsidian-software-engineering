@@ -1,7 +1,8 @@
 ---
 tags:
   - notes
-  - backend/communication
+  - backend
+  - communication
   - networking
   - operating-system
 Draft: false

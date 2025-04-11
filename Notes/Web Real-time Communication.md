@@ -1,7 +1,8 @@
 ---
 tags:
   - notes
-  - backend/communication
+  - backend
+  - communication
   - networking
 Draft: false
 related-reference-note:: [[WebRTC]]

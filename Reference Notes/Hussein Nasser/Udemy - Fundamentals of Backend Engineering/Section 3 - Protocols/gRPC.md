@@ -1,7 +1,7 @@
 ---
 tags:
   - reference-notes
-  - backend/communication
+  - communication
   - networking
 Draft: false
 ---

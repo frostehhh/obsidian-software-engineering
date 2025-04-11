@@ -1,7 +1,8 @@
 ---
 tags:
   - notes
-  - backend/communication
+  - backend
+  - communication
   - security/authentication
 Draft: false
 aliases:

@@ -1,6 +1,7 @@
 ---
 tags:
-  - backend/communication/protocols
+  - backend
+  - communication/protocols
   - notes
 "Parent:":
   - "[[Hypertext Transfer Protocol|HTTP]]"
