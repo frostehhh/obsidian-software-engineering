@@ -131,12 +131,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anki/HTTP.md",
+                "file": "Dataviews/Draft Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP"
+              "title": "Draft Notes"
             }
           }
         ],
@@ -308,12 +308,12 @@
   },
   "active": "040c195c4ebabc9c",
   "lastOpenFiles": [
+    "Anki/HTTP.md",
     "Braindump/Fundamentals of Database and Backend.excalidraw.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "Braindump/HTTP.excalidraw.md",
     "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md",
     "Braindump/Partitioning.md",
-    "Anki/HTTP.md",
     "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
     "Notes/OSI Model/Transport.md",
     "Notes/Hypertext Transfer Protocol/HTTP3.md",
