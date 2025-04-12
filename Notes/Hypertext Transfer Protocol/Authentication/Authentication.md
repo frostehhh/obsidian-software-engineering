@@ -58,4 +58,3 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Authentication#restrict
 - Challenge and response flow
 - header names
 - Authentication schemes
-- Common

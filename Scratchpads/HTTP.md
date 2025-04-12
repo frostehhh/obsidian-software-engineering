@@ -4,7 +4,6 @@ tags:
 Draft: true
 has-questions:
 ---
-# 
 
 # References
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview
