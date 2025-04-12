@@ -4,36 +4,6 @@ tags:
 Draft: true
 has-questions:
 ---
-
-pipelining
-server collocation
-
-# Commonly used headers
-## Request Headers
-Accept
-Accept-Language
-Accept-Encoding
-Referer
-User-Agent
-Host
-
-## Response Headers
-Connection
-Content-Encoding
-Content-Type - bytes
-Date
-Etag
-Keep-Alive
-Last-Modified
-Server
-Transfer-Encoding
-Vary
-
-## Representation Header
-# Methods
-
-# HTTP2 Pseudo-headers
-
 # Authentication
 
 # References

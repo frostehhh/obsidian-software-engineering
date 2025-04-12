@@ -8,9 +8,30 @@ Draft: true
   - "[[Hypertext Transfer Protocol]]"
 ---
 
-request header
+## Request Headers
+Accept
+Accept-Language
+Accept-Encoding
+Referer
+User-Agent
+Host
+
+## Response Headers
+Connection
+Content-Encoding
+Content-Type - bytes
+Date
+Etag
+Keep-Alive
+Last-Modified
+Server
+Transfer-Encoding
+Vary
+
+## Representation Header
 
 
+# HTTP2 Pseudo-headers
 # Custom Proprietary Headers
 
 
