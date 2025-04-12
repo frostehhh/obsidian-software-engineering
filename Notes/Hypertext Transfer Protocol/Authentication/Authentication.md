@@ -42,11 +42,20 @@ Deactivate Server
 - Basic
 - Bearer
 - Digest
-- ...
+- HOBA
+- Mutual
+- Negotiate / NTLM
+- VAPID
+- SCRAM
+- AWS4-HMAC-SHA256
 # References
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Authentication#restricting_access_with_nginx_and_basic_authentication
 
+
+# Questions
+- What is base64 encoded? What does encoding mean. Encoding just transforms to another "readable" data format. It is not for security.
 # Anki
 - Challenge and response flow
 - header names
 - Authentication schemes
+- Common

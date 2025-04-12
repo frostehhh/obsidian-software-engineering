@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/Hypertext Transfer Protocol/Authentication/Authentication.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true,
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,10 +232,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "83ad45938c35b8ad",
+  "active": "dddf46064eee3915",
   "lastOpenFiles": [
-    "Notes/Hypertext Transfer Protocol/Authentication/Authentication.md",
     "Scratchpads/HTTP.md",
+    "Mindmaps/HTTP.excalidraw.md",
+    "Notes/Hypertext Transfer Protocol/Authentication/Authentication.md",
     "Notes/Hypertext Transfer Protocol/Authentication",
     "Excalibrain/excalibrain.md",
     "Dataviews/Backend.md",
@@ -246,7 +247,6 @@
     "Dataviews/Draft Notes.md",
     "Notes/Internet Control Message Protocol.md",
     "Braindump/HTTP.excalidraw.md",
-    "Mindmaps/HTTP.excalidraw.md",
     "Anki/HTTP.md",
     "Braindump/Fundamentals of Database and Backend.excalidraw.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
