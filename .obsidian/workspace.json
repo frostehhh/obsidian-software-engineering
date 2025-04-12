@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8320700beaf03f34",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dataviews/Backend.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Backend"
-            }
-          },
-          {
             "id": "1f70ad564707a50a",
             "type": "leaf",
             "pinned": true,
@@ -38,24 +22,25 @@
             }
           },
           {
-            "id": "aee1679084768663",
+            "id": "dddf46064eee3915",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Hypertext Transfer Protocol/HTTP Headers.md",
-                "mode": "source",
+                "file": "Notes/Hypertext Transfer Protocol/Authentication/Authentication.md",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "HTTP Headers"
+              "title": "Authentication"
             }
           },
           {
-            "id": "dddf46064eee3915",
+            "id": "767b7b05d10a5674",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -63,8 +48,21 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "HTTP"
+            }
+          },
+          {
+            "id": "83ad45938c35b8ad",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mindmaps/HTTP.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "HTTP.excalidraw"
             }
           }
         ],
@@ -100,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gzip",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,8 +134,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,22 +197,21 @@
             }
           },
           {
-            "id": "b82ec7f1af80c1b3",
+            "id": "df4e43b6f421de7c",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
+              "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 272,
-    "collapsed": true
+    "width": 272
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,17 +226,24 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dddf46064eee3915",
+  "active": "83ad45938c35b8ad",
   "lastOpenFiles": [
-    "Notes/Hypertext Transfer Protocol/HTTP Headers.md",
+    "Notes/Hypertext Transfer Protocol/Authentication/Authentication.md",
     "Scratchpads/HTTP.md",
-    "Dataviews/Draft Notes.md",
+    "Notes/Hypertext Transfer Protocol/Authentication",
     "Excalibrain/excalibrain.md",
-    "Notes/Hypertext Transfer Protocol/Caching.md",
     "Dataviews/Backend.md",
+    "Notes/Hypertext Transfer Protocol/HTTP Headers.md",
+    "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
+    "Notes/Hypertext Transfer Protocol/HTTP 1.1.md",
+    "Notes/Hypertext Transfer Protocol/Caching.md",
+    "Dataviews/Draft Notes.md",
     "Notes/Internet Control Message Protocol.md",
     "Braindump/HTTP.excalidraw.md",
     "Mindmaps/HTTP.excalidraw.md",
@@ -249,7 +252,6 @@
     "Braindump/Fundamentals of Database Engineering.canvas",
     "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md",
     "Braindump/Partitioning.md",
-    "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
     "Notes/OSI Model/Transport.md",
     "Notes/Hypertext Transfer Protocol/HTTP3.md",
     "Notes/Hypertext Transfer Protocol/Methods.md",
@@ -259,9 +261,6 @@
     "Dataviews/Mindmaps.md",
     "Dataviews/Anki.md",
     "Excalidraw/ExcaliBrain Snapshot - Internet Protocol.excalidraw.md",
-    "Excalidraw/ExcaliBrain Snapshot - Unsorted Notes.excalidraw.md",
-    "Dataviews/Database.md",
-    "Reference Notes/Docker/_note_Docker.md",
     "Scratchpads",
     "Anki",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
@@ -279,7 +278,6 @@
     "Mindmaps",
     "--Attachments/Anatomy of a RequestResponse.png",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/webtest",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/webtest.exe",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/webtest.c"
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course/backend-analysis-course/thecwebserver-code/webtest.exe"
   ]
 }

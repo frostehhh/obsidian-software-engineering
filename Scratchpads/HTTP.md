@@ -4,7 +4,7 @@ tags:
 Draft: true
 has-questions:
 ---
-# Authentication
+# 
 
 # References
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview
@@ -12,3 +12,4 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Evolution_of_HTTP#http1
 
 # Questions
 - What is pipelining?
+
