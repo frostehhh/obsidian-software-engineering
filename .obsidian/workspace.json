@@ -66,33 +66,21 @@
             }
           },
           {
-            "id": "f5c372f3279c11d7",
+            "id": "3b89eab6435b68a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/How to approach System Design.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 13 - SQL vs NoSQL Architectures/Memcached In-memory Database Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to approach System Design"
-            }
-          },
-          {
-            "id": "b884bd15bd507d65",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mindmaps/System Design.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "System Design"
+              "title": "Memcached In-memory Database Architecture"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "consistency",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,13 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mindmaps/System Design.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 13 - SQL vs NoSQL Architectures/Memcached In-memory Database Architecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of System Design"
+              "title": "Outline of Memcached In-memory Database Architecture"
             }
           },
           {
@@ -161,11 +149,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 278.0026054382324
+    "width": 265.0026054382324
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -271,13 +259,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b884bd15bd507d65",
+  "active": "3b89eab6435b68a0",
   "lastOpenFiles": [
+    "sql vs nosql.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 13 - SQL vs NoSQL Architectures/Memcached In-memory Database Architecture.md",
     "Scratchpads/System Design.md",
-    "Notes/How to approach System Design.md",
-    "Mindmaps/System Design.md",
+    "Notes/CAP Theorem.md",
     "Mindmaps/Backend.md",
+    "Notes/ACID/ACID.md",
+    "Notes/How to approach System Design.md",
     "Excalibrain/excalibrain.md",
+    "Mindmaps/System Design.md",
     "Notes/RPC vs REST.md",
     "Remote Procedure Call.md",
     "Dataviews/Draft Notes.md",
@@ -296,10 +288,6 @@
     "Mindmaps/Database.excalidraw.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "Notes/YAML.md",
-    "Notes/_note_Notes.md",
-    "Mindmaps/Untitled.md",
-    "Notes/Hypertext Transfer Protocol/HTTP Cookies.md",
-    "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
     "Notes/Hypertext Transfer Protocol/Authentication",
     "Scratchpads",
     "Anki",
