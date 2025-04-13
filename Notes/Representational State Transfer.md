@@ -5,6 +5,7 @@ aliases:
 tags:
   - software-architecture-style
   - backend
+  - notes
 ---
 
 A software architectural style for designing applications

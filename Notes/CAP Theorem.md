@@ -1,6 +1,7 @@
 ---
 tags:
   - database
+  - notes
 Draft: false
 ---
 

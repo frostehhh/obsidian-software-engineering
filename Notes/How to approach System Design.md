@@ -2,6 +2,7 @@
 tags:
   - guidelines
   - system-design
+  - notes
 Draft: true
 ---
 

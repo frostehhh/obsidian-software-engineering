@@ -3,6 +3,7 @@ tags:
   - backend
   - communication
   - comparison
+  - notes
 "Parent:":
   - "[[Representational State Transfer|REST]]"
   - "[[Remote Procedure Call|RPC]]"
