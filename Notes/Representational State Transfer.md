@@ -1,6 +1,7 @@
 ---
-Draft: true
-aliases: REST
+Draft: false
+aliases:
+  - REST
 tags:
   - software-architecture-style
   - backend
@@ -10,9 +11,12 @@ A software architectural style for designing applications
 # Constraints
 - Client-server structure
 - Stateless
-- Resource representation
 - Caching
 - Uniform interface
+	- **Resource identification in requests**
+	- Resource manipulation through representations
+	- Self-descriptive messages
+	- Hypermedia as the engine of application state
 - Layered system
 
 # See Also

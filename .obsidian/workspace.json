@@ -82,38 +82,6 @@
             }
           },
           {
-            "id": "2ba0138596feaa0b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Representational State Transfer.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Representational State Transfer"
-            }
-          },
-          {
-            "id": "7c1962027c91ed41",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REST API.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "REST API"
-            }
-          },
-          {
             "id": "1e48dfde445bcf4b",
             "type": "leaf",
             "pinned": true,
@@ -130,23 +98,21 @@
             }
           },
           {
-            "id": "35c533b2d37608e6",
+            "id": "37b1c0982a5a6948",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Remote Procedure Call.md",
+                "file": "Notes/Representational State Transfer.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Remote Procedure Call"
+              "title": "Representational State Transfer"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -195,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Remote Procedure Call.md",
+                "file": "Notes/Representational State Transfer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Remote Procedure Call"
+              "title": "Outline of Representational State Transfer"
             }
           },
           {
@@ -325,15 +291,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "35c533b2d37608e6",
+  "active": "37b1c0982a5a6948",
   "lastOpenFiles": [
     "Notes/RPC vs REST.md",
+    "Scratchpads/System Design.md",
+    "Notes/Representational State Transfer.md",
     "REST API.md",
     "Remote Procedure Call.md",
     "Mindmaps/System Design.md",
-    "Notes/Representational State Transfer.md",
     "Notes/How to approach System Design.md",
-    "Scratchpads/System Design.md",
     "Uniform Resource Identifier.md",
     "Excalibrain/excalibrain.md",
     "Mindmaps/Backend.md",
