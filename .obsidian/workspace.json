@@ -22,45 +22,45 @@
             }
           },
           {
-            "id": "767b7b05d10a5674",
+            "id": "a5cf23684e218734",
             "type": "leaf",
             "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mindmaps/System Design.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "System Design"
+            }
+          },
+          {
+            "id": "7a5ee28a0da63299",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mindmaps/Backend.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "Backend"
+            }
+          },
+          {
+            "id": "8db5c28655314b20",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scratchpads/HTTP.md",
+                "file": "Anki/HTTP.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "HTTP"
-            }
-          },
-          {
-            "id": "83ad45938c35b8ad",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mindmaps/HTTP.excalidraw.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "HTTP.excalidraw"
-            }
-          },
-          {
-            "id": "a5cf23684e218734",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mindmaps/Backend Fundamentals.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Backend Fundamentals"
             }
           }
         ],
@@ -242,14 +242,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a5cf23684e218734",
+  "active": "c9e86c4b43b9a499",
   "lastOpenFiles": [
     "Excalibrain/excalibrain.md",
+    "Mindmaps/System Design.md",
+    "Mindmaps/Backend.md",
     "Scratchpads/HTTP.md",
+    "Mindmaps/HTTP.excalidraw.md",
+    "Notes/YAML.md",
+    "Notes/_note_Notes.md",
+    "Mindmaps/Fundamentals of Database engineering Mindmap.excalidraw.md",
+    "Mindmaps/Untitled.md",
     "Anki/HTTP.md",
     "Notes/Hypertext Transfer Protocol/HTTP Cookies.md",
     "Notes/Hypertext Transfer Protocol/Authentication/Authentication.md",
-    "Mindmaps/HTTP.excalidraw.md",
     "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
     "Dataviews/Has Questions.md",
     "Notes/Hypertext Transfer Protocol/HTTP Headers.md",
@@ -266,12 +272,6 @@
     "Braindump/Partitioning.md",
     "Notes/OSI Model/Transport.md",
     "Notes/Hypertext Transfer Protocol/HTTP3.md",
-    "Notes/Hypertext Transfer Protocol/Methods.md",
-    "Notes/Hypertext Transfer Protocol/Media Type.md",
-    "Dataviews/Braindumps.md",
-    "Dataviews/Mindmaps.md",
-    "Dataviews/Anki.md",
-    "Excalidraw/ExcaliBrain Snapshot - Internet Protocol.excalidraw.md",
     "Scratchpads",
     "Anki",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",

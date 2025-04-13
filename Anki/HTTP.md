@@ -57,6 +57,4 @@ User preferences
 [^1]: [[HTTP Headers]]
 [^2]: [[Hypertext Transfer Protocol|HTTP]]
 [^3]: [[Authentication]]
-<!--SR:!2025-04-17,4,270-->
-
 [^4]: [[HTTP Cookies]]
