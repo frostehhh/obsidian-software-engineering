@@ -1,5 +1,5 @@
 ---
-Draft: true
+Draft: false
 ---
 
 A way to divide a database table into multiple tables in the same system

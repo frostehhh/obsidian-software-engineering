@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Braindump/HTTP.excalidraw.md",
+                "file": "Scratchpads/System Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP.excalidraw"
+              "title": "System Design"
             }
           }
         ],
@@ -132,11 +132,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 336.0026054382324
+    "width": 336.0026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -187,7 +189,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -215,12 +217,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 272,
-    "collapsed": true
+    "width": 272
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,18 +243,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8db5c28655314b20",
+  "active": "aaf7c0f012f39754",
   "lastOpenFiles": [
-    "Braindump/Fundamentals of Database and Backend.excalidraw.md",
     "Mindmaps/System Design.md",
+    "Scratchpads/System Design.md",
     "Mindmaps/Backend.md",
+    "Excalibrain/excalibrain.md",
+    "Anki/HTTP.md",
+    "Scratchpads/HTTP.md",
+    "Braindump/Partitioning.md",
+    "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md",
+    "Braindump/HTTP.excalidraw.md",
+    "Braindump/Fundamentals of Database and Backend.excalidraw.md",
     "Mindmaps/HTTP.excalidraw.md",
     "Mindmaps/Database.excalidraw.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
-    "Braindump/HTTP.excalidraw.md",
-    "Anki/HTTP.md",
-    "Excalibrain/excalibrain.md",
-    "Scratchpads/HTTP.md",
     "Notes/YAML.md",
     "Notes/_note_Notes.md",
     "Mindmaps/Untitled.md",
@@ -268,8 +272,6 @@
     "Notes/Hypertext Transfer Protocol/Caching.md",
     "Dataviews/Draft Notes.md",
     "Notes/Internet Control Message Protocol.md",
-    "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md",
-    "Braindump/Partitioning.md",
     "Notes/OSI Model/Transport.md",
     "Scratchpads",
     "Anki",
