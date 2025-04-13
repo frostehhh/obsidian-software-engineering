@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anki/HTTP.md",
+                "file": "Braindump/HTTP.excalidraw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP"
+              "title": "HTTP.excalidraw"
             }
           }
         ],
@@ -242,18 +242,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c9e86c4b43b9a499",
+  "active": "8db5c28655314b20",
   "lastOpenFiles": [
-    "Excalibrain/excalibrain.md",
+    "Braindump/Fundamentals of Database and Backend.excalidraw.md",
     "Mindmaps/System Design.md",
     "Mindmaps/Backend.md",
-    "Scratchpads/HTTP.md",
     "Mindmaps/HTTP.excalidraw.md",
+    "Mindmaps/Database.excalidraw.md",
+    "Braindump/Fundamentals of Database Engineering.canvas",
+    "Braindump/HTTP.excalidraw.md",
+    "Anki/HTTP.md",
+    "Excalibrain/excalibrain.md",
+    "Scratchpads/HTTP.md",
     "Notes/YAML.md",
     "Notes/_note_Notes.md",
-    "Mindmaps/Fundamentals of Database engineering Mindmap.excalidraw.md",
     "Mindmaps/Untitled.md",
-    "Anki/HTTP.md",
     "Notes/Hypertext Transfer Protocol/HTTP Cookies.md",
     "Notes/Hypertext Transfer Protocol/Authentication/Authentication.md",
     "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
@@ -265,13 +268,9 @@
     "Notes/Hypertext Transfer Protocol/Caching.md",
     "Dataviews/Draft Notes.md",
     "Notes/Internet Control Message Protocol.md",
-    "Braindump/HTTP.excalidraw.md",
-    "Braindump/Fundamentals of Database and Backend.excalidraw.md",
-    "Braindump/Fundamentals of Database Engineering.canvas",
     "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md",
     "Braindump/Partitioning.md",
     "Notes/OSI Model/Transport.md",
-    "Notes/Hypertext Transfer Protocol/HTTP3.md",
     "Scratchpads",
     "Anki",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",

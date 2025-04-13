@@ -55,6 +55,7 @@
       "Jumps",
       "pros",
       "related",
+      "related-mind-map",
       "related-reference-note",
       "similar",
       "supports"
@@ -239,7 +240,8 @@
     "next-version": {},
     "West": {},
     "prev-version": {},
-    "relation": {}
+    "relation": {},
+    "related-mind-map": {}
   },
   "navigationHistory": [
     "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
