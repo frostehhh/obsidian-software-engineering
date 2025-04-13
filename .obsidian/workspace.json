@@ -112,9 +112,41 @@
               "icon": "lucide-file",
               "title": "REST API"
             }
+          },
+          {
+            "id": "1e48dfde445bcf4b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/RPC vs REST.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "RPC vs REST"
+            }
+          },
+          {
+            "id": "35c533b2d37608e6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Remote Procedure Call.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Remote Procedure Call"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -163,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Representational State Transfer.md",
+                "file": "Remote Procedure Call.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Representational State Transfer"
+              "title": "Outline of Remote Procedure Call"
             }
           },
           {
@@ -293,16 +325,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2ba0138596feaa0b",
+  "active": "35c533b2d37608e6",
   "lastOpenFiles": [
+    "Notes/RPC vs REST.md",
     "REST API.md",
+    "Remote Procedure Call.md",
+    "Mindmaps/System Design.md",
+    "Notes/Representational State Transfer.md",
     "Notes/How to approach System Design.md",
     "Scratchpads/System Design.md",
-    "Notes/Representational State Transfer.md",
     "Uniform Resource Identifier.md",
     "Excalibrain/excalibrain.md",
     "Mindmaps/Backend.md",
-    "Mindmaps/System Design.md",
     "Anki/HTTP.md",
     "Scratchpads/HTTP.md",
     "Braindump/Partitioning.md",
@@ -321,8 +355,6 @@
     "Dataviews/Has Questions.md",
     "Notes/Hypertext Transfer Protocol/HTTP Headers.md",
     "Notes/Hypertext Transfer Protocol/Authentication",
-    "Dataviews/Backend.md",
-    "Notes/Hypertext Transfer Protocol/HTTP 1.1.md",
     "Scratchpads",
     "Anki",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",
