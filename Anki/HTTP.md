@@ -43,6 +43,7 @@ What are the common authentication schemes[^3]
 Basic
 Bearer
 Digest
+<!--SR:!2025-04-17,4,278-->
 +++
 
 What are the purpose of cookies in HTTP?[^4]
@@ -50,6 +51,7 @@ What are the purpose of cookies in HTTP?[^4]
 Session management
 Tracking
 User preferences
+<!--SR:!2025-04-16,3,258-->
 +++
 
 [^1]: [[HTTP Headers]]
