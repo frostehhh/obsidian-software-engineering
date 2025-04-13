@@ -4,129 +4,117 @@
     "type": "split",
     "children": [
       {
-        "id": "ca3e068f07dfc771",
-        "type": "split",
+        "id": "9ed66f5362aa95ad",
+        "type": "tabs",
         "children": [
           {
-            "id": "ad78b84769c74432",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2ba0138596feaa0b",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Representational State Transfer.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Representational State Transfer"
-                }
+            "id": "1f70ad564707a50a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalibrain/excalibrain.md"
               },
-              {
-                "id": "7c1962027c91ed41",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "REST API.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "REST API"
-                }
-              }
-            ],
-            "currentTab": 1
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "excalibrain"
+            }
           },
           {
-            "id": "9ed66f5362aa95ad",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1f70ad564707a50a",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalibrain/excalibrain.md"
-                  },
-                  "pinned": true,
-                  "icon": "excalidraw-icon",
-                  "title": "excalibrain"
-                }
+            "id": "a5cf23684e218734",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mindmaps/System Design.md"
               },
-              {
-                "id": "a5cf23684e218734",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Mindmaps/System Design.md"
-                  },
-                  "pinned": true,
-                  "icon": "excalidraw-icon",
-                  "title": "System Design"
-                }
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "System Design"
+            }
+          },
+          {
+            "id": "7a5ee28a0da63299",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mindmaps/Backend.md"
               },
-              {
-                "id": "7a5ee28a0da63299",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Mindmaps/Backend.md"
-                  },
-                  "pinned": true,
-                  "icon": "excalidraw-icon",
-                  "title": "Backend"
-                }
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "Backend"
+            }
+          },
+          {
+            "id": "8db5c28655314b20",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scratchpads/System Design.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "8db5c28655314b20",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Scratchpads/System Design.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "System Design"
-                }
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "System Design"
+            }
+          },
+          {
+            "id": "993272544704e30b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scratchpads/System Design.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "993272544704e30b",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Scratchpads/System Design.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "System Design"
-                }
-              }
-            ],
-            "currentTab": 4
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "System Design"
+            }
+          },
+          {
+            "id": "2ba0138596feaa0b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Representational State Transfer.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Representational State Transfer"
+            }
+          },
+          {
+            "id": "7c1962027c91ed41",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REST API.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "REST API"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -175,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REST API.md",
+                "file": "Notes/Representational State Transfer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of REST API"
+              "title": "Outline of Representational State Transfer"
             }
           },
           {
@@ -305,12 +293,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7c1962027c91ed41",
+  "active": "2ba0138596feaa0b",
   "lastOpenFiles": [
     "REST API.md",
-    "Notes/Representational State Transfer.md",
-    "Scratchpads/System Design.md",
     "Notes/How to approach System Design.md",
+    "Scratchpads/System Design.md",
+    "Notes/Representational State Transfer.md",
+    "Uniform Resource Identifier.md",
     "Excalibrain/excalibrain.md",
     "Mindmaps/Backend.md",
     "Mindmaps/System Design.md",
@@ -334,7 +323,6 @@
     "Notes/Hypertext Transfer Protocol/Authentication",
     "Dataviews/Backend.md",
     "Notes/Hypertext Transfer Protocol/HTTP 1.1.md",
-    "Notes/Hypertext Transfer Protocol/Caching.md",
     "Scratchpads",
     "Anki",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Attachments/Fundamentals+of+Backend+Communications+and+Protocols(Autosaved).pdf",

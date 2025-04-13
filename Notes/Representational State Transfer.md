@@ -6,12 +6,14 @@ tags:
   - backend
 ---
 
+A software architectural style for designing applications
 # Constraints
-- Client-server
+- Client-server structure
 - Stateless
-- Resource representation?
+- Resource representation
 - Caching
 - Uniform interface
+- Layered system
 
 # See Also
 https://en.wikipedia.org/wiki/Software_architecture#Software_architecture_style_vs._software_architecture_pattern
