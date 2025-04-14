@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -249,12 +249,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f1d157f0821f75f7",
+  "active": "8db5c28655314b20",
   "lastOpenFiles": [
-    "Reference Notes/How Twitter Stores 250 Million Tweets a Day Using MySQL.md",
     "Dataviews/Topics/System Design.md",
     "Scratchpads/System Design.md",
+    "Excalibrain/excalibrain.md",
     "Mindmaps/System Design.md",
+    "Mindmaps/Backend.md",
+    "Reference Notes/How Twitter Stores 250 Million Tweets a Day Using MySQL.md",
     "Reference Notes/Lessons Learned from Scaling Uber to 2000 Engineers, 1000 Services, and 8000 Git repositories.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Machine Learning 101/--Table of Contents--.md",
     "Dataviews/Reference Notes.md",
@@ -268,7 +270,6 @@
     "Reference Notes/Scaling Mailbox - From 0 to One Million Users in 6 Weeks and 100 Million Messages Per Day.md",
     "Reference Notes/DataSift Architecture - Realtime Datamining at 120,000 Tweets Per Second.md",
     "Notes/How to approach System Design.md",
-    "Mindmaps/Backend.md",
     "--Obsidian Template--/Frontmatter - Reference Notes - Website Article.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 10 - Database System Design/Twitter System Database Design.md",
     "Dataviews/Topics/Database.md",
@@ -276,7 +277,6 @@
     "Dataviews/In Notes folder but not notes tag.md",
     "Dataviews/Topics",
     "Anki/HTTP.md",
-    "Excalibrain/excalibrain.md",
     "Notes/OSI Model/Application.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "Notes/Hypertext Transfer Protocol/Authentication",
