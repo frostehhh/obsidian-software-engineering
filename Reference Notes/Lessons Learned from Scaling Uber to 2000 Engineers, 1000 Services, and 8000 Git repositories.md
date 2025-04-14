@@ -12,5 +12,4 @@ author: HighScalability
 	- How to know which service causes an issue
 	- When you need to interact with a team about their microservice, it's possible to just build a new microservice and avoid the talk.
 	- Each team can use their own tech stack
-
 - Many tradeoffs due to the number of engineers, services and git repositories

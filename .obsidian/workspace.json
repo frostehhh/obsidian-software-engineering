@@ -66,19 +66,17 @@
             }
           },
           {
-            "id": "8df60415f0feeaec",
+            "id": "7d786a5f5bec19c0",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Lessons Learned from Scaling Uber to 2000 Engineers, 1000 Services, and 8000 Git repositories.md",
+                "file": "Dataviews/Topics/System Design.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Lessons Learned from Scaling Uber to 2000 Engineers, 1000 Services, and 8000 Git repositories"
+              "title": "System Design"
             }
           }
         ],
@@ -258,20 +256,27 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8df60415f0feeaec",
+  "active": "7d786a5f5bec19c0",
   "lastOpenFiles": [
     "Reference Notes/How Twitter Stores 250 Million Tweets a Day Using MySQL.md",
+    "Dataviews/Topics/System Design.md",
+    "Scratchpads/System Design.md",
+    "Mindmaps/System Design.md",
     "Reference Notes/Lessons Learned from Scaling Uber to 2000 Engineers, 1000 Services, and 8000 Git repositories.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Machine Learning 101/--Table of Contents--.md",
+    "Dataviews/Reference Notes.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Fundamentals/--Table of Contents--.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Accounts/Identity and Access Management (IAM)/Access Keys.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Athena/--Table of Contents--.md",
+    "Dataviews/Draft Notes.md",
+    "Reference Notes/A 360 Degree View of the Entire Netflix Stack.md",
     "Reference Notes/HighScalability - Cinchcast Architecture - Producing 1,500 Hours of Audio Every Day.md",
     "Reference Notes/SQL Cursors - how and when to use them.md",
     "Reference Notes/Scaling Mailbox - From 0 to One Million Users in 6 Weeks and 100 Million Messages Per Day.md",
     "Reference Notes/DataSift Architecture - Realtime Datamining at 120,000 Tweets Per Second.md",
     "Notes/How to approach System Design.md",
-    "Scratchpads/System Design.md",
-    "Mindmaps/System Design.md",
     "Mindmaps/Backend.md",
     "--Obsidian Template--/Frontmatter - Reference Notes - Website Article.md",
-    "Dataviews/Topics/System Design.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 10 - Database System Design/Twitter System Database Design.md",
     "Dataviews/Topics/Database.md",
     "Reference Notes/Spring/_note_Spring.md",
@@ -280,13 +285,6 @@
     "Anki/HTTP.md",
     "Excalibrain/excalibrain.md",
     "Notes/OSI Model/Application.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Microsoft SQL Server Clustered Index Design.md",
-    "Notes/OSI Model/Network.md",
-    "Notes/Representational State Transfer.md",
-    "Notes/CAP Theorem.md",
-    "Notes/RPC vs REST.md",
-    "Notes/OSI Model/Transport.md",
-    "Notes/OSI Model/Data Link.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "Notes/Hypertext Transfer Protocol/Authentication",
     "Scratchpads",
