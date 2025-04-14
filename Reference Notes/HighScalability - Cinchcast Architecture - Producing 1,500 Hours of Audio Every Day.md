@@ -2,6 +2,7 @@
 tags:
   - system-design
 source_url: https://highscalability.com/cinchcast-architecture-producing-1500-hours-of-audio-every-d/
+Source: HighScalability
 author: Aleksandr Yampolskiy
 ---
 
