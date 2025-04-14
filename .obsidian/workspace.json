@@ -66,22 +66,9 @@
             }
           },
           {
-            "id": "7d786a5f5bec19c0",
+            "id": "8c20fd68dead006b",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dataviews/Topics/System Design.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "System Design"
-            }
-          },
-          {
-            "id": "8fe7224803f7885b",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -89,12 +76,13 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "How to approach System Design"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "page size",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +150,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -263,14 +252,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8fe7224803f7885b",
+  "active": "8c20fd68dead006b",
   "lastOpenFiles": [
-    "Dataviews/Topics/System Design.md",
-    "Notes/How to approach System Design.md",
+    "Scratchpads/System Design.md",
+    "Scratchpads/Pastebin system design.md",
+    "--Attachments/Pastebin system design 2025-04-15 01.24.21.excalidraw.md",
+    "Mindmaps/Backend.md",
     "Excalibrain/excalibrain.md",
     "Mindmaps/System Design.md",
-    "Mindmaps/Backend.md",
-    "Scratchpads/System Design.md",
+    "Anki/Database.md",
+    "Notes/How tables and indexes are stored on disk.md",
+    "Anki/HTTP.md",
+    "Excalidraw/ExcaliBrain Snapshot - Unsorted Notes.excalidraw.md",
+    "Excalidraw/ExcaliBrain Snapshot - Internet Protocol.excalidraw.md",
+    "Dataviews/Topics/System Design.md",
+    "Notes/How to approach System Design.md",
     "Reference Notes/How Twitter Stores 250 Million Tweets a Day Using MySQL.md",
     "Reference Notes/Lessons Learned from Scaling Uber to 2000 Engineers, 1000 Services, and 8000 Git repositories.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Machine Learning 101/--Table of Contents--.md",
@@ -284,14 +280,7 @@
     "Reference Notes/SQL Cursors - how and when to use them.md",
     "Reference Notes/Scaling Mailbox - From 0 to One Million Users in 6 Weeks and 100 Million Messages Per Day.md",
     "Reference Notes/DataSift Architecture - Realtime Datamining at 120,000 Tweets Per Second.md",
-    "--Obsidian Template--/Frontmatter - Reference Notes - Website Article.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 10 - Database System Design/Twitter System Database Design.md",
-    "Dataviews/Topics/Database.md",
-    "Reference Notes/Spring/_note_Spring.md",
-    "Dataviews/In Notes folder but not notes tag.md",
     "Dataviews/Topics",
-    "Anki/HTTP.md",
-    "Notes/OSI Model/Application.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "Notes/Hypertext Transfer Protocol/Authentication",
     "Scratchpads",
