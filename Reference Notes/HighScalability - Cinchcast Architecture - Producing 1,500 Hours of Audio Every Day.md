@@ -8,6 +8,7 @@ author: Aleksandr Yampolskiy
 
 Cinchcast
 
+- 10 engineers
 - CDN - JavaScript, CSS, and images cached
 - Horizontally scaled servers
 - Logging helps debug

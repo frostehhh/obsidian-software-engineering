@@ -8,7 +8,9 @@ author: General Chicken
 
 # Mailbox
 
+- Team of 14
 - Cloud was cost-efficient for them
 - Usage metrics are important so we know where scaling is needed
 - Expect downtime even with testing environment
-- 
+- Minimize technologies used
+- test system using IMAP deployed at production level to identify bottlenecks
