@@ -211,27 +211,17 @@
             }
           },
           {
-            "id": "df4e43b6f421de7c",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "1edc66872bcf6e8e",
+            "id": "f1d157f0821f75f7",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -253,10 +243,13 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "7d786a5f5bec19c0",
+  "active": "f1d157f0821f75f7",
   "lastOpenFiles": [
     "Reference Notes/How Twitter Stores 250 Million Tweets a Day Using MySQL.md",
     "Dataviews/Topics/System Design.md",

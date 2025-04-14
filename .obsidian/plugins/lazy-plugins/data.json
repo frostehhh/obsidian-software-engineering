@@ -88,13 +88,13 @@
         "startupType": "long"
       },
       "obsidian-meta-bind-plugin": {
-        "startupType": "disabled"
+        "startupType": "long"
       },
       "obsidian-spaced-repetition": {
-        "startupType": "disabled"
+        "startupType": "long"
       },
       "supercharged-links-obsidian": {
-        "startupType": "disabled"
+        "startupType": "long"
       },
       "obsidian-hover-editor": {
         "startupType": "instant"
@@ -103,13 +103,13 @@
         "startupType": "instant"
       },
       "templater-obsidian": {
-        "startupType": "disabled"
+        "startupType": "long"
       },
       "editing-toolbar": {
         "startupType": "instant"
       },
       "mermaid-tools": {
-        "startupType": "disabled"
+        "startupType": "long"
       },
       "obsidian-to-anki-plugin": {
         "startupType": "instant"
