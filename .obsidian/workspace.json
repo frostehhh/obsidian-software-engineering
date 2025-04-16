@@ -78,28 +78,35 @@
               "icon": "lucide-file",
               "title": "How to approach System Design"
             }
-          }
-        ]
-      },
-      {
-        "id": "5247184e81a4f60f",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "7827921b34f1b499",
+            "id": "89970857ff59ff73",
             "type": "leaf",
-            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scratchpads/Pastebin system design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pastebin system design"
+            }
+          },
+          {
+            "id": "7bea50d14bb32423",
+            "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Braindump/Fundamentals of Database and Backend.excalidraw.md"
+                "file": "--Attachments/Pastebin system design 2025-04-15 01.24.21.excalidraw.md"
               },
-              "pinned": true,
               "icon": "excalidraw-icon",
-              "title": "Fundamentals of Database and Backend.excalidraw"
+              "title": "Pastebin system design 2025-04-15 01.24.21.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -167,12 +174,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 265.0026054382324,
-    "collapsed": true
+    "width": 265.0026054382324
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -249,9 +256,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "13d10c7e912916ae",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -271,23 +288,29 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "1f70ad564707a50a",
+  "active": "7bea50d14bb32423",
   "lastOpenFiles": [
-    "Excalibrain/excalibrain.md",
-    "Braindump/Fundamentals of Database and Backend.excalidraw.md",
-    "Mindmaps/Backend.md",
+    "Scratchpads/Pastebin system design.md",
+    "Dataviews/Reference Notes.md",
     "Mindmaps/Database.excalidraw.md",
+    "Excalibrain/excalibrain.md",
     "Notes/How to approach System Design.md",
+    "Braindump/Fundamentals of Database and Backend.excalidraw.md",
+    "Scratchpads/System Design.md",
+    "Mindmaps/System Design.md",
+    "Mindmaps/Backend.md",
     "Braindump/Partitioning.md",
     "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md",
     "Braindump/HTTP.excalidraw.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
-    "Scratchpads/Pastebin system design.md",
-    "Mindmaps/System Design.md",
-    "Scratchpads/System Design.md",
     "Anki/Database.md",
     "Anki/HTTP.md",
     "--Attachments/Pastebin system design 2025-04-15 01.24.21.excalidraw.md",
@@ -298,7 +321,6 @@
     "Reference Notes/How Twitter Stores 250 Million Tweets a Day Using MySQL.md",
     "Reference Notes/Lessons Learned from Scaling Uber to 2000 Engineers, 1000 Services, and 8000 Git repositories.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Machine Learning 101/--Table of Contents--.md",
-    "Dataviews/Reference Notes.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Fundamentals/--Table of Contents--.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Accounts/Identity and Access Management (IAM)/Access Keys.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Athena/--Table of Contents--.md",
