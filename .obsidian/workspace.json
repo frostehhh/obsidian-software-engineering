@@ -97,12 +97,14 @@
             "id": "7bea50d14bb32423",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "--Attachments/Pastebin system design 2025-04-15 01.24.21.excalidraw.md"
+                "file": "--Personal Notes--/Random/What happens when you send a request to google.com.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Pastebin system design 2025-04-15 01.24.21.excalidraw"
+              "icon": "lucide-file",
+              "title": "What happens when you send a request to google.com"
             }
           }
         ],
@@ -174,8 +176,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -306,8 +307,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ff9607c5e71e277",
+  "active": "7bea50d14bb32423",
   "lastOpenFiles": [
+    "--Personal Notes--/Random/Test-Driven Development (TDD).md",
+    "--Personal Notes--/Random/How do emails work.md",
+    "--Personal Notes--/Random/What happens when you send a request to google.com.md",
+    "--Personal Notes--/Cantrill SAA-C03 courses Remaining Time Estimate.md",
+    "--Personal Notes--/Unsorted Notes.md",
+    "--Personal Notes--/Cheat Sheets.md",
+    "--Properties/knowledge-confidence-level.md",
     "--Attachments/Pastebin system design 2025-04-15 01.24.21.excalidraw.md",
     "Scratchpads/Pastebin system design.md",
     "Dataviews/Reference Notes.md",
@@ -328,13 +336,6 @@
     "Excalidraw/ExcaliBrain Snapshot - Unsorted Notes.excalidraw.md",
     "Excalidraw/ExcaliBrain Snapshot - Internet Protocol.excalidraw.md",
     "Dataviews/Topics/System Design.md",
-    "Reference Notes/How Twitter Stores 250 Million Tweets a Day Using MySQL.md",
-    "Reference Notes/Lessons Learned from Scaling Uber to 2000 Engineers, 1000 Services, and 8000 Git repositories.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Machine Learning 101/--Table of Contents--.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Fundamentals/--Table of Contents--.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Accounts/Identity and Access Management (IAM)/Access Keys.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Athena/--Table of Contents--.md",
-    "Dataviews/Draft Notes.md",
     "Dataviews/Topics",
     "Notes/Hypertext Transfer Protocol/Authentication",
     "Scratchpads",
