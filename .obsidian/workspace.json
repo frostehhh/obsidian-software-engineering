@@ -97,12 +97,12 @@
             "id": "7bea50d14bb32423",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
                 "file": "--Attachments/Pastebin system design 2025-04-15 01.24.21.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Loading Excalidraw... Pastebin system design 2025-04-15 01.24.21.excalidraw"
+              "icon": "excalidraw-icon",
+              "title": "Pastebin system design 2025-04-15 01.24.21.excalidraw"
             }
           }
         ],
@@ -266,9 +266,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "9ff9607c5e71e277",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -288,11 +298,17 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "7bea50d14bb32423",
+  "active": "9ff9607c5e71e277",
   "lastOpenFiles": [
+    "--Attachments/Pastebin system design 2025-04-15 01.24.21.excalidraw.md",
     "Scratchpads/Pastebin system design.md",
     "Dataviews/Reference Notes.md",
     "Mindmaps/Database.excalidraw.md",
@@ -308,7 +324,6 @@
     "Braindump/Fundamentals of Database Engineering.canvas",
     "Anki/Database.md",
     "Anki/HTTP.md",
-    "--Attachments/Pastebin system design 2025-04-15 01.24.21.excalidraw.md",
     "Notes/How tables and indexes are stored on disk.md",
     "Excalidraw/ExcaliBrain Snapshot - Unsorted Notes.excalidraw.md",
     "Excalidraw/ExcaliBrain Snapshot - Internet Protocol.excalidraw.md",
