@@ -8,79 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f70ad564707a50a",
+            "id": "6ccaec00a77f684e",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalibrain/excalibrain.md"
+                "file": "Braindump/Backend and Database.md"
               },
               "pinned": true,
               "icon": "excalidraw-icon",
-              "title": "excalibrain"
-            }
-          },
-          {
-            "id": "a5cf23684e218734",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mindmaps/System Design.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "System Design"
-            }
-          },
-          {
-            "id": "7a5ee28a0da63299",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mindmaps/Backend.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "Backend"
-            }
-          },
-          {
-            "id": "8db5c28655314b20",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scratchpads/System Design.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "System Design"
-            }
-          },
-          {
-            "id": "8c20fd68dead006b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/How to approach System Design.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "How to approach System Design"
+              "title": "Backend and Database"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.0026054382324
+    "width": 265.0026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -275,7 +217,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272
+    "width": 272,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,13 +241,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "34a1915b5522ec0a",
+  "active": "6ccaec00a77f684e",
   "lastOpenFiles": [
+    "Excalibrain/excalibrain.md",
+    "Dataviews/Braindumps.md",
     "Notes/How to approach System Design.md",
+    "Mindmaps/Backend.md",
+    "Mindmaps/System Design.md",
+    "Braindump/Backend and Database.md",
+    "Braindump/Untitled.md",
+    "Braindump/Fundamentals of Database Engineering.canvas",
+    "Braindump/Fundamentals of Database and Backend.excalidraw.md",
+    "Braindump/_note_Braindump.md",
+    "--Personal Notes--/Random/How do emails work.md",
+    "--Personal Notes--/Random/Test-Driven Development (TDD).md",
     "--Personal Notes--/Random/What happens when you send a request to google.com.md",
     "Scratchpads/Pastebin system design.md",
-    "--Personal Notes--/Random/Test-Driven Development (TDD).md",
-    "--Personal Notes--/Random/How do emails work.md",
     "--Personal Notes--/Cantrill SAA-C03 courses Remaining Time Estimate.md",
     "--Personal Notes--/Unsorted Notes.md",
     "--Personal Notes--/Cheat Sheets.md",
@@ -312,21 +264,12 @@
     "--Attachments/Pastebin system design 2025-04-15 01.24.21.excalidraw.md",
     "Dataviews/Reference Notes.md",
     "Mindmaps/Database.excalidraw.md",
-    "Excalibrain/excalibrain.md",
-    "Braindump/Fundamentals of Database and Backend.excalidraw.md",
     "Scratchpads/System Design.md",
-    "Mindmaps/System Design.md",
-    "Mindmaps/Backend.md",
     "Braindump/Partitioning.md",
     "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md",
     "Braindump/HTTP.excalidraw.md",
-    "Braindump/Fundamentals of Database Engineering.canvas",
     "Anki/Database.md",
     "Anki/HTTP.md",
-    "Notes/How tables and indexes are stored on disk.md",
-    "Excalidraw/ExcaliBrain Snapshot - Unsorted Notes.excalidraw.md",
-    "Excalidraw/ExcaliBrain Snapshot - Internet Protocol.excalidraw.md",
-    "Dataviews/Topics/System Design.md",
     "Dataviews/Topics",
     "Notes/Hypertext Transfer Protocol/Authentication",
     "Scratchpads",
