@@ -244,11 +244,6 @@
     "related-mind-map": {}
   },
   "navigationHistory": [
-    "Reference Notes/Adrian Cantrill/Cybersecurity/SSL and TLS/SSL and TLS.md",
-    "Notes/Transport Layer Security/TLS 1.2.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 4 - Many ways to HTTPS/HTTPS over TCP with TLS 1.3.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 4 - Many ways to HTTPS/Untitled.md",
-    "Notes/Hypertext Transfer Protocol/HTTP3.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Introduction.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Untitled.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Introduction.md",
@@ -292,8 +287,13 @@
     "Mindmaps/Backend Fundamentals.md",
     "Scratchpads/HTTP.md",
     "Notes/How to approach System Design.md",
-    "Dataviews/Braindumps.md",
-    "Braindump/Backend and Database.md"
+    "Braindump/Backend and Database.md",
+    "Notes/Transport Layer Security/TLS 1.2.md",
+    "Braindump/Backend.md",
+    "Notes/RSA.md",
+    "Mindmaps/System Design.md",
+    "Scratchpads/System Design.md",
+    "Dataviews/Braindumps.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "--p",

@@ -38,33 +38,23 @@
             }
           },
           {
-            "id": "1b0f2d57cde766ea",
+            "id": "b6aa74e901c6ab8a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scratchpads/System Design.md",
+                "file": "Anki/Security.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "System Design"
-            }
-          },
-          {
-            "id": "4dc3854dfcbd8778",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mindmaps/System Design.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "System Design"
+              "title": "Security"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,8 +122,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mindmaps/HTTP.excalidraw.md",
+                "file": "Dataviews/Braindumps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HTTP.excalidraw"
+              "title": "Backlinks for Braindumps"
             }
           },
           {
@@ -172,12 +161,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mindmaps/HTTP.excalidraw.md",
+                "file": "Dataviews/Braindumps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from HTTP.excalidraw"
+              "title": "Outgoing links from Braindumps"
             }
           },
           {
@@ -196,56 +185,6 @@
             }
           },
           {
-            "id": "f1d157f0821f75f7",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "dffc20c8dacb3d6f",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "13d10c7e912916ae",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "9ff9607c5e71e277",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "0a71633648c75f5e",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
             "id": "34a1915b5522ec0a",
             "type": "leaf",
             "state": {
@@ -255,13 +194,11 @@
               "title": "Notes Review Queue"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 272,
-    "collapsed": true
+    "width": 272
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,35 +221,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4dc3854dfcbd8778",
+  "active": "d79cf188c59ca1ee",
   "lastOpenFiles": [
-    "Mindmaps/Backend.md",
-    "Scratchpads/Pastebin system design.md",
-    "Braindump/Backend.md",
+    "Anki/Security.md",
+    "Mindmaps/System Design.md",
+    "Notes/RSA.md",
+    "Notes/Diffie-Hellman Algorithm.md",
     "Dataviews/Braindumps.md",
     "Scratchpads/System Design.md",
+    "Braindump/Backend.md",
+    "Dataviews/Anki.md",
+    "Notes/Transport Layer Security/TLS 1.2.md",
+    "Excalibrain/excalibrain.md",
+    "Anki/_note_Anki.md",
+    "Mindmaps/Backend.md",
+    "Scratchpads/Pastebin system design.md",
     "Notes/How to approach System Design.md",
     "Mindmaps/Database.excalidraw.md",
     "Notes/Digital Signatures.md",
     "Notes/Hypertext Transfer Protocol/Authentication/Authentication.md",
-    "Anki/Security.md",
     "Anki/HTTP.md",
     "Anki/Database.md",
     "Braindump/_note_Braindump.md",
     "Braindump/Fundamentals of Database and Backend.excalidraw.md",
-    "Dataviews/Anki.md",
     "Braindump/Partitioning.md",
-    "Excalibrain/excalibrain.md",
-    "Mindmaps/System Design.md",
     "Braindump/Untitled.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "--Personal Notes--/Random/How do emails work.md",
     "--Personal Notes--/Random/Test-Driven Development (TDD).md",
     "--Personal Notes--/Random/What happens when you send a request to google.com.md",
-    "--Personal Notes--/Cantrill SAA-C03 courses Remaining Time Estimate.md",
-    "--Personal Notes--/Unsorted Notes.md",
-    "--Personal Notes--/Cheat Sheets.md",
-    "--Properties/knowledge-confidence-level.md",
     "Dataviews/Topics",
     "Notes/Hypertext Transfer Protocol/Authentication",
     "Scratchpads",
