@@ -14,14 +14,45 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Braindump/Backend and Database.md"
+                "file": "Braindump/Backend.md"
               },
               "pinned": true,
               "icon": "excalidraw-icon",
-              "title": "Backend and Database"
+              "title": "Backend"
+            }
+          },
+          {
+            "id": "d79cf188c59ca1ee",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataviews/Braindumps.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Braindumps"
+            }
+          },
+          {
+            "id": "98e0fd8452c708f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Hypertext Transfer Protocol/Authentication/Authentication.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Authentication"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.0026054382324,
-    "collapsed": true
+    "width": 265.0026054382324
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -241,18 +271,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6ccaec00a77f684e",
+  "active": "98e0fd8452c708f4",
   "lastOpenFiles": [
-    "Excalibrain/excalibrain.md",
+    "Anki/Security.md",
+    "Anki/HTTP.md",
+    "Anki/Database.md",
+    "Braindump/_note_Braindump.md",
+    "Braindump/Fundamentals of Database and Backend.excalidraw.md",
     "Dataviews/Braindumps.md",
+    "Dataviews/Anki.md",
+    "Braindump/Backend.md",
+    "Braindump/Partitioning.md",
+    "Excalibrain/excalibrain.md",
     "Notes/How to approach System Design.md",
     "Mindmaps/Backend.md",
     "Mindmaps/System Design.md",
-    "Braindump/Backend and Database.md",
     "Braindump/Untitled.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
-    "Braindump/Fundamentals of Database and Backend.excalidraw.md",
-    "Braindump/_note_Braindump.md",
     "--Personal Notes--/Random/How do emails work.md",
     "--Personal Notes--/Random/Test-Driven Development (TDD).md",
     "--Personal Notes--/Random/What happens when you send a request to google.com.md",
@@ -265,11 +300,6 @@
     "Dataviews/Reference Notes.md",
     "Mindmaps/Database.excalidraw.md",
     "Scratchpads/System Design.md",
-    "Braindump/Partitioning.md",
-    "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md",
-    "Braindump/HTTP.excalidraw.md",
-    "Anki/Database.md",
-    "Anki/HTTP.md",
     "Dataviews/Topics",
     "Notes/Hypertext Transfer Protocol/Authentication",
     "Scratchpads",
