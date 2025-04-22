@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataviews/Braindumps.md",
+                "file": "Anki/Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Braindumps"
+              "title": "Backlinks for Security"
             }
           },
           {
@@ -232,13 +232,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "92e6b1270f23f51d",
+  "active": "b6aa74e901c6ab8a",
   "lastOpenFiles": [
     "Anki/Security.md",
+    "Dataviews/Braindumps.md",
     "Mindmaps/System Design.md",
     "Notes/RSA.md",
     "Notes/Diffie-Hellman Algorithm.md",
-    "Dataviews/Braindumps.md",
     "Scratchpads/System Design.md",
     "Braindump/Backend.md",
     "Dataviews/Anki.md",
