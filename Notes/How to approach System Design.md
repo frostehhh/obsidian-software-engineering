@@ -1,8 +1,8 @@
 ---
 tags:
-  - guidelines
   - system-design
   - notes
+  - guide
 Draft: true
 ---
 
