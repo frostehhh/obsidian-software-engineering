@@ -52,21 +52,9 @@
               "icon": "lucide-file",
               "title": "Security"
             }
-          },
-          {
-            "id": "ea4ecdfb47b9d98b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -254,7 +242,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1aca8249e9ee7ca7",
+  "active": "b6aa74e901c6ab8a",
   "lastOpenFiles": [
     "Anki/Security.md",
     "Dataviews/Braindumps.md",
