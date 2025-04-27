@@ -52,9 +52,23 @@
               "icon": "lucide-file",
               "title": "How to approach System Design"
             }
+          },
+          {
+            "id": "a96f5ccc8894f736",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/API Versioning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "API Versioning"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#guidelines",
+                "query": "tag:#backend",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +136,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -161,12 +176,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference Notes/HelloInterview/System Design.md",
+                "file": "Notes/API Versioning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from System Design"
+              "title": "Outgoing links from API Versioning"
             }
           },
           {
@@ -262,10 +277,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aaf7c0f012f39754",
+  "active": "fa87c464967a6005",
   "lastOpenFiles": [
-    "Notes/How to approach System Design.md",
+    "Notes/API Versioning.md",
     "Reference Notes/HelloInterview/System Design.md",
+    "Notes/How to approach System Design.md",
     "Mindmaps/System Design.md",
     "Braindump/Backend.md",
     "Mindmaps/Backend.md",
@@ -290,7 +306,6 @@
     "Braindump/_note_Braindump.md",
     "Braindump/Fundamentals of Database and Backend.excalidraw.md",
     "Braindump/Partitioning.md",
-    "Braindump/Untitled.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "Dataviews/Topics",
     "Notes/Hypertext Transfer Protocol/Authentication",
