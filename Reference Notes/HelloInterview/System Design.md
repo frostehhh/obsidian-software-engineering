@@ -37,8 +37,6 @@ Iterate on the high-level architecture based on what parts can be improved based
 # Extra notes
 - DAU - Daily active users
 # Questions
-- Why should we use api versions?[^2] It's shown in the high-level example
-- What is fan-out on read vs fan-out on write
 - When should we use GraphQL API
 
 [^1]: https://www.hellointerview.com/learn/system-design/in-a-hurry/how-to-prepare
