@@ -17,6 +17,11 @@ tags:
 3. Technical Details
 4. Proper communication and collaboration
 
-[^1]: https://www.hellointerview.com/learn/system-design/in-a-hurry/how-to-prepare
 
-[^2]: 
+# Questions
+- Why is partition tolerance given in distributed systems[^2]
+
+[^1]: https://www.hellointerview.com/learn/system-design/in-a-hurry/how-to-prepare
+[^2]: https://www.hellointerview.com/learn/system-design/in-a-hurry/delivery
+
+

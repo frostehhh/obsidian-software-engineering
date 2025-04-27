@@ -28,14 +28,14 @@ What headers are used for client and server to determine the compression algorit
 What does a simple authentication flow look like in HTTP?[^3]
 ?
 See [[Authentication]]
-<!--SR:!2025-04-23,2,250-->
+<!--SR:!2025-05-04,7,270-->
 +++
 
 What headers are used for authentication?[^3]
 ?
 `WWW-Authenticate` and `Proxy-Authenticate` by server
 `Authorize` and `Proxy-Authorize` by client
-<!--SR:!2025-04-23,2,250-->
+<!--SR:!2025-05-04,7,270-->
 +++
 
 What are the common authentication schemes[^3]

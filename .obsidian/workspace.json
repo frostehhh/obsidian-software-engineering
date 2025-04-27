@@ -8,65 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ccaec00a77f684e",
+            "id": "5d4e4b31265813e7",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Braindump/Backend.md"
+                "file": "Mindmaps/System Design.md"
               },
               "pinned": true,
               "icon": "excalidraw-icon",
-              "title": "Backend"
-            }
-          },
-          {
-            "id": "d79cf188c59ca1ee",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dataviews/Braindumps.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Braindumps"
-            }
-          },
-          {
-            "id": "b6aa74e901c6ab8a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anki/Security.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Security"
+              "title": "System Design"
             }
           },
           {
             "id": "a444c466d1b2973c",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Mindmaps/Backend.md"
+                "file": "Reference Notes/HelloInterview/System Design.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Backend"
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "System Design"
+            }
+          },
+          {
+            "id": "1a0962be5a566810",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/How to approach System Design.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "How to approach System Design"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,12 +161,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dataviews/Braindumps.md",
+                "file": "Reference Notes/HelloInterview/System Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Braindumps"
+              "title": "Outgoing links from System Design"
             }
           },
           {
@@ -190,7 +178,7 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": true,
-                "searchQuery": "guide"
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -232,12 +220,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "ae1483f55f663245",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -256,24 +254,30 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a444c466d1b2973c",
+  "active": "aaf7c0f012f39754",
   "lastOpenFiles": [
-    "Scratchpads/Pastebin system design.md",
-    "Mindmaps/Backend.md",
-    "Anki/Security.md",
-    "Reference Notes/HelloInterview/System Design.md",
     "Notes/How to approach System Design.md",
+    "Reference Notes/HelloInterview/System Design.md",
+    "Mindmaps/System Design.md",
+    "Braindump/Backend.md",
+    "Mindmaps/Backend.md",
     "Dataviews/Braindumps.md",
+    "Dataviews/Topics/System Design.md",
+    "Anki/Security.md",
+    "Scratchpads/Pastebin system design.md",
     "Reference Notes/_note_Reference Notes.md",
     "Reference Notes/HelloInterview",
-    "Mindmaps/System Design.md",
     "Notes/RSA.md",
     "Notes/Diffie-Hellman Algorithm.md",
     "Scratchpads/System Design.md",
-    "Braindump/Backend.md",
     "Dataviews/Anki.md",
     "Notes/Transport Layer Security/TLS 1.2.md",
     "Excalibrain/excalibrain.md",
@@ -288,7 +292,6 @@
     "Braindump/Partitioning.md",
     "Braindump/Untitled.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
-    "--Personal Notes--/Random/How do emails work.md",
     "Dataviews/Topics",
     "Notes/Hypertext Transfer Protocol/Authentication",
     "Scratchpads",
