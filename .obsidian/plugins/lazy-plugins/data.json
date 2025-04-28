@@ -113,6 +113,9 @@
       },
       "obsidian-to-anki-plugin": {
         "startupType": "instant"
+      },
+      "tag-wrangler": {
+        "startupType": "instant"
       }
     },
     "loadOrder": []

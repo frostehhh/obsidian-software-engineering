@@ -38,6 +38,7 @@ Iterate on the high-level architecture based on what parts can be improved based
 - DAU - Daily active users
 # Questions
 - When should we use GraphQL API
+- What is an API Gateway for?
 
 [^1]: https://www.hellointerview.com/learn/system-design/in-a-hurry/how-to-prepare
 [^2]: https://www.hellointerview.com/learn/system-design/in-a-hurry/delivery
