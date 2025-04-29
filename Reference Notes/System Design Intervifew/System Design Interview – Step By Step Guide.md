@@ -6,7 +6,7 @@ Channel:
   - System Design Interview
 Source:
   - Youtube
-Draft:
+Draft: true
 ---
 
 Topics mentioned in the video:

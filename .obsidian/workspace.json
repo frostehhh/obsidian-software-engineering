@@ -70,6 +70,7 @@
           {
             "id": "44d5b2afe9ae2ee2",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -77,12 +78,13 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "System Design Interview – Step By Step Guide"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -321,10 +323,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f1dc42e77564e5a8",
+  "active": "0d4dcb92488de60e",
   "lastOpenFiles": [
-    "Reference Notes/System Design Intervifew/_note_System Design Intervifew.md",
     "Reference Notes/System Design Intervifew/System Design Interview – Step By Step Guide.md",
+    "Reference Notes/System Design Intervifew/_note_System Design Intervifew.md",
     "Notes/How to approach System Design.md",
     "Reference Notes/Untitled 1",
     "Reference Notes/System Design Intervifew",
