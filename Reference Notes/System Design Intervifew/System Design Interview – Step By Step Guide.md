@@ -71,3 +71,4 @@ each nosql database has diff architecture, pros and cons'
 41:10 - data ingestion process
 
 blocking vs non-blocking i/o. rate limiting system is good for limiting connections(?)
+45:01 - buffering and batching
