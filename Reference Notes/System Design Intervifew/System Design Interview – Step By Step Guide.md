@@ -26,11 +26,20 @@ Topics mentioned in the video:
 - Health monitoring.
 - Audit systems.
 
-Requirements clarification
+# Requirements Clarification
 - who will use
-- scaling
-- 
+- scaling - considering input
+- performance - expected output(speed)
+- cost vs maintenance
+
 1. functional requirements - System behavior, APIs, operations to support
 2. non-functional requirements - system qualities - fast, fault-tolerant
 
+hla
+
+data model
+
+
+
 14:49 end
+

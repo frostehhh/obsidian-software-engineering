@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -323,8 +323,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0d4dcb92488de60e",
+  "active": "44d5b2afe9ae2ee2",
   "lastOpenFiles": [
+    "Braindump/Approaching System Design Interview.md",
     "Reference Notes/System Design Intervifew/System Design Interview – Step By Step Guide.md",
     "Reference Notes/System Design Intervifew/_note_System Design Intervifew.md",
     "Notes/How to approach System Design.md",
@@ -332,7 +333,6 @@
     "Reference Notes/System Design Intervifew",
     "Mindmaps/System Design.md",
     "Reference Notes/HelloInterview/System Design/System Design.md",
-    "Braindump/Approaching System Design Interview.md",
     "Mindmaps/_note_Mindmaps.md",
     "Mindmaps/Backend.md",
     "Notes/_note_Notes.md",
