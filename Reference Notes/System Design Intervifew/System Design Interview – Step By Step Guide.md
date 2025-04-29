@@ -7,6 +7,7 @@ Channel:
 Source:
   - Youtube
 Draft: true
+media: https://www.youtube.com/watch?v=bUHFg8CZFws
 ---
 
 Topics mentioned in the video:
@@ -42,4 +43,22 @@ data model
 
 
 14:49 end
+[34:14](https://www.youtube.com/watch?v=bUHFg8CZFws&t=2054#t=34:14)
+availability vs consistency
+24:30 eventual consistency
+Cassandra tunable consistency
 
+https://youtu.be/bUHFg8CZFws?t=1499
+how we store
+sql
+- normalized
+- think of entity = table
+nosql
+- think of queries per presentation of data
+- denormalized is okay
+
+cassandra - masterless replication
+
+each nosql database has diff architecture, pros and cons'
+
+data processing
