@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -324,12 +324,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed50f1347fb235ea",
+  "active": "44d5b2afe9ae2ee2",
   "lastOpenFiles": [
+    "Notes/Sharding.md",
     "Excalibrain/excalibrain.md",
     "Notes/Partitioning.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 6 - Database Partitioning/Partitioning.md",
-    "Notes/Sharding.md",
     "Braindump/Partitioning.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 6 - Database Partitioning/Partitioning Demo.md",
     "Reference Notes/System Design Intervifew/System Design Interview – Step By Step Guide.md",

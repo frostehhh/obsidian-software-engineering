@@ -43,13 +43,13 @@ data model
 
 
 14:49 end
-[34:14](https://www.youtube.com/watch?v=bUHFg8CZFws&t=2054#t=34:14)
+
 availability vs consistency
 24:30 eventual consistency
 Cassandra tunable consistency
 
 https://youtu.be/bUHFg8CZFws?t=1499
-how we store
+25:00 how we store
 sql
 - normalized
 - think of entity = table
@@ -61,4 +61,13 @@ cassandra - masterless replication
 
 each nosql database has diff architecture, pros and cons'
 
-data processing
+29:00 - data processing service
+
+31:22 - data aggregation basics
+
+34:35 - processing service detailed
+
+38:00 - processing service detailed - database writer
+41:10 - data ingestion process
+
+blocking vs non-blocking i/o. rate limiting system is good for limiting connections(?)
