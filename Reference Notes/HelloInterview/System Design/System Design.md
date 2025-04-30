@@ -32,8 +32,6 @@ Entities central to the system design. For example, when designing Twitter, we n
 Start building the initial high-level architecture and include the needed components: API Gateway, servers, Databases, etc.
 ## Deep Dives
 Iterate on the high-level architecture based on what parts can be improved based on the given requirements
-
-
 # Extra notes
 - DAU - Daily active users
 # Questions

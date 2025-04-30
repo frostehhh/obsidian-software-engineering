@@ -6,7 +6,7 @@ Channel:
   - System Design Interview
 Source:
   - Youtube
-Draft: true
+Draft: false
 media: https://www.youtube.com/watch?v=bUHFg8CZFws
 ---
 
@@ -73,3 +73,7 @@ each nosql database has diff architecture, pros and cons'
 ![[Pasted image 20250430201739.png]]
 blocking vs non-blocking i/o. rate limiting system is good for limiting connections(?)
 45:01 - buffering and batching
+
+
+> [!note]
+> I stopped at 45:01 since I think there is too much depth for me to properly absorb. Will revisit later when I practice an easier level.
