@@ -10,6 +10,10 @@ Draft: true
 media: https://www.youtube.com/watch?v=bUHFg8CZFws
 ---
 
+> [!note]
+> This video provides a step by step guide INCLUDING some level of deep diving
+
+
 Topics mentioned in the video:
 
 - Stages of a typical system design interview: functional requirements (API), non-functional requirements, high-level design, detailed design, bottlenecks and tradeoffs.
@@ -36,13 +40,9 @@ Topics mentioned in the video:
 1. functional requirements - System behavior, APIs, operations to support
 2. non-functional requirements - system qualities - fast, fault-tolerant
 
-hla
+10:30 - hla
 
 data model
-
-
-
-14:49 end
 
 availability vs consistency
 24:30 eventual consistency
@@ -68,7 +68,8 @@ each nosql database has diff architecture, pros and cons'
 34:35 - processing service detailed
 
 38:00 - processing service detailed - database writer
+![[Pasted image 20250430201657.png]]
 41:10 - data ingestion process
-
+![[Pasted image 20250430201739.png]]
 blocking vs non-blocking i/o. rate limiting system is good for limiting connections(?)
 45:01 - buffering and batching

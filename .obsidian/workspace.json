@@ -334,8 +334,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "56f70ed4a06fd086",
+  "active": "44d5b2afe9ae2ee2",
   "lastOpenFiles": [
+    "--Attachments/Pasted image 20250430201739.png",
+    "--Attachments/Pasted image 20250430201657.png",
+    "--Attachments/Pasted image 20250430201627.png",
+    "--Attachments/Pasted image 20250430201559.png",
     "Notes/Sharding.md",
     "Excalibrain/excalibrain.md",
     "Notes/Partitioning.md",
@@ -365,7 +369,6 @@
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/API Gateway/Basics.md",
     "Reference Notes/HelloInterview/System Design/Core Concepts.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies.md",
-    "Reference Notes/HelloInterview/Untitled.md",
     "Reference Notes/HelloInterview/System Design",
     "Reference Notes/HelloInterview",
     "Braindump/Fundamentals of Database Engineering.canvas",
@@ -379,9 +382,6 @@
     "--Attachments/Pasted image 20250405233653.png",
     "--Attachments/Pasted image 20250405233639.png",
     "--Attachments/Pasted image 20250405233525.png",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230507214352.png",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230507220629.png",
-    "--Attachments/Pasted image 20250405181621.png",
-    "--Attachments/Pasted image 20250404182851.png"
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230507214352.png"
   ]
 }
