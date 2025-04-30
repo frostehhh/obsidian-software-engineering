@@ -31,9 +31,8 @@ related-reference-note::
 	- cost
 2. Functional requirements
 3. Non-functional requirements
+# Core Entities
+# API Interface
 ## High-Level Architecture
-- Core entities
-- API design - REST, GraphQL, RPC
-- High-level Architecture
 # Deep Dives
 

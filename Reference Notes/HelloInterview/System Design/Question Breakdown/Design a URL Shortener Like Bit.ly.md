@@ -8,7 +8,13 @@ source_url: https://www.hellointerview.com/learn/system-design/problem-breakdown
 ---
 
 
+# Requirements
 
+# Core entities
+# API
+
+# High-Level Architecture
+# Deep Dives
 # Notes
 301 redirect - permanent
 302 redirect - temporary
@@ -16,3 +22,4 @@ source_url: https://www.hellointerview.com/learn/system-design/problem-breakdown
 base62 encoding
 # Questions
 read-after write consistency - read immediately after writing
+redis
