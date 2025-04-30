@@ -2,7 +2,7 @@
 tags:
   - system-design
   - reference-notes
-Draft: true
+Draft: false
 "Parent:":
   - "[[Reference Notes/HelloInterview/System Design/System Design|System Design]]"
 ---
