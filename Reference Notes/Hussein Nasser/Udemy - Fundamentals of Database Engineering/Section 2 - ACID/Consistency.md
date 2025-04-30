@@ -20,3 +20,5 @@ While a row is being updated, a separate read transaction reads the initial stat
 > One case where this can happen is with database read replicas 
 
 
+> [!warning]
+> Information provided seems incorrect. The consistency here seems to be referring to consistency in CAP Theorem. However, I'm not sure where data inconsistency came from

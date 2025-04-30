@@ -90,7 +90,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/ACID/Consistency.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Consistency.md",
+                "file": "Notes/ACID/Consistency.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -362,14 +362,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a4e8dab66337dd51",
+  "active": "1c760db2d3093c3c",
   "lastOpenFiles": [
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Consistency.md",
     "Notes/ACID/Consistency.md",
     "Notes/CAP Theorem.md",
     "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
     "Notes/How to approach System Design.md",
     "Scratchpads/Scratchpad - System Design.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Consistency.md",
     "Excalibrain/excalibrain.md",
     "Mindmaps/System Design.md",
     "Notes/GraphQL.md",
