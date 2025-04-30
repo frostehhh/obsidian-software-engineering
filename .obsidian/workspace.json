@@ -291,12 +291,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "56f70ed4a06fd086",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -324,7 +334,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "44d5b2afe9ae2ee2",
+  "active": "56f70ed4a06fd086",
   "lastOpenFiles": [
     "Notes/Sharding.md",
     "Excalibrain/excalibrain.md",
