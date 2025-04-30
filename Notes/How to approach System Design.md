@@ -23,5 +23,17 @@ related-reference-note::
 
 
 # Guidelines
+## Requirements
+1. Understanding the problem
+	- user
+	- scale
+	- performance
+	- cost
+2. Functional requirements
+3. Non-functional requirements
 ## High-Level Architecture
+- Core entities
+- API design - REST, GraphQL, RPC
+- High-level Architecture
+# Deep Dives
 

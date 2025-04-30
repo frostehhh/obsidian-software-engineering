@@ -10,6 +10,7 @@ Parent::
 ---
 
 - The property of a database consistently updating its own state from one to another given its internal rules - triggers, constraints, cascades, etc.
+	- A change or set of changes repeated will produce consistent output
 
 # References
 https://en.wikipedia.org/wiki/ACID

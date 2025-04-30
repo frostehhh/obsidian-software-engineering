@@ -47,7 +47,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Notes/How to approach System Design.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": false
                   },
                   "pinned": true,
@@ -62,17 +62,33 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Scratchpads/System Design.md",
+                    "file": "Scratchpads/Scratchpad - System Design.md",
                     "mode": "source",
                     "source": false
                   },
                   "pinned": true,
                   "icon": "lucide-file",
-                  "title": "System Design"
+                  "title": "Scratchpad - System Design"
+                }
+              },
+              {
+                "id": "0fb527100995cdf6",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a URL Shortener Like Bit.ly.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Design a URL Shortener Like Bit.ly"
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           }
         ],
         "direction": "vertical"
@@ -121,13 +137,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Scratchpads/System Design.md",
+                    "file": "Notes/ACID/Consistency.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of System Design"
+                  "title": "Outline of Consistency"
                 }
               },
               {
@@ -288,12 +304,22 @@
                 "state": {
                   "type": "review-queue-list-view",
                   "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              },
+              {
+                "id": "806004a891077741",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {},
                   "icon": "SpacedRepIcon",
                   "title": "Notes Review Queue"
                 }
               }
             ],
-            "currentTab": 11
+            "currentTab": 12
           }
         ],
         "direction": "horizontal",
@@ -321,8 +347,8 @@
           "templater-obsidian:Templater": false
         }
       },
-      "active": "79b5adaf47398365",
-      "mtime": "2025-04-30T22:51:28+08:00"
+      "active": "0fb527100995cdf6",
+      "mtime": "2025-05-01T01:14:43+08:00"
     }
   },
   "active": "HelloInterview - System Design"
