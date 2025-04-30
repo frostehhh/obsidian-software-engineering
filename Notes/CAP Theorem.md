@@ -6,7 +6,7 @@ Draft: false
 ---
 
 # Consistency
-- Every read receives the most recent data
+- Every read receives the most recent data regardless of the node accessed 
 - There can be multiple nodes but strong consistency
 # Availability
 - Every request must result to a response

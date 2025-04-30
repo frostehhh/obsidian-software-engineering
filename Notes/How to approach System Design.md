@@ -4,6 +4,8 @@ tags:
   - notes
   - guide
 Draft: true
+related-reference-note:: 
+ - "[[Reference Notes/HelloInterview/System Design/In a Hurry/System Design|System Design]]"
 ---
 
 - System design is about deciding what we need and why we need them while considering tradeoffs
@@ -22,3 +24,4 @@ Draft: true
 
 # Guidelines
 ## High-Level Architecture
+

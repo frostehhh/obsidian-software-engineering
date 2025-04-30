@@ -5,6 +5,7 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "✏",
       "🗃",
       "LiPencil",
       "🧠",
@@ -37,5 +38,6 @@
   "Braindump": "🧠",
   "Mindmaps": "🧠",
   "Excalidraw": "LiPencil",
-  "Anki": "🗃"
+  "Anki": "🗃",
+  "Scratchpads/Scratchpad - System Design.md": "✏"
 }
