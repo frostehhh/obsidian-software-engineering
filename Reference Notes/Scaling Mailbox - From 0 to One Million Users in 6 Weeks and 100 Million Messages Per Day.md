@@ -1,6 +1,7 @@
 ---
 tags:
   - system-design
+  - reference-notes
 source_url: https://highscalability.com/scaling-mailbox-from-0-to-one-million-users-in-6-weeks-and-1/
 Source: HighScalability
 author: General Chicken
