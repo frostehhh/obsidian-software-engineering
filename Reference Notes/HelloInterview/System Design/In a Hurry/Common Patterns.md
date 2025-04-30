@@ -1,8 +1,9 @@
 ---
 tags:
   - system-design
+  - reference-notes
 "Parent:":
-  - "[[Reference Notes/HelloInterview/System Design/System Design|System Design]]"
+  - "[[Reference Notes/HelloInterview/System Design/In a Hurry/System Design|System Design]]"
 ---
 
 # Simple DB-backed CRUD service with caching

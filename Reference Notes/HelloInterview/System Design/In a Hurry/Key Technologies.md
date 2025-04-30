@@ -5,7 +5,7 @@ tags:
   - reference-notes
 Draft: false
 "Parent:":
-  - "[[Key Technologies]]"
+  - "[[Reference Notes/HelloInterview/System Design/In a Hurry/System Design|System Design]]"
 ---
 
 # Storage
