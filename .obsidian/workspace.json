@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -315,9 +315,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "68e1d16e5cea0863",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
@@ -340,23 +350,23 @@
       "media-extended:Open media": false
     }
   },
-  "active": "0fb527100995cdf6",
+  "active": "79b5adaf47398365",
   "lastOpenFiles": [
-    "Scratchpads/Scratchpad - System Design.md",
-    "Notes/How to approach System Design.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a URL Shortener Like Bit.ly.md",
+    "Mindmaps/System Design.md",
+    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
+    "Notes/How to approach System Design.md",
+    "Scratchpads/Scratchpad - System Design.md",
     "Dataviews/Topics/System Design.md",
     "Reference Notes/Scaling Mailbox - From 0 to One Million Users in 6 Weeks and 100 Million Messages Per Day.md",
     "Reference Notes/Lessons Learned from Scaling Uber to 2000 Engineers, 1000 Services, and 8000 Git repositories.md",
     "Braindump/Approaching System Design Interview.md",
     "Reference Notes/A 360 Degree View of the Entire Netflix Stack.md",
-    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown",
     "Notes/ACID/Consistency.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Consistency.md",
     "Notes/CAP Theorem.md",
     "Excalibrain/excalibrain.md",
-    "Mindmaps/System Design.md",
     "Notes/GraphQL.md",
     "Notes/Layer 4 vs Layer 7 Load Balancers.md",
     "Reference Notes/HelloInterview/Untitled.md",
