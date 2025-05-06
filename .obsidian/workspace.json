@@ -68,22 +68,6 @@
               "icon": "lucide-file",
               "title": "Scratchpad - System Design"
             }
-          },
-          {
-            "id": "0fb527100995cdf6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a URL Shortener Like Bit.ly.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Design a URL Shortener Like Bit.ly"
-            }
           }
         ],
         "currentTab": 3
@@ -325,9 +309,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "ec435766578855e4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "horizontal",
@@ -347,16 +341,23 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "79b5adaf47398365",
   "lastOpenFiles": [
+    "Scratchpads/System Design Case Practice/Bit.ly Practice.md",
+    "Scratchpads/Scratchpad - System Design.md",
+    "Scratchpads/System Design Case Practice",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a URL Shortener Like Bit.ly.md",
     "Mindmaps/System Design.md",
     "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
     "Notes/How to approach System Design.md",
-    "Scratchpads/Scratchpad - System Design.md",
     "Dataviews/Topics/System Design.md",
     "Reference Notes/Scaling Mailbox - From 0 to One Million Users in 6 Weeks and 100 Million Messages Per Day.md",
     "Reference Notes/Lessons Learned from Scaling Uber to 2000 Engineers, 1000 Services, and 8000 Git repositories.md",
@@ -379,7 +380,6 @@
     "Notes/SQL vs NoSQL.md",
     "REST API.md",
     "Reference Notes/System Design Intervifew/System Design Interview – Step By Step Guide.md",
-    "Notes/Sharding.md",
     "--Attachments/Pasted image 20250430201739.png",
     "--Attachments/Pasted image 20250430201657.png",
     "--Attachments/Pasted image 20250430201627.png",
@@ -394,7 +394,6 @@
     "Dataviews/Topics",
     "Notes/Hypertext Transfer Protocol/Authentication",
     "Scratchpads",
-    "Anki",
     "--Attachments/Pasted image 20250323171836.png",
     "--Attachments/Pasted image 20250405233653.png",
     "--Attachments/Pasted image 20250405233639.png",

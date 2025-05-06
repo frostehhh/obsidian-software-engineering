@@ -14,6 +14,10 @@ source_url: https://www.hellointerview.com/learn/system-design/problem-breakdown
     - Optionally, users should be able to specify a custom alias for their shortened URL.
     - Optionally, users should be able to specify an expiration date for their shortened URL.
 2. Users should be able to access the original URL by using the shortened URL.
+1B shortened URLs and 100M DAU
+
+
+## Shapes
 ## Non-functional
 1. The system should ensure uniqueness for the short codes (no two long URLs can map to the same short URL)
 2. The redirection should occur with minimal delay (< 100ms)
