@@ -3,7 +3,7 @@ tags:
   - notes
   - backend
   - database
-Draft: false
+Draft: true
 ---
 
 Redis is a key-value store that supports various types of value types

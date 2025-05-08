@@ -40,6 +40,7 @@
           {
             "id": "2b10309d1460ace1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -47,6 +48,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Redis"
             }
@@ -54,13 +56,15 @@
           {
             "id": "5b8c799fde30f59e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Notes/Redis.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Redis"
             }
@@ -97,7 +101,8 @@
               "title": "Scratchpad - System Design"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -396,12 +401,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5d4e4b31265813e7",
+  "active": "2b10309d1460ace1",
   "lastOpenFiles": [
-    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
     "Notes/Redis.md",
-    "Notes/Untitled",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Redis.md",
+    "Mindmaps/System Design.md",
+    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
+    "Notes/Untitled",
     "Scratchpads/Scratchpad - System Design.md",
     "Reference Notes/HelloInterview/System Design/In a Hurry/Key Technologies.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies",
@@ -410,7 +416,6 @@
     "Scratchpads/System Design Case Practice/Bit.ly Practice.md",
     "Scratchpads/System Design Case Practice",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a URL Shortener Like Bit.ly.md",
-    "Mindmaps/System Design.md",
     "Notes/How to approach System Design.md",
     "Dataviews/Topics/System Design.md",
     "Reference Notes/Scaling Mailbox - From 0 to One Million Users in 6 Weeks and 100 Million Messages Per Day.md",

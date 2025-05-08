@@ -7,3 +7,21 @@ source_url: https://www.hellointerview.com/learn/system-design/deep-dives/redis
 ---
 
 # Basics
+
+
+# Scaling
+
+
+
+hot key issue
+key space
+# Usecases
+## Cache
+
+
+LRU
+
+Rate limiting
+
+
+# Stream
