@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -368,8 +368,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -393,18 +393,13 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "media-extended:Open media": false
     }
   },
-  "active": "2b10309d1460ace1",
+  "active": "79b5adaf47398365",
   "lastOpenFiles": [
-    "Notes/Redis.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Redis.md",
+    "Notes/Redis.md",
     "Mindmaps/System Design.md",
     "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
     "Notes/Untitled",
