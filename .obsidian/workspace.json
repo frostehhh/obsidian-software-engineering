@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -411,14 +411,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "40fdf2cb02fb3fc9",
+  "active": "2b10309d1460ace1",
   "lastOpenFiles": [
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Redis.md",
     "Notes/Redis.md",
+    "Scratchpads/Scratchpad - System Design.md",
+    "Reference Notes/HelloInterview/System Design/Key Technologies/Redis.md",
     "Mindmaps/System Design.md",
     "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
     "Notes/Untitled",
-    "Scratchpads/Scratchpad - System Design.md",
     "Reference Notes/HelloInterview/System Design/In a Hurry/Key Technologies.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies",
     "Reference Notes/HelloInterview/System Design/In a Hurry/Core Concepts.md",

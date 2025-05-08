@@ -8,7 +8,9 @@ has-questions: true
 Draft: true
 ---
 
+Redis is a single-threaded in-memory data-structure store, which is often used as a cache.
 # Basics
+
 
 
 # Scaling
@@ -17,13 +19,16 @@ Draft: true
 
 hot key issue
 key space
-# Usecases
+# Use Cases
 ## Cache
+- Temporary data store for data previously accessed from a database
+- May use LRU especially when memory is maxed out
 
-
-LRU
-
-Rate limiting
+## Rate limiting
+- Can be used for rate limiting APIs
+```
+task_service_max_limit 5 LT 60 //
+```
 
 
 ## Stream - Event Sourcing
