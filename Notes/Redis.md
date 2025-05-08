@@ -18,3 +18,6 @@ Redis is a key-value store that supports various types of value types
 - Hashes
 - ...
 
+# Pros
+
+# Use Cases

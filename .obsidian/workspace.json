@@ -61,7 +61,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/Redis.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true,
@@ -174,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.0026054382324
+    "width": 304.0026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -414,8 +415,8 @@
   "active": "2b10309d1460ace1",
   "lastOpenFiles": [
     "Notes/Redis.md",
-    "Scratchpads/Scratchpad - System Design.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Redis.md",
+    "Scratchpads/Scratchpad - System Design.md",
     "Mindmaps/System Design.md",
     "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
     "Notes/Untitled",
