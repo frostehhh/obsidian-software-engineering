@@ -44,7 +44,21 @@
               "type": "markdown",
               "state": {
                 "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Redis.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Redis"
+            }
+          },
+          {
+            "id": "5b8c799fde30f59e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Redis.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -83,8 +97,7 @@
               "title": "Scratchpad - System Design"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -343,9 +356,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "fd547c8bf545700a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "horizontal",
@@ -365,14 +388,21 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "2b10309d1460ace1",
+  "active": "5d4e4b31265813e7",
   "lastOpenFiles": [
     "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
-    "Scratchpads/Scratchpad - System Design.md",
+    "Notes/Redis.md",
+    "Notes/Untitled",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Redis.md",
+    "Scratchpads/Scratchpad - System Design.md",
     "Reference Notes/HelloInterview/System Design/In a Hurry/Key Technologies.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies",
     "Reference Notes/HelloInterview/System Design/In a Hurry/Core Concepts.md",
@@ -398,8 +428,6 @@
     "Reference Notes/Hussein Nasser/_note_Hussein Nasser.md",
     "Reference Notes/HelloInterview/System Design/In a Hurry",
     "Dataviews/Draft Notes.md",
-    "Notes/SQL vs NoSQL.md",
-    "REST API.md",
     "--Attachments/Pasted image 20250430201739.png",
     "--Attachments/Pasted image 20250430201657.png",
     "--Attachments/Pasted image 20250430201627.png",
@@ -412,7 +440,6 @@
     "Reference Notes/HelloInterview",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "Dataviews/Topics",
-    "Notes/Hypertext Transfer Protocol/Authentication",
     "--Attachments/Pasted image 20250323171836.png",
     "--Attachments/Pasted image 20250405233653.png",
     "--Attachments/Pasted image 20250405233639.png",
