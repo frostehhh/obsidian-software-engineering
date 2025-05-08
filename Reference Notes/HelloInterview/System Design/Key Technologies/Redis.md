@@ -24,4 +24,8 @@ LRU
 Rate limiting
 
 
-# Stream
+# Stream - Event Sourcing
+
+
+# References
+https://redis.io/docs/latest/develop/data-types/streams/
