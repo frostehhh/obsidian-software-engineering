@@ -12,7 +12,6 @@ Redis is a single-threaded in-memory data-structure store, which is often used a
 # Basics
 - data-structure key-value store -> key-value pairs with values of various data structures
 - In-memory data -> lack of durability
-
 ## Scaling
 - Scalable horizontally with replicas or clusters
 - Structuring keys is fundamental to scaling Redis
@@ -27,7 +26,7 @@ Redis is a single-threaded in-memory data-structure store, which is often used a
 - Ensure only 1 entity can access a record or set of records simultaneously
 - Not fully consistent
 - Better to rely on core database if it can provide better consistency
-## Leaderboards
+### Leaderboards
 - Use sorted sets
 ## Rate limiting
 - Can be used for rate limiting APIs
@@ -40,13 +39,15 @@ EXPIRE task_service_rate_limitLT 60
 Single stream of messages to consume -> multiple workers to process them
 ## Sorted Sets
 popular tweets by likes example
+- Can be used for leaderboards
 ## Geospatial Index
+Stores location/coordinations
 ## PubSub
 
 # Issues to take note of
-
-# Questions
-key spaces, how do you configure?
+## Hot Key
+- Occurs in a scaled Redis infrastructure with clusters(shards)
+- Load is focused on a shard - imbalance in load distribution
 
 # References
 https://redis.io/docs/latest/develop/data-types/streams/
