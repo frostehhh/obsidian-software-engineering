@@ -59,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Redis.md",
+                "file": "Notes/Prometheus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redis"
+              "title": "Prometheus"
             }
           },
           {
@@ -152,8 +152,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -357,9 +356,10 @@
   },
   "active": "28b96277a1ae0e5b",
   "lastOpenFiles": [
+    "Reference Notes/HelloInterview/System Design/Key Technologies/Redis.md",
+    "Notes/Prometheus.md",
     "Notes/How to approach System Design.md",
     "Scratchpads/Scratchpad - System Design.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Redis.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a URL Shortener Like Bit.ly.md",
     "Dataviews/Has Questions.md",
     "Notes/User Datagram Protocol.md",
@@ -384,7 +384,6 @@
     "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies/Lazy-initialized Beans.md",
     "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies/depends-on.md",
     "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies/_note_Dependencies.md",
-    "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies/Method Injection.md",
     "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies",
     "Reference Notes/Spring/Spring Framework/Inversion of Control Container",
     "Reference Notes/Spring/Spring Framework",
