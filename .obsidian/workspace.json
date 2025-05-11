@@ -72,19 +72,37 @@
           {
             "id": "bbe31da07c875b15",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/SQL Pagination with Offset is Very slow.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "SQL Pagination with Offset is Very slow"
+            }
+          },
+          {
+            "id": "cbbc11edf32c79d4",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Reference Notes/HelloInterview/System Design/Key Technologies/ElasticSearch.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "ElasticSearch"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -116,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "index",
+                "query": "cursor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +170,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -253,10 +272,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bbe31da07c875b15",
+  "active": "fa87c464967a6005",
   "lastOpenFiles": [
-    "Scratchpads/Scratchpad - System Design.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/SQL Pagination with Offset is Very slow.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/ElasticSearch.md",
+    "Scratchpads/Scratchpad - System Design.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Index Scan vs Index Only Scan.md",
     "Notes/System Design Numbers to Know.md",
     "Reference Notes/HelloInterview/System Design/Core Concepts/Numbers To Know.md",
@@ -281,7 +301,6 @@
     "Dataviews/Draft Notes.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 5 - B-Tree vs B+Tree in Production Database Systems/Introduction and Agenda.md",
     "Dataviews/Topics/Database.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 9 - Database Replication/Database Replication.md",
     "Reference Notes/HelloInterview/System Design/Core Concepts",
     "Scratchpads",
     "Reference Notes/System Design Intervifew",
