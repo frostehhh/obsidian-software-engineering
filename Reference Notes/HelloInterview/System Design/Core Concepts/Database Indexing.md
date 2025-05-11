@@ -3,8 +3,8 @@ tags:
   - reference-notes
   - database
 source_url: https://www.hellointerview.com/learn/system-design/deep-dives/db-indexing
-Draft: true
-has-questions: true
+Draft: false
+has-questions: false
 ---
 
 - Representation of a table

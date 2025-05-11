@@ -2,7 +2,7 @@
 tags:
   - notes
   - database/indexes
-Draft: true
+Draft: false
 "related-reference-note:":
   - "[[Database Indexing]]"
   - "[[Getting started with indexing]]"
@@ -10,9 +10,60 @@ Draft: true
   - "[[Key vs Non-key column database indexing]]"
 ---
 
-- Database Indexes create another presentation of a table using the column/s specified as the index as the primary identifier[^3]
-- When searching based on multiple columns, may use composite index[^1]
-- When we need to include non-key columns in searching an index, we can configure the index to include non-key columns[^2]
+- Representation of a table
+- Consumes additional memory
+- Optimizes search
+- Updates on each write
+- May not be necessary with low reads vs writes
+
+# Types
+## B-Trees
+- Default index
+- Good for random inserts and deletes
+- Self-balancing
+- Sorted
+- Good for range queries
+
+## Hash Trees
+- Exact match searches ONLY
+- sorting and range queries are not supported
+- Rarely used
+## Geospatial
+- Used primarily for location or proximity search
+> [!note]
+> B-trees are bad for indexing locations because it considers latitude and longitude as is as 2 separate entities. It can index both values but has to process data based on each data one at a time.
+## Types of Geospatial Indexes
+### Geohash
+- Hashes 2d location data(latitude, longitude) into a hashed 1D string
+- Example: `fa3Cv` -> `fa3Cva` and `fa3Cvb` are within `fa3Cv`
+- Can be used with B-trees
+- Simplest implementation
+- Good for point locations
+### QuadTrees
+- Nodes that rigidly have 4 children
+- Complex implementation
+- Each node is a location -> children more specific location
+### R-Trees
+- Similar to QuadTrees but flexible instead
+- modern spatial index
+- flexible 
+
+## Inverted Indexes
+- Data is indexed based on content
+- Good for text searches
+- Example:
+```
+document -> [row1, row2]
+hehe -> [row3]
+this -> [row1, row3]
+```
+
+
+
+
+# Patterns
+1. Composite Indexes - order matters[^1]
+2. Including non-index key columns in indexes along with index keys[^2]
 
 [^1]: [[Combining Database Indexes for Better Performance]]
 [^2]: [[Key vs Non-key column database indexing]]
