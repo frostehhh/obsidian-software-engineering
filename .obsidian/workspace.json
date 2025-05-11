@@ -54,20 +54,6 @@
             }
           },
           {
-            "id": "28b96277a1ae0e5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Prometheus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prometheus"
-            }
-          },
-          {
             "id": "79b5adaf47398365",
             "type": "leaf",
             "pinned": true,
@@ -81,6 +67,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Scratchpad - System Design"
+            }
+          },
+          {
+            "id": "4433f7490a69cd57",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/B-Tree and B+ Tree.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "B-Tree and B+ Tree"
             }
           }
         ],
@@ -116,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "local storage",
+                "query": "b-tree",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +154,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -215,106 +218,6 @@
             }
           },
           {
-            "id": "34a1915b5522ec0a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "92e6b1270f23f51d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "1aca8249e9ee7ca7",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "35accba2ab1d0d3f",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "ae1483f55f663245",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f3616de2efb20661",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "0cacb5f11917d560",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f1dc42e77564e5a8",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "56f70ed4a06fd086",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "806004a891077741",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "a1350304e9f14d2b",
             "type": "leaf",
             "state": {
@@ -325,7 +228,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -354,12 +257,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "28b96277a1ae0e5b",
+  "active": "79b5adaf47398365",
   "lastOpenFiles": [
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Redis.md",
-    "Notes/Prometheus.md",
     "Notes/How to approach System Design.md",
+    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
+    "Notes/B-Tree and B+ Tree.md",
+    "Dataviews/Topics/Database.md",
+    "Mindmaps/Database.excalidraw.md",
     "Scratchpads/Scratchpad - System Design.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 9 - Database Replication/Database Replication.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/SQL Pagination with Offset is Very slow.md",
+    "Reference Notes/HelloInterview/System Design/Core Concepts/Database Indexing.md",
+    "Reference Notes/HelloInterview/System Design/Core Concepts",
+    "Notes/Prometheus.md",
+    "Notes/Grafana.md",
+    "Reference Notes/HelloInterview/System Design/Key Technologies/Redis.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a URL Shortener Like Bit.ly.md",
     "Dataviews/Has Questions.md",
     "Notes/User Datagram Protocol.md",
@@ -367,7 +279,6 @@
     "Notes/Sharding.md",
     "Notes/Row-based vs Column-based Databases.md",
     "Notes/Hypertext Transfer Protocol/HTTP Cookies.md",
-    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
     "Mindmaps/System Design.md",
     "Mindmaps/HTTP.excalidraw.md",
     "Notes/Redis.md",
@@ -376,14 +287,7 @@
     "Scratchpads/Pastebin system design.md",
     "Scratchpads",
     "Remote Procedure Call.md",
-    "Reference Notes/_note_Reference Notes.md",
-    "Reference Notes/System Design Intervifew/_note_System Design Intervifew.md",
-    "Reference Notes/System Design Intervifew/System Design Interview – Step By Step Guide.md",
     "Reference Notes/System Design Intervifew",
-    "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies/@Autowired Annotation.md",
-    "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies/Lazy-initialized Beans.md",
-    "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies/depends-on.md",
-    "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies/_note_Dependencies.md",
     "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies",
     "Reference Notes/Spring/Spring Framework/Inversion of Control Container",
     "Reference Notes/Spring/Spring Framework",
@@ -391,7 +295,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course.zip",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 6 - Real-world Performance Analysis of Backend Applications",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 5 - Tier 3 Analysis - Wireshark",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
     "Reference Notes/Adrian Cantrill/Networking/Images/TF-NET-NetworkAddressTranslation-3.png",
     "Reference Notes/Adrian Cantrill/Networking/Images/TF-NET-NetworkAddressTranslation-2.png",

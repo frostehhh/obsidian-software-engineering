@@ -1,10 +1,10 @@
 ---
 tags:
- - database
- - notes
- - data-structures 
-related-reference-note:: 
-- "[[B-Tree and B+Tree]]"
+  - notes
+  - data-structures
+  - database/indexes
+"related-reference-note:":
+  - "[[B-Tree and B+Tree]]"
 ---
 
 # B-Tree
