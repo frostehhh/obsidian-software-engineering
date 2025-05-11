@@ -49,5 +49,4 @@ The header simply contains the following
 
 # Questions
 
-How does TCP use UDP?
 DNS poisoning?

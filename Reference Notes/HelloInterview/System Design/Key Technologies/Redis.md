@@ -48,6 +48,12 @@ Stores location/coordinations
 ## Hot Key
 - Occurs in a scaled Redis infrastructure with clusters(shards)
 - Load is focused on a shard - imbalance in load distribution
+- To resolve, split the key in to multiple different keys to spread across different shards[^1]
+	- Monitoring via Prometheus/Grafana to determine shard CPU load
+	- Checking via Redis for hot keys
+	- 
 
 # References
 https://redis.io/docs/latest/develop/data-types/streams/
+
+[^1]: https://igorjovanovic.com/hotkeys-and-bigkeys-issues-in-redis/
