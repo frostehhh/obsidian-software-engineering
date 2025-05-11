@@ -12,12 +12,14 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Mindmaps/System Design.md"
+                "file": "Mindmaps/System Design.md",
+                "mode": "source",
+                "source": false
               },
               "pinned": true,
-              "icon": "excalidraw-icon",
+              "icon": "lucide-file",
               "title": "System Design"
             }
           },
@@ -35,22 +37,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "System Design"
-            }
-          },
-          {
-            "id": "5b8c799fde30f59e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Redis.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Redis"
             }
           },
           {
@@ -84,9 +70,37 @@
               "icon": "lucide-file",
               "title": "Scratchpad - System Design"
             }
+          },
+          {
+            "id": "0fb527100995cdf6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a URL Shortener Like Bit.ly.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Design a URL Shortener Like Bit.ly"
+            }
+          },
+          {
+            "id": "07c35c01864397b5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mindmaps/HTTP.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "HTTP.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -118,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:system-design",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
+                "file": "Notes/ACID/Consistency.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of System Design"
+              "title": "Outline of Consistency"
             }
           },
           {
@@ -315,79 +329,9 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
-          },
-          {
-            "id": "68e1d16e5cea0863",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "ec435766578855e4",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "5916bf120ebaa86c",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "fd547c8bf545700a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "40fdf2cb02fb3fc9",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "079369f3a4395f82",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "7c54b28454d188e6",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 12
       }
     ],
     "direction": "horizontal",
@@ -396,67 +340,69 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "open-vscode:VSCode": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "media-extended:Open media": false,
+      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "omnisearch:Omnisearch": false,
-      "open-vscode:VSCode": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "7c54b28454d188e6",
+  "active": "cf7ac3cfd0558c93",
   "lastOpenFiles": [
+    "Mindmaps/System Design.md",
+    "Mindmaps/HTTP.excalidraw.md",
+    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
+    "Notes/How to approach System Design.md",
+    "Scratchpads/Scratchpad - System Design.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a URL Shortener Like Bit.ly.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Redis.md",
     "Notes/Redis.md",
-    "Notes/How to approach System Design.md",
-    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
-    "Scratchpads/Scratchpad - System Design.md",
-    "Mindmaps/System Design.md",
-    "Notes/Untitled",
-    "Reference Notes/HelloInterview/System Design/In a Hurry/Key Technologies.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies",
-    "Reference Notes/HelloInterview/System Design/In a Hurry/Core Concepts.md",
-    "Reference Notes/HelloInterview/System Design/In a Hurry/Common Patterns.md",
-    "Scratchpads/System Design Case Practice/Bit.ly Practice.md",
-    "Scratchpads/System Design Case Practice",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a URL Shortener Like Bit.ly.md",
-    "Dataviews/Topics/System Design.md",
-    "Reference Notes/Scaling Mailbox - From 0 to One Million Users in 6 Weeks and 100 Million Messages Per Day.md",
-    "Reference Notes/Lessons Learned from Scaling Uber to 2000 Engineers, 1000 Services, and 8000 Git repositories.md",
-    "Braindump/Approaching System Design Interview.md",
-    "Reference Notes/A 360 Degree View of the Entire Netflix Stack.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown",
-    "Notes/ACID/Consistency.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Consistency.md",
-    "Notes/CAP Theorem.md",
-    "Excalibrain/excalibrain.md",
-    "Notes/GraphQL.md",
-    "Notes/Layer 4 vs Layer 7 Load Balancers.md",
-    "Reference Notes/HelloInterview/Untitled.md",
-    "Reference Notes/Hussein Nasser/_note_Hussein Nasser.md",
-    "Reference Notes/HelloInterview/System Design/In a Hurry",
-    "Dataviews/Draft Notes.md",
-    "--Attachments/Pasted image 20250430201739.png",
-    "--Attachments/Pasted image 20250430201657.png",
-    "--Attachments/Pasted image 20250430201627.png",
-    "--Attachments/Pasted image 20250430201559.png",
-    "--Attachments/System Design Interview – Step By Step GuidePT48M55S.webp",
-    "--Attachments/System Design Interview – Step By Step GuideDT0S.webp",
-    "Reference Notes/Untitled 1",
+    "Uniform Resource Identifier.md",
+    "Scratchpads/_note_Scratchpads.md",
+    "Scratchpads/Pastebin system design.md",
+    "Scratchpads",
+    "Remote Procedure Call.md",
+    "Reference Notes/_note_Reference Notes.md",
+    "Reference Notes/System Design Intervifew/_note_System Design Intervifew.md",
+    "Reference Notes/System Design Intervifew/System Design Interview – Step By Step Guide.md",
     "Reference Notes/System Design Intervifew",
-    "Reference Notes/HelloInterview/System Design",
-    "Reference Notes/HelloInterview",
-    "Braindump/Fundamentals of Database Engineering.canvas",
-    "Dataviews/Topics",
-    "--Attachments/Pasted image 20250323171836.png",
-    "--Attachments/Pasted image 20250405233653.png",
-    "--Attachments/Pasted image 20250405233639.png",
-    "--Attachments/Pasted image 20250405233525.png"
+    "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies/@Autowired Annotation.md",
+    "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies/Lazy-initialized Beans.md",
+    "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies/depends-on.md",
+    "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies/_note_Dependencies.md",
+    "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies/Method Injection.md",
+    "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies/Dependency Injection.md",
+    "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies/Autowiring Collaborators.md",
+    "Reference Notes/Spring/Spring Framework/Inversion of Control Container/_note_Inversion of Control Container.md",
+    "Reference Notes/Spring/Spring Framework/Inversion of Control Container/IoC Container Configuration Types.md",
+    "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Introduction.md",
+    "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies",
+    "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Bean.md",
+    "Reference Notes/Spring/Spring Framework/Inversion of Control Container",
+    "Reference Notes/Spring/Spring Framework",
+    "Reference Notes/Spring",
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments/backend-analysis-course.zip",
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/--Attachments",
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 6 - Real-world Performance Analysis of Backend Applications",
+    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 5 - Tier 3 Analysis - Wireshark",
+    "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
+    "Reference Notes/Adrian Cantrill/Networking/Images/TF-NET-NetworkAddressTranslation-3.png",
+    "Reference Notes/Adrian Cantrill/Networking/Images/TF-NET-NetworkAddressTranslation-2.png",
+    "Reference Notes/Adrian Cantrill/Networking/Images/TF-NET-NetworkAddressTranslation-1.png",
+    "Reference Notes/Adrian Cantrill/Networking/Images/TF-NET-IPAddressingAndSubnetting-3.png",
+    "Reference Notes/Adrian Cantrill/Networking/Images/TF-NET-IPAddressingAndSubnetting-1.png",
+    "Reference Notes/Adrian Cantrill/Networking/Images/TF-NET-DDOS-4.png",
+    "Reference Notes/Adrian Cantrill/Networking/Images/TF-NET-DDOS-3.png",
+    "Reference Notes/Adrian Cantrill/Networking/Images/TF-NET-DDOS-2.png",
+    "Reference Notes/Adrian Cantrill/Networking/Images/TF-NET-DDOS-1.png",
+    "Braindump/Fundamentals of Database Engineering.canvas"
   ]
 }
