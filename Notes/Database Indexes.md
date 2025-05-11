@@ -10,10 +10,10 @@ Draft: true
   - "[[Key vs Non-key column database indexing]]"
 ---
 
-- Database Indexes create another presentation of a table using the column/s specified as the index as the primary identifier
+- Database Indexes create another presentation of a table using the column/s specified as the index as the primary identifier[^3]
 - When searching based on multiple columns, may use composite index[^1]
 - When we need to include non-key columns in searching an index, we can configure the index to include non-key columns[^2]
 
 [^1]: [[Combining Database Indexes for Better Performance]]
-
 [^2]: [[Key vs Non-key column database indexing]]
+[^3]: [[Database Indexing]]
