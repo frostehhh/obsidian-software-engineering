@@ -1,1 +1,1 @@
-This folder is for taking notes about key information from references.
+This folder contains notes that are personally written as my own knowledge store about relevant information from references
