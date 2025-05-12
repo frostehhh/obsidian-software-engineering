@@ -36,3 +36,22 @@ Draft: true
 		
 > [!info]
 > This is discussed in [[SQL Pagination with Offset is Very slow]]
+
+# Point in Time search
+- Cache pagination results via
+```
+pit: {
+ id: "...",
+ keep_alive: "1m"
+}
+```
+- Avoid data inconsistency issues particularly when data is inserted or deleted while navigating pages
+
+
+# ElasticSearch in System Design
+- Complex search scenarios
+- Okay with eventual consistency
+- Denormalize is needed
+- Ideal for read-heavy
+
+# ElasticSearch Node Types
