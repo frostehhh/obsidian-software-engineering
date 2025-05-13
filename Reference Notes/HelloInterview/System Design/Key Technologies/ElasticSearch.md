@@ -2,8 +2,9 @@
 tags:
   - reference-notes
   - tool
+  - system-design
 source_url: https://www.hellointerview.com/learn/system-design/deep-dives/elasticsearch
-Draft: true
+Draft: false
 ---
 
 - Tool for optimizing searches
@@ -72,8 +73,22 @@ pit: {
 ## Ingest
 - Processes new documents
 - Send processed documents to Data nodes
-## [[Database Indexes#Inverted Indexes|Inverted Indexes]]
-- Used for search
+
+## Machine Learning
+- For machine learning tasks
+## Data
+- Storage of indexed data
+- Makes data rapidly searchable
+
+# Lucene
+## Segments
+- Fundamental units of storage in Lucene
+- Immutable
+	- Inserting is simple
+	- Updating soft deletes a record, and inserts a new one
+	- Deleting is soft delete. Removed on merge of results in coordinating node
+### [[Database Indexes#Inverted Indexes|Inverted Indexes]]
+- Fundamental concept used in segments
 ## Query Optimization
 Queries are optimized via an internal query planner
 

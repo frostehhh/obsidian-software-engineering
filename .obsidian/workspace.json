@@ -70,19 +70,17 @@
             }
           },
           {
-            "id": "12c565b6dfee0225",
+            "id": "8ba59293c5d88048",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/ElasticSearch.md",
-                "mode": "source",
+                "file": "Reference Notes/HelloInterview/System Design/Core Concepts/Consistent Hashing.md",
+                "mode": "preview",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "ElasticSearch"
+              "title": "Consistent Hashing"
             }
           }
         ],
@@ -106,7 +104,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -118,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:system-design",
+                "query": "hash ring",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +152,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,12 +192,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/API Gateway/Basics.md",
+                "file": "Reference Notes/HelloInterview/System Design/Core Concepts/Consistent Hashing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Basics"
+              "title": "Outgoing links from Consistent Hashing"
             }
           },
           {
@@ -210,7 +209,7 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": true,
-                "searchQuery": ""
+                "searchQuery": "software"
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -222,8 +221,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -415,14 +414,23 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "4554e07c8c7c02b0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 22
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 272,
-    "collapsed": true
+    "width": 272
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -438,16 +446,30 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "12c565b6dfee0225",
+  "active": "fa87c464967a6005",
   "lastOpenFiles": [
+    "Mindmaps/Backend.md",
+    "Notes/Hashing.md",
+    "Reference Notes/HelloInterview/System Design/Core Concepts/Consistent Hashing.md",
+    "Mindmaps/System Design.md",
+    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
     "Notes/How to approach System Design.md",
     "Scratchpads/Scratchpad - System Design.md",
-    "Notes/Database Indexes.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/ElasticSearch.md",
-    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
+    "Notes/ElasticSearch.md",
+    "Notes/Remote Procedure Call.md",
+    "Notes/REST API.md",
+    "Notes/Uniform Resource Identifier.md",
+    "Untitled.md",
+    "Notes/Database Indexes.md",
     "conflict-files-obsidian-git.md",
     "Reference Notes/HelloInterview/System Design/Core Concepts/Numbers To Know.md",
     "Reference Notes/HelloInterview/System Design/Core Concepts/Database Indexing.md",
@@ -457,7 +479,6 @@
     "Notes/Grafana.md",
     "Notes/Redis.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Redis.md",
-    "Mindmaps/System Design.md",
     "Notes/Untitled",
     "Reference Notes/HelloInterview/System Design/In a Hurry/Key Technologies.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies",
@@ -465,14 +486,7 @@
     "Reference Notes/HelloInterview/System Design/In a Hurry/Common Patterns.md",
     "Scratchpads/System Design Case Practice/Bit.ly Practice.md",
     "Scratchpads/System Design Case Practice",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a URL Shortener Like Bit.ly.md",
-    "Dataviews/Topics/System Design.md",
-    "Reference Notes/Scaling Mailbox - From 0 to One Million Users in 6 Weeks and 100 Million Messages Per Day.md",
-    "Reference Notes/Lessons Learned from Scaling Uber to 2000 Engineers, 1000 Services, and 8000 Git repositories.md",
-    "Braindump/Approaching System Design Interview.md",
-    "Reference Notes/A 360 Degree View of the Entire Netflix Stack.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown",
-    "Notes/ACID/Consistency.md",
     "Reference Notes/HelloInterview/System Design/In a Hurry",
     "--Attachments/Pasted image 20250430201739.png",
     "--Attachments/Pasted image 20250430201657.png",

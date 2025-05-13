@@ -1,7 +1,11 @@
 ---
 aliases:
   - RESTful API
-tags: 
+tags:
+  - notes
+  - backend
+  - communication
+  - style/software
 "related:":
   - "[[Representational State Transfer|REST]]"
 Draft: false

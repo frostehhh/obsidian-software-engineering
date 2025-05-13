@@ -1,6 +1,7 @@
 ---
 aliases: URI
 tags: 
+- notes
 - backend
 - communication
 Friend:: 
