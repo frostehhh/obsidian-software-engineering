@@ -46,12 +46,40 @@ pit: {
 }
 ```
 - Avoid data inconsistency issues particularly when data is inserted or deleted while navigating pages
-
-
 # ElasticSearch in System Design
 - Complex search scenarios
 - Okay with eventual consistency
 - Denormalize is needed
 - Ideal for read-heavy
 
-# ElasticSearch Node Types
+# ElasticSearch Internals
+- ElasticSearch is built on top of [Apache Lucene](https://lucene.apache.org/), a low-level search library
+- Internally, consists of multiple nodes, where node is a role. Multiple nodes can be assigned to a server
+- ElasticSearch Shard is a wrapper for Lucene Index
+
+## Node Types
+- Master
+- Ingest
+- Data
+- Coordinating
+- Machine Learning
+
+## Master
+- Only 1
+- Administrative
+- Assigning nodes
+- Should be durable, resilient
+
+## Ingest
+- Processes new documents
+- Send processed documents to Data nodes
+
+## [[Database Indexes#Inverted Indexes|Inverted Indexes]]
+- Used for
+
+## Query Optimization
+Queries are optimized via an internal query planner
+
+
+## Flow
+

@@ -68,9 +68,25 @@
               "icon": "lucide-file",
               "title": "Scratchpad - System Design"
             }
+          },
+          {
+            "id": "12c565b6dfee0225",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/ElasticSearch.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "ElasticSearch"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -430,8 +446,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "28c47c6f588a287c",
+  "active": "12c565b6dfee0225",
   "lastOpenFiles": [
+    "Notes/How to approach System Design.md",
+    "Scratchpads/Scratchpad - System Design.md",
+    "Notes/Database Indexes.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/ElasticSearch.md",
     "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
     "conflict-files-obsidian-git.md",
@@ -441,10 +460,7 @@
     "Notes/System Design Numbers to Know.md",
     "Notes/Prometheus.md",
     "Notes/Grafana.md",
-    "Notes/Database Indexes.md",
     "Notes/Redis.md",
-    "Scratchpads/Scratchpad - System Design.md",
-    "Notes/How to approach System Design.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Redis.md",
     "Mindmaps/System Design.md",
     "Notes/Untitled",
