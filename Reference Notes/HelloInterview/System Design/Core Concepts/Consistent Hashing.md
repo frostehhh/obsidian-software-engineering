@@ -1,7 +1,6 @@
 ---
 tags:
   - reference-notes
-  - backend
   - cryptography
   - system-design
 source_url: https://www.hellointerview.com/learn/system-design/deep-dives/consistent-hashing

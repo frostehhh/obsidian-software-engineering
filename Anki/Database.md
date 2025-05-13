@@ -6,7 +6,7 @@ Draft: true
 ---
 
 What is the default page size in PostgreSQL?::8kb[^1]
-<!--SR:!2025-05-12,15,290-->
+<!--SR:!2025-07-12,60,310-->
 
 
 
