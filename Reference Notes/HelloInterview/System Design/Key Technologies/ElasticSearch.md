@@ -48,9 +48,9 @@ pit: {
 - Avoid data inconsistency issues particularly when data is inserted or deleted while navigating pages
 # ElasticSearch in System Design
 - Complex search scenarios
-- Okay with eventual consistency
-- Denormalize is needed
-- Ideal for read-heavy
+- Eventual consistency
+- Denormalization
+- Read-heavy workloads
 
 # ElasticSearch Internals
 - ElasticSearch is built on top of [Apache Lucene](https://lucene.apache.org/), a low-level search library
@@ -69,17 +69,25 @@ pit: {
 - Administrative
 - Assigning nodes
 - Should be durable, resilient
-
 ## Ingest
 - Processes new documents
 - Send processed documents to Data nodes
-
 ## [[Database Indexes#Inverted Indexes|Inverted Indexes]]
-- Used for
-
+- Used for search
 ## Query Optimization
 Queries are optimized via an internal query planner
 
+## Flows
 
-## Flow
-
+### Accepting new documents
+1. Client
+2. Ingest Node
+3. Data Node
+4. return to Ingest node and client
+### Querying documents
+1. Client node
+2. Coordinating node
+3. Data nodes
+4. Coordinating node receives partial result from each data node queried
+5. Merge results in coordinating node
+6. Return results to client
