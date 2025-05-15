@@ -3,6 +3,7 @@ tags:
   - reference-notes
   - backend
   - redis
+  - tool
 source_url: https://www.hellointerview.com/learn/system-design/deep-dives/redis
 has-questions: true
 Draft: true
