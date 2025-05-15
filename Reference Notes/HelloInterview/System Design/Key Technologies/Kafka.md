@@ -25,7 +25,7 @@ Consumer - reads messages from partitions
 ## Creation of Message
 Structure
 - Headers
-- Key
+- Key - also the partition key
 - Value
 - Timestamp
 ## Sending of message to a topic
@@ -57,7 +57,19 @@ end
 3. streams
 
 # Kafka in System Design Interview
-
+## Scalability
+- Keep messages sizes within 1mb
+## Durability
+- replica count
+- ack config
+	- Should all replicas ack before continuing processing or 
+## Errors and failures
+- Alongside a main topic, have a retry topic and a dead-letter queue topic
+## Performance optimizations
+- Producer can batch messages to send
+- compress messages prior to sending
+## Retention Policy
+- specify time until messages are cleaned up
 
 # Questions
 - What if a consumer fails to process a message?
@@ -70,3 +82,6 @@ end
 - message size?
 - message limit?
 - is key = partition key?
+- What is the AWS equivalent
+- How does kafka know that committing of a message has failed?
+- retry topic and DLQ topic?
