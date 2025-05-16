@@ -63,8 +63,10 @@ this -> [row1, row3]
 
 # Patterns
 1. Composite Indexes - order matters[^1]
-2. Including non-index key columns in indexes along with index keys[^2]
+2. Covering Indexes - Including non-index key columns in indexes along with index keys[^2][^4]
 
 [^1]: [[Combining Database Indexes for Better Performance]]
 [^2]: [[Key vs Non-key column database indexing]]
 [^3]: [[Database Indexing]]
+
+[^4]: [[PostgreSQL]]
