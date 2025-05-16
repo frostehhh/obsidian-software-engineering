@@ -75,16 +75,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Database Indexes.md",
+                "file": "Notes/ACID/Isolation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Database Indexes"
+              "title": "Isolation"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transaction log",
+                "query": "repeatable",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Database Indexes.md",
+                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Database Indexes"
+              "title": "Outline of PostgreSQL"
             }
           },
           {
@@ -495,11 +495,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8a32f71a711aa2cc",
+  "active": "8ba24a083e3d37a2",
   "lastOpenFiles": [
+    "Notes/ACID/Isolation.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a URL Shortener Like Bit.ly.md",
+    "Notes/Partitioning.md",
+    "Notes/Database Indexes.md",
     "Braindump/Fundamentals of Database and Backend.excalidraw.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
-    "Notes/Database Indexes.md",
     "Reference Notes/HelloInterview/System Design/In a Hurry/Key Technologies.md",
     "Reference Notes/HelloInterview/System Design/Core Concepts/Database Indexing.md",
     "Notes/Grafana.md",
@@ -519,10 +522,7 @@
     "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
     "Notes/How to approach System Design.md",
     "Notes/SQL vs NoSQL.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a URL Shortener Like Bit.ly.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Redis.md",
-    "Mindmaps/Backend.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Notification Service/--Table of Contents--.md",
     "Reference Notes/HelloInterview/System Design/Core Concepts",
     "Notes/Untitled",
     "Reference Notes/HelloInterview/System Design/Key Technologies",
