@@ -59,12 +59,13 @@ end
 # Kafka in System Design Interview
 ## Scalability
 - Keep messages sizes within 1mb
+- good partition key designs - avoid hot partitions
 ## Durability
 - replica count
 - ack config
-	- Should all replicas ack before continuing processing or 
+	- Should all replicas ack before continuing processing or X acks or fully eventually consistent?
 ## Errors and failures
-- Alongside a main topic, have a retry topic and a dead-letter queue topic
+- Alongside a main topic, have a retry topic and a dead-letter queue(DLQ) topic
 ## Performance optimizations
 - Producer can batch messages to send
 - compress messages prior to sending
