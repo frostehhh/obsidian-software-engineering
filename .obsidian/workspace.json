@@ -22,54 +22,6 @@
             }
           },
           {
-            "id": "a444c466d1b2973c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "System Design"
-            }
-          },
-          {
-            "id": "1a0962be5a566810",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/How to approach System Design.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "How to approach System Design"
-            }
-          },
-          {
-            "id": "79b5adaf47398365",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scratchpads/Scratchpad - System Design.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Scratchpad - System Design"
-            }
-          },
-          {
             "id": "bea63e3a041577c5",
             "type": "leaf",
             "pinned": true,
@@ -84,9 +36,69 @@
               "icon": "lucide-file",
               "title": "Kafka"
             }
+          },
+          {
+            "id": "ad1aa79c1e55234d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Message Queue.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Message Queue"
+            }
+          },
+          {
+            "id": "eaf3785dee8a723a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Stream.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Stream"
+            }
+          },
+          {
+            "id": "dfa8a5c4183b0110",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/HelloInterview/System Design/In a Hurry/Key Technologies.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Key Technologies"
+            }
+          },
+          {
+            "id": "5e42f824a453887f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mindmaps/Backend.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Backend"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "consistency",
+                "query": "tag:software-architecture",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
+                "file": "Notes/Stream.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of System Design"
+              "title": "Outline of Stream"
             }
           },
           {
@@ -498,34 +510,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bea63e3a041577c5",
+  "active": "eaf3785dee8a723a",
   "lastOpenFiles": [
+    "Notes/Message Queue.md",
+    "Notes/Stream.md",
+    "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
+    "Mindmaps/Backend.md",
+    "Mindmaps/System Design.md",
+    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
+    "Reference Notes/HelloInterview/System Design/In a Hurry/Key Technologies.md",
+    "Notes/How to approach System Design.md",
+    "Scratchpads/Scratchpad - System Design.md",
+    "Scratchpads/Pastebin system design.md",
     "Braindump/Approaching System Design Interview.md",
     "Notes/Redis.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Redis.md",
     "Reference Notes/Github - donnemartin system-design-primer/Main.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/DynamoDB/Streams & Triggers.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/API Gateway.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/ElasticSearch.md",
-    "Reference Notes/HelloInterview/System Design/In a Hurry/Key Technologies.md",
     "Notes/_note_Notes.md",
-    "Scratchpads/Scratchpad - System Design.md",
     "Notes/API Gateway.md",
     "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Microsoft SQL Server Clustered Index Design.md",
-    "Notes/How to approach System Design.md",
     "Reference Notes/HelloInterview/System Design/Core Concepts/Consistent Hashing.md",
     "Notes/Consistent Hashing.md",
     "Notes/Hashing.md",
-    "Mindmaps/Backend.md",
-    "Mindmaps/System Design.md",
-    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
     "Notes/ElasticSearch.md",
     "Notes/Remote Procedure Call.md",
-    "Notes/REST API.md",
-    "Notes/Uniform Resource Identifier.md",
-    "Untitled.md",
     "Reference Notes/HelloInterview/System Design/Core Concepts",
     "Notes/Untitled",
     "Reference Notes/HelloInterview/System Design/Key Technologies",

@@ -76,7 +76,6 @@ end
 
 # Questions
 - What if a consumer fails to process a message?
-- What are streams vs message queues
 - What are possible headers?
 - timestamp format?
 - key format? value format?
