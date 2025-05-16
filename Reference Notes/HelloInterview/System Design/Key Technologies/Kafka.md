@@ -8,7 +8,9 @@ source_url: https://www.hellointerview.com/learn/system-design/deep-dives/kafka
 Draft: true
 has-questions: true
 ---
-# Introduction
+
+Apache Kafka is a distributed event streaming platform
+
 
 # Terminologies
 Broker - server containing partitions that producers send messages to and consumers consume from
