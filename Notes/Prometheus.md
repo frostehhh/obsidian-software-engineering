@@ -3,6 +3,7 @@ tags:
   - backend
   - monitoring
   - tool
+  - notes
 source_url: https://prometheus.io/docs/introduction/overview/
 ---
 

@@ -3,6 +3,7 @@ tags:
   - backend
   - data-visualization
   - tool
+  - notes
 source_url: https://grafana.com/oss/grafana/
 ---
 

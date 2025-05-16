@@ -2,6 +2,7 @@
 Draft: false
 tags:
   - backend
+  - notes
 ---
 
 - GraphQL allows for flexible querying of data
