@@ -86,19 +86,21 @@
             }
           },
           {
-            "id": "5e42f824a453887f",
+            "id": "97305e99a304cde2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Mindmaps/Backend.md"
+                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Backend"
+              "icon": "lucide-file",
+              "title": "Kafka"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:software-architecture",
+                "query": "sns",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.0026054382324,
-    "collapsed": true
+    "width": 272.0026054382324
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -510,15 +511,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bea63e3a041577c5",
+  "active": "97305e99a304cde2",
   "lastOpenFiles": [
-    "Notes/Stream.md",
     "Notes/Message Queue.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
+    "Notes/Stream.md",
+    "Reference Notes/HelloInterview/System Design/In a Hurry/Key Technologies.md",
     "Mindmaps/Backend.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Notification Service/--Table of Contents--.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Notification Service/Basics.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Queue Service/SQS Standard vs FIFO.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Queue Service/--Table of Contents--.md",
+    "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
     "Mindmaps/System Design.md",
     "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
-    "Reference Notes/HelloInterview/System Design/In a Hurry/Key Technologies.md",
     "Notes/How to approach System Design.md",
     "Scratchpads/Scratchpad - System Design.md",
     "Scratchpads/Pastebin system design.md",
@@ -534,10 +539,6 @@
     "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Microsoft SQL Server Clustered Index Design.md",
     "Reference Notes/HelloInterview/System Design/Core Concepts/Consistent Hashing.md",
-    "Notes/Consistent Hashing.md",
-    "Notes/Hashing.md",
-    "Notes/ElasticSearch.md",
-    "Notes/Remote Procedure Call.md",
     "Reference Notes/HelloInterview/System Design/Core Concepts",
     "Notes/Untitled",
     "Reference Notes/HelloInterview/System Design/Key Technologies",
