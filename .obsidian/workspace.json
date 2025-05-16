@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Stream.md",
+                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Stream"
+              "title": "Outline of Kafka"
             }
           },
           {
@@ -510,10 +510,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eaf3785dee8a723a",
+  "active": "bea63e3a041577c5",
   "lastOpenFiles": [
-    "Notes/Message Queue.md",
     "Notes/Stream.md",
+    "Notes/Message Queue.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
     "Mindmaps/Backend.md",
     "Mindmaps/System Design.md",

@@ -12,21 +12,25 @@ has-questions: true
 Apache Kafka is a distributed event streaming platform
 
 
-# Terminologies
-Broker - server containing partitions that producers send messages to and consumers consume from
-Topic - Logical grouping of partitions
-Partition - Individual storage of message queue. append-only log file
-Producer - writes messages to partitions
-Consumer - reads messages from partitions
-
-## Kafka Broker
-- a server
-- Contains partitions
-- a partition can have replicas
+# Terminologies and Components
+## Broker
+Server containing partitions that producers send messages to and consumers consume from
+## Topic
+Logical grouping of partitions
+## Partition
+Individual storage of message queue. append-only log file
+## Producer
+writes messages to partitions
+## Consumer
+reads messages from partitions. Only 1 consumer per partition
+## Message
+- default, 1mb max
+- No message number limit
+- No max message size limit
 # Basic flow
 ## Creation of Message
 Structure
-- Headers
+- Headers - includes metadata that can be used for various purposes
 - Key - also the partition key
 - Value
 - Timestamp
@@ -39,6 +43,7 @@ Structure
 - Assignment of message to partition
 
 ## Consumption of messages
+
 ```mermaid
 sequenceDiagram
 Consumer->>Kafka: Read last message given offset
@@ -75,15 +80,7 @@ end
 - specify time until messages are cleaned up
 
 # Questions
-- What if a consumer fails to process a message?
-- What are possible headers?
-- timestamp format?
-- key format? value format?
-- how to configure replicas?
-- how to configure brokers?
-- message size?
-- message limit?
-- is key = partition key?
+
 - What is the AWS equivalent
 - How does kafka know that committing of a message has failed?
 - retry topic and DLQ topic?
