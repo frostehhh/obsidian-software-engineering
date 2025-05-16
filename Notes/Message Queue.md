@@ -3,11 +3,11 @@ tags:
   - notes
   - backend
   - software-architecture/pattern
-Draft: true
-similar:: 
-- "[[Stream]]"
-related-reference-note:: 
-- "[[Key Technologies]]"
+Draft: false
+"similar:":
+  - "[[Stream]]"
+"related-reference-note:":
+  - "[[Key Technologies]]"
 ---
 
 - A queue, which is typically first in first out(FIFO), where each message has only one consumer

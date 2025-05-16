@@ -16,12 +16,12 @@ Draft: false
 # Reverse Proxies
 - CDN
 - Load Balancer
-- API Gateway
+- [[Notes/API Gateway|API Gateway]]
 
 # Other Mechanisms
 - Distributed Lock
 - Distributed Cache
-- Queues
-- Streams/Event Sourcing
+- [[Message Queue|Queues]]
+- [[Stream|Streams/Event Sourcing]]
 
 # Questions

@@ -5,11 +5,11 @@ tags:
   - system-design
   - tool
 source_url: https://www.hellointerview.com/learn/system-design/deep-dives/kafka
-Draft: true
+Draft: false
 has-questions: false
-Friend:: 
-- "[[Stream]]"
-- "[[Message Queue]]"
+"Friend:":
+  - "[[Stream]]"
+  - "[[Message Queue]]"
 ---
 
 - Apache Kafka is a distributed event streaming platform

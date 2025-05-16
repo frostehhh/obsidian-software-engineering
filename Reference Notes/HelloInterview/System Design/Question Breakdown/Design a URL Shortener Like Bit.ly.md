@@ -3,7 +3,7 @@ tags:
   - guide
   - reference-notes
   - system-design/case-study
-draft: true
+draft: false
 source_url: https://www.hellointerview.com/learn/system-design/problem-breakdowns/bitly
 ---
 

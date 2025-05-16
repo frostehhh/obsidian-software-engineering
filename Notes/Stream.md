@@ -5,11 +5,11 @@ tags:
   - software-architecture/pattern
 aliases:
   - Event Sourcing
-Draft: true
-similar:: 
-- "[[Message Queue]]"
-related-reference-note:: 
-- "[[Key Technologies]]"
+Draft: false
+"similar:":
+  - "[[Message Queue]]"
+"related-reference-note:":
+  - "[[Key Technologies]]"
 ---
 
 - A sequence of data, typically events, where each entry can be read by multiple consumers

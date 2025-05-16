@@ -5,8 +5,8 @@ tags:
   - redis
   - tool
 source_url: https://www.hellointerview.com/learn/system-design/deep-dives/redis
-has-questions: true
-Draft: true
+has-questions: false
+Draft: false
 ---
 
 Redis is a single-threaded in-memory data-structure store, which is often used as a cache.
