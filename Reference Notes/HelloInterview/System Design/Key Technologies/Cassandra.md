@@ -44,6 +44,21 @@ An open-source distributed NoSQL Database
 - Coordinator node is responsible for querying other existing nodes
 
 ##  Storage Model
+LSM - Log structure merge tree
+- Commit Log - 
+- Merge Tree?
+- SSTTree
 
+## Gossip
+
+## Fault Tolerance
+
+
+# How to use Cassandra
+
+# Cassandra in System Design
+- fast read and write
+- Highly scalable
+- No need for relational data, complex joins or queries
 # Questions
 - log structured merge tree
