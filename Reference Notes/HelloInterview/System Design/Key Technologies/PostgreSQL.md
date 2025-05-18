@@ -25,7 +25,7 @@ Complex joins with 10m> rows
 ## Write Performance
 
 ### Capabilities
-- Write-ahead log
+- [[Write-Ahead Log]]
 - buffer-cache updates
 - background writer
 - index updates

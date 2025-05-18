@@ -11,7 +11,7 @@ Parent::
 
 Resistance to data corruption in the event of crashes.
 # Methods to implement
-- Write-ahead log(WAL) - compressed version of changes
+- [[Write-Ahead Log]](WAL) - compressed version of changes
 - Asynchronous replication - expensive
 - AOF - append-only file
 

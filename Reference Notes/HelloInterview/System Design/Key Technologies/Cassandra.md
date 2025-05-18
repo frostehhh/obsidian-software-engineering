@@ -42,23 +42,58 @@ An open-source distributed NoSQL Database
 - query requests are directed to a coordinator node
 	- Any node can be a coordinator node
 - Coordinator node is responsible for querying other existing nodes
-
 ##  Storage Model
 LSM - Log structure merge tree
-- Commit Log - 
-- Merge Tree?
-- SSTTree
+- Commit Log - a [[Write-Ahead Log]]
+- Memtable - In-memory data that are to be committed to disk
+- SSTABLE - Immutable list of data from Memtable already flushed
 
 ## Gossip
+- A method in Cassandra nodes of peer-to-peer communication between nodes for discovery
+- Each nodes knows every other node
+- Has probabilistic bias toward "seed" nodes
+	- Seed nodes are nodes that can startup a cluster
 
 ## Fault Tolerance
-
+- Has handling for failed nodes
+- Administrator has to signify that a node has failed
+- Concept of "hinted handoffs" when a request(typically, write request) is sent to a failed node
+	- When the failed node sends a heartbeat, hinted handoff is sent to the node
 
 # How to use Cassandra
+## Discord Message Channels
+### Initial schema
+Contains channel_id and message_id as primary keys
+### Issue
+Some channels have very high load of messages resulting to hot partitions and degraded performance for those partitions
+### Developed schema
+Add `bucket: int`, which represents 10 days of data, to primary key
+### Result
+Channel messages are spread across different partitions to avoid hot partition. Performance fixed
 
+## TicketMaster
+### Issue
+Some events have very high traffic. Hot partitions
+### Initial Schema
+Primary key -> `event_id`, `seat_id`
+
+### Developed Schema
+Add `section_id` to primary key
+### Result
+All event data are spread across different partitions
+
+
+# Advanced Features
+## Stored Attached Index
+Global secondary index support for reading
+## Materialized Views
+Cached materialized results of views
+## Search Indexing
+Can be used along with [[Notes/ElasticSearch|ElasticSearch]]
 # Cassandra in System Design
 - fast read and write
 - Highly scalable
 - No need for relational data, complex joins or queries
+- availability over consistency
 # Questions
 - log structured merge tree
