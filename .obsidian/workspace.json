@@ -478,9 +478,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "59a7e62daee1a9fe",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
           }
         ],
-        "currentTab": 27
+        "currentTab": 28
       }
     ],
     "direction": "horizontal",
@@ -504,7 +514,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "8ba24a083e3d37a2",
+  "active": "59a7e62daee1a9fe",
   "lastOpenFiles": [
     "Notes/ACID/ACID.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
