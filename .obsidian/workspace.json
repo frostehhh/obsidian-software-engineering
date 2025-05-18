@@ -74,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -524,8 +524,9 @@
   },
   "active": "2a442a99b36a9517",
   "lastOpenFiles": [
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
+    "Untitled.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
+    "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
     "Notes/How to approach System Design.md",
     "Dataviews/Draft Notes.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
@@ -549,7 +550,6 @@
     "Dataviews/In Notes folder but not notes tag.md",
     "Notes/Prometheus.md",
     "Notes/_note_Notes.md",
-    "Notes/API Versioning.md",
     "Reference Notes/HelloInterview/System Design/Core Concepts",
     "Notes/Untitled",
     "Reference Notes/HelloInterview/System Design/Key Technologies",
