@@ -20,10 +20,8 @@ Read uncommitted changes from a different transaction
 ## Non-repeatable Read
 - Read committed changes from a different transaction
 - Non-repeatable because the same read repeated gives different results. Hence, it is non-repeatable
-
 ## Phantom Read
 Read committed inserts from a different transaction
-
 ## Lost updates
 With two different transactions where both update the same row, one will overwrite the other.
 

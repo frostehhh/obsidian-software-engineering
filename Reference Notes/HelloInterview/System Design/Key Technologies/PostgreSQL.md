@@ -39,6 +39,9 @@ Asynchronous - eventually consistent
 	- partitions
 	- Supports complex joins and queries
 # When to consider other options
+1. Extreme write throughput
+2. Global distribution considerations
+3. Simple key-value store usage
 
 
 # Questions
