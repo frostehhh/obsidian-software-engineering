@@ -6,7 +6,7 @@ tags:
   - tool
 source_url: https://www.hellointerview.com/learn/system-design/deep-dives/kafka
 Draft: false
-has-questions: false
+has-questions: true
 ---
 
 An open-source distributed NoSQL Database
@@ -96,3 +96,5 @@ Can be used along with [[Notes/ElasticSearch|ElasticSearch]]
 - Highly scalable
 - No need for relational data, complex joins or queries
 - availability over consistency
+# Questions
+- is it schemaless
