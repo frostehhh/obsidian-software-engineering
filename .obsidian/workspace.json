@@ -59,20 +59,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Zookeeper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zookeeper"
-            }
-          },
-          {
-            "id": "70a5dc9d6131eb1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md",
                 "mode": "source",
                 "source": false
@@ -82,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -522,17 +508,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "70a5dc9d6131eb1a",
+  "active": "39cd7130b91750cc",
   "lastOpenFiles": [
+    "Reference Notes/HelloInterview/System Design/Key Technologies/Zookeeper.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
+    "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/API Gateway.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/DynamoDB.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Redis.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/ElasticSearch.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Zookeeper.md",
     "Notes/How to approach System Design.md",
     "Notes/ElasticSearch.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
