@@ -108,9 +108,21 @@
               "icon": "lucide-file",
               "title": "Isolation"
             }
+          },
+          {
+            "id": "30cb024696594b03",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Braindump/2025-05-18 - Backend.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "2025-05-18 - Backend"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -509,9 +521,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "be4fb79fd3ea7962",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 29
+        "currentTab": 30
       }
     ],
     "direction": "horizontal",
@@ -532,15 +554,21 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "804a4c2a7a8d3011",
+  "active": "30cb024696594b03",
   "lastOpenFiles": [
-    "Dataviews/Draft Notes.md",
-    "Notes/ACID/ACID.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
+    "Braindump/2025-05-18 - Backend.md",
     "Braindump/2025-05-18 - Database.md",
+    "Dataviews/Draft Notes.md",
+    "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
+    "Notes/ACID/ACID.md",
     "Dataviews/Braindumps.md",
     "Notes/ACID/Isolation.md",
     "Braindump/Untitled.md",
@@ -562,7 +590,6 @@
     "Mindmaps/System Design.md",
     "Notes/Stream.md",
     "Notes/Message Queue.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
     "Reference Notes/HelloInterview/System Design/Core Concepts",
     "Notes/Untitled",
     "Reference Notes/HelloInterview/System Design/Key Technologies",
