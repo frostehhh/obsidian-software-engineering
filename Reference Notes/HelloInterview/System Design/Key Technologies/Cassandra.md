@@ -5,8 +5,8 @@ tags:
   - system-design
   - tool
 source_url: https://www.hellointerview.com/learn/system-design/deep-dives/kafka
-Draft: true
-has-questions: true
+Draft: false
+has-questions: false
 ---
 
 An open-source distributed NoSQL Database
@@ -85,7 +85,8 @@ All event data are spread across different partitions
 
 # Advanced Features
 ## Stored Attached Index
-Global secondary index support for reading
+- Global secondary index support for reading
+- Allows convenient performant querying of data given an already existing 
 ## Materialized Views
 Cached materialized results of views
 ## Search Indexing
@@ -95,5 +96,3 @@ Can be used along with [[Notes/ElasticSearch|ElasticSearch]]
 - Highly scalable
 - No need for relational data, complex joins or queries
 - availability over consistency
-# Questions
-- log structured merge tree
