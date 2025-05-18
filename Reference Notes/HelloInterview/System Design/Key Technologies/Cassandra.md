@@ -4,7 +4,7 @@ tags:
   - backend
   - system-design
   - tool
-source_url: https://www.hellointerview.com/learn/system-design/deep-dives/kafka
+source_url: https://www.hellointerview.com/learn/system-design/deep-dives/cassandra
 Draft: false
 has-questions: true
 ---
