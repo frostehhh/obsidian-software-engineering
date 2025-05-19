@@ -9,7 +9,7 @@ Draft: true
 has-questions: false
 ---
 
-Distri
+Distributed stream data processing 
 # Concepts
 ## Source
 where stream data comes from
