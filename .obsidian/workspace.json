@@ -54,65 +54,21 @@
             }
           },
           {
-            "id": "39cd7130b91750cc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Flink"
-            }
-          },
-          {
-            "id": "0a4919f9ad2f07c7",
+            "id": "6eeae4fdfbf38be9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
+                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Zookeeper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PostgreSQL"
-            }
-          },
-          {
-            "id": "0829f842a7dd40c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Write-Ahead Log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Write-Ahead Log"
-            }
-          },
-          {
-            "id": "f7d02a14c35f3d4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Snapshots.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Snapshots"
+              "title": "Zookeeper"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -573,15 +529,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7d02a14c35f3d4b",
+  "active": "6eeae4fdfbf38be9",
   "lastOpenFiles": [
+    "Notes/How to approach System Design.md",
+    "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md",
+    "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
     "Notes/Write-Ahead Log.md",
     "Notes/Snapshots.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Zookeeper.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md",
-    "Notes/How to approach System Design.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.canvas",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
     "Mindmaps/System Design.md",
     "Reference Notes/HelloInterview/System Design/In a Hurry/Key Technologies.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Drawing 2025-05-19 18.18.11.excalidraw.md",

@@ -68,12 +68,17 @@ has-questions: true
 ## Strong Consistency
 - atomic
 - durability
+## Session and Client Connection Management
+- Session creation - client connects to ZooKeeper
+- Session heartbeat - client sends a heartbeat every X time interval to notify that it is still connected. 
+- Session Recovery - client loses connection -> can reconnect within session timeout even to another server  
+- Session expiration - expires due to reaching timeout
+
 ## Durability
 - [[Write-Ahead Log|WAL]]
-- Snapshots
+- [[Snapshots]]
 ## Failure Handling
-
+- When leader fails scenario, see [[#ZooKeeper Atomic Broadcast]]
+- When 
 
 # Questions
-- When do you use each type of ZNode?
-- In ZooKeeper Atomic Broadcast, why is it that a majority and not all need to confirm the broadcasted changes? is it for speed?
