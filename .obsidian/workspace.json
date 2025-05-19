@@ -56,6 +56,7 @@
           {
             "id": "39cd7130b91750cc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -63,6 +64,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Flink"
             }
@@ -518,7 +520,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec239a744ab25d3b",
+  "active": "39cd7130b91750cc",
   "lastOpenFiles": [
     "Reference Notes/HelloInterview/System Design/Key Technologies/Zookeeper.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
