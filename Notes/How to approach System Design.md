@@ -34,5 +34,8 @@ related-reference-note::
 # Core Entities
 # API Interface
 ## High-Level Architecture
+- Create high-level architecture based on functional requirements
+- Create as simple as needed
 # Deep Dives
+- Iterate the high-level architecture to support the non-functional requirements and constraints
 

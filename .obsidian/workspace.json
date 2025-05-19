@@ -22,22 +22,6 @@
             }
           },
           {
-            "id": "dfa8a5c4183b0110",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/HelloInterview/System Design/In a Hurry/Key Technologies.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Key Technologies"
-            }
-          },
-          {
             "id": "a1a24331fe3caeb7",
             "type": "leaf",
             "pinned": true,
@@ -45,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/How to approach System Design.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
@@ -54,21 +38,23 @@
             }
           },
           {
-            "id": "6eeae4fdfbf38be9",
+            "id": "b8f08189313d7b11",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Zookeeper.md",
-                "mode": "preview",
+                "file": "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
+                "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Zookeeper"
+              "title": "System Design"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -529,17 +515,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6eeae4fdfbf38be9",
+  "active": "b8f08189313d7b11",
   "lastOpenFiles": [
     "Notes/How to approach System Design.md",
+    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
+    "Reference Notes/HelloInterview/System Design/Key Technologies/Zookeeper.md",
+    "Mindmaps/System Design.md",
+    "Reference Notes/HelloInterview/System Design/In a Hurry/Key Technologies.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
     "Notes/Write-Ahead Log.md",
     "Notes/Snapshots.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Zookeeper.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.canvas",
-    "Mindmaps/System Design.md",
-    "Reference Notes/HelloInterview/System Design/In a Hurry/Key Technologies.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Drawing 2025-05-19 18.18.11.excalidraw.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/API Gateway.md",
@@ -557,7 +544,6 @@
     "Dataviews/Draft Notes.md",
     "Notes/ACID/Isolation.md",
     "Notes/ACID/ACID.md",
-    "Braindump/2025-05-18 - Backend.md",
     "Reference Notes/HelloInterview/System Design/Core Concepts",
     "Notes/Untitled",
     "Reference Notes/HelloInterview/System Design/Key Technologies",

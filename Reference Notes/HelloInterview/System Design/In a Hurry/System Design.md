@@ -3,6 +3,7 @@ tags:
   - reference-notes
   - system-design
   - guide
+Draft: true
 ---
 
 # Types of System Design interview[^1]
@@ -23,6 +24,13 @@ tags:
 	For example, "user's can post tweets"
 2. Non-functional requirements
 	 System capabilities. The search latency should be "<500ms"
+	 - Availability vs Consistency([[CAP Theorem]])
+	 - Fault tolerance
+	 - Durability
+	 - Scalability
+	 - Latency
+	 - Security
+	 - Compliance
 ## Core Entities
 Entities central to the system design. For example, when designing Twitter, we need `User`, `Tweet` and `Follow` entities
 ## API or System Interface
