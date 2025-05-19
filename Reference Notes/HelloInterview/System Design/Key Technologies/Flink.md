@@ -73,6 +73,3 @@ Run `execute` command after defining
 - When you need real-time processing of stream
 	- Otherwise, keep [[Kafka]]
 - Usually, [[Kafka]] will be the [[#Source]]
-## Considerations
-- State management
-- 
