@@ -5,8 +5,8 @@ tags:
   - system-design
   - tool
 source_url: https://www.hellointerview.com/learn/system-design/deep-dives/zookeeper
-Draft: true
-has-questions: true
+Draft: false
+has-questions: false
 ---
 
 - Distributed System coordinator
@@ -79,6 +79,6 @@ has-questions: true
 - [[Snapshots]]
 ## Failure Handling
 - When leader fails scenario, see [[#ZooKeeper Atomic Broadcast]]
-- When 
+- Client failures and session management 
 
 # Questions
