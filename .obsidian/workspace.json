@@ -518,9 +518,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "d3797d8a30872a43",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 31
+        "currentTab": 32
       }
     ],
     "direction": "horizontal",
@@ -541,10 +551,15 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "0829f842a7dd40c7",
+  "active": "d3797d8a30872a43",
   "lastOpenFiles": [
     "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md",
     "Notes/How to approach System Design.md",
