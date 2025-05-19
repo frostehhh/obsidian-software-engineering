@@ -9,6 +9,7 @@ Draft: true
 has-questions: false
 ---
 
+Distri
 # Concepts
 ## Source
 where stream data comes from
@@ -38,4 +39,40 @@ Define(can be in code) the source, sink, streams and operators
 Run `execute` command after defining
 
 # How Flink Works
+## Cluster Architecture
+### Types of Processes
+1. Job Manager
+2. Task Manager
+#### Job Manager
+- administrates processes
+- Can have replicas that can takeover in case of failure
+- handles checkpoints
+- handle failures
+- allocates tasks to task managers
+#### Task Manager
+- Has Task slots
+- Each task slot reserves memory for computation
+- Task slots can share resources with each other especially when working on the same job
+## Failure Handling
+### State Management
+- Recently processed data is stored as state
+- distributed snapshot every X interval
+#### Supported State Management Options
+1. JVM heap - in memory
+2. Filesystem
+3. RocksDB - key-value store that utilizes disk space(not just RAM)
+### Handling Failures
+1. Failure detection
+2. Job Pause
+3. Go back to recent checkpoint
+4. Redistribute tasks from failed task managers
+5. Task managers reset to previous checkpoint
+6. Operators reset to previous checkpoint
+7. Resume Job processing
 # Flink in System Design
+- When you need real-time processing of stream
+	- Otherwise, keep [[Kafka]]
+- Usually, [[Kafka]] will be the [[#Source]]
+## Considerations
+- State management
+- 

@@ -68,9 +68,37 @@
               "icon": "lucide-file",
               "title": "Flink"
             }
+          },
+          {
+            "id": "30b94d2a5277e435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flink"
+            }
+          },
+          {
+            "id": "0a4919f9ad2f07c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PostgreSQL"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -102,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "availability zone",
+                "query": "buffer-cache",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +166,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -520,14 +549,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "39cd7130b91750cc",
+  "active": "30b94d2a5277e435",
   "lastOpenFiles": [
+    "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.canvas",
+    "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md",
+    "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
+    "Mindmaps/System Design.md",
+    "Reference Notes/HelloInterview/System Design/In a Hurry/Key Technologies.md",
+    "Reference Notes/HelloInterview/System Design/Key Technologies/Drawing 2025-05-19 18.18.11.excalidraw.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Zookeeper.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/API Gateway.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/DynamoDB.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Redis.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/ElasticSearch.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
@@ -541,13 +574,9 @@
     "Notes/Write-Ahead Log.md",
     "Untitled.md",
     "Dataviews/Draft Notes.md",
-    "Mindmaps/System Design.md",
-    "Reference Notes/HelloInterview/System Design/In a Hurry/Key Technologies.md",
     "Notes/ACID/Isolation.md",
     "Notes/ACID/ACID.md",
     "Braindump/2025-05-18 - Backend.md",
-    "Braindump/2025-05-18 - Database.md",
-    "Mindmaps/Backend.md",
     "Reference Notes/HelloInterview/System Design/Core Concepts",
     "Notes/Untitled",
     "Reference Notes/HelloInterview/System Design/Key Technologies",

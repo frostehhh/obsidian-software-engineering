@@ -27,7 +27,9 @@ Complex joins with 10m> rows
 ### Capabilities
 - [[Write-Ahead Log]]
 - buffer-cache updates
+	- array of updates temporarily stored in memory to be flushed to disk in batches if possible
 - background writer
+	- flushes updates from buffer-cache to disk
 - index updates
 ### Limitations
 - 5k/second per core
