@@ -477,9 +477,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "ec239a744ab25d3b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 30
+        "currentTab": 31
       }
     ],
     "direction": "horizontal",
@@ -500,10 +510,15 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "39cd7130b91750cc",
+  "active": "ec239a744ab25d3b",
   "lastOpenFiles": [
     "Reference Notes/HelloInterview/System Design/Key Technologies/Zookeeper.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
