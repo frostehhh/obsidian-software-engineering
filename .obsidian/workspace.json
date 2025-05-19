@@ -70,20 +70,6 @@
             }
           },
           {
-            "id": "30b94d2a5277e435",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Flink"
-            }
-          },
-          {
             "id": "0a4919f9ad2f07c7",
             "type": "leaf",
             "state": {
@@ -96,9 +82,23 @@
               "icon": "lucide-file",
               "title": "PostgreSQL"
             }
+          },
+          {
+            "id": "0829f842a7dd40c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Zookeeper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zookeeper"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -515,8 +515,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -541,18 +541,14 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "media-extended:Open media": false
     }
   },
-  "active": "30b94d2a5277e435",
+  "active": "0829f842a7dd40c7",
   "lastOpenFiles": [
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.canvas",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md",
+    "Notes/How to approach System Design.md",
+    "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.canvas",
     "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
     "Mindmaps/System Design.md",
     "Reference Notes/HelloInterview/System Design/In a Hurry/Key Technologies.md",
@@ -564,7 +560,6 @@
     "Reference Notes/HelloInterview/System Design/Key Technologies/Redis.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/ElasticSearch.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
-    "Notes/How to approach System Design.md",
     "Notes/ElasticSearch.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Fundamentals/AWS Global Infrastructure.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/DynamoDB/Operations, Consistency and Performance.md",
