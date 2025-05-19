@@ -73,3 +73,8 @@ Run `execute` command after defining
 - When you need real-time processing of stream
 	- Otherwise, keep [[Kafka]]
 - Usually, [[Kafka]] will be the [[#Source]]
+
+# Useful Concepts in Flink design
+- Window grouping of data
+- Watermark concept
+- 
