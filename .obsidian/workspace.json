@@ -52,9 +52,25 @@
               "icon": "lucide-file",
               "title": "System Design"
             }
+          },
+          {
+            "id": "24d119f20aa3c430",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a File Storage Service Like Dropbox.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Design a File Storage Service Like Dropbox"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -493,14 +509,23 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "dc59056da42418aa",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 33
+        "currentTab": 34
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -516,13 +541,29 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "b8f08189313d7b11",
+  "active": "c9e86c4b43b9a499",
   "lastOpenFiles": [
-    "Excalibrain/excalibrain.md",
+    "Untitled 1",
+    "Untitled",
     "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
+    "Notes/How to approach System Design.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a File Storage Service Like Dropbox.md",
+    "--Obsidian Template--/Frontmatter - Reference Notes - System Design Case Study.md",
+    "--Obsidian Template--/Frontmatter - Reference Notes - Website Article.md",
+    "--Obsidian Template--/Frontmatter - Reference Notes with source.md",
+    "--Obsidian Template--/Frontmatter - Notes - Backend.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a URL Shortener Like Bit.ly.md",
+    "Excalibrain/excalibrain.md",
     "Notes/Write-Ahead Log.md",
     "Notes/How tables and indexes are stored on disk.md",
     "Notes/Deadlock.md",
@@ -539,14 +580,6 @@
     "Notes/ACID/Atomicity.md",
     "Notes/ACID/ACID.md",
     "Mindmaps/HTTP.excalidraw.md",
-    "Mindmaps/System Design.md",
-    "Notes/Asynchronous.md",
-    "Notes/API Versioning.md",
-    "Notes/API Gateway.md",
-    "Notes/GraphQL.md",
-    "Notes/gRPC.md",
-    "Notes/Grafana.md",
-    "Notes/Exclusive Lock.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.canvas",
     "Reference Notes/HelloInterview/System Design/Core Concepts",
     "Notes/Untitled",
@@ -563,7 +596,6 @@
     "Reference Notes/Untitled 1",
     "Reference Notes/System Design Intervifew",
     "Reference Notes/HelloInterview/System Design",
-    "Reference Notes/HelloInterview",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "--Attachments/Pasted image 20250323171836.png",
     "--Attachments/Pasted image 20250405233653.png",
