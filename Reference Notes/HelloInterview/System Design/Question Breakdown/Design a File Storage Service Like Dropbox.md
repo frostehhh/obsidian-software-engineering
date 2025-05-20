@@ -54,12 +54,3 @@ The price for CDN(S3 Transfer Acceleration or S3 Cloudfront) may not be worth it
 # See also
 https://aws.plainenglish.io/beyond-the-10mb-limit-the-smart-way-to-handle-file-uploads-in-aws-dfeb2ee08724
 https://aws.amazon.com/blogs/compute/patterns-for-building-an-api-to-upload-files-to-amazon-s3/
-# Questions
-- uploading large files in chunks - depth
-	- how to decide chunk size?
-	- chunk state info?
-	- Update DB chunk state while uploading?
-- delta sync?only fetch changed chunks????
-- dropbox blog on design?
-- reconciliation?
-- 
