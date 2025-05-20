@@ -46,6 +46,11 @@ POST /files
 - Compression
 - Update FileMetadata to include compression algorithm used
 
+## Do we need a CDN?
+It may not be worth it. The blob storage can already be deployed to be geographically near users
+The price for CDN(S3 Transfer Acceleration or S3 Cloudfront) may not be worth it.
+
+
 # See also
 https://aws.plainenglish.io/beyond-the-10mb-limit-the-smart-way-to-handle-file-uploads-in-aws-dfeb2ee08724
 https://aws.amazon.com/blogs/compute/patterns-for-building-an-api-to-upload-files-to-amazon-s3/
@@ -54,12 +59,7 @@ https://aws.amazon.com/blogs/compute/patterns-for-building-an-api-to-upload-file
 	- how to decide chunk size?
 	- chunk state info?
 	- Update DB chunk state while uploading?
-- downloading large files resumable?
-- CDN - do uploads go through a CDN?
-- websocket max connections?
-- delta sync?only fetch changed chunks
-- how does the API change based on deep dive changes?
-	- chunking?
+- delta sync?only fetch changed chunks????
 - dropbox blog on design?
 - reconciliation?
 - 
