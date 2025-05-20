@@ -1,5 +1,5 @@
 [IAM][]
-# [[User]]
+# [[Reference Notes/Adrian Cantrill/Amazon Web Services/Accounts/Identity and Access Management (IAM)/Types of IAM users/User]]
 Represent humans or applications that need access to your account
 
 # [[Group]]

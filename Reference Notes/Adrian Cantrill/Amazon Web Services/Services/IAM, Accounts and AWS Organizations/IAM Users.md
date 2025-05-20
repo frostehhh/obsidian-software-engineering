@@ -1,3 +1,10 @@
+---
+tags:
+  - reference-notes
+  - aws/iam
+  - security/authentication
+---
+
 ![[Pasted image 20230327004341.png]]
 - An identity used for anything requiring long-term AWS access e.g. humans, applications, or service accounts
 - 

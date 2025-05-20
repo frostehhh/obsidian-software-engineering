@@ -35,7 +35,7 @@ POST /files
 - Upload and download directly to S3
 	- Can manually implement chunking and update file metadata along the way
 	- Alternatively, S3 multipart upload
-- Use API to get presigned-url and perform uploads and downloads through that
+- Use API to get [[Notes/AWS/S3/Presigned URLs|Presigned URLs]] and perform uploads and downloads through that
 - Use API to update file metadata
 ## Syncing local changes and remote changes
 - short polling simplest solution
