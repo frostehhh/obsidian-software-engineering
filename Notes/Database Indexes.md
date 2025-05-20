@@ -8,6 +8,8 @@ Draft: false
   - "[[Getting started with indexing]]"
   - "[[Combining Database Indexes for Better Performance]]"
   - "[[Key vs Non-key column database indexing]]"
+  - "[[How tables and indexes are stored on disk]]"
+  - "[[B-Tree and B+ Tree]]"
 ---
 
 - Representation of a table
@@ -23,6 +25,7 @@ Draft: false
 - Self-balancing
 - Sorted
 - Good for range queries
+- For more details, see [[B-Tree and B+ Tree]]
 
 ## Hash Trees
 - Exact match searches ONLY

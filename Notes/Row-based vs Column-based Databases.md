@@ -6,6 +6,8 @@ tags:
 Draft: false
 "related-reference-note:":
   - "[[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/Row-based vs Column-based Databases|Row-based vs Column-based Databases]]"
+  - "[[How tables and indexes are stored on disk]]"
+  - "[[Database Indexes]]"
 has-questions: false
 ---
 
@@ -18,6 +20,7 @@ has-questions: false
 - Each row contains all column data
 - Optimal for most reads and writes
 - Good for complex queries and filters
+- Storage mechanism detailed in [[How tables and indexes are stored on disk]]
 
 # Column-oriented Database
 - Data is stored per column
@@ -27,6 +30,7 @@ has-questions: false
 - Good for aggregation
 - Bad for complex queries and reading many rows of data
 - OLAP
+- Different indexing considerations than row-based - see [[Database Indexes]]
 
 # Pros and Cons
 ![[Row-based database and column-based database pros and cons.png]]
