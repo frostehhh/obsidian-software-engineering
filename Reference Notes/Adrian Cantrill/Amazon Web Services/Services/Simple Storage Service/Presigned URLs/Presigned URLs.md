@@ -1,3 +1,11 @@
+---
+tags:
+  - reference-notes
+  - aws/s3
+  - blob-storage
+---
+
+
 ![[Pasted image 20230410042335.png]]
 ![[Pasted image 20230410042544.png]]
 ![[Pasted image 20230410043119.png]]
