@@ -116,6 +116,9 @@
       },
       "tag-wrangler": {
         "startupType": "instant"
+      },
+      "smart-connections": {
+        "startupType": "instant"
       }
     },
     "loadOrder": []
