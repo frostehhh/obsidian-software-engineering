@@ -77,4 +77,6 @@ Run `execute` command after defining
 # Useful Concepts in Flink design
 - Window grouping of data
 - Watermark concept
-- 
+- state management patterns
+- exactly-once processing
+- resource isolation

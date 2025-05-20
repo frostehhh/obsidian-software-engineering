@@ -54,49 +54,39 @@
             }
           },
           {
-            "id": "24d119f20aa3c430",
+            "id": "2ae507cd48d6a3de",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a File Storage Service Like Dropbox.md",
+                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Design a File Storage Service Like Dropbox"
+              "title": "Flink"
             }
           },
           {
-            "id": "f0fbc2cef2cf85d9",
+            "id": "3b907b7309e25384",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/AWS/S3/Simple Storage Service.md",
+                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Zookeeper.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Simple Storage Service"
-            }
-          },
-          {
-            "id": "2ae507cd48d6a3de",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Braindump/2025-05-20 - Flink and ZooKeeper.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "2025-05-20 - Flink and ZooKeeper"
+              "title": "Zookeeper"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -585,17 +575,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2ae507cd48d6a3de",
+  "active": "3b907b7309e25384",
   "lastOpenFiles": [
+    "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md",
+    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
+    "Notes/How to approach System Design.md",
+    "Braindump/2025-05-20 - Flink and ZooKeeper.md",
     "Notes/AWS/S3/Simple Storage Service.md",
-    "Braindump/2025-05-20 - Flink and ZooKeeper.md",
     "Braindump/Untitled.md",
-    "Braindump/2025-05-20 - Flink and ZooKeeper.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a File Storage Service Like Dropbox.md",
     "Notes/WebSockets.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Storage Service/Basics.md",
     "s3.md",
-    "Notes/How to approach System Design.md",
     "Mindmaps/System Design.md",
     "Notes/AWS/S3/Bucket.md",
     "Notes/AWS/Edge Location.md",
@@ -604,7 +595,6 @@
     "Notes/API Gateway.md",
     "Notes/AWS/API Gateway/API Gateway.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/API Gateway/Basics.md",
-    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
     "Notes/AWS/_note_AWS.md",
     "Dataviews/Topics/Backend.md",
     "Notes/AWS/API Gateway",

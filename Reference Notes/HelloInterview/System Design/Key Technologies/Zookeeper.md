@@ -31,13 +31,10 @@ has-questions: false
 		/config
 			/max-users
 	```
-	- 
 ## Watches
 - A mechanism for ZooKeeper to inform servers of changes that those servers are watching
-
 ## Ensemble
 - Leader-follower pattern
-
 # Key Capabilities
 ## Leader Election
 - We can use sequential [[#ZNode]] for simple management of leader election.
@@ -73,12 +70,9 @@ has-questions: false
 - Session heartbeat - client sends a heartbeat every X time interval to notify that it is still connected. 
 - Session Recovery - client loses connection -> can reconnect within session timeout even to another server  
 - Session expiration - expires due to reaching timeout
-
 ## Durability
 - [[Write-Ahead Log|WAL]]
 - [[Snapshots]]
 ## Failure Handling
 - When leader fails scenario, see [[#ZooKeeper Atomic Broadcast]]
 - Client failures and session management 
-
-# Questions
