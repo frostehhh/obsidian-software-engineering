@@ -1,5 +1,9 @@
 ---
-aliases: [API Gateway Basics]
+tags:
+  - aws/api-gateway
+  - backend
+aliases:
+  - API Gateway Basics
 ---
 ![[Pasted image 20230413054234.png]]
 # Overview

@@ -42,16 +42,14 @@ POST /files
 - Long polling - expects a response, but not necessary for this case
 - Websockets - persistent connection and also expects a response in a way. No as well.
 - Event bus - actual implementation at Dropbox(overkill for simple case, but still an option)
-- 
 ## low latency downloads and uploads
 - Compression
 - Update FileMetadata to include compression algorithm used
 
+# See also
+https://aws.plainenglish.io/beyond-the-10mb-limit-the-smart-way-to-handle-file-uploads-in-aws-dfeb2ee08724
+https://aws.amazon.com/blogs/compute/patterns-for-building-an-api-to-upload-files-to-amazon-s3/
 # Questions
-- pre-signed url? S3?
-	- how does it work?
-	- how to use
-- file upload limits to api gateway, loadbalancer etc.
 - uploading large files in chunks - depth
 	- how to decide chunk size?
 	- chunk state info?

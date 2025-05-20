@@ -4,7 +4,7 @@ tags:
   - security/authentication
 aliases:
   - IAM user
-Draft: true
+Draft: false
 "related-reference-note:":
   - "[[IAM Users]]"
 ---
