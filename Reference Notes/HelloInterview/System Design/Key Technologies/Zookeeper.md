@@ -18,6 +18,7 @@ has-questions: false
 # Basics
 ## ZNode
 - An entity handled by Zookeeper
+	- Can be a server, a representation of a user
 - Types
 	- Persistent
 	- Ephemeral
@@ -31,10 +32,12 @@ has-questions: false
 		/config
 			/max-users
 	```
+## Server Ensemble
+- ZNode Coordinator
+- Leader-follower pattern
 ## Watches
 - A mechanism for ZooKeeper to inform servers of changes that those servers are watching
-## Ensemble
-- Leader-follower pattern
+
 # Key Capabilities
 ## Leader Election
 - We can use sequential [[#ZNode]] for simple management of leader election.
@@ -52,7 +55,7 @@ has-questions: false
 ## Distributed Locks
 - handle distributed locks via [[#ZNode]]
 - [[Notes/Redis|Redis]] also supports distributed locks. Pick ZooKeeper for when you don't need high performance requirements for high-speed lock changes(100 locks per second)
-# How Zookeeper Works
+# Zookeeper Internals
 
 ## ZooKeeper Atomic Broadcast
 - Communication between zookeeper servers
@@ -76,3 +79,6 @@ has-questions: false
 ## Failure Handling
 - When leader fails scenario, see [[#ZooKeeper Atomic Broadcast]]
 - Client failures and session management 
+
+# References
+https://zookeeper.apache.org/doc/current/zookeeperProgrammers.html#:~:text=Every%20node%20in%20a%20ZooKeeper,cache%20and%20to%20coordinate%20updates.
