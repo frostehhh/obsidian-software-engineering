@@ -12,6 +12,7 @@ has-questions: true
 - A pre-authenticated URL
 - Actionable operations with the URL depend on the IAM permissions of who request the URL
 - Use case - Providing a user with no access to a private S3 bucket a URL to a specific bucket and key so that they can upload/download
+- Create a presigned URL by specifying object -> requires [[Bucket]] and [[Key]]
 
 ![[Pasted image 20230410043119.png]]
 

@@ -76,13 +76,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/AWS/S3/Presigned URLs.md",
+                "file": "Notes/AWS/S3/Key.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Presigned URLs"
+              "title": "Key"
             }
           },
           {
@@ -109,7 +109,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/AWS/IAM/User.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true,
@@ -118,37 +118,21 @@
             }
           },
           {
-            "id": "ee307b550021aa6f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/AWS/S3/Key.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Key"
-            }
-          },
-          {
-            "id": "d0b2bc5e919d8317",
+            "id": "c80499c4efd10e01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/AWS/S3/Bucket.md",
+                "file": "Notes/AWS/S3/Presigned URLs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bucket"
+              "title": "Presigned URLs"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -594,8 +578,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -619,36 +603,34 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "media-extended:Open media": false
     }
   },
-  "active": "dfedd9ef17baaea7",
+  "active": "c80499c4efd10e01",
   "lastOpenFiles": [
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Users.md",
-    "Notes/AWS/IAM/User.md",
-    "Notes/AWS/S3/Bucket.md",
-    "Notes/AWS/S3/Key.md",
+    "Excalibrain/excalibrain.md",
     "Notes/AWS/S3/Presigned URLs.md",
+    "Notes/AWS/IAM/User.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/IAM, Accounts and AWS Organizations/IAM Users.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a File Storage Service Like Dropbox.md",
+    "Dataviews/Draft Notes.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Storage Service/Presigned URLs/Presigned URLs.md",
+    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
+    "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md",
+    "dataviews/daraft.md",
+    "Dataviews/daraft.md",
+    "Notes/AWS/S3/Key.md",
+    "Notes/AWS/S3/Bucket.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Storage Service/Basics.md",
     "buck].md",
     "Notes/How to approach System Design.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a File Storage Service Like Dropbox.md",
     "Notes/AWS/IAM",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Storage Service/Presigned URLs/Presigned URLs.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/IAM, Accounts and AWS Organizations/--Table of Contents--.md",
     "Notes/AWS/S3",
     "Notes/AWS/_note_AWS.md",
     "Notes/AWS",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Storage Service/Presigned URLs/Demo.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Storage Service/--Table of Contents--.md",
-    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
     "Mindmaps/System Design.md",
     "Braindump/Backend.md",
     "Notes/Push.md",
@@ -657,11 +639,6 @@
     "--Obsidian Template--/Frontmatter - Reference Notes - System Design Case Study.md",
     "--Obsidian Template--/Frontmatter - Reference Notes - Website Article.md",
     "--Obsidian Template--/Frontmatter - Reference Notes with source.md",
-    "--Obsidian Template--/Frontmatter - Notes - Backend.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a URL Shortener Like Bit.ly.md",
-    "Excalibrain/excalibrain.md",
-    "Notes/Write-Ahead Log.md",
-    "Notes/How tables and indexes are stored on disk.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.canvas",
     "Reference Notes/HelloInterview/System Design/Core Concepts",
     "Reference Notes/HelloInterview/System Design/Key Technologies",

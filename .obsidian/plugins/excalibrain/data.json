@@ -244,9 +244,6 @@
     "related-mind-map": {}
   },
   "navigationHistory": [
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 5 - Tier 3 Analysis - Wireshark/Tier 3 Analysis.md",
-    "Anki/Test.md",
-    "Dataviews/Anki.md",
     "Mindmaps/Fundamentals of Database engineering Mindmap.excalidraw.md",
     "Mindmaps/Backend Fundamentals.md",
     "Scratchpads/HTTP.md",
@@ -293,7 +290,10 @@
     "Notes/Deadlock.md",
     "Notes/How tables and indexes are stored on disk.md",
     "Notes/Write-Ahead Log.md",
-    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md"
+    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
+    "Notes/AWS/S3/Presigned URLs.md",
+    "Notes/AWS/S3/Bucket.md",
+    "Notes/AWS/S3/Key.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "--p",
