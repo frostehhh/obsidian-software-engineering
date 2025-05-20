@@ -8,6 +8,10 @@ source_url: https://www.hellointerview.com/learn/system-design/problem-breakdown
 has-questions: true
 ---
 
+# Timestamps
+https://www.youtube.com/watch?v=_UZ1ngy-kOI&t=0
+41:30 low latency
+45:40 high data integrity
 # Requirements
 ## Functional
 
@@ -37,3 +41,4 @@ POST /files
 	- chunk state info?
 	- Update DB chunk state while uploading?
 - downloading large files resumable?
+- CDN - do uploads go through a CDN?
