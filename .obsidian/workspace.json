@@ -4,77 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9ed66f5362aa95ad",
+        "id": "cf495b409a248d26",
         "type": "tabs",
         "children": [
           {
-            "id": "fceb93072fb1ea2c",
+            "id": "76e7e38200673479",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Apache/Cassandra.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Cassandra"
-            }
-          }
-        ]
-      },
-      {
-        "id": "346663614128ffe6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d30c92e59036b7c8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/DynamoDB.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "DynamoDB"
-            }
-          },
-          {
-            "id": "4370147c3ae1b5f9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/AWS/DynamoDB.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "DynamoDB"
-            }
-          },
-          {
-            "id": "e0b5ff081a71bf6c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/DynamoDB vs Cassandra.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "DynamoDB vs Cassandra"
+              "title": "New tab"
             }
           }
         ]
@@ -126,13 +66,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Apache/Cassandra.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cassandra"
+              "title": "Outline"
             }
           },
           {
@@ -598,14 +537,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fceb93072fb1ea2c",
+  "active": "76e7e38200673479",
   "lastOpenFiles": [
+    "Notes/Apache/Cassandra.md",
+    "Notes/ElasticSearch.md",
+    "Notes/DynamoDB vs Cassandra.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/DynamoDB.md",
     "Notes/AWS/DynamoDB.md",
-    "Notes/DynamoDB vs Cassandra.md",
-    "Notes/Apache/Cassandra.md",
+    "Anki/Cassandra.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
-    "Notes/ElasticSearch.md",
     "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
     "Notes/How to approach System Design.md",
     "Mindmaps/System Design.md",
@@ -626,7 +566,6 @@
     "Notes/_note_Notes.md",
     "Notes/Untitled.md",
     "Notes/Apache",
-    "Braindump/Approaching System Design Interview.md",
     "Notes/AWS/API Gateway",
     "Notes/AWS/IAM",
     "Notes/AWS/S3",

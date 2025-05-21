@@ -4,13 +4,14 @@ tags:
 - database/nosql
 - tool
 - apache
-Draft: true
+Draft: false
 related-reference-note:: 
 - "[[Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra|Cassandra]]"
 ---
 
 - An open-source distributed NoSQL Database
 - Uses Cassandra Query Language(CQL)
+	- Very similar to SQL but without the relational functionalities
 
 # Data Model
 - Keyspaces
@@ -44,7 +45,7 @@ related-reference-note::
 - query requests are directed to a coordinator node
 	- Any node can be a coordinator node
 - Coordinator node is responsible for querying other existing nodes
-##  Storage Model
+## Storage Engine
 LSM - Log structure merge tree
 - Commit Log - a [[Write-Ahead Log]]
 - Memtable - In-memory data that are to be committed to disk
@@ -74,3 +75,4 @@ Can be used along with [[Notes/ElasticSearch|ElasticSearch]]
 # References
 https://cassandra.apache.org/_/cassandra-basics.html
 https://cassandra.apache.org/doc/latest/
+https://cassandra.apache.org/doc/latest/cassandra/architecture/storage-engine.html

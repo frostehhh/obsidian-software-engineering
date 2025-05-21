@@ -3,7 +3,7 @@ tags:
   - database/nosql
   - comparison
   - tool
-Draft: true
+Draft: false
 Parent:: 
 - "[[Notes/AWS/DynamoDB|DynamoDB]]"
 - "[[Notes/Apache/Cassandra|Cassandra]]"
@@ -17,3 +17,4 @@ Parent::
 | Author          | AWS                                                 | Facebook                                           |
 | Views           | None                                                | Materialized Views                                 |
 | Search Index    | Usable with [[Notes/ElasticSearch\|ElasticSearch]]  | Usable with [[Notes/ElasticSearch\|ElasticSearch]] |
+| Units           | Item and Attribute                                  | Row and Column                                     |
