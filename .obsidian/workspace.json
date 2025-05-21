@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1cb6dbf4e0efad00",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Cassandra"
-            }
-          },
-          {
             "id": "fceb93072fb1ea2c",
             "type": "leaf",
             "pinned": true,
@@ -39,8 +23,7 @@
               "title": "Cassandra"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "346663614128ffe6",
@@ -94,8 +77,7 @@
               "title": "DynamoDB vs Cassandra"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/DynamoDB vs Cassandra.md",
+                "file": "Notes/Apache/Cassandra.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DynamoDB vs Cassandra"
+              "title": "Outline of Cassandra"
             }
           },
           {
@@ -616,18 +598,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e0b5ff081a71bf6c",
+  "active": "fceb93072fb1ea2c",
   "lastOpenFiles": [
-    "Notes/AWS/DynamoDB.md",
-    "Notes/Apache/Cassandra.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/DynamoDB.md",
+    "Notes/AWS/DynamoDB.md",
     "Notes/DynamoDB vs Cassandra.md",
+    "Notes/Apache/Cassandra.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
+    "Notes/ElasticSearch.md",
     "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
     "Notes/How to approach System Design.md",
     "Mindmaps/System Design.md",
     "2025-05-21.md",
-    "Notes/ElasticSearch.md",
     "Notes/RPC vs REST.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Serializable vs Repeatable Read.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/Row-based vs Column-based Databases.md",
