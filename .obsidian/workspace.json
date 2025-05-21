@@ -4,20 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "cf495b409a248d26",
+        "id": "9ed66f5362aa95ad",
         "type": "tabs",
         "children": [
           {
-            "id": "76e7e38200673479",
+            "id": "5d4e4b31265813e7",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "excalidraw",
+              "state": {
+                "file": "Mindmaps/System Design.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "System Design"
+            }
+          },
+          {
+            "id": "a444c466d1b2973c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "System Design"
+            }
+          },
+          {
+            "id": "1a0962be5a566810",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/How to approach System Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "How to approach System Design"
+            }
+          },
+          {
+            "id": "981eafce38877188",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a Local Delivery Service like Gopuff.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Design a Local Delivery Service like Gopuff"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -37,7 +90,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -49,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#comparison",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,12 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Notes/ACID/Consistency.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Consistency"
             }
           },
           {
@@ -88,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.0026054382324,
-    "collapsed": true
+    "width": 304.0026054382324
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -124,12 +177,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Hypertext Transfer Protocol/Hypertext Transfer Protocol.md",
+                "file": "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/API Gateway/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hypertext Transfer Protocol"
+              "title": "Outgoing links from Basics"
             }
           },
           {
@@ -139,9 +192,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": true,
-                "searchQuery": "comparison"
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -243,276 +296,16 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "68e1d16e5cea0863",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "ec435766578855e4",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "5916bf120ebaa86c",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "fd547c8bf545700a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "40fdf2cb02fb3fc9",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "079369f3a4395f82",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "7c54b28454d188e6",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "accfddef40aef937",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "2c93a401ccbe9f73",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "28c47c6f588a287c",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "4554e07c8c7c02b0",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "c15d8c27423bd62a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "d11ed5382044282b",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "661499d527a49074",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "43df553235f6a131",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "59a7e62daee1a9fe",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "d0cc865ab223a7e2",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "be4fb79fd3ea7962",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "ec239a744ab25d3b",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "d3797d8a30872a43",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "b2fcb7ab54b235e6",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "dc59056da42418aa",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "18d660056264b8bc",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "8a1ab27c90358af5",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "b98421c3922de4a4",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "dcb2b037acb92b78",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 12
       }
     ],
     "direction": "horizontal",
-    "width": 336,
+    "width": 272,
     "collapsed": true
   },
   "left-ribbon": {
@@ -537,8 +330,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "76e7e38200673479",
+  "active": "981eafce38877188",
   "lastOpenFiles": [
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a URL Shortener Like Bit.ly.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a Local Delivery Service like Gopuff.md",
+    "Notes/How to approach System Design.md",
+    "Scratchpads/Scratchpad - System Design.md",
+    "Untitled Kanban.md",
+    "Untitled.md",
+    "2025-05-21.md",
     "Notes/Apache/Cassandra.md",
     "Notes/ElasticSearch.md",
     "Notes/DynamoDB vs Cassandra.md",
@@ -547,9 +347,7 @@
     "Anki/Cassandra.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
     "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
-    "Notes/How to approach System Design.md",
     "Mindmaps/System Design.md",
-    "2025-05-21.md",
     "Notes/RPC vs REST.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Serializable vs Repeatable Read.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/Row-based vs Column-based Databases.md",
@@ -560,11 +358,6 @@
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Relational Database Service/ACID vs BASE.md",
     "Notes/Layer 4 vs Layer 7 Load Balancers.md",
     "Dataviews/Topics/Database.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Index Scan vs Index Only Scan.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Solve the Double Booking Problem (Code Example).md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Microsoft SQL Server Clustered Index Design.md",
-    "Notes/_note_Notes.md",
-    "Notes/Untitled.md",
     "Notes/Apache",
     "Notes/AWS/API Gateway",
     "Notes/AWS/IAM",
