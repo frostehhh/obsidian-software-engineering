@@ -22,13 +22,16 @@ Draft: true
 1. Functional requirements
 	user-functionality.
 	For example, "user's can post tweets"
-2. Non-functional requirements
+2. Non-functional requirements (AESLDFSC)
 	 System capabilities. The search latency should be "<500ms"
 	 - Availability vs Consistency([[CAP Theorem]])
-	 - Fault tolerance
-	 - Durability
+	 - Environment Constraints
 	 - Scalability
+		 - peak times
+		 - reads vs writes
 	 - Latency
+	 - Durability
+	 - Fault tolerance
 	 - Security
 	 - Compliance
 ## Core Entities

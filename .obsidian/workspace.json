@@ -54,23 +54,23 @@
             }
           },
           {
-            "id": "981eafce38877188",
+            "id": "de4a6a8b8a8dd69a",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a Local Delivery Service like Gopuff.md",
+                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design TicketMaster.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Design a Local Delivery Service like Gopuff"
+              "title": "Design TicketMaster"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -331,16 +331,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "981eafce38877188",
+  "active": "a444c466d1b2973c",
   "lastOpenFiles": [
-    "Reference Notes/HelloInterview/System Design/Key Technologies/DynamoDB.md",
+    "Notes/How to approach System Design.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design TicketMaster.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a Local Delivery Service like Gopuff.md",
+    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
+    "Reference Notes/HelloInterview/System Design/Key Technologies/DynamoDB.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a File Storage Service Like Dropbox.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a URL Shortener Like Bit.ly.md",
     "Untitled.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Zookeeper.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md",
-    "Notes/How to approach System Design.md",
     "Scratchpads/Scratchpad - System Design.md",
     "Untitled Kanban.md",
     "2025-05-21.md",
@@ -350,7 +352,6 @@
     "Notes/AWS/DynamoDB.md",
     "Anki/Cassandra.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
-    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
     "Mindmaps/System Design.md",
     "Notes/RPC vs REST.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Serializable vs Repeatable Read.md",
@@ -358,7 +359,6 @@
     "Notes/Row-based vs Column-based Databases.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 6 - Proxying and Load Balancing/Proxy vs Reverse Proxy.md",
     "Notes/Proxy vs Reverse Proxy.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 6 - Proxying and Load Balancing/Layer 4 vs Layer 7 Load Balancers.md",
     "Notes/Apache",
     "Notes/AWS/API Gateway",
     "Notes/AWS/IAM",
