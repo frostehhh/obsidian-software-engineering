@@ -10,7 +10,6 @@ has-questions: true
 ---
 
 An open-source distributed NoSQL Database
-
 # Data Model
 - Keyspaces
 	- equivalent to database in other Database technologies
@@ -81,8 +80,6 @@ Primary key -> `event_id`, `seat_id`
 Add `section_id` to primary key
 ### Result
 All event data are spread across different partitions
-
-
 # Advanced Features
 ## Stored Attached Index
 - Global secondary index support for reading
@@ -97,4 +94,6 @@ Can be used along with [[Notes/ElasticSearch|ElasticSearch]]
 - No need for relational data, complex joins or queries
 - availability over consistency
 # Questions
-- is it schemaless
+- is it schemaless. no
+- how do you define a cassandra schema
+- 

@@ -8,99 +8,94 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d4e4b31265813e7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mindmaps/System Design.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "System Design"
-            }
-          },
-          {
-            "id": "a1a24331fe3caeb7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/How to approach System Design.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "How to approach System Design"
-            }
-          },
-          {
-            "id": "b8f08189313d7b11",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "System Design"
-            }
-          },
-          {
-            "id": "2ae507cd48d6a3de",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Flink"
-            }
-          },
-          {
-            "id": "3b907b7309e25384",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Zookeeper.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Zookeeper"
-            }
-          },
-          {
             "id": "1cb6dbf4e0efad00",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Braindump/Approaching System Design Interview.md",
+                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Approaching System Design Interview"
+              "title": "Cassandra"
+            }
+          },
+          {
+            "id": "fceb93072fb1ea2c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Apache/Cassandra.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Cassandra"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
+      },
+      {
+        "id": "346663614128ffe6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d30c92e59036b7c8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/DynamoDB.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DynamoDB"
+            }
+          },
+          {
+            "id": "4370147c3ae1b5f9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/AWS/DynamoDB.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DynamoDB"
+            }
+          },
+          {
+            "id": "e0b5ff081a71bf6c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/DynamoDB vs Cassandra.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DynamoDB vs Cassandra"
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#comparison",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Zookeeper.md",
+                "file": "Notes/DynamoDB vs Cassandra.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Zookeeper"
+              "title": "Outline of DynamoDB vs Cassandra"
             }
           },
           {
@@ -172,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.0026054382324
+    "width": 265.0026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -223,8 +219,8 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "showSearch": true,
+                "searchQuery": "comparison"
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -576,16 +572,27 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "dcb2b037acb92b78",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 37
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 336
+    "width": 336,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -601,37 +608,43 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "1cb6dbf4e0efad00",
+  "active": "e0b5ff081a71bf6c",
   "lastOpenFiles": [
-    "Braindump/Backend.md",
-    "Braindump/Approaching System Design Interview.md",
-    "Anki/Database.md",
-    "Anki/Flink.md",
-    "Anki/HTTP.md",
-    "Anki/Security.md",
-    "Anki/Zookeeper.md",
-    "Braindump/2025-05-18 - Backend.md",
-    "Braindump/2025-05-18 - Database.md",
-    "Braindump/2025-05-20 - Flink and ZooKeeper.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Zookeeper.md",
-    "Notes/Redis.md",
-    "Anki/_note_Anki.md",
-    "Reference Notes/_note_Reference Notes.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md",
-    "Mindmaps/System Design.md",
-    "Notes/How to approach System Design.md",
+    "Notes/AWS/DynamoDB.md",
+    "Notes/Apache/Cassandra.md",
+    "Reference Notes/HelloInterview/System Design/Key Technologies/DynamoDB.md",
+    "Notes/DynamoDB vs Cassandra.md",
+    "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
     "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
-    "Notes/AWS/S3/Simple Storage Service.md",
-    "Braindump/Untitled.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a File Storage Service Like Dropbox.md",
-    "Notes/WebSockets.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Storage Service/Basics.md",
-    "s3.md",
-    "Notes/AWS/S3/Bucket.md",
-    "Notes/AWS/Edge Location.md",
+    "Notes/How to approach System Design.md",
+    "Mindmaps/System Design.md",
+    "2025-05-21.md",
+    "Notes/ElasticSearch.md",
+    "Notes/RPC vs REST.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Serializable vs Repeatable Read.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/Row-based vs Column-based Databases.md",
+    "Notes/Row-based vs Column-based Databases.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 6 - Proxying and Load Balancing/Proxy vs Reverse Proxy.md",
+    "Notes/Proxy vs Reverse Proxy.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 6 - Proxying and Load Balancing/Layer 4 vs Layer 7 Load Balancers.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Relational Database Service/ACID vs BASE.md",
+    "Notes/Layer 4 vs Layer 7 Load Balancers.md",
+    "Dataviews/Topics/Database.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Index Scan vs Index Only Scan.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Solve the Double Booking Problem (Code Example).md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Microsoft SQL Server Clustered Index Design.md",
+    "Notes/_note_Notes.md",
+    "Notes/Untitled.md",
+    "Notes/Apache",
+    "Braindump/Approaching System Design Interview.md",
     "Notes/AWS/API Gateway",
     "Notes/AWS/IAM",
     "Notes/AWS/S3",
@@ -642,7 +655,6 @@
     "Reference Notes/HelloInterview/System Design/Core Concepts",
     "Reference Notes/HelloInterview/System Design/Key Technologies",
     "Scratchpads/System Design Case Practice",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown",
     "--Attachments/Pasted image 20250430201739.png",
     "--Attachments/Pasted image 20250430201657.png",
     "--Attachments/Pasted image 20250430201627.png",
