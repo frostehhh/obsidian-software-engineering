@@ -297,12 +297,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "466115d96a49d24c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
@@ -331,7 +341,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a444c466d1b2973c",
+  "active": "466115d96a49d24c",
   "lastOpenFiles": [
     "Notes/How to approach System Design.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design TicketMaster.md",
