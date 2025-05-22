@@ -68,9 +68,21 @@
               "icon": "lucide-file",
               "title": "Design TicketMaster"
             }
+          },
+          {
+            "id": "555e0df1e4a1ac39",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Local Delivery Like Gopuff.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Local Delivery Like Gopuff.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,8 +150,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -341,12 +352,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "466115d96a49d24c",
+  "active": "555e0df1e4a1ac39",
   "lastOpenFiles": [
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a Local Delivery Service like Gopuff.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Local Delivery Like Gopuff.excalidraw",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Local Delivery Like Gopuff.excalidraw.md",
+    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
     "Notes/How to approach System Design.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design TicketMaster.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a Local Delivery Service like Gopuff.md",
-    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/DynamoDB.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a File Storage Service Like Dropbox.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a URL Shortener Like Bit.ly.md",
@@ -367,8 +380,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Serializable vs Repeatable Read.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/Row-based vs Column-based Databases.md",
     "Notes/Row-based vs Column-based Databases.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 6 - Proxying and Load Balancing/Proxy vs Reverse Proxy.md",
-    "Notes/Proxy vs Reverse Proxy.md",
     "Notes/Apache",
     "Notes/AWS/API Gateway",
     "Notes/AWS/IAM",
@@ -379,7 +390,6 @@
     "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.canvas",
     "Reference Notes/HelloInterview/System Design/Core Concepts",
     "Reference Notes/HelloInterview/System Design/Key Technologies",
-    "Scratchpads/System Design Case Practice",
     "--Attachments/Pasted image 20250430201739.png",
     "--Attachments/Pasted image 20250430201657.png",
     "--Attachments/Pasted image 20250430201627.png",
