@@ -5,6 +5,7 @@ tags: flashcards
 What is Cassandra and what language does it use for querying?
 ?
 Cassandra is an open-source distributed NoSQL Database that uses Cassandra Query Language (CQL), which is similar to SQL but without relational functionalities.
+<!--SR:!2025-05-26,4,270-->
 +++
 
 What are the key components of Cassandra's data model?
@@ -13,6 +14,7 @@ What are the key components of Cassandra's data model?
 - Tables (Collection of rows)
 - Rows (record of data)
 - Columns (typed value)
+<!--SR:!2025-05-26,4,270-->
 +++
 
 What are the key features of Cassandra's Storage Engine, Gossip protocol, and Fault Tolerance?
@@ -31,6 +33,7 @@ Fault Tolerance:
 - Handles failed nodes
 - Uses "hinted handoffs" for write requests to failed nodes
 - Failed nodes receive hinted handoffs when they recover (send heartbeat)
+<!--SR:!2025-05-26,4,270-->
 +++
 
 What are the consistency configuration options available in Cassandra?
@@ -41,4 +44,5 @@ What are the consistency configuration options available in Cassandra?
 - ALL
 - LOCAL_ONE
 - QUORUM
+<!--SR:!2025-05-23,1,230-->
 +++ 

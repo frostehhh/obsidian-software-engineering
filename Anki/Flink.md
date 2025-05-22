@@ -13,6 +13,7 @@ The main concepts in Flink are:
 2. Streams - flow of data
 3. Operator - transformations done on streams
 4. Sink - where transformed data is output
+<!--SR:!2025-05-26,4,270-->
 +++
 
 What is a Watermark in Flink and what are its configuration options?
@@ -20,6 +21,7 @@ What is a Watermark in Flink and what are its configuration options?
 A Watermark is a time signpost signifying data generated before time X. It has two configuration options:
 1. Bounded out-of-orderness - specified time limit for how long Flink will wait for late entries
 2. No watermark - Don't access any late entries
+<!--SR:!2025-05-26,4,270-->
 +++
 
 What are the different types of Windows in Flink?
@@ -29,6 +31,7 @@ Flink supports four types of windows for data grouping:
 2. Sliding - overlapping windows
 3. Session - activity based windows
 4. Global - custom window logic
+<!--SR:!2025-05-25,3,250-->
 +++
 
 What are the two main types of processes in Flink's cluster architecture and their roles?
@@ -44,6 +47,7 @@ What are the two main types of processes in Flink's cluster architecture and the
    - Has Task slots
    - Reserves memory for computation
    - Task slots can share resources when working on same job
+<!--SR:!2025-05-26,4,270-->
 +++
 
 What are the supported State Management options in Flink?
@@ -52,6 +56,7 @@ Flink supports three state management options:
 1. JVM heap - in memory
 2. Filesystem
 3. RocksDB - key-value store that utilizes disk space
+<!--SR:!2025-05-23,1,230-->
 +++
 
 What is the process of handling failures in Flink?
@@ -64,6 +69,7 @@ Flink handles failures through these steps:
 5. Task managers reset to previous checkpoint
 6. Operators reset to previous checkpoint
 7. Resume Job processing
+<!--SR:!2025-05-23,1,230-->
 +++
 
 When should you use Flink in a system design?
@@ -77,4 +83,5 @@ Use Flink:
   - State management
   - Exactly-once processing
   - Resource isolation
+<!--SR:!2025-05-26,4,270-->
 +++ 
