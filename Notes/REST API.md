@@ -5,7 +5,8 @@ tags:
   - notes
   - backend
   - communication
-  - style/software
+  - style
+  - software
 "related:":
   - "[[Representational State Transfer|REST]]"
 Draft: false

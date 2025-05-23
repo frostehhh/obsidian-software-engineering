@@ -1,5 +1,6 @@
 ---
 tags:
+  - notes
   - pattern
 Draft: false
 ---

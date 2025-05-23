@@ -2,7 +2,8 @@
 tags:
   - backend
   - notes
-  - software-architecture/pattern
+  - software-architecture
+  - pattern
 aliases:
   - Event Sourcing
 Draft: false

@@ -2,6 +2,7 @@
 tags:
   - pattern
   - database
+  - notes
 aliases:
   - WAL
 Draft: false

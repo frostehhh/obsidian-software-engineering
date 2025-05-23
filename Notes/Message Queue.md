@@ -2,7 +2,8 @@
 tags:
   - notes
   - backend
-  - software-architecture/pattern
+  - software-architecture
+  - pattern
 Draft: false
 "similar:":
   - "[[Stream]]"

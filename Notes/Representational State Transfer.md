@@ -3,7 +3,8 @@ Draft: false
 aliases:
   - REST
 tags:
-  - style/software-architecture
+  - style
+  - software-architecture
   - backend
   - notes
 ---
