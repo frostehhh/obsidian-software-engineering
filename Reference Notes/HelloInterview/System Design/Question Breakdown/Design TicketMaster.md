@@ -5,7 +5,7 @@ tags:
   - system-design/case-study
 draft: false
 source_url: https://www.hellointerview.com/learn/system-design/problem-breakdowns/ticketmaster
-has-questions: true
+has-questions: false
 ---
 
 # Requirements
@@ -29,5 +29,5 @@ has-questions: true
 # High-level Architecture
 # Deep Dives
 # Questions
-- What is saga pattern?([ref](https://www.hellointerview.com/learn/system-design/problem-breakdowns/gopuff#comment-clu3appwv00k2mmkqod4w8eav))
-- when to add more shards to horizontal partitioning? sharding?
+
+

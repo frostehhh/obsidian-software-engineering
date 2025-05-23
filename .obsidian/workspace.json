@@ -70,17 +70,17 @@
             }
           },
           {
-            "id": "3ff7c4046d3e9abc",
+            "id": "592576870549685f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Load Balancer/ASG Scaling Policies.md",
+                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ASG Scaling Policies"
+              "title": "Design Tinder"
             }
           }
         ],
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Load Balancer/ASG Scaling Policies.md",
+                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ASG Scaling Policies"
+              "title": "Backlinks for Design Tinder"
             }
           },
           {
@@ -192,12 +192,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Load Balancer/ASG Scaling Policies.md",
+                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ASG Scaling Policies"
+              "title": "Outgoing links from Design Tinder"
             }
           },
           {
@@ -384,12 +384,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3ff7c4046d3e9abc",
+  "active": "592576870549685f",
   "lastOpenFiles": [
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design TicketMaster.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Load Balancer/ASG Scaling Policies.md",
     "Notes/Least Recently Used.md",
     "Notes/ElasticSearch.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design TicketMaster.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Load Balancer/ASG Scaling Policies.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Horizontal vs Vertical Scaling.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230423234424.png",
     "--Attachments/Pasted image 20250327174725.png",
@@ -414,7 +415,6 @@
     "Untitled.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Zookeeper.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md",
-    "Scratchpads/Scratchpad - System Design.md",
     "Notes/Apache",
     "Notes/AWS/API Gateway",
     "Notes/AWS/IAM",
