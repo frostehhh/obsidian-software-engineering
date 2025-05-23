@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:caching/replacement-strategy",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
