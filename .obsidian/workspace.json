@@ -70,21 +70,23 @@
             }
           },
           {
-            "id": "555e0df1e4a1ac39",
+            "id": "ebbf517740012f26",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/JSON Web Token.md",
-                "mode": "source",
+                "file": "Notes/Change Data Capture.md",
+                "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "JSON Web Token"
+              "title": "Change Data Capture"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -343,9 +345,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "554d56a584c2ad2a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "horizontal",
@@ -366,17 +378,24 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "555e0df1e4a1ac39",
+  "active": "de4a6a8b8a8dd69a",
   "lastOpenFiles": [
+    "Notes/Change Data Capture.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design TicketMaster.md",
+    "Notes/JSON Web Token.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Local Delivery Like Gopuff.excalidraw.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a Local Delivery Service like Gopuff.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Local Delivery Like Gopuff.excalidraw",
     "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
     "Notes/How to approach System Design.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design TicketMaster.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/DynamoDB.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a File Storage Service Like Dropbox.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a URL Shortener Like Bit.ly.md",
@@ -396,7 +415,6 @@
     "Notes/RPC vs REST.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Serializable vs Repeatable Read.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/Row-based vs Column-based Databases.md",
-    "Notes/Row-based vs Column-based Databases.md",
     "Notes/Apache",
     "Notes/AWS/API Gateway",
     "Notes/AWS/IAM",
