@@ -5,7 +5,7 @@ tags:
   - system-design/case-study
 draft: true
 source_url: https://www.hellointerview.com/learn/system-design/problem-breakdowns/tinder
-has-questions: false
+has-questions: true
 ---
 
 # Requirements
@@ -20,3 +20,7 @@ has-questions: false
 # High-level Architecture
 
 # Deep Dives
+
+# Questions
+- chekc data reconciliation
+- research and add saga pattern as note

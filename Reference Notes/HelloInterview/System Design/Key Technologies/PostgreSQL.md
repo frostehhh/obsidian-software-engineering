@@ -1,7 +1,7 @@
 ---
 tags:
   - reference-notes
-  - database
+  - database/sql
   - system-design
 Draft: false
 source_url: https://www.hellointerview.com/learn/system-design/deep-dives/postgres
