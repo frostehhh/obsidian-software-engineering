@@ -67,7 +67,7 @@ LSM - Log structure merge tree
 ## Stored Attached Index
 - Global secondary index support for reading
 - Allows convenient performant querying of data given an already existing 
-## Materialized Views
+## [[Materialized View]]
 Cached materialized results of views
 ## Search Indexing
 Can be used along with [[Notes/ElasticSearch|ElasticSearch]]

@@ -84,6 +84,20 @@
               "icon": "lucide-file",
               "title": "Change Data Capture"
             }
+          },
+          {
+            "id": "102de40211f45414",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Apache/Cassandra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cassandra"
+            }
           }
         ],
         "currentTab": 3
@@ -118,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "change data capture",
+                "query": "materialized",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +168,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -388,8 +403,10 @@
   },
   "active": "de4a6a8b8a8dd69a",
   "lastOpenFiles": [
-    "Notes/Change Data Capture.md",
+    "Notes/Apache/Cassandra.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design TicketMaster.md",
+    "Notes/Change Data Capture.md",
+    "Notes/Materialized View.md",
     "Notes/JSON Web Token.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Local Delivery Like Gopuff.excalidraw.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a Local Delivery Service like Gopuff.md",
@@ -405,7 +422,6 @@
     "Scratchpads/Scratchpad - System Design.md",
     "Untitled Kanban.md",
     "2025-05-21.md",
-    "Notes/Apache/Cassandra.md",
     "Notes/ElasticSearch.md",
     "Notes/DynamoDB vs Cassandra.md",
     "Notes/AWS/DynamoDB.md",
@@ -414,7 +430,6 @@
     "Mindmaps/System Design.md",
     "Notes/RPC vs REST.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Serializable vs Repeatable Read.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 3 - Understanding Database Internals/Row-based vs Column-based Databases.md",
     "Notes/Apache",
     "Notes/AWS/API Gateway",
     "Notes/AWS/IAM",

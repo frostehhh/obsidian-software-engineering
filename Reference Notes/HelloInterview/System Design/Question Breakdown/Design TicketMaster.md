@@ -14,4 +14,5 @@ has-questions: true
 - details of constructing a virtual wating queue?
 - when to add more shards to horizontal partitioning? sharding?
 - aws opensearch?
-- 
+- materialized view
+- redis - LRU and similar algorithms
