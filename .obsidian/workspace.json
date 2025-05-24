@@ -91,16 +91,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Database Indexes.md",
+                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Database Indexes"
+              "title": "Cassandra"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "partial index",
+                "query": "postgresql",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -257,12 +257,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
             "id": "b282fcc8824bf4d5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ac72cf91e855342c",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -272,7 +282,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -301,10 +311,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d9a9474741213c39",
+  "active": "43b3e401fb6f21f4",
   "lastOpenFiles": [
-    "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
+    "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
     "Notes/Database Indexes.md",
+    "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
     "Notes/Uniform Resource Identifier.md",
     "Notes/Uniform Resource Locator.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Leetcode.md",
@@ -330,7 +341,6 @@
     "--Attachments/Pasted image 20250327174725.png",
     "Reference Notes/HelloInterview/System Design/Key Technologies/API Gateway.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 9 - Database Replication/Database Replication.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Redis.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Local Delivery Like Gopuff.excalidraw",
     "Notes/Apache",
     "Notes/AWS/API Gateway",
