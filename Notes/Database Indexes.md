@@ -67,6 +67,7 @@ this -> [row1, row3]
 # Patterns
 1. Composite Indexes - order matters[^1]
 2. Covering Indexes - Including non-index key columns in indexes along with index keys[^2][^4]
+3. Partial Indexes - a subset of data given a `WHERE` conditino[^4]
 
 [^1]: [[Combining Database Indexes for Better Performance]]
 [^2]: [[Key vs Non-key column database indexing]]
