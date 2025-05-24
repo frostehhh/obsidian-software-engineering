@@ -6,7 +6,7 @@ tags:
   - tool
 source_url: https://www.hellointerview.com/learn/system-design/deep-dives/cassandra
 Draft: false
-has-questions: true
+has-questions: false
 ---
 
 An open-source distributed NoSQL Database
@@ -42,7 +42,3 @@ All event data are spread across different partitions
 - Highly scalable
 - No need for relational data, complex joins or queries
 - availability over consistency
-# Questions
-- is it schemaless. no
-- how do you define a cassandra schema
-- 

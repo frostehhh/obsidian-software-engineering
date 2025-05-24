@@ -98,9 +98,21 @@
               "icon": "lucide-file",
               "title": "Cassandra"
             }
+          },
+          {
+            "id": "aca4d57bc2cf1a58",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design TicketMaster.excalidraw"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Design TicketMaster"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -168,8 +180,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -311,17 +322,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "43b3e401fb6f21f4",
+  "active": "d9a9474741213c39",
   "lastOpenFiles": [
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design TicketMaster.excalidraw",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design TicketMaster.md",
+    "Notes/Saga.md",
+    "--Attachments/Design TicketMaster 2025-05-24 23.29.42.excalidraw.md",
+    "--Attachments/Pasted Image 20250524232947_481.png",
+    "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
     "Notes/Database Indexes.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
     "Notes/Uniform Resource Identifier.md",
     "Notes/Uniform Resource Locator.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Leetcode.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.md",
     "Notes/How to approach System Design.md",
-    "Saga.md",
     "Notes/REST API.md",
     "Notes/Representational State Transfer.md",
     "Notes/Stream.md",
@@ -331,7 +346,6 @@
     "Notes/Write-Ahead Log.md",
     "Notes/API Versioning.md",
     "Mindmaps/System Design.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design TicketMaster.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a Local Delivery Service like Gopuff.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Load Balancer/ASG Scaling Policies.md",
     "Notes/Least Recently Used.md",
@@ -339,8 +353,6 @@
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Horizontal vs Vertical Scaling.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230423234424.png",
     "--Attachments/Pasted image 20250327174725.png",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/API Gateway.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 9 - Database Replication/Database Replication.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Local Delivery Like Gopuff.excalidraw",
     "Notes/Apache",
     "Notes/AWS/API Gateway",
@@ -351,7 +363,6 @@
     "Untitled",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.canvas",
     "Reference Notes/HelloInterview/System Design/Core Concepts",
-    "Reference Notes/HelloInterview/System Design/Key Technologies",
     "--Attachments/Pasted image 20250430201739.png",
     "--Attachments/Pasted image 20250430201657.png",
     "--Attachments/Pasted image 20250430201627.png",
@@ -359,7 +370,6 @@
     "--Attachments/System Design Interview – Step By Step GuidePT48M55S.webp",
     "--Attachments/System Design Interview – Step By Step GuideDT0S.webp",
     "Braindump/Fundamentals of Database Engineering.canvas",
-    "--Attachments/Pasted image 20250323171836.png",
-    "--Attachments/Pasted image 20250405233653.png"
+    "--Attachments/Pasted image 20250323171836.png"
   ]
 }
