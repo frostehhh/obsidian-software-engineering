@@ -89,12 +89,14 @@
             "id": "d9a9474741213c39",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.excalidraw"
+                "file": "Notes/How to Prepare for Behavioral Interviews.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Design Tinder"
+              "icon": "lucide-file",
+              "title": "How to Prepare for Behavioral Interviews"
             }
           },
           {
@@ -352,8 +354,17 @@
   },
   "active": "d9a9474741213c39",
   "lastOpenFiles": [
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Untitled-2025-05-24-2329.excalidraw",
+    "Notes/Stateful.md",
+    "Notes/Untitled 1.md",
+    "Notes/Uniform Resource Locator.md",
+    "Notes/TCP-IP Model.md",
+    "Dataviews/Topics/Guides.md",
+    "Dataviews/Topics/System Design.md",
+    "Anki/Flink.md",
+    "Dataviews/Topics/Backend.md",
+    "Dataviews/Topics/Database.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.excalidraw",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Untitled-2025-05-24-2329.excalidraw",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design TicketMaster.md",
     "Reference Notes/HelloInterview/Behavioral Interview Discussion with Ex-Meta Hiring Committee Member.md",
@@ -366,7 +377,6 @@
     "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
     "Notes/Database Indexes.md",
     "Notes/Uniform Resource Identifier.md",
-    "Notes/Uniform Resource Locator.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Leetcode.md",
     "Notes/How to approach System Design.md",
     "Notes/REST API.md",
@@ -374,13 +384,6 @@
     "Notes/Stream.md",
     "Notes/Message Queue.md",
     "Notes/Change Data Capture.md",
-    "Notes/Snapshots.md",
-    "Notes/Write-Ahead Log.md",
-    "Notes/API Versioning.md",
-    "Mindmaps/System Design.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a Local Delivery Service like Gopuff.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Load Balancer/ASG Scaling Policies.md",
-    "Notes/Least Recently Used.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230423234424.png",
     "--Attachments/Pasted image 20250327174725.png",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Local Delivery Like Gopuff.excalidraw",
@@ -390,7 +393,6 @@
     "Notes/AWS/S3",
     "Notes/AWS",
     "Untitled 1",
-    "Untitled",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.canvas",
     "--Attachments/Pasted image 20250430201739.png",
     "--Attachments/Pasted image 20250430201657.png",
