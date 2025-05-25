@@ -291,9 +291,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "82218cdbd3415e76",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -317,7 +327,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "d9a9474741213c39",
+  "active": "82218cdbd3415e76",
   "lastOpenFiles": [
     "Mindmaps/_note_Mindmaps.md",
     "Reference Notes/HelloInterview/Behavioral Interview Discussion with Ex-Meta Hiring Committee Member.md",

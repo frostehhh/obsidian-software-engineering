@@ -28,3 +28,18 @@ source_url: https://youtu.be/bBvPQZmPXwQ
 # Importance of Authenticity in Interviews
 
 # Common Candidate Mistakes and Red Flags
+- Top 2 important questions to plan
+	- Tell me about yourself
+	- Tell me about your favorite project
+
+## How to answer the "Tell me about yourself?" question
+- 3 part framework
+	- Initial introduction of self + a twist
+		- Hi, I'm Luis, I'm 28 and software engineer for 4 years and I'm interested in...
+			- Can be "nitty gritty details"
+	- preferably high-value impact in your recent roles relevant to the position applied
+		- Can be bad to be a history lesson
+	- forward-looking statements
+		- Can be related to what you can do in the company, role
+		- Can be what growth you want or growth itself
+		- Can be specific technologies or skills to grow
