@@ -89,13 +89,11 @@
             "id": "d9a9474741213c39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.md",
-                "mode": "source",
-                "source": false
+                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.excalidraw"
               },
-              "icon": "lucide-file",
+              "icon": "excalidraw-icon",
               "title": "Design Tinder"
             }
           },
@@ -352,13 +350,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3fe003224e8ce759",
+  "active": "d9a9474741213c39",
   "lastOpenFiles": [
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Untitled-2025-05-24-2329.excalidraw",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.excalidraw",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design TicketMaster.md",
     "Reference Notes/HelloInterview/Behavioral Interview Discussion with Ex-Meta Hiring Committee Member.md",
     "Mindmaps/_note_Mindmaps.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design TicketMaster.excalidraw",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design TicketMaster.md",
     "Notes/Saga.md",
     "--Attachments/Design TicketMaster 2025-05-24 23.29.42.excalidraw.md",
     "--Attachments/Pasted Image 20250524232947_481.png",
@@ -367,7 +368,6 @@
     "Notes/Uniform Resource Identifier.md",
     "Notes/Uniform Resource Locator.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Leetcode.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.md",
     "Notes/How to approach System Design.md",
     "Notes/REST API.md",
     "Notes/Representational State Transfer.md",
@@ -381,7 +381,6 @@
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a Local Delivery Service like Gopuff.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Load Balancer/ASG Scaling Policies.md",
     "Notes/Least Recently Used.md",
-    "Notes/ElasticSearch.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230423234424.png",
     "--Attachments/Pasted image 20250327174725.png",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Local Delivery Like Gopuff.excalidraw",
@@ -393,7 +392,6 @@
     "Untitled 1",
     "Untitled",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.canvas",
-    "Reference Notes/HelloInterview/System Design/Core Concepts",
     "--Attachments/Pasted image 20250430201739.png",
     "--Attachments/Pasted image 20250430201657.png",
     "--Attachments/Pasted image 20250430201627.png",

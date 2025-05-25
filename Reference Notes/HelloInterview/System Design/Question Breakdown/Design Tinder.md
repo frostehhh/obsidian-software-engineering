@@ -23,4 +23,3 @@ has-questions: true
 
 # Questions
 - AWS SNS isn't enough? why need APNS or FCM?
-- data freshness in cache?
