@@ -22,5 +22,4 @@ has-questions: true
 # Deep Dives
 
 # Questions
-- chekc data reconciliation
-- research and add saga pattern as note
+- AWS SNS isn't enough? why need APNS or FCM?
