@@ -321,9 +321,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "f04b37e2a36d33b8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -344,10 +354,15 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "d9a9474741213c39",
+  "active": "f04b37e2a36d33b8",
   "lastOpenFiles": [
     "Notes/Stateful.md",
     "Notes/Untitled 1.md",

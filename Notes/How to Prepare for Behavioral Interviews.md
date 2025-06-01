@@ -14,12 +14,10 @@ tags:
 # Story Mining
 
 - Should include questions about any of the following
-    
     - Work experiences
     - Behavioral questions
     - What-if scenarios
 - Should consider these factors
-    
     - impact
     - scope
     - contribution
