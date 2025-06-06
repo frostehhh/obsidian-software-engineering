@@ -103,12 +103,14 @@
             "id": "5a2bf018d6d4112d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Braindump/2025-06-02 - System Design.md"
+                "file": "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Introduction to Big O.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "2025-06-02 - System Design"
+              "icon": "lucide-file",
+              "title": "Introduction to Big O"
             }
           },
           {
@@ -144,7 +146,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -360,12 +362,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "6f302517906cc88d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "horizontal",
@@ -396,6 +408,14 @@
   },
   "active": "5a2bf018d6d4112d",
   "lastOpenFiles": [
+    "Reference Notes/Leetcode/Data Structures and Algorithms/_note_Data Structures and Algorithms.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Introduction to Big O.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction",
+    "Reference Notes/Leetcode/_note_Leetcode.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms",
+    "Notes/_note_Notes.md",
+    "Reference Notes/Leetcode",
+    "Reference Notes/Untitled",
     "Braindump/2025-06-02 - System Design.md",
     "Notes/How to Prepare for Behavioral Interviews.md",
     "Notes/Stateful.md",
@@ -422,18 +442,11 @@
     "Notes/Database Indexes.md",
     "Notes/Uniform Resource Identifier.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Leetcode.md",
-    "Notes/How to approach System Design.md",
-    "Notes/REST API.md",
-    "Notes/Representational State Transfer.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230423234424.png",
     "--Attachments/Pasted image 20250327174725.png",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Local Delivery Like Gopuff.excalidraw",
     "Notes/Apache",
     "Notes/AWS/API Gateway",
-    "Notes/AWS/IAM",
-    "Notes/AWS/S3",
-    "Notes/AWS",
-    "Untitled 1",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.canvas",
     "--Attachments/Pasted image 20250430201739.png",
     "--Attachments/Pasted image 20250430201657.png",
