@@ -382,12 +382,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "16f4be821ba21795",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "horizontal",
@@ -416,7 +426,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9a5867e9141754c9",
+  "active": "16f4be821ba21795",
   "lastOpenFiles": [
     "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Introduction to Recursion.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Additional Notes.md",
