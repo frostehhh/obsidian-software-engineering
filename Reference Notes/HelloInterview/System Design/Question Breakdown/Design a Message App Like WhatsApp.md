@@ -7,3 +7,7 @@ Draft: true
 source_url: https://www.hellointerview.com/learn/system-design/problem-breakdowns/whatsapp
 ---
 
+
+# Questions
+- redis pub/sub?
+- 
