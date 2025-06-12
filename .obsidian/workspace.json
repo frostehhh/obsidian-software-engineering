@@ -91,12 +91,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings/Two pointers.md",
+                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a Message App Like WhatsApp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Two pointers"
+              "title": "Design a Message App Like WhatsApp"
             }
           }
         ],
@@ -402,8 +402,9 @@
   },
   "active": "d6b2e8bf3580904f",
   "lastOpenFiles": [
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings/Sliding Windows.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings/Two pointers.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a Message App Like WhatsApp.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings/Sliding Windows.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Introduction to Recursion.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Introduction to Big O.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Additional Notes.md",
@@ -435,7 +436,6 @@
     "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design TicketMaster.excalidraw",
     "Notes/Saga.md",
-    "--Attachments/Design TicketMaster 2025-05-24 23.29.42.excalidraw.md",
     "--Attachments/Pasted Image 20250524232947_481.png",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230423234424.png",
     "--Attachments/Pasted image 20250327174725.png",
