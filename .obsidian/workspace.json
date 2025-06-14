@@ -91,12 +91,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a Message App Like WhatsApp.md",
+                "file": "Notes/WebSockets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design a Message App Like WhatsApp"
+              "title": "WebSockets"
             }
           }
         ],
@@ -132,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "postgresql",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +168,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -422,8 +423,8 @@
   },
   "active": "d6b2e8bf3580904f",
   "lastOpenFiles": [
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings/Two pointers.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a Message App Like WhatsApp.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings/Two pointers.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings/Sliding Windows.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Introduction to Recursion.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Introduction to Big O.md",
