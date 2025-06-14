@@ -54,37 +54,65 @@
             }
           },
           {
-            "id": "b934c472ecad9c4a",
+            "id": "c620f47467892dc3",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dataviews/Draft Notes.md",
-                "mode": "preview",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Solve the Double Booking Problem (Code Example).md",
+                "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Draft Notes"
+              "title": "Solve the Double Booking Problem (Code Example)"
             }
           },
           {
-            "id": "d21d79f38df21a71",
+            "id": "9057de411abccef4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Introduction to Big O.md",
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Solve the Double Booking Problem (Code Example).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Big O"
+              "title": "Solve the Double Booking Problem (Code Example)"
+            }
+          },
+          {
+            "id": "5de83e41ac887548",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Two-phase locking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Two-phase locking"
+            }
+          },
+          {
+            "id": "4fbe1a2fc7f3a268",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Two-phase locking.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Two-phase locking"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -116,8 +144,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#pattern",
-                "matchingCase": true,
+                "query": "pessimistic locks",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -152,7 +180,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -253,39 +282,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d21d79f38df21a71",
+  "active": "4fbe1a2fc7f3a268",
   "lastOpenFiles": [
-    "Dataviews/Draft Notes.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a File Storage Service Like Dropbox.md",
-    "Notes/How to approach System Design.md",
-    "Notes/Uniform Resource Locator.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Introduction to Big O.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a Local Delivery Service like Gopuff.md",
-    "Mindmaps/System Design.md",
-    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Leetcode.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Two-phase locking.md",
+    "Notes/Two-phase locking.md",
+    "Notes/Exclusive Lock.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Solve the Double Booking Problem (Code Example).md",
+    "Notes/Pessimistic Locks.md",
+    "Notes/ACID/Isolation.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a Message App Like WhatsApp.md",
-    "Notes/SQL vs NoSQL.md",
-    "Notes/Change Data Capture.md",
-    "Dataviews/Topics/System Design.md",
-    "Notes/WebSockets.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings/Two pointers.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings/Sliding Windows.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Introduction to Recursion.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Additional Notes.md",
+    "Braindump/2025-06-02 - System Design.md",
+    "Notes/Optimistic Locks.md",
+    "Notes/How to approach System Design.md",
+    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
+    "Excalibrain/excalibrain.md",
+    "Dataviews/Topics/Database.md",
+    "--Obsidian Template--/Frontmatter - Reference Notes - Database Locks.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Create Index Concurrently - Avoid Blocking Production Database Writes.md",
+    "Notes/Shared Lock.md",
+    "Notes/Database Indexes.md",
+    "--Obsidian Template--/Frontmatter - Notes - Database Locks.md",
+    "Notes/Row-based vs Column-based Databases.md",
+    "--Obsidian Template--/Frontmatter - Notes - Database.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Yelp.md",
+    "Dataviews/Draft Notes.md",
+    "Mindmaps/System Design.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Introduction to Big O.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a File Storage Service Like Dropbox.md",
+    "Notes/Uniform Resource Locator.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/_note_Data Structures and Algorithms.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction",
-    "Reference Notes/Leetcode/_note_Leetcode.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms",
-    "Notes/_note_Notes.md",
     "Reference Notes/Leetcode",
     "Reference Notes/Untitled",
-    "Braindump/2025-06-02 - System Design.md",
-    "Notes/How to Prepare for Behavioral Interviews.md",
-    "Notes/Stateful.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.excalidraw",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Untitled-2025-05-24-2329.excalidraw",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design TicketMaster.excalidraw",

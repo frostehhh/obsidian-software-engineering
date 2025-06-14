@@ -244,8 +244,6 @@
     "related-mind-map": {}
   },
   "navigationHistory": [
-    "Mindmaps/Fundamentals of Database engineering Mindmap.excalidraw.md",
-    "Mindmaps/Backend Fundamentals.md",
     "Scratchpads/HTTP.md",
     "Braindump/Backend and Database.md",
     "Notes/Transport Layer Security/TLS 1.2.md",
@@ -266,7 +264,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Key vs Non-key column database indexing.md",
     "Notes/B-Tree and B+ Tree.md",
     "Notes/Database Replication.md",
-    "Notes/Exclusive Lock.md",
     "Notes/Grafana.md",
     "Notes/gRPC.md",
     "Notes/GraphQL.md",
@@ -293,7 +290,10 @@
     "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
     "Notes/AWS/S3/Presigned URLs.md",
     "Notes/AWS/S3/Bucket.md",
-    "Notes/AWS/S3/Key.md"
+    "Notes/AWS/S3/Key.md",
+    "Notes/Exclusive Lock.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Two-phase locking.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Solve the Double Booking Problem (Code Example).md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "--p",

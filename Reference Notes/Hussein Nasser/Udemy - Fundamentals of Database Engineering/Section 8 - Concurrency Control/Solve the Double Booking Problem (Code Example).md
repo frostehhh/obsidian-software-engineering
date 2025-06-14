@@ -6,7 +6,7 @@ tags:
 Draft: false
 ---
 
- This is an example for [[Two-phase locking]]
+ This is an example for [[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Two-phase locking]]
 
 Alternative solution is to rely on implicit exclusive lock created by the DB internally where [[Notes/ACID/Isolation#Isolation Levels|isolation level]] is read committed
 
