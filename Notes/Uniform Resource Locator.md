@@ -3,7 +3,7 @@ tags:
   - notes
   - backend
   - communication
-Draft: true
+Draft: false
 aliases:
   - URL
 "Parent:":

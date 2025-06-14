@@ -3,9 +3,9 @@ tags:
   - guide
   - reference-notes
   - system-design/case-study
-draft: true
+draft: false
 source_url: https://www.hellointerview.com/learn/system-design/problem-breakdowns/tinder
-has-questions: true
+has-questions: false
 ---
 
 # Requirements
@@ -22,4 +22,3 @@ has-questions: true
 # Deep Dives
 
 # Questions
-- AWS SNS isn't enough? why need APNS or FCM?
