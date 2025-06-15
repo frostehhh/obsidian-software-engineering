@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blob Storage Usage Patterns.md",
+                "file": "Reference Notes/Anthropic/Mastering Claude Code in 30 Minutes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blob Storage Usage Patterns"
+              "title": "Mastering Claude Code in 30 Minutes"
             }
           }
         ],
@@ -201,9 +201,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "6ad04f598eb795de",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -230,6 +240,10 @@
   },
   "active": "94ae4f3c4520bcaa",
   "lastOpenFiles": [
+    "Reference Notes/_note_Reference Notes.md",
+    "Reference Notes/Anthropic/Mastering Claude Code in 30 Minutes.md",
+    "Reference Notes/Anthropic",
+    "Reference Notes/Untitled.md",
     "Notes/Blob Storage Usage Patterns.md",
     "Notes/Blob Storage.md",
     "Notes/AWS/S3/Simple Storage Service.md",
@@ -253,14 +267,10 @@
     "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
     "Braindump/2025-06-02 - System Design.md",
     "Notes/Optimistic Locks.md",
-    "Excalibrain/excalibrain.md",
-    "Dataviews/Topics/Database.md",
-    "--Obsidian Template--/Frontmatter - Reference Notes - Database Locks.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction",
     "Reference Notes/Leetcode/Data Structures and Algorithms",
     "Reference Notes/Leetcode",
-    "Reference Notes/Untitled",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.excalidraw",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Untitled-2025-05-24-2329.excalidraw",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design TicketMaster.excalidraw",
