@@ -7,7 +7,7 @@ related-reference-note::
 - "[[Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Storage Service/Basics|Basics]]"
 ---
 
-- AWS cloud-based blob storage
+- AWS cloud-based [[Blob Storage]]
 # Multipart Uploads
 - Split uploads into chunks/parts
 	- Easily resumable on fail
