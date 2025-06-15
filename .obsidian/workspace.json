@@ -211,9 +211,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "2d7e59fff69ab028",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -235,11 +245,17 @@
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "94ae4f3c4520bcaa",
+  "active": "2d7e59fff69ab028",
   "lastOpenFiles": [
+    "--Attachments/Pasted image 20250616010430.png",
     "Reference Notes/_note_Reference Notes.md",
     "Reference Notes/Anthropic/Mastering Claude Code in 30 Minutes.md",
     "Reference Notes/Anthropic",
@@ -266,7 +282,6 @@
     "Notes/ACID/Isolation.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
     "Braindump/2025-06-02 - System Design.md",
-    "Notes/Optimistic Locks.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction",
     "Reference Notes/Leetcode/Data Structures and Algorithms",

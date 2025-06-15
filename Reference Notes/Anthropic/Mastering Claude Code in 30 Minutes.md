@@ -18,3 +18,5 @@ source_url: https://www.youtube.com/watch?v=6eBSHbLKuN0&t=30s
 ## More context, more performance
 
 ## Take time to optimize the context
+
+![[Pasted image 20250616010430.png]]
