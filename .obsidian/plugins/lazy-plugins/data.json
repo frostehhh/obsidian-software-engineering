@@ -119,6 +119,9 @@
       },
       "smart-connections": {
         "startupType": "instant"
+      },
+      "custom-sort": {
+        "startupType": "instant"
       }
     },
     "loadOrder": []
