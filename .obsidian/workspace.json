@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/AI Assistance Usage Tips.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
@@ -24,22 +24,23 @@
             }
           },
           {
-            "id": "9fec32f3dfbeb296",
+            "id": "4b7404ee3530ee52",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Anthropic/Mastering Claude Code in 30 Minutes.md",
+                "file": "Reference Notes/Anthropic/Prompt Engineering Guide.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Mastering Claude Code in 30 Minutes"
+              "title": "Prompt Engineering Guide"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,13 +89,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/ACID/Consistency.md",
+                "file": "Reference Notes/Anthropic/Prompt Engineering Guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Consistency"
+              "title": "Outline of Prompt Engineering Guide"
             }
           },
           {
@@ -208,9 +209,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "98d9c198ddf87fc8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -232,13 +243,32 @@
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "94ae4f3c4520bcaa",
+  "active": "4b7404ee3530ee52",
   "lastOpenFiles": [
-    "Reference Notes/Anthropic/Mastering Claude Code in 30 Minutes.md",
     "Notes/AI Assistance Usage Tips.md",
+    "Reference Notes/Anthropic/Prompt Engineering Guide.md",
+    "Reference Notes/SQL Cursors - how and when to use them.md",
+    "Reference Notes/Adrian Cantrill/_note_Adrian Cantrill.md",
+    "Reference Notes/Allen Holub/_note_Allen Holub.md",
+    "Reference Notes/Andrej Karpathy/_note_Andrej Karpathy.md",
+    "Reference Notes/Anthropic/_note_Anthropic.md",
+    "Reference Notes/Gabrielle Benefield/_note_Gabrielle Benefield.md",
+    "Reference Notes/HelloInterview/_note_HelloInterview.md",
+    "Reference Notes/Spring/_note_Spring.md",
+    "Reference Notes/Leetcode/_note_Leetcode.md",
+    "Reference Notes/Hussein Nasser/_note_Hussein Nasser.md",
+    "Reference Notes/Docker/_note_Docker.md",
+    "Reference Notes/Anthropic/Mastering Claude Code in 30 Minutes.md",
+    "Dataviews/Topics/Artificial Intelligence.md",
+    "Dataviews/Topics/Backend.md",
     "Notes/Blob Storage.md",
     "Notes/AWS/S3/Simple Storage Service.md",
     "Notes/_note_Notes.md",
@@ -251,20 +281,6 @@
     "--Obsidian Template--/Frontmatter - Notes.md",
     "--Obsidian Template--/Frontmatter - Notes - Backend.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/_note_Data Structures and Algorithms.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings/Sliding Windows.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings/Prefix Sum.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings/Two pointers.md",
-    "Notes/How to approach System Design.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Yelp.md",
-    "Mindmaps/System Design.md",
-    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Solve the Double Booking Problem (Code Example).md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Two-phase locking.md",
-    "Notes/Two-phase locking.md",
-    "Notes/Exclusive Lock.md",
-    "Notes/Pessimistic Locks.md",
-    "Notes/ACID/Isolation.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction",
     "Reference Notes/Leetcode/Data Structures and Algorithms",

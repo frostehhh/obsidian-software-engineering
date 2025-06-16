@@ -3,9 +3,10 @@ tags:
   - notes
   - artificial-intelligence
   - guide
+  - artificial-intelligence/prompt-engineering
 Draft: true
-related-reference-note:: 
-- "[[Mastering Claude Code in 30 Minutes]]"
+"related-reference-note:":
+  - "[[Mastering Claude Code in 30 Minutes]]"
 ---
 
 ## Use AI to ask about your codebase
@@ -13,6 +14,9 @@ This is useful to familiarize with the capabilities of the AI assistant or model
 
 ## Make a plan beforehand and ask for confirmation
 Explore > Plan > Confirmation > implementation
+
+# Code Review with AI
+Ask AI to review your code, suggest alternatives and evaluate it.
 
 # Context
 ## Specify folders, files, etc. if possible
