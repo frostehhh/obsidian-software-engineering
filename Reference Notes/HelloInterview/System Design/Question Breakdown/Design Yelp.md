@@ -6,18 +6,8 @@ tags:
 Draft: true
 source_url: https://www.hellointerview.com/learn/system-design/problem-breakdowns/yelp
 ---
-# Requirements
-## Functional
 
-## Non-functional
-
-# Core Entities
-
-# API
-
-# High-level Architecture
-
-# Deep Dives
+![[Design Yelp.excalidraw]]
 
 
 # Questions
