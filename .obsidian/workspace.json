@@ -120,8 +120,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -264,8 +263,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2c36d8e58c7356c",
+  "active": "c9e86c4b43b9a499",
   "lastOpenFiles": [
+    "Anki/System Design Numbers.md",
     "Notes/System Design Numbers to Know.md",
     "Notes/Blob Storage Usage Patterns.md",
     "--Attachments/Download and uploading files.excalidraw.md",
@@ -293,7 +293,6 @@
     "Reference Notes/_note_Reference Notes.md",
     "Reference Notes/Anthropic",
     "Reference Notes/Untitled.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction",
     "Reference Notes/Leetcode/Data Structures and Algorithms",
