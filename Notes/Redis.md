@@ -3,7 +3,12 @@ tags:
   - notes
   - backend
   - database
+  - redis
+  - tool
 Draft: false
+"related-reference-note:":
+  - "[[Reference Notes/HelloInterview/System Design/Key Technologies/Redis|Redis]]"
+has-questions: false
 ---
 
 Redis is a key-value store that supports various types of value types
@@ -18,10 +23,10 @@ Redis is a key-value store that supports various types of value types
 - List
 - Set
 - Sorted Set
-- Array
 - JSON
 - Hashes
-- ...
+- Streams
+- and more
 
 # Use Cases
 ## Cache
@@ -34,7 +39,7 @@ Redis is a key-value store that supports various types of value types
 - Ensure only 1 entity can access a record or set of records simultaneously
 - Not fully consistent
 - Better to rely on core database if it can provide better consistency
-### Leaderboards
+## Leaderboards
 - Use sorted sets
 ## Rate limiting
 - Can be used for rate limiting APIs
@@ -44,13 +49,14 @@ EXPIRE task_service_rate_limitLT 60
 ```
 
 ## Stream - Event Sourcing
-Single stream of messages to consume -> multiple workers to process them
+- Single [[Stream]] of messages to consume -> multiple workers to process them
 ## Sorted Sets
 popular tweets by likes example
 - Can be used for leaderboards
 ## Geospatial Index
 Stores location/coordinations
 ## PubSub
+[`SUBSCRIBE`](https://redis.io/docs/latest/commands/subscribe/), [`UNSUBSCRIBE`](https://redis.io/docs/latest/commands/unsubscribe/) and [`PUBLISH`](https://redis.io/docs/latest/commands/publish/) implement the [Publish/Subscribe messaging paradigm](http://en.wikipedia.org/wiki/Publish/subscribe) where (citing Wikipedia) senders (publishers) are not programmed to send their messages to specific receivers (subscribers).[^1]
 
 # Issues to take note of
 ## Hot Key
@@ -59,3 +65,5 @@ Stores location/coordinations
 
 # References
 https://redis.io/docs/latest/develop/data-types/streams/
+
+[^1]: https://redis.io/docs/latest/develop/interact/pubsub/

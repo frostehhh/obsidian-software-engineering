@@ -7,11 +7,14 @@ tags:
 Draft: false
 related-reference-note:: 
 - "[[Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra|Cassandra]]"
+Friend:: 
+- "[[Notes/AWS/DynamoDB|DynamoDB]]"
 ---
 
 - An open-source distributed NoSQL Database
 - Uses Cassandra Query Language(CQL)
 	- Very similar to SQL but without the relational functionalities
+- Requires a schema unlike [[Notes/AWS/DynamoDB|DynamoDB]]
 
 # Data Model
 - Keyspaces
