@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Yelp.md",
+                "file": "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Yelp"
+              "title": "Hashing"
             }
           }
         ]
@@ -70,13 +70,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Yelp.md",
+                "file": "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Design Yelp"
+              "title": "Outline of Hashing"
             }
           },
           {
@@ -232,10 +232,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c9e86c4b43b9a499",
+  "active": "415d94cd217273ae",
   "lastOpenFiles": [
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Yelp.excalidraw",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Yelp.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Yelp.excalidraw",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.excalidraw",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design TicketMaster.md",
@@ -260,7 +262,6 @@
     "Notes/Blob Storage.md",
     "Notes/AI Assistance Usage Tips.md",
     "Reference Notes/Anthropic/Prompt Engineering Guide.md",
-    "Reference Notes/SQL Cursors - how and when to use them.md",
     "--Attachments/Pasted image 20250616010430.png",
     "Reference Notes/Anthropic",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings",
