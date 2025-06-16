@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -232,7 +232,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "415d94cd217273ae",
+  "active": "c9e86c4b43b9a499",
   "lastOpenFiles": [
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Yelp.excalidraw",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Yelp.md",
