@@ -4,7 +4,7 @@ tags:
   - artificial-intelligence
   - guide
   - artificial-intelligence/prompt-engineering
-Draft: true
+Draft: false
 "related-reference-note:":
   - "[[Mastering Claude Code in 30 Minutes]]"
 ---

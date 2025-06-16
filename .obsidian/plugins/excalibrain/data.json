@@ -244,11 +244,6 @@
     "related-mind-map": {}
   },
   "navigationHistory": [
-    "Scratchpads/HTTP.md",
-    "Braindump/Backend and Database.md",
-    "Notes/Transport Layer Security/TLS 1.2.md",
-    "Braindump/Backend.md",
-    "Notes/RSA.md",
     "Scratchpads/System Design.md",
     "Dataviews/Braindumps.md",
     "Notes/Partitioning.md",
@@ -293,7 +288,12 @@
     "Notes/AWS/S3/Key.md",
     "Notes/Exclusive Lock.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Two-phase locking.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Solve the Double Booking Problem (Code Example).md"
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Solve the Double Booking Problem (Code Example).md",
+    "Notes/Blob Storage Usage Patterns.md",
+    "Notes/Blob Storage.md",
+    "Notes/AWS/S3/Simple Storage Service.md",
+    "tag:aws/s3",
+    "tag:aws"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "--p",

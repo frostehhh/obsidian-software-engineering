@@ -4,43 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "8f9526b299f845b6",
+        "id": "c33dfa1c0a7d1232",
         "type": "tabs",
         "children": [
           {
-            "id": "94ae4f3c4520bcaa",
+            "id": "1182f20943bf153f",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/AI Assistance Usage Tips.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "AI Assistance Usage Tips"
-            }
-          },
-          {
-            "id": "4b7404ee3530ee52",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Anthropic/Prompt Engineering Guide.md",
+                "file": "Notes/Blob Storage Usage Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Prompt Engineering Guide"
+              "title": "Blob Storage Usage Patterns"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,13 +72,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/Anthropic/Prompt Engineering Guide.md",
+                "file": "Notes/Blob Storage Usage Patterns.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Prompt Engineering Guide"
+              "title": "Outline of Blob Storage Usage Patterns"
             }
           },
           {
@@ -251,8 +234,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4b7404ee3530ee52",
+  "active": "1182f20943bf153f",
   "lastOpenFiles": [
+    "--Attachments/Download and uploading files.excalidraw.md",
+    "Notes/Blob Storage Usage Patterns.md",
+    "Excalibrain/excalibrain.md",
+    "Notes/Blob Storage.md",
     "Notes/AI Assistance Usage Tips.md",
     "Reference Notes/Anthropic/Prompt Engineering Guide.md",
     "Reference Notes/SQL Cursors - how and when to use them.md",
@@ -269,18 +256,14 @@
     "Reference Notes/Anthropic/Mastering Claude Code in 30 Minutes.md",
     "Dataviews/Topics/Artificial Intelligence.md",
     "Dataviews/Topics/Backend.md",
-    "Notes/Blob Storage.md",
     "Notes/AWS/S3/Simple Storage Service.md",
     "Notes/_note_Notes.md",
     "--Attachments/Pasted image 20250616010430.png",
     "Reference Notes/_note_Reference Notes.md",
     "Reference Notes/Anthropic",
     "Reference Notes/Untitled.md",
-    "Notes/Blob Storage Usage Patterns.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings.md",
     "--Obsidian Template--/Frontmatter - Notes.md",
-    "--Obsidian Template--/Frontmatter - Notes - Backend.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/_note_Data Structures and Algorithms.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction",
     "Reference Notes/Leetcode/Data Structures and Algorithms",
