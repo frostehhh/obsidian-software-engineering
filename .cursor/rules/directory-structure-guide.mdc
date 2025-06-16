@@ -1,0 +1,144 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Software Engineering Workspace Directory Structure Guide
+
+This workspace is an Obsidian vault dedicated to software engineering knowledge management, interview preparation, and technical learning. Below is a comprehensive guide to each directory's purpose and contents.
+
+## Core Knowledge Directories
+
+### [Notes/](mdc:Notes)
+**Purpose**: Primary repository for structured technical notes and concepts
+- Contains individual markdown files for specific technical topics
+- Covers system design, databases, networking, security, and backend engineering
+- Organized as atomic notes following Zettelkasten principles
+- Includes subdirectories for major topics like AWS, Apache, HTTP, OSI Model, TLS, and ACID
+- Examples: Database Indexes, REST API, WebSockets, CAP Theorem, Consistent Hashing
+
+### [Reference Notes/](mdc:Reference%20Notes)
+**Purpose**: Curated notes from external sources, courses, and expert content
+- Organized by author/source (e.g., Hussein Nasser, Adrian Cantrill, Andrej Karpathy)
+- Contains notes from online courses, tutorials, and educational content
+- Includes system design case studies and real-world architecture examples
+- Subdirectories for specific platforms: Leetcode, System Design Interview, Docker, Spring
+- Examples: Netflix Stack analysis, Uber scaling lessons, Twitter's MySQL usage
+
+### [Braindump/](mdc:Braindump)
+**Purpose**: Raw, unstructured thoughts and comprehensive study sessions
+- Contains large, stream-of-consciousness style notes
+- Includes dated braindump sessions (e.g., "2025-06-02 - System Design.md")
+- Features extensive Excalidraw diagrams and visual explanations
+- Used for intensive study sessions and knowledge consolidation
+- Contains comprehensive topic overviews (Backend.md, Database.md)
+
+## Visual Learning and Diagrams
+
+### [--Attachments/](mdc:--Attachments)
+**Purpose**: Media files, images, and visual resources
+- Stores screenshots, diagrams, and pasted images from study sessions
+- Contains Excalidraw diagram files (.excalidraw.md)
+- Includes system architecture diagrams and technical illustrations
+- Houses visual aids for complex concepts (TCP handshakes, authentication flows)
+
+### [Mindmaps/](mdc:Mindmaps)
+**Purpose**: Visual knowledge maps and concept relationships
+- Contains mind map files for major technical domains
+- Includes comprehensive topic overviews in visual format
+- Features Excalidraw-based mind maps for complex subjects
+- Examples: System Design.md, Backend.md, Database.excalidraw.md
+
+### [Excalidraw/](mdc:Excalidraw)
+**Purpose**: Dedicated space for Excalidraw diagram files
+- Currently empty but designated for standalone diagram files
+- Intended for architectural diagrams and system design sketches
+
+### [Excalibrain/](mdc:Excalibrain)
+**Purpose**: Excalibrain plugin files for graph-based knowledge visualization
+- Contains files for the Excalibrain Obsidian plugin
+- Enables interactive knowledge graph exploration
+
+## Practice and Application
+
+### [Scratchpads/](mdc:Scratchpads)
+**Purpose**: Working space for problem-solving and practice
+- Contains practice system design problems
+- Includes "System Design Case Practice" subdirectory
+- Used for working through interview questions and scenarios
+- Examples: Pastebin system design, general system design scratchpad
+
+### [Self-tests/](mdc:Self-tests)
+**Purpose**: Self-assessment and quiz materials
+- Currently empty but designated for self-testing content
+- Intended for knowledge validation and retention testing
+
+### [Anki/](mdc:Anki)
+**Purpose**: Spaced repetition flashcard content
+- Contains flashcard materials organized by topic
+- Includes question-answer pairs for active recall
+- Topics covered: Flink, Zookeeper, Security, HTTP, Cassandra, Database
+- Supports long-term knowledge retention through spaced repetition
+
+## Data and Analytics
+
+### [Dataviews/](mdc:Dataviews)
+**Purpose**: Obsidian Dataview plugin queries and data analysis
+- Contains automated queries for note organization
+- Enables dynamic content generation and note statistics
+- Used for tracking learning progress and note relationships
+
+## Personal and Organizational
+
+### [--Personal Notes--/](mdc:--Personal%20Notes--)
+**Purpose**: Private notes and personal reflections
+- Contains personal thoughts and non-technical content
+- Separated from technical knowledge for privacy
+
+### [--Obsidian Template--/](mdc:--Obsidian%20Template--)
+**Purpose**: Template files for consistent note creation
+- Contains note templates for different types of content
+- Ensures consistent formatting across the vault
+
+### [--Properties/](mdc:--Properties)
+**Purpose**: Obsidian properties and metadata management
+- Contains property definitions and metadata schemas
+- Used for note categorization and organization
+
+## Technical Setup
+
+### [Local Setup/](mdc:Local%20Setup)
+**Purpose**: Development environment and tool configuration
+- Contains setup instructions and configurations
+- Includes subdirectories for Git and Windows PC setup
+- Documents local development environment requirements
+
+## System Directories
+
+### [.obsidian/](mdc:.obsidian)
+**Purpose**: Obsidian application settings and configuration
+- Contains Obsidian vault settings, plugins, and themes
+- Manages workspace layout and application preferences
+
+### [.smart-env/](mdc:.smart-env)
+**Purpose**: Smart environment configuration files
+- Contains environment-specific settings and configurations
+
+### [.git/](mdc:.git)
+**Purpose**: Git version control system files
+- Standard Git repository metadata and history
+- Tracks changes and enables collaboration
+
+## Usage Patterns
+
+This workspace follows a structured approach to technical learning:
+
+1. **Capture**: New concepts go into [Braindump/](mdc:Braindump) for initial processing
+2. **Structure**: Refined concepts move to [Notes/](mdc:Notes) as atomic, well-organized notes
+3. **Reference**: External content is organized in [Reference Notes/](mdc:Reference%20Notes)
+4. **Visualize**: Complex concepts are diagrammed in [Mindmaps/](mdc:Mindmaps) and [--Attachments/](mdc:--Attachments)
+5. **Practice**: Concepts are applied in [Scratchpads/](mdc:Scratchpads) and reinforced through [Anki/](mdc:Anki)
+6. **Review**: [Dataviews/](mdc:Dataviews) helps track progress and identify knowledge gaps
+
+This structure supports comprehensive software engineering learning, from initial concept capture through long-term retention and practical application.
+
