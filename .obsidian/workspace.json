@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/AI Assistance Usage Workflows.md",
+                "file": "Notes/AI Assistance Usage Tips.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "AI Assistance Usage Workflows"
+              "title": "AI Assistance Usage Tips"
             }
           },
           {
@@ -205,8 +205,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -232,18 +232,13 @@
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "custom-sort:Toggle custom sorting": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "custom-sort:Toggle custom sorting": false
     }
   },
   "active": "94ae4f3c4520bcaa",
   "lastOpenFiles": [
     "Reference Notes/Anthropic/Mastering Claude Code in 30 Minutes.md",
-    "Notes/AI Assistance Usage Workflows.md",
+    "Notes/AI Assistance Usage Tips.md",
     "Notes/Blob Storage.md",
     "Notes/AWS/S3/Simple Storage Service.md",
     "Notes/_note_Notes.md",
