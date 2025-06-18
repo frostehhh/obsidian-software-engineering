@@ -9,3 +9,5 @@ source_url: https://leetcode.com/explore/interview/card/leetcodes-interview-cras
 # Checking for Existence
 
 # Counting
+
+## Count with exact K constraints
