@@ -10,33 +10,36 @@
           {
             "id": "415d94cd217273ae",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
+                "file": "Notes/Coroutines.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Hashing"
+              "title": "Coroutines"
             }
           },
           {
             "id": "bfeabfc9e4b3dff6",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Kt.Academy/_note_Kt.Academy.md",
-                "mode": "source",
+                "file": "Reference Notes/Kt.Academy/Coroutines under the hood.md",
+                "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "_note_Kt.Academy"
+              "title": "Coroutines under the hood"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -287,15 +290,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bfeabfc9e4b3dff6",
+  "active": "415d94cd217273ae",
   "lastOpenFiles": [
-    "Reference Notes/Untitled.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
+    "Notes/Coroutines.md",
+    "Reference Notes/Kt.Academy/Coroutines under the hood.md",
     "Reference Notes/Kt.Academy/_note_Kt.Academy.md",
+    "Reference Notes/Hussein Nasser/_note_Hussein Nasser.md",
+    "Reference Notes/Github - Learn Node.js Hardway/_note_Github - Learn Node.js Hardway.md",
+    "Reference Notes/HelloInterview/_note_HelloInterview.md",
+    "Reference Notes/Leetcode/_note_Leetcode.md",
+    "Reference Notes/Untitled.md",
     "Reference Notes/Kt.Academy",
     "Reference Notes/Docker/Overview.md",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
     "Reference Notes/Docker/_note_Docker.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings.md",
     "Reference Notes/The Pragmatic Engineer/The Philosophy of Software Design – with John Ousterhout.md",
     "Anki/HTTP.md",
@@ -314,12 +323,6 @@
     "Notes/Materialized View.md",
     "Notes/User Datagram Protocol.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a File Storage Service Like Dropbox.md",
-    "Notes/DynamoDB vs Cassandra.md",
-    "Notes/Stream.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Redis.md",
-    "Notes/System Design Numbers to Know.md",
-    "Anki/System Design Numbers.md",
-    "Anki/_note_Anki.md",
     "--Attachments/Pasted image 20250616010430.png",
     "Reference Notes/Anthropic",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings",
