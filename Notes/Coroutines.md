@@ -20,5 +20,14 @@ aliases:
 	- IO
 	- ...
 
+- launch - coroutine builder
+- runBlocking
+	- coroutine scope builder
+	- blocks underlying thread
+- coroutineScope
+	- coroutine scope builder
+	- suspending function
+- delay - suspending function
+
 # References
 https://kotlinlang.org/docs/coroutines-guide.html

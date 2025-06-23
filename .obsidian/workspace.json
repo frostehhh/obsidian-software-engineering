@@ -258,9 +258,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "da3d07f9a6166b79",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "horizontal",
@@ -282,14 +292,19 @@
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "415d94cd217273ae",
   "lastOpenFiles": [
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
-    "Notes/Coroutines.md",
     "Reference Notes/Kt.Academy/Coroutines under the hood.md",
+    "Notes/Coroutines.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
     "Reference Notes/Kt.Academy/_note_Kt.Academy.md",
     "Reference Notes/Hussein Nasser/_note_Hussein Nasser.md",
     "Reference Notes/Github - Learn Node.js Hardway/_note_Github - Learn Node.js Hardway.md",
