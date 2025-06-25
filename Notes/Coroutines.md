@@ -19,7 +19,6 @@ aliases:
 	- Default
 	- IO
 	- ...
-
 - launch - coroutine builder
 - runBlocking
 	- coroutine scope builder
@@ -31,3 +30,6 @@ aliases:
 
 # References
 https://kotlinlang.org/docs/coroutines-guide.html
+
+# Questions
+- Async vs launch?
