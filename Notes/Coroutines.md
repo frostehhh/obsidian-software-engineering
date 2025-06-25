@@ -2,7 +2,7 @@
 tags:
   - notes
   - programming-languages/kotlin
-Draft: true
+Draft: false
 source_url:
 aliases:
  - Kotlin Coroutines
@@ -19,17 +19,24 @@ aliases:
 	- Default
 	- IO
 	- ...
-- launch - coroutine builder
+- launch
+	- coroutine builder
+	- Executes and does not return
+- async
+	- coroutine builder
+	- executes and returns result
 - runBlocking
 	- coroutine scope builder
 	- blocks underlying thread
+	- creates new coroutine
 - coroutineScope
 	- coroutine scope builder
 	- suspending function
+	- does not create new coroutine
 - delay - suspending function
+- `suspend` keyword - include before `fun` declaration to create a suspending function
 
 # References
 https://kotlinlang.org/docs/coroutines-guide.html
 
 # Questions
-- Async vs launch?
