@@ -44,7 +44,7 @@ Zookeeper handles leader election using sequential ZNodes:
 - Server with smallest sequence number becomes leader
 - Other servers are aware of the leader
 - When leader fails, server with next consecutive number takes over
-<!--SR:!2025-06-16,2,250-->
+<!--SR:!2025-07-02,7,270-->
 +++
 
 What is the difference between read and write operations in Zookeeper?
@@ -61,7 +61,7 @@ Service discovery in Zookeeper works through:
 2. Caching the list locally
 3. Connecting to one instance from the list
 4. Watching for changes to stay updated
-<!--SR:!2025-06-16,2,250-->
+<!--SR:!2025-06-30,5,250-->
 +++
 
 When should you choose Zookeeper over Redis for distributed locks?
@@ -77,5 +77,5 @@ Zookeeper manages sessions through:
 2. Session heartbeat - periodic client pings
 3. Session Recovery - allows reconnection within timeout, even to different server
 4. Session expiration - occurs when timeout is reached
-<!--SR:!2025-06-16,2,230-->
+<!--SR:!2025-06-30,5,230-->
 +++ 
