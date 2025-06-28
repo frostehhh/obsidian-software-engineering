@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "Coroutines"
             }
+          },
+          {
+            "id": "3d7ef92253ce652b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Strava.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Design Strava"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "append",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -282,9 +297,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "7d7e554692f7b394",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "horizontal",
@@ -306,13 +331,20 @@
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "2faefdbfb26bc733",
+  "active": "3d7ef92253ce652b",
   "lastOpenFiles": [
-    "Reference Notes/Kt.Academy/Coroutines under the hood.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Strava.md",
     "Notes/Coroutines.md",
+    "Reference Notes/Kt.Academy/Coroutines under the hood.md",
     "Notes/Database Cursors.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
     "Reference Notes/Kt.Academy/_note_Kt.Academy.md",
@@ -332,7 +364,6 @@
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Yelp.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Yelp.excalidraw",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.excalidraw",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design TicketMaster.md",
     "Excalibrain/excalibrain.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md",
@@ -341,7 +372,6 @@
     "Notes/Redis.md",
     "Dataviews/Has Questions.md",
     "Notes/Materialized View.md",
-    "Notes/User Datagram Protocol.md",
     "--Attachments/Pasted image 20250616010430.png",
     "Reference Notes/Anthropic",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings",
