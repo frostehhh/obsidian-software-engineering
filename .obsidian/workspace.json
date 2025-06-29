@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Strava.md",
+                "file": "Reference Notes/HelloInterview/System Design/Core Concepts/Numbers To Know.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Strava"
+              "title": "Numbers To Know"
             }
           }
         ],
@@ -317,9 +317,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "2fe08ed5116d800b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "horizontal",
@@ -341,13 +351,18 @@
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "e8288f6b2e925a21",
+  "active": "2fe08ed5116d800b",
   "lastOpenFiles": [
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Strava.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.md",
     "Notes/Coroutines.md",
     "Reference Notes/Kt.Academy/Coroutines under the hood.md",
     "Notes/Database Cursors.md",
