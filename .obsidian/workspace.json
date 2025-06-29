@@ -307,9 +307,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "e8288f6b2e925a21",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "horizontal",
@@ -334,7 +344,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3d7ef92253ce652b",
+  "active": "e8288f6b2e925a21",
   "lastOpenFiles": [
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Strava.md",
