@@ -12,7 +12,7 @@ Zookeeper is a distributed system coordinator that handles:
 - Failure detection
 - Service discovery
 - State management
-<!--SR:!2025-06-28,14,290-->
+<!--SR:!2025-08-25,55,310-->
 +++
 
 What is a ZNode in Zookeeper and how is it organized?
@@ -26,7 +26,7 @@ A ZNode is an entity handled by Zookeeper that can represent a server or user. Z
     /config
         /max-users
 ```
-<!--SR:!2025-06-29,15,290-->
+<!--SR:!2025-08-29,59,310-->
 +++
 
 What are the three types of ZNodes in Zookeeper?
@@ -34,7 +34,7 @@ What are the three types of ZNodes in Zookeeper?
 1. Persistent - Exists until manually deleted
 2. Ephemeral - Short-lived nodes that exist only during the active session that created them
 3. Sequential - Nodes with incrementing IDs
-<!--SR:!2025-06-30,16,290-->
+<!--SR:!2025-09-02,63,310-->
 +++
 
 How does Zookeeper handle leader election?
@@ -51,7 +51,7 @@ What is the difference between read and write operations in Zookeeper?
 ?
 - Reads can be queried from either leader or follower nodes
 - Writes must be directed to leader nodes only
-<!--SR:!2025-06-28,14,290-->
+<!--SR:!2025-08-26,56,310-->
 +++
 
 How does Zookeeper handle service discovery?
@@ -61,13 +61,13 @@ Service discovery in Zookeeper works through:
 2. Caching the list locally
 3. Connecting to one instance from the list
 4. Watching for changes to stay updated
-<!--SR:!2025-06-30,5,250-->
+<!--SR:!2025-07-19,18,270-->
 +++
 
 When should you choose Zookeeper over Redis for distributed locks?
 ?
 Choose Zookeeper when you don't need high-performance requirements for high-speed lock changes (less than 100 locks per second). Redis is better for high-frequency lock operations.
-<!--SR:!2025-06-30,16,290-->
+<!--SR:!2025-09-03,64,310-->
 +++
 
 How does Zookeeper handle session management?
@@ -77,5 +77,5 @@ Zookeeper manages sessions through:
 2. Session heartbeat - periodic client pings
 3. Session Recovery - allows reconnection within timeout, even to different server
 4. Session expiration - occurs when timeout is reached
-<!--SR:!2025-06-30,5,230-->
+<!--SR:!2025-07-13,12,230-->
 +++ 

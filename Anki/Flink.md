@@ -21,7 +21,7 @@ What is a Watermark in Flink and what are its configuration options?
 A Watermark is a time signpost signifying data generated before time X. It has two configuration options:
 1. Bounded out-of-orderness - specified time limit for how long Flink will wait for late entries
 2. No watermark - Don't access any late entries
-<!--SR:!2025-06-29,15,290-->
+<!--SR:!2025-08-31,61,310-->
 +++
 
 What are the different types of Windows in Flink?
@@ -47,7 +47,7 @@ What are the two main types of processes in Flink's cluster architecture and the
    - Has Task slots
    - Reserves memory for computation
    - Task slots can share resources when working on same job
-<!--SR:!2025-06-30,5,250-->
+<!--SR:!2025-07-18,17,270-->
 +++
 
 What are the supported State Management options in Flink?
@@ -56,7 +56,7 @@ Flink supports three state management options:
 1. JVM heap - in memory
 2. Filesystem
 3. RocksDB - key-value store that utilizes disk space
-<!--SR:!2025-06-26,1,190-->
+<!--SR:!2025-07-03,2,190-->
 +++
 
 What is the process of handling failures in Flink?
@@ -69,7 +69,7 @@ Flink handles failures through these steps:
 5. Task managers reset to previous checkpoint
 6. Operators reset to previous checkpoint
 7. Resume Job processing
-<!--SR:!2025-06-27,2,210-->
+<!--SR:!2025-07-07,6,230-->
 +++
 
 When should you use Flink in a system design?
@@ -83,5 +83,5 @@ Use Flink:
   - State management
   - Exactly-once processing
   - Resource isolation
-<!--SR:!2025-06-28,14,290-->
+<!--SR:!2025-08-11,41,290-->
 +++ 

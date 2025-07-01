@@ -13,7 +13,7 @@ What HTTP header requires that a resource be validated before reuse?::no-cache[^
 What is ETAG for and how do you use it?[^1]
 ?
 ETAG is a response header and a unique identifier for a resource. It is paired with the `If-None-Match` request header.
-<!--SR:!2025-06-26,12,270-->
+<!--SR:!2025-08-02,32,270-->
 +++
 
 What header do you use to prompt if a stale resource has changed?::`If-Modified-Since`[^1]
@@ -27,7 +27,11 @@ What headers are used for client and server to determine the compression algorit
 
 What does a simple authentication flow look like in HTTP?[^3]
 ?
-See [[Authentication]]
+1. Client sends request to server
+2. Server responds with status code `401` `Unauthorized` and sends a header `WWW-Authenticate` or `Proxy-Authenticate` if it's from a proxy server. The header value indicates the method for authorization needed
+3. The client can send a request including a header of either `Authorize` or `Proxy-Authorize`, which include the credentials for authorization
+	- If successful, server can return status code `200`
+	- If unsuccessful, server can send status code `401` `Unauthorized`. To hide the existence of a resource, `404` `Not Found` can also be returned
 <!--SR:!2025-06-27,13,270-->
 +++
 
