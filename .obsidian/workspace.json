@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anki/Cassandra.md",
+                "file": "Anki/Database.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cassandra"
+              "title": "Database"
             }
           }
         ]
@@ -340,9 +340,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "8827890df7b9e01f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "horizontal",
@@ -364,11 +374,18 @@
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "eb89be9de04f6296",
+  "active": "bc915690a72e8d12",
   "lastOpenFiles": [
+    "Anki/System Design Numbers.md",
+    "Anki/Cassandra.md",
     "Anki/HTTP.md",
     "Notes/Hypertext Transfer Protocol/Authentication/Authentication.md",
     "Reference Notes/HelloInterview/System Design/Core Concepts/Numbers To Know.md",
@@ -398,8 +415,6 @@
     "Excalibrain/excalibrain.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Zookeeper.md",
-    "Notes/Apache/Cassandra.md",
-    "Notes/Redis.md",
     "--Attachments/Pasted image 20250616010430.png",
     "Reference Notes/Anthropic",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings",
