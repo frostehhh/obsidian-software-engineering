@@ -22,5 +22,5 @@ source_url: https://www.hellointerview.com/learn/system-design/problem-breakdown
 # Deep Dives
 
 
-# Questions
-- What do you mean b
+# Notes
+- Need to check FB Live comments for details on the pub/sub breakout
