@@ -83,7 +83,7 @@ end
 - horizontal scaling
 ## Durability
 - replica count
-- ack config
+- ack confi
 	- Should all replicas ack before continuing processing or X acks or fully eventually consistent?
 ## Errors and failures
 - Alongside a main topic, have a retry topic and a dead-letter queue(DLQ) topic

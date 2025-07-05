@@ -10,15 +10,17 @@
           {
             "id": "bc915690a72e8d12",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
+                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design an Online Auction.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Kafka"
+              "title": "Design an Online Auction"
             }
           }
         ]
@@ -89,8 +91,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -393,8 +394,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a35a4d56f80ef09c",
+  "active": "bc915690a72e8d12",
   "lastOpenFiles": [
+    "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design an Online Auction.md",
     "Anki/Database.md",
     "Anki/System Design Numbers.md",
     "Anki/Cassandra.md",
@@ -424,8 +427,6 @@
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Yelp.excalidraw",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.excalidraw",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design TicketMaster.md",
-    "Excalibrain/excalibrain.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md",
     "--Attachments/Pasted image 20250616010430.png",
     "Reference Notes/Anthropic",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings",
