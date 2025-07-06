@@ -71,8 +71,8 @@ Run `execute` command after defining
 7. Resume Job processing
 # Flink in System Design
 - When you need real-time processing of stream
-	- Otherwise, keep [[Kafka]]
-- Usually, [[Kafka]] will be the [[#Source]]
+	- Otherwise, keep [[Reference Notes/HelloInterview/System Design/Key Technologies/Kafka]]
+- Usually, [[Reference Notes/HelloInterview/System Design/Key Technologies/Kafka]] will be the [[#Source]]
 
 # Useful Concepts in Flink design
 - Window grouping of data

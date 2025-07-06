@@ -5,7 +5,7 @@ tags:
   - system-design
   - tool
 source_url: https://www.hellointerview.com/learn/system-design/deep-dives/kafka
-Draft: false
+Draft: true
 has-questions: false
 "Friend:":
   - "[[Stream]]"
@@ -81,6 +81,15 @@ end
 - Keep messages sizes within 1mb
 - good partition key designs - avoid hot partitions
 - horizontal scaling
+### Avoiding hot partitions
+1. Random assignment of partition
+	- Order no longer guaranteed. Good if not needed
+2. Random salting of partition key
+3. Creating compound key
+	The partition key can include another piece of data such as datetime, geographic location, etc.
+4. Back pressure
+	Can slow down the producer to reduce load on the brokers
+
 ## Durability
 - replica count
 - ack confi

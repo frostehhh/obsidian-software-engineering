@@ -10,11 +10,17 @@
           {
             "id": "2108ba08c4b2474c",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Kafka"
             }
           }
         ]
@@ -400,8 +406,9 @@
   },
   "active": "2108ba08c4b2474c",
   "lastOpenFiles": [
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design an Online Auction.md",
+    "Notes/Kafka.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design an Online Auction.md",
     "Anki/Database.md",
     "Anki/System Design Numbers.md",
     "Anki/Cassandra.md",
@@ -430,7 +437,6 @@
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Yelp.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Yelp.excalidraw",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.excalidraw",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design TicketMaster.md",
     "--Attachments/Pasted image 20250616010430.png",
     "Reference Notes/Anthropic",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings",
