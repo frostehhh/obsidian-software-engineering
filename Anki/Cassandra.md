@@ -14,7 +14,7 @@ What are the key components of Cassandra's data model?
 - Tables (Collection of rows)
 - Rows (record of data)
 - Columns (typed value)
-<!--SR:!2025-07-02,7,270-->
+<!--SR:!2025-08-01,26,290-->
 +++
 
 What internal components does Cassandra's storage engine use?
@@ -23,6 +23,7 @@ Storage Engine (LSM - Log structure merge tree):
 - Commit Log: Write-Ahead Log
 - Memtable: In-memory data to be committed to disk
 - SSTABLE: Immutable list of data from flushed Memtable
+<!--SR:!2025-07-07,1,240-->
 +++
 
 How does Cassandra's Gossip Protocol work
@@ -30,6 +31,7 @@ How does Cassandra's Gossip Protocol work
 - Peer-to-peer communication between nodes for discovery
 - Each node knows every other node
 - Has probabilistic bias toward "seed" nodes for cluster startup
+<!--SR:!2025-07-10,4,280-->
 +++
 
 How does Cassandra handle fault tolerance
@@ -37,6 +39,7 @@ How does Cassandra handle fault tolerance
 - Handles failed nodes
 - Uses "hinted handoffs" for write requests to failed nodes
 - Failed nodes receive hinted handoffs when they recover (send heartbeat)
+<!--SR:!2025-07-10,4,280-->
 +++
 
 What are the consistency configuration options available in Cassandra?
@@ -47,5 +50,5 @@ What are the consistency configuration options available in Cassandra?
 - ALL
 - LOCAL_ONE
 - QUORUM
-<!--SR:!2025-07-06,11,270-->
+<!--SR:!2025-08-16,41,290-->
 +++ 

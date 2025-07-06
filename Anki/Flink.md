@@ -13,7 +13,7 @@ The main concepts in Flink are:
 2. Streams - flow of data
 3. Operator - transformations done on streams
 4. Sink - where transformed data is output
-<!--SR:!2025-07-02,7,270-->
+<!--SR:!2025-07-31,25,290-->
 +++
 
 What is a Watermark in Flink and what are its configuration options?
@@ -56,7 +56,7 @@ Flink supports three state management options:
 1. JVM heap - in memory
 2. Filesystem
 3. RocksDB - key-value store that utilizes disk space
-<!--SR:!2025-07-03,2,190-->
+<!--SR:!2025-07-07,1,170-->
 +++
 
 What is the process of handling failures in Flink?

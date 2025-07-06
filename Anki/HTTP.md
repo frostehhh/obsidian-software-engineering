@@ -32,7 +32,7 @@ What does a simple authentication flow look like in HTTP?[^3]
 3. The client can send a request including a header of either `Authorize` or `Proxy-Authorize`, which include the credentials for authorization
 	- If successful, server can return status code `200`
 	- If unsuccessful, server can send status code `401` `Unauthorized`. To hide the existence of a resource, `404` `Not Found` can also be returned
-<!--SR:!2025-06-27,13,270-->
+<!--SR:!2025-08-24,49,290-->
 +++
 
 What headers are used for authentication?[^3]
