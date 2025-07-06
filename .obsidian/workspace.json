@@ -4,23 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "64ef087646635c70",
+        "id": "e29b76dae18ef57b",
         "type": "tabs",
+        "dimension": 39.71223021582734,
         "children": [
           {
-            "id": "2108ba08c4b2474c",
+            "id": "f3d7cd2f567a4c51",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
+                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design FB Live Comments.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Kafka"
+              "title": "Design FB Live Comments"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8eab434e3dff6977",
+        "type": "tabs",
+        "dimension": 60.28776978417266,
+        "children": [
+          {
+            "id": "f20d31779b8af752",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "--Attachments/Design FB Live Comments 2025-07-06 14.56.43.excalidraw.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "Design FB Live Comments 2025-07-06 14.56.43.excalidraw"
             }
           }
         ]
@@ -95,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.0026054382324
+    "width": 431.0026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -404,10 +427,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2108ba08c4b2474c",
+  "active": "f20d31779b8af752",
   "lastOpenFiles": [
-    "Notes/Kafka.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design FB Live Comments.md",
+    "--Attachments/Design FB Live Comments 2025-07-06 14.56.43.excalidraw.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
+    "Notes/WebSockets.md",
+    "Notes/Kafka.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design an Online Auction.md",
     "Anki/Database.md",
     "Anki/System Design Numbers.md",
@@ -431,10 +457,7 @@
     "Reference Notes/Docker/Overview.md",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
     "Reference Notes/Docker/_note_Docker.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings.md",
-    "Reference Notes/The Pragmatic Engineer/The Philosophy of Software Design – with John Ousterhout.md",
     "Reference Notes/The Pragmatic Engineer",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Yelp.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Yelp.excalidraw",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.excalidraw",
     "--Attachments/Pasted image 20250616010430.png",

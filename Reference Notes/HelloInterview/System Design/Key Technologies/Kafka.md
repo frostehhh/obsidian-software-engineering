@@ -32,7 +32,7 @@ Logical grouping of partitions
 ## Producer
 writes messages to partitions
 ## Consumer
-reads messages from partitions. Only 1 consumer per partition
+reads messages from partitions
 ## Message
 - default, 1mb max
 - No message number limit
@@ -92,8 +92,10 @@ end
 
 ## Durability
 - replica count
-- ack confi
+- ack config
 	- Should all replicas ack before continuing processing or X acks or fully eventually consistent?
+- When consumer goes down, the consumer can recheck their last read message via their committed offset saved in the kafka cluser
+	- If otherwise the consumer is unable to restart, the partitions handled by that consumer will be evenly distributed to the other consumers
 ## Errors and failures
 - Alongside a main topic, have a retry topic and a dead-letter queue(DLQ) topic
 ## Performance optimizations
