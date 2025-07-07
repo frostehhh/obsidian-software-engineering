@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.0026054382324,
-    "collapsed": true
+    "width": 431.0026054382324
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -383,9 +382,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "3e0dbf100cf4f8ca",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
           }
         ],
-        "currentTab": 25
+        "currentTab": 26
       }
     ],
     "direction": "horizontal",
@@ -410,7 +419,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "0b2959d78204b7ce",
+  "active": "3e0dbf100cf4f8ca",
   "lastOpenFiles": [
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design FB Live Comments.md",
     "--Attachments/Design FB Live Comments 2025-07-06 14.56.43.excalidraw.md",
