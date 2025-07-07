@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "--Obsidian Template--/Frontmatter - Video Reference.md",
-                "mode": "source",
+                "file": "Reference Notes/Leetcode/Data Structures and Algorithms/Linked Lists.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frontmatter - Video Reference"
+              "title": "Linked Lists"
             }
           }
         ],
@@ -414,12 +414,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "942146a1f47ad43e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 28
       }
     ],
     "direction": "horizontal",
@@ -451,8 +461,11 @@
   },
   "active": "56df4c3c799fb0d2",
   "lastOpenFiles": [
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design FB Live Comments.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Linked Lists.md",
     "--Obsidian Template--/Frontmatter - Video Reference.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design FB Live Comments.md",
     "--Obsidian Template--/Frontmatter - Reference Notes - Website Article.md",
     "--Obsidian Template--/Frontmatter - Reference Notes with source.md",
     "--Obsidian Template--/Frontmatter - Reference Notes - Database Locks.md",
@@ -474,9 +487,6 @@
     "Reference Notes/HelloInterview/System Design/Core Concepts/Numbers To Know.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Strava.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.md",
-    "Notes/Coroutines.md",
-    "Reference Notes/Kt.Academy/Coroutines under the hood.md",
-    "Notes/Database Cursors.md",
     "Reference Notes/Kt.Academy",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
     "Reference Notes/The Pragmatic Engineer",

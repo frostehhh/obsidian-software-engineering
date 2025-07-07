@@ -23,7 +23,7 @@ Storage Engine (LSM - Log structure merge tree):
 - Commit Log: Write-Ahead Log
 - Memtable: In-memory data to be committed to disk
 - SSTABLE: Immutable list of data from flushed Memtable
-<!--SR:!2025-07-07,1,240-->
+<!--SR:!2025-07-10,3,260-->
 +++
 
 How does Cassandra's Gossip Protocol work

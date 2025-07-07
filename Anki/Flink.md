@@ -56,7 +56,7 @@ Flink supports three state management options:
 1. JVM heap - in memory
 2. Filesystem
 3. RocksDB - key-value store that utilizes disk space
-<!--SR:!2025-07-07,1,170-->
+<!--SR:!2025-07-09,2,190-->
 +++
 
 What is the process of handling failures in Flink?
@@ -69,7 +69,7 @@ Flink handles failures through these steps:
 5. Task managers reset to previous checkpoint
 6. Operators reset to previous checkpoint
 7. Resume Job processing
-<!--SR:!2025-07-07,6,230-->
+<!--SR:!2025-07-27,20,250-->
 +++
 
 When should you use Flink in a system design?
