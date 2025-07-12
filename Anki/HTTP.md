@@ -8,7 +8,7 @@ Draft: false
 
 
 What HTTP header requires that a resource be validated before reuse?::no-cache[^1]
-<!--SR:!2025-07-10,64,310-->
+<!--SR:!2025-08-13,32,290-->
 
 What is ETAG for and how do you use it?[^1]
 ?
