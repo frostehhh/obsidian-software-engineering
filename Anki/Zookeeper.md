@@ -77,5 +77,5 @@ Zookeeper manages sessions through:
 2. Session heartbeat - periodic client pings
 3. Session Recovery - allows reconnection within timeout, even to different server
 4. Session expiration - occurs when timeout is reached
-<!--SR:!2025-07-13,12,230-->
+<!--SR:!2025-08-21,39,250-->
 +++ 
