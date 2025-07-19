@@ -494,12 +494,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a4bbf05855192704",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 35
+        "currentTab": 36
       }
     ],
     "direction": "horizontal",
@@ -529,7 +539,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e464dd28f456aedc",
+  "active": "a4bbf05855192704",
   "lastOpenFiles": [
     "Notes/Monorepo Project Structure.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design FB Live Comments.md",

@@ -47,7 +47,7 @@ What are the two main types of processes in Flink's cluster architecture and the
    - Has Task slots
    - Reserves memory for computation
    - Task slots can share resources when working on same job
-<!--SR:!2025-07-18,17,270-->
+<!--SR:!2025-09-21,64,290-->
 +++
 
 What are the supported State Management options in Flink?
