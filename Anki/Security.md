@@ -23,7 +23,7 @@ See [[Diffie-Hellman Algorithm]]
 How does digital signing work?[^3]
 ?
 See [[Notes/Digital Signatures|Digital Signatures]]
-<!--SR:!2025-07-21,60,310-->
+<!--SR:!2026-01-24,186,310-->
 +++
 
 [^1]: [[RSA]]
