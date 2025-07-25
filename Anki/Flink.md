@@ -31,7 +31,7 @@ Flink supports four types of windows for data grouping:
 2. Sliding - overlapping windows
 3. Session - activity based windows
 4. Global - custom window logic
-<!--SR:!2025-07-23,28,270-->
+<!--SR:!2025-11-08,106,290-->
 +++
 
 What are the two main types of processes in Flink's cluster architecture and their roles?
