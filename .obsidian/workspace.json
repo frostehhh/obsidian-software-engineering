@@ -554,8 +554,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -581,15 +581,10 @@
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "custom-sort:Toggle custom sorting": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "eb6bf6df75103e02",
+  "active": "1c1444b11f9fa2f2",
   "lastOpenFiles": [
     "Reference Notes/Leetcode/Data Structures and Algorithms/Linked Lists.md",
     "Notes/Monorepo Project Structure.md",
