@@ -13,7 +13,7 @@ The main concepts in Flink are:
 2. Streams - flow of data
 3. Operator - transformations done on streams
 4. Sink - where transformed data is output
-<!--SR:!2025-07-31,25,290-->
+<!--SR:!2025-11-12,101,310-->
 +++
 
 What is a Watermark in Flink and what are its configuration options?
@@ -69,7 +69,7 @@ Flink handles failures through these steps:
 5. Task managers reset to previous checkpoint
 6. Operators reset to previous checkpoint
 7. Resume Job processing
-<!--SR:!2025-07-27,20,250-->
+<!--SR:!2025-10-12,70,270-->
 +++
 
 When should you use Flink in a system design?
