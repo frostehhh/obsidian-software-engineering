@@ -15,6 +15,7 @@ related-reference-note::
 - Signature = Hash * private key
 - Digitally signed data = original data + signature
 
+
 # Components
 1. Data
 2. Hash function
