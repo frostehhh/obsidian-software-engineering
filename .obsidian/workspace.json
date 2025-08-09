@@ -597,9 +597,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "0e9136f9a1110822",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 45
+        "currentTab": 46
       }
     ],
     "direction": "horizontal",
@@ -621,10 +631,15 @@
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "fbeaa42c2c481e9a",
+  "active": "0e9136f9a1110822",
   "lastOpenFiles": [
     "Local Setup/Windows PC/Main.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design FB Live Comments.md",
