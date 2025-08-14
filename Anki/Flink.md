@@ -83,5 +83,5 @@ Use Flink:
   - State management
   - Exactly-once processing
   - Resource isolation
-<!--SR:!2025-08-11,41,290-->
+<!--SR:!2025-12-10,119,290-->
 +++ 
