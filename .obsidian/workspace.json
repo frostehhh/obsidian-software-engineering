@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Local Setup/Git/Setup for password protected Git SSH keys for VS Code on Windows.md",
+                "file": "Local Setup/Windows PC/CLI Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setup for password protected Git SSH keys for VS Code on Windows"
+              "title": "CLI Tools"
             }
           }
         ],
@@ -637,9 +637,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "87b6f4d4d94bb296",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 49
+        "currentTab": 50
       }
     ],
     "direction": "horizontal",
@@ -661,12 +671,19 @@
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "9c7cbde4b5e786e1",
+  "active": "12a4ec2ce5830b5e",
   "lastOpenFiles": [
     "Local Setup/Windows PC/Main.md",
+    "Local Setup/Windows PC/CLI Tools.md",
+    "Local Setup/Git/Setup for password protected Git SSH keys for VS Code on Windows.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design FB Live Comments.md",
     "Notes/Digital Signatures.md",
     "Reference Notes/Adrian Cantrill/Cybersecurity/Digital Signatures/Digital Signatures.md",
@@ -675,7 +692,6 @@
     "Anki/Security.md",
     "Anki/Flink.md",
     "Anki/System Design Numbers.md",
-    "Local Setup/Git/Setup for password protected Git SSH keys for VS Code on Windows.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings.md",
     "--Obsidian Template--/Frontmatter - Video Reference.md",
@@ -691,7 +707,6 @@
     "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
     "Notes/WebSockets.md",
     "Notes/Kafka.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design an Online Auction.md",
     "Reference Notes/Kt.Academy",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
     "Reference Notes/The Pragmatic Engineer",
