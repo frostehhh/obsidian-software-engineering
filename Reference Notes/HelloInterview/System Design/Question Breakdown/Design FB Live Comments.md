@@ -57,6 +57,9 @@ onmessage(comments)
 ## How will the system scale to support millions of concurrent viewers?
 ## Pub/Sub
 Can be using Kafka or Redis
-- Initially, can be usin
+- Initially, can be using 1 pub/sub instance where all remote messaging services will subscribe to
+- Since the 1 pub/sub instance may be a bottleneck, we may need to partition the pub/sub service so that each partition will be for a specific remote messages service
+- Lastly, we must consider proper load balancing. For instance, we may use consistent hashing so that messages for a certain videoId will consistently be messaged by a certain remote messaging service
+### Zookeeper
 
 # Questions
