@@ -42,7 +42,21 @@ onmessage(comments)
 ![[Design FB Live Comments 2025-07-06 14.56.43.excalidraw]]
 
 # Deep Dives
-## How to handle 
+## How can we ensure comments are broadcasted to viewers in real-time?
+2 choices:
+- Websockets
+- SSE
+### Websockets
+- requires handlers to expect the websocket protocol
+- High implementation complexity
+- May not be reasonable to use since there is a large difference between a user's messages and the total messages of all users
+### SSE
+- works on top of HTTP
+- Reasonable for this case where there is a large difference between the rate of a user sending messages vs total messages being sent
 
+## How will the system scale to support millions of concurrent viewers?
+## Pub/Sub
+Can be using Kafka or Redis
+- Initially, can be usin
 
 # Questions
