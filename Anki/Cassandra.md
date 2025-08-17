@@ -50,5 +50,5 @@ What are the consistency configuration options available in Cassandra?
 - ALL
 - LOCAL_ONE
 - QUORUM
-<!--SR:!2025-08-16,41,290-->
+<!--SR:!2026-01-29,165,310-->
 +++ 

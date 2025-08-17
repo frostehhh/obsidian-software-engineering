@@ -629,12 +629,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "97e3891da6be15c8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 50
+        "currentTab": 51
       }
     ],
     "direction": "horizontal",
@@ -664,7 +674,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f3d7cd2f567a4c51",
+  "active": "97e3891da6be15c8",
   "lastOpenFiles": [
     "Local Setup/Windows PC/CLI Tools.md",
     "Local Setup/Windows PC/Main.md",
