@@ -22,20 +22,6 @@
               "icon": "lucide-file",
               "title": "Design FB Live Comments"
             }
-          },
-          {
-            "id": "b02ca9fca01f9894",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Coroutines.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Coroutines"
-            }
           }
         ]
       }
@@ -666,9 +652,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "7cb820b47bf27d55",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 52
+        "currentTab": 53
       }
     ],
     "direction": "horizontal",
@@ -690,12 +686,19 @@
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "f3d7cd2f567a4c51",
+  "active": "c9e86c4b43b9a499",
   "lastOpenFiles": [
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design FB Live Comments.md",
+    "Untitled Kanban.md",
+    "Notes/Coroutines.md",
     "Notes/Kafka.md",
     "Local Setup/Windows PC/CLI Tools.md",
     "Local Setup/Windows PC/Main.md",
@@ -719,8 +722,6 @@
     "Reference Notes/Github - Learn Node.js Hardway/_note_Github - Learn Node.js Hardway.md",
     "Reference Notes/HelloInterview/_note_HelloInterview.md",
     "--Attachments/Design FB Live Comments 2025-07-06 14.56.43.excalidraw.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
-    "Notes/WebSockets.md",
     "Reference Notes/Kt.Academy",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
     "Reference Notes/The Pragmatic Engineer",
