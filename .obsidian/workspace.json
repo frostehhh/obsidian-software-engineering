@@ -8,36 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14025e2e5b400a7e",
+            "id": "2855e88d4deb87ec",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "bases",
               "state": {
-                "file": "Bases/Anki.base",
-                "viewName": "Draft"
+                "file": "Bases/Topics/Guides.base",
+                "viewName": "All"
               },
-              "pinned": true,
               "icon": "lucide-table",
-              "title": "Anki"
-            }
-          },
-          {
-            "id": "d56094c1c0a492ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dataviews/Topics/Artificial Intelligence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Artificial Intelligence"
+              "title": "Guides"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alias",
+                "query": "tag:Notes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -703,7 +686,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Dataviews/Topics/Artificial Intelligence.md"
+                "file": "Dataviews/Topics/System Design.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -742,21 +725,35 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d56094c1c0a492ed",
+  "active": "c9e86c4b43b9a499",
   "lastOpenFiles": [
     "Dataviews/In Notes folder but not notes tag.md",
-    "Dataviews/Mindmaps.md",
+    "Bases/All.base",
+    "Bases/Anki.base",
+    "Bases/Braindumps.base",
+    "Bases/Draft Notes.base",
+    "Bases/Has Questions.base",
     "Bases/Mindmaps.base",
+    "Bases/Topics/System Design.base",
+    "Dataviews/Topics/System Design.md",
+    "Dataviews/Topics/Guides.md",
+    "Bases/Topics/Guides.base",
+    "Dataviews/Topics/Artificial Intelligence.md",
+    "Dataviews/Topics/Backend.md",
+    "Dataviews/Topics/Database.md",
+    "Bases/Topics/Database.base",
+    "Bases/Topics/Backend.base",
+    "--Obsidian Template--/Frontmatter - Notes - Backend.md",
+    "Reference Notes/_note_Reference Notes.md",
+    "Bases/Topics/Untitled.md",
+    "Braindump/Hussein Nasser Fundamentals of backend braindump.excalidraw.md",
+    "Dataviews/Mindmaps.md",
     "Mindmaps/System Design.md",
     "Dataviews/Reference Notes.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/DynamoDB/-- Table of Contents --.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/CloudFormation/Intrinsic Functions.md",
     "Dataviews/Has Questions.md",
-    "Bases/Has Questions.base",
-    "Bases/Draft Notes.base",
     "Dataviews/Draft Notes.md",
-    "Bases/Braindumps.base",
-    "Bases/Untitled.base",
     "Dataviews/Anki.md",
     "Braindump/2025-05-18 - Database.md",
     "Dataviews/Braindumps.md",
@@ -765,21 +762,7 @@
     "Braindump/2025-06-02 - System Design.md",
     "Braindump/Fundamentals of Database and Backend.excalidraw.md",
     "Braindump/Backend.md",
-    "Braindump/Approaching System Design Interview.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
-    "Bases/All.base",
-    "Bases/Anki.base",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design FB Live Comments.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design FB Live Comments.excalidraw",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Appflow/Basics.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Accounts/_note_Accounts.md",
-    "Bases",
-    "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/--Table of Contents--.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Leetcode.md",
-    "Untitled Kanban.md",
-    "Notes/Coroutines.md",
-    "Notes/Kafka.md",
-    "Reference Notes/Kt.Academy",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
     "--Attachments/Pasted image 20250616010430.png",
     "--Attachments/Pasted Image 20250524232947_481.png",

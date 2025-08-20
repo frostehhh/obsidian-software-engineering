@@ -1,0 +1,42 @@
+filters:
+  and:
+    - '!file.name.contains("Table of Contents")'
+    - '!file.name.startsWith("_note_")'
+    - file.hasTag("backend")
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - tags
+      - aliases
+      - file.folder
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: file.basename
+        direction: DESC
+  - type: table
+    name: Notes
+    filters:
+      and:
+        - file.inFolder("Notes")
+    order:
+      - file.name
+      - aliases
+      - tags
+      - file.folder
+    columnSize:
+      note.aliases: 257
+  - type: table
+    name: Reference Notes
+    filters:
+      and:
+        - file.inFolder("Reference Notes")
+    order:
+      - file.name
+      - aliases
+      - tags
+      - file.folder
+    columnSize:
+      note.aliases: 257
