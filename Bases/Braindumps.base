@@ -1,0 +1,27 @@
+filters:
+  and:
+    - '!file.name.contains("Table of Contents")'
+    - '!file.name.startsWith("_note_")'
+    - file.folder == "Braindump"
+views:
+  - type: table
+    name: All
+    filters:
+      and:
+        - file.folder == "Braindump"
+    order:
+      - file.name
+      - tags
+      - aliases
+    sort:
+      - property: file.folder
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: file.basename
+        direction: DESC
+  - type: table
+    name: For Review
+    filters:
+      and:
+        - note["for-review"] == true

@@ -8,47 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3d7cd2f567a4c51",
+            "id": "14025e2e5b400a7e",
             "type": "leaf",
             "pinned": true,
             "state": {
+              "type": "bases",
+              "state": {
+                "file": "Bases/Anki.base",
+                "viewName": "Draft"
+              },
+              "pinned": true,
+              "icon": "lucide-table",
+              "title": "Anki"
+            }
+          },
+          {
+            "id": "d56094c1c0a492ed",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design FB Live Comments.md",
+                "file": "Dataviews/Topics/Artificial Intelligence.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Design FB Live Comments"
-            }
-          },
-          {
-            "id": "931966fea0e8cfbd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design FB Live Comments.excalidraw"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Design FB Live Comments"
-            }
-          },
-          {
-            "id": "592fd63fa1786272",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "title": "Artificial Intelligence"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +57,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -80,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "alias",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -697,9 +686,31 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "b3429619636017ec",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "471bbf1a5e67e055",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Dataviews/Topics/Artificial Intelligence.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ],
-        "currentTab": 54
+        "currentTab": 55
       }
     ],
     "direction": "horizontal",
@@ -722,49 +733,55 @@
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "592fd63fa1786272",
+  "active": "d56094c1c0a492ed",
   "lastOpenFiles": [
+    "Dataviews/In Notes folder but not notes tag.md",
+    "Dataviews/Mindmaps.md",
+    "Bases/Mindmaps.base",
+    "Mindmaps/System Design.md",
+    "Dataviews/Reference Notes.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/DynamoDB/-- Table of Contents --.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/CloudFormation/Intrinsic Functions.md",
+    "Dataviews/Has Questions.md",
+    "Bases/Has Questions.base",
+    "Bases/Draft Notes.base",
+    "Dataviews/Draft Notes.md",
+    "Bases/Braindumps.base",
+    "Bases/Untitled.base",
+    "Dataviews/Anki.md",
+    "Braindump/2025-05-18 - Database.md",
+    "Dataviews/Braindumps.md",
+    "Braindump/_note_Braindump.md",
+    "Braindump/2025-05-18 - Backend.md",
+    "Braindump/2025-06-02 - System Design.md",
+    "Braindump/Fundamentals of Database and Backend.excalidraw.md",
+    "Braindump/Backend.md",
+    "Braindump/Approaching System Design Interview.md",
+    "Braindump/Fundamentals of Database Engineering.canvas",
+    "Bases/All.base",
+    "Bases/Anki.base",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design FB Live Comments.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Leetcode.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design FB Live Comments.excalidraw",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Appflow/Basics.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Accounts/_note_Accounts.md",
+    "Bases",
+    "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/--Table of Contents--.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Leetcode.md",
     "Untitled Kanban.md",
     "Notes/Coroutines.md",
     "Notes/Kafka.md",
-    "Local Setup/Windows PC/CLI Tools.md",
-    "Local Setup/Windows PC/Main.md",
-    "Local Setup/Git/Setup for password protected Git SSH keys for VS Code on Windows.md",
-    "Notes/Digital Signatures.md",
-    "Reference Notes/Adrian Cantrill/Cybersecurity/Digital Signatures/Digital Signatures.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Linked Lists.md",
-    "Notes/Monorepo Project Structure.md",
-    "Anki/Security.md",
-    "Anki/Flink.md",
-    "Anki/System Design Numbers.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings.md",
-    "--Obsidian Template--/Frontmatter - Video Reference.md",
-    "--Obsidian Template--/Frontmatter - Reference Notes - Website Article.md",
-    "--Obsidian Template--/Frontmatter - Reference Notes with source.md",
-    "--Obsidian Template--/Frontmatter - Reference Notes - Database Locks.md",
-    "--Obsidian Template--/Frontmatter - Reference Notes.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a File Storage Service Like Dropbox.md",
-    "Reference Notes/System Design Intervifew/_note_System Design Intervifew.md",
-    "Reference Notes/Github - Learn Node.js Hardway/_note_Github - Learn Node.js Hardway.md",
-    "Reference Notes/HelloInterview/_note_HelloInterview.md",
     "Reference Notes/Kt.Academy",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
-    "Reference Notes/The Pragmatic Engineer",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Yelp.excalidraw",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.excalidraw",
     "--Attachments/Pasted image 20250616010430.png",
-    "Reference Notes/Anthropic",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction",
-    "Reference Notes/Leetcode/Data Structures and Algorithms",
-    "Reference Notes/Leetcode",
     "--Attachments/Pasted Image 20250524232947_481.png",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230423234424.png",
     "--Attachments/Pasted image 20250327174725.png",
@@ -773,7 +790,6 @@
     "--Attachments/Pasted image 20250430201657.png",
     "--Attachments/Pasted image 20250430201627.png",
     "--Attachments/Pasted image 20250430201559.png",
-    "--Attachments/System Design Interview – Step By Step GuidePT48M55S.webp",
-    "Braindump/Fundamentals of Database Engineering.canvas"
+    "--Attachments/System Design Interview – Step By Step GuidePT48M55S.webp"
   ]
 }

@@ -3,7 +3,7 @@ tags:
   - guide
   - reference-notes
   - system-design/case-study
-Draft: true
+Draft: false
 source_url: https://www.hellointerview.com/learn/system-design/problem-breakdowns/fb-live-comments
 ---
 

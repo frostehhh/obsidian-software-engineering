@@ -1,10 +1,11 @@
 ---
 tags:
-- notes
-- aws/s3
-aliases: S3
-related-reference-note:: 
-- "[[Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Storage Service/Basics|Basics]]"
+  - notes
+  - aws/s3
+aliases:
+  - S3
+"related-reference-note:":
+  - "[[Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Storage Service/Basics|Basics]]"
 ---
 
 - AWS cloud-based [[Blob Storage]]

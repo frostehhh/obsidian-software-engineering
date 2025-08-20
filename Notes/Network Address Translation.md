@@ -5,9 +5,10 @@ tags:
   - backend
   - communication
 Draft: false
-aliases: NAT
-related-reference-note:: 
- - "[[Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/Network Address Translation/Network Address Translation|Network Address Translation]]"
+aliases:
+  - NAT
+"related-reference-note:":
+  - "[[Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/Network Address Translation/Network Address Translation|Network Address Translation]]"
 ---
 
 # Network Address Translation

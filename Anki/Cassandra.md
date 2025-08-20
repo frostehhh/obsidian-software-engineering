@@ -1,5 +1,6 @@
 ---
-tags: flashcards
+tags:
+  - flashcards
 ---
 
 What is Cassandra and what language does it use for querying?

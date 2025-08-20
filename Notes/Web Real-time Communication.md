@@ -5,8 +5,10 @@ tags:
   - communication
   - networking
 Draft: false
-related-reference-note:: [[WebRTC]]
-aliases: WebRTC
+"related-reference-note:":
+  - - WebRTC
+aliases:
+  - WebRTC
 ---
 
 # WebRTC
