@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.inFolder("Notes/Terraform")
+views:
+  - type: table
+    name: Table
