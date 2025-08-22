@@ -27,6 +27,7 @@
     "Channel": "multitext",
     "opposite": "text",
     "opposite:": "text",
-    "knowledge-confidence-level": "multitext"
+    "knowledge-confidence-level": "multitext",
+    "excalidraw-embed-md": "checkbox"
   }
 }

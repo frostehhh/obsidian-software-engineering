@@ -734,10 +734,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c9e86c4b43b9a499",
+  "active": "2855e88d4deb87ec",
   "lastOpenFiles": [
-    "Notes/AWS/_note_AWS.md",
+    "Notes/API Gateway.md",
     "Notes/Terraform/_note_Terraform.base",
+    "Notes/AWS/_note_AWS.md",
     "Notes/Terraform/_note_Terraform.md",
     "Bases/All.base",
     "Notes/Terraform",
