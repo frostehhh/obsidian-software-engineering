@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Bases/Topics/Guides.base",
+                "file": "Bases/All.base",
                 "viewName": "All"
               },
               "icon": "lucide-table",
-              "title": "Guides"
+              "title": "All"
             }
           }
         ]
@@ -676,8 +676,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -691,9 +691,19 @@
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
+          },
+          {
+            "id": "b7cdd25d0d8b38d3",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 55
+        "currentTab": 57
       }
     ],
     "direction": "horizontal",
@@ -721,23 +731,26 @@
       "obsidian-kanban:Create new board": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false,
-      "markdown-importer:Open format converter": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "c9e86c4b43b9a499",
   "lastOpenFiles": [
-    "Dataviews/In Notes folder but not notes tag.md",
-    "Bases/All.base",
     "Bases/Anki.base",
+    "Bases/All.base",
     "Bases/Braindumps.base",
     "Bases/Draft Notes.base",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Storage Service/S3 Static Website Hosting.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Route 53/DEMO - Registering a Domain.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Route 53/Basics.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Relational Database Service/MultiAZ Deployment Types.md",
+    "Bases/Topics/Guides.base",
+    "Dataviews/In Notes folder but not notes tag.md",
     "Bases/Has Questions.base",
     "Bases/Mindmaps.base",
     "Bases/Topics/System Design.base",
     "Dataviews/Topics/System Design.md",
     "Dataviews/Topics/Guides.md",
-    "Bases/Topics/Guides.base",
     "Dataviews/Topics/Artificial Intelligence.md",
     "Dataviews/Topics/Backend.md",
     "Dataviews/Topics/Database.md",
@@ -758,10 +771,6 @@
     "Braindump/2025-05-18 - Database.md",
     "Dataviews/Braindumps.md",
     "Braindump/_note_Braindump.md",
-    "Braindump/2025-05-18 - Backend.md",
-    "Braindump/2025-06-02 - System Design.md",
-    "Braindump/Fundamentals of Database and Backend.excalidraw.md",
-    "Braindump/Backend.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
     "--Attachments/Pasted image 20250616010430.png",
