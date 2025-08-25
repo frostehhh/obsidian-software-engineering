@@ -702,9 +702,29 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "98c18d8a50b8a843",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "02c01542a87b3714",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
           }
         ],
-        "currentTab": 57
+        "currentTab": 59
       }
     ],
     "direction": "horizontal",
@@ -730,7 +750,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "2855e88d4deb87ec",
+  "active": "02c01542a87b3714",
   "lastOpenFiles": [
     "Notes/API Gateway.md",
     "Notes/Terraform/_note_Terraform.base",
