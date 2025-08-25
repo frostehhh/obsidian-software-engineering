@@ -12,7 +12,7 @@ Zookeeper is a distributed system coordinator that handles:
 - Failure detection
 - Service discovery
 - State management
-<!--SR:!2025-08-25,55,310-->
+<!--SR:!2026-04-18,236,330-->
 +++
 
 What is a ZNode in Zookeeper and how is it organized?
