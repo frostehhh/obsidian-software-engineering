@@ -11,13 +11,14 @@
             "id": "2855e88d4deb87ec",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Notes/Terraform/_note_Terraform.base",
-                "viewName": "Table"
+                "file": "--Properties/knowledge-confidence-level.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "_note_Terraform"
+              "icon": "lucide-file",
+              "title": "knowledge-confidence-level"
             }
           }
         ]
@@ -88,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -729,12 +729,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "d7a9148cceb0b3c9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
-        "currentTab": 60
+        "currentTab": 61
       }
     ],
     "direction": "horizontal",
@@ -757,18 +767,15 @@
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "media-extended:Open media": false,
-      "custom-sort:Toggle custom sorting": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "fc3ec9e39a2f2cfd",
+  "active": "d7a9148cceb0b3c9",
   "lastOpenFiles": [
-    "Notes/API Gateway.md",
+    "Anki/_note_Anki.md",
+    "--Personal Notes--/Random/How do emails work.md",
     "Notes/Terraform/_note_Terraform.base",
+    "Notes/API Gateway.md",
     "Notes/AWS/_note_AWS.md",
     "Notes/Terraform/_note_Terraform.md",
     "Bases/All.base",
@@ -801,8 +808,6 @@
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/CloudFormation/Intrinsic Functions.md",
     "Dataviews/Has Questions.md",
     "Dataviews/Draft Notes.md",
-    "Dataviews/Anki.md",
-    "Braindump/2025-05-18 - Database.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
     "--Attachments/Pasted image 20250616010430.png",

@@ -1,1 +1,0 @@
-It is used to synchronize between source and receiver
