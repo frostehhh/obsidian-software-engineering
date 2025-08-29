@@ -38,17 +38,17 @@
             }
           },
           {
-            "id": "3a769a2e23639277",
+            "id": "ed5e38123fcd5e67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Terraform/Overview.md",
+                "file": "Notes/Terraform/Terraform Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "Terraform Fundamentals"
             }
           }
         ],
@@ -856,14 +856,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3a769a2e23639277",
+  "active": "ed5e38123fcd5e67",
   "lastOpenFiles": [
-    "Notes/Terraform/fdfsfsd.md",
     "Notes/Terraform/_note_Terraform.base",
+    "Notes/Terraform/Terraform Fundamentals.md",
     "Notes/Terraform/Overview.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Facebook News Feed.md",
+    "--Obsidian Template--/Frontmatter - Notes - Terraform.md",
+    "Notes/Terraform/fdfsfsd.md",
     "Reference Notes/HelloInterview/_note_HelloInterview.md",
     "--Attachments/Design Facebook News Feed 2025-08-29 18.06.38.excalidraw.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Facebook News Feed.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Binary Trees.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Linked Lists.md",
@@ -891,8 +893,6 @@
     "Dataviews/Topics/System Design.md",
     "Dataviews/Topics/Guides.md",
     "Dataviews/Topics/Artificial Intelligence.md",
-    "Dataviews/Topics/Backend.md",
-    "Dataviews/Topics/Database.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
     "--Attachments/Pasted image 20250616010430.png",
