@@ -29,6 +29,45 @@
       "type": "file",
       "ctime": 1747390432530,
       "path": "Notes/Message Queue.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1756465090915,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1756465090915,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1756465090915,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1756465090915,
+                  "path": "Notes/Terraform/_note_Terraform.base",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1756465090915,
+                  "path": "Notes/Terraform/fdfsfsd.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1756465090915,
+                  "path": "Notes/Terraform/Overview.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "\\\\Terraform"
+            }
+          ],
+          "title": "\\\\Notes"
+        }
+      ],
+      "title": "sortspec"
     }
   ]
 }

@@ -1,11 +1,11 @@
 ![[Pasted image 20230313012146.png]]
 # Terms
 ## Image
-A template of instructions to create a [[Overview#Container|container]]
+A template of instructions to create a [[Reference Notes/Docker/Overview#Container|container]]
 ## Container
-A runnable instance of an [[Overview#Image|Image]]
+A runnable instance of an [[Reference Notes/Docker/Overview#Image|Image]]
 ## Registry
-Stores docker [[Overview#Image|images]]
+Stores docker [[Reference Notes/Docker/Overview#Image|images]]
 
 
 # References
