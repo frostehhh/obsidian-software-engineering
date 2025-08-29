@@ -26,7 +26,7 @@ A ZNode is an entity handled by Zookeeper that can represent a server or user. Z
     /config
         /max-users
 ```
-<!--SR:!2025-08-29,59,310-->
+<!--SR:!2026-05-09,253,330-->
 +++
 
 What are the three types of ZNodes in Zookeeper?
@@ -51,7 +51,7 @@ What is the difference between read and write operations in Zookeeper?
 ?
 - Reads can be queried from either leader or follower nodes
 - Writes must be directed to leader nodes only
-<!--SR:!2025-08-26,56,310-->
+<!--SR:!2026-04-26,240,330-->
 +++
 
 How does Zookeeper handle service discovery?
