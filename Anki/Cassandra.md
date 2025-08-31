@@ -6,7 +6,7 @@ tags:
 What is Cassandra and what language does it use for querying?
 ?
 Cassandra is an open-source distributed NoSQL Database that uses Cassandra Query Language (CQL), which is similar to SQL but without relational functionalities.
-<!--SR:!2025-08-30,60,310-->
+<!--SR:!2026-05-15,257,330-->
 +++
 
 What are the key components of Cassandra's data model?

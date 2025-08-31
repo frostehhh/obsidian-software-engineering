@@ -21,7 +21,7 @@ What is a Watermark in Flink and what are its configuration options?
 A Watermark is a time signpost signifying data generated before time X. It has two configuration options:
 1. Bounded out-of-orderness - specified time limit for how long Flink will wait for late entries
 2. No watermark - Don't access any late entries
-<!--SR:!2025-08-31,61,310-->
+<!--SR:!2026-05-20,262,330-->
 +++
 
 What are the different types of Windows in Flink?
