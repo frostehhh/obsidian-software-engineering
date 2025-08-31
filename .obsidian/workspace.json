@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "--Obsidian Template--/Frontmatter - Reference Notes with source.md",
-                "mode": "source",
+                "file": "Reference Notes/Terraform/Overview.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frontmatter - Reference Notes with source"
+              "title": "Overview"
             }
           }
         ]
@@ -846,15 +846,16 @@
   },
   "active": "88450b70438a4985",
   "lastOpenFiles": [
+    "Reference Notes/Terraform/Terraform Fundamentals.md",
+    "Reference Notes/Terraform/Overview.md",
+    "Reference Notes/Terraform/_note_Terraform.base",
+    "--Obsidian Template--/Frontmatter - Reference Notes with source.md",
     "Reference Notes/nx/Untitled.md",
     "Reference Notes/_note_Reference Notes.md",
     "Reference Notes/nx",
     "Notes/_note_Notes.md",
     "Notes/AWS/_note_AWS.md",
     "Reference Notes/Adrian Cantrill/_note_Adrian Cantrill.md",
-    "Notes/Terraform/Terraform Fundamentals.md",
-    "Notes/Terraform/_note_Terraform.base",
-    "Notes/Terraform/Overview.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Facebook News Feed.md",
     "--Obsidian Template--/Frontmatter - Notes - Terraform.md",
     "Notes/Terraform/fdfsfsd.md",
@@ -870,16 +871,14 @@
     "Notes/API Gateway.md",
     "Notes/Terraform/_note_Terraform.md",
     "Bases/All.base",
-    "Notes/Terraform",
+    "Reference Notes/Terraform",
     "Bases/Anki.base",
     "Bases/Braindumps.base",
     "Bases/Draft Notes.base",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Storage Service/S3 Static Website Hosting.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Route 53/DEMO - Registering a Domain.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Route 53/Basics.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Relational Database Service/MultiAZ Deployment Types.md",
     "Bases/Topics/Guides.base",
-    "Dataviews/In Notes folder but not notes tag.md",
     "Bases/Has Questions.base",
     "Bases/Mindmaps.base",
     "Braindump/Fundamentals of Database Engineering.canvas",

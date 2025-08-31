@@ -1,6 +1,6 @@
 ---
 tags:
-  - notes
+  - reference-notes
   - terraform
   - infrastructure
   - infrastructure-as-code
