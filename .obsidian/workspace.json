@@ -809,12 +809,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "56eff71ce414515a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 68
+        "currentTab": 69
       }
     ],
     "direction": "horizontal",
@@ -844,7 +854,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "88450b70438a4985",
+  "active": "56eff71ce414515a",
   "lastOpenFiles": [
     "Reference Notes/Terraform/Terraform Fundamentals.md",
     "Reference Notes/Terraform/Overview.md",
