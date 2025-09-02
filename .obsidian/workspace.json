@@ -8,18 +8,51 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88450b70438a4985",
+            "id": "6f74535c9afbbb9e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/--Table of Contents--.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "--Table of Contents--"
+            }
+          },
+          {
+            "id": "d74785dbad596932",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Scratchpads/LexClaude/Support Workspace MVP.excalidraw"
+                "file": "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Support Workspace MVP"
+              "icon": "lucide-file",
+              "title": "Sizing and Structure"
+            }
+          },
+          {
+            "id": "8de88dead9ac6b13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Cloudfront/Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Architecture"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "F",
+                "query": "virtual private server",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +120,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -830,9 +864,19 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "73145c7d0b72cb5e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 70
+        "currentTab": 71
       }
     ],
     "direction": "horizontal",
@@ -854,13 +898,32 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "88450b70438a4985",
+  "active": "fa87c464967a6005",
   "lastOpenFiles": [
-    "Scratchpads/LexClaude/Support Workspace MVP.excalidraw",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Cloudfront/--Table of Contents--.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Routing, Internet gateway & Bastion.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Custom VPCs.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/--Table of Contents--.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Encryption.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Basics.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/--Table of Contents--.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/General Purpose SSD.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Architecture.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Amazon Machine Image.md",
     "Scratchpads/_note_Scratchpads.md",
+    "Scratchpads/LexClaude/Support Workspace MVP.excalidraw",
     "Scratchpads/LexClaude",
     "--Obsidian Template--/Template Architecture.excalidraw",
     "--Obsidian Template--/Untitled.md",
@@ -877,23 +940,10 @@
     "Reference Notes/Adrian Cantrill/_note_Adrian Cantrill.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Facebook News Feed.md",
     "--Obsidian Template--/Frontmatter - Notes - Terraform.md",
-    "Notes/Terraform/fdfsfsd.md",
-    "Reference Notes/HelloInterview/_note_HelloInterview.md",
-    "--Attachments/Design Facebook News Feed 2025-08-29 18.06.38.excalidraw.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Binary Trees.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Linked Lists.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/_note_Data Structures and Algorithms.md",
-    "Anki/_note_Anki.md",
-    "--Personal Notes--/Random/How do emails work.md",
-    "Notes/API Gateway.md",
-    "Notes/Terraform/_note_Terraform.md",
     "Bases/All.base",
     "Reference Notes/Terraform",
     "Bases/Anki.base",
     "Bases/Braindumps.base",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Storage Service/S3 Static Website Hosting.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
     "--Attachments/Pasted image 20250616010430.png",
