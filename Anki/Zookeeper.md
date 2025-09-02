@@ -34,7 +34,7 @@ What are the three types of ZNodes in Zookeeper?
 1. Persistent - Exists until manually deleted
 2. Ephemeral - Short-lived nodes that exist only during the active session that created them
 3. Sequential - Nodes with incrementing IDs
-<!--SR:!2025-09-02,63,310-->
+<!--SR:!2026-03-16,195,310-->
 +++
 
 How does Zookeeper handle leader election?
