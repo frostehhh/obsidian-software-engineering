@@ -817,8 +817,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
@@ -844,18 +844,13 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "media-extended:Open media": false
     }
   },
   "active": "88450b70438a4985",
   "lastOpenFiles": [
-    "Scratchpads/_note_Scratchpads.md",
     "Scratchpads/LexClaude/Support Workspace MVP.excalidraw",
+    "Scratchpads/_note_Scratchpads.md",
     "Scratchpads/LexClaude",
     "--Obsidian Template--/Template Architecture.excalidraw",
     "--Obsidian Template--/Untitled.md",
@@ -889,7 +884,6 @@
     "Bases/Anki.base",
     "Bases/Braindumps.base",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Storage Service/S3 Static Website Hosting.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Route 53/DEMO - Registering a Domain.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
     "--Attachments/Pasted image 20250616010430.png",
