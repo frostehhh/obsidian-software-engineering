@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "virtual private server",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,8 +120,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -906,8 +905,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fa87c464967a6005",
+  "active": "a597928d9dd6737b",
   "lastOpenFiles": [
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Cloudfront/Architecture.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Cloudfront/--Table of Contents--.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Routing, Internet gateway & Bastion.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Custom VPCs.md",
@@ -939,7 +939,6 @@
     "Notes/AWS/_note_AWS.md",
     "Reference Notes/Adrian Cantrill/_note_Adrian Cantrill.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Facebook News Feed.md",
-    "--Obsidian Template--/Frontmatter - Notes - Terraform.md",
     "Bases/All.base",
     "Reference Notes/Terraform",
     "Bases/Anki.base",
