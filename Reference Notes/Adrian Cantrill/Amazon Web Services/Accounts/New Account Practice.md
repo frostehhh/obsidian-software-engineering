@@ -1,3 +1,12 @@
+---
+tags:
+  - guide
+  - aws
+  - aws/iam
+  - reference-notes
+---
+
+
 - Use a `-ENVIRONMENT_NAME` naming convention especially when multiple environments are needed
 # Add Multi-Factor Authentication(MFA)
 	- Access under Security Credentials

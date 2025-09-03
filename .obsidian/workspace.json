@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Network Address Translation and NAT Gateways.md",
-                "mode": "source",
+                "file": "Reference Notes/Adrian Cantrill/Amazon Web Services/Accounts/New Account Practice.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Address Translation and NAT Gateways"
+              "title": "New Account Practice"
             }
           }
         ],
@@ -915,8 +915,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "23e8bbefaa77e011",
+  "active": "8de88dead9ac6b13",
   "lastOpenFiles": [
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Accounts/_note_Accounts.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Network Address Translation and NAT Gateways.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Cloudfront/Architecture.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Cloudfront/--Table of Contents--.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Routing, Internet gateway & Bastion.md",
@@ -947,8 +949,6 @@
     "Reference Notes/nx",
     "Notes/_note_Notes.md",
     "Notes/AWS/_note_AWS.md",
-    "Reference Notes/Adrian Cantrill/_note_Adrian Cantrill.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Facebook News Feed.md",
     "Bases/All.base",
     "Reference Notes/Terraform",
     "Bases/Anki.base",
