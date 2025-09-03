@@ -24,31 +24,33 @@
             }
           },
           {
-            "id": "d74785dbad596932",
+            "id": "8de88dead9ac6b13",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Network Access Control Lists(NACL).md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Network Access Control Lists(NACL)"
+            }
+          },
+          {
+            "id": "926b7e1d5a2e720e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md",
+                "file": "Notes/AWS/Services/S3/Bucket.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sizing and Structure"
-            }
-          },
-          {
-            "id": "8de88dead9ac6b13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Adrian Cantrill/Amazon Web Services/Accounts/New Account Practice.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "New Account Practice"
+              "title": "Bucket"
             }
           }
         ],
@@ -84,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nacl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -915,16 +917,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8de88dead9ac6b13",
+  "active": "926b7e1d5a2e720e",
   "lastOpenFiles": [
+    "Notes/AWS/Services/S3/Key.md",
+    "Notes/AWS/Services/S3/Bucket.md",
+    "Notes/AWS/DynamoDB.md",
+    "Notes/AWS/_note_AWS.md",
+    "Notes/AWS/Services",
+    "Notes/AWS/Edge Location.md",
+    "Notes/AWS/Services/API Gateway/API Gateway.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Network Access Control Lists(NACL).md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/--Table of Contents--.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Security Groups.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Accounts/New Account Practice.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Accounts/_note_Accounts.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Network Address Translation and NAT Gateways.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Cloudfront/Architecture.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Cloudfront/--Table of Contents--.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Routing, Internet gateway & Bastion.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Custom VPCs.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/--Table of Contents--.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
@@ -934,25 +946,15 @@
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/General Purpose SSD.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Architecture.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Amazon Machine Image.md",
-    "Scratchpads/_note_Scratchpads.md",
     "Scratchpads/LexClaude/Support Workspace MVP.excalidraw",
     "Scratchpads/LexClaude",
     "--Obsidian Template--/Template Architecture.excalidraw",
-    "--Obsidian Template--/Untitled.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.excalidraw",
-    "Reference Notes/Terraform/Overview.md",
-    "Reference Notes/Terraform/Terraform Fundamentals.md",
     "Reference Notes/Terraform/_note_Terraform.base",
-    "--Obsidian Template--/Frontmatter - Reference Notes with source.md",
-    "Reference Notes/nx/Untitled.md",
-    "Reference Notes/_note_Reference Notes.md",
     "Reference Notes/nx",
-    "Notes/_note_Notes.md",
-    "Notes/AWS/_note_AWS.md",
     "Bases/All.base",
     "Reference Notes/Terraform",
     "Bases/Anki.base",
-    "Bases/Braindumps.base",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
     "--Attachments/Pasted image 20250616010430.png",
