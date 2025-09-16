@@ -888,12 +888,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "fed7bf5d15e134bc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 74
+        "currentTab": 75
       }
     ],
     "direction": "horizontal",
@@ -923,7 +933,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "18bcfd822f4d7c12",
+  "active": "fed7bf5d15e134bc",
   "lastOpenFiles": [
     "Notes/AWS/Services/S3/Key.md",
     "Notes/AWS/Services/S3/Bucket.md",

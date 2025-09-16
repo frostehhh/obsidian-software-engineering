@@ -67,7 +67,7 @@ Service discovery in Zookeeper works through:
 When should you choose Zookeeper over Redis for distributed locks?
 ?
 Choose Zookeeper when you don't need high-performance requirements for high-speed lock changes (less than 100 locks per second). Redis is better for high-frequency lock operations.
-<!--SR:!2025-09-03,64,310-->
+<!--SR:!2026-06-19,275,330-->
 +++
 
 How does Zookeeper handle session management?
