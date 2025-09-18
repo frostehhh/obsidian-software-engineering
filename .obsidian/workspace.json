@@ -925,9 +925,19 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "787e517a29a02bf1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 76
+        "currentTab": 77
       }
     ],
     "direction": "horizontal",
@@ -949,10 +959,15 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "8de88dead9ac6b13",
+  "active": "787e517a29a02bf1",
   "lastOpenFiles": [
     "Reference Notes/Leetcode/Data Structures and Algorithms/Binary Trees.md",
     "Reference Notes/Leetcode/_note_Leetcode.md",
