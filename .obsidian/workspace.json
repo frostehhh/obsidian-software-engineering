@@ -24,19 +24,17 @@
             }
           },
           {
-            "id": "8de88dead9ac6b13",
+            "id": "87190ffa4eca7195",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Network Access Control Lists(NACL).md",
-                "mode": "preview",
+                "file": "Reference Notes/Leetcode/Data Structures and Algorithms/_note_Data Structures and Algorithms.md",
+                "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Network Access Control Lists(NACL)"
+              "title": "_note_Data Structures and Algorithms"
             }
           }
         ],
@@ -948,12 +946,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "9ca164f38e42d857",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 80
+        "currentTab": 81
       }
     ],
     "direction": "horizontal",
@@ -983,20 +991,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9df758df795540a3",
+  "active": "c9e86c4b43b9a499",
   "lastOpenFiles": [
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Binary Trees.md",
-    "Reference Notes/Leetcode/_note_Leetcode.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Linked Lists.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Additional Notes.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Introduction to Big O.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Introduction to Recursion.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/_note_Data Structures and Algorithms.md",
-    "Notes/AWS/_note_AWS.md",
+    "Reference Notes/Leetcode/_note_Leetcode.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/--Table of Contents--.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Network Access Control Lists(NACL).md",
+    "Notes/AWS/_note_AWS.md",
     "Notes/AWS/Services/S3/Key.md",
     "Notes/AWS/Services/S3/Bucket.md",
     "Notes/AWS/DynamoDB.md",
     "Notes/AWS/Services",
     "Notes/AWS/Edge Location.md",
     "Notes/AWS/Services/API Gateway/API Gateway.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/--Table of Contents--.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Sizing and Structure.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Security Groups.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Accounts/New Account Practice.md",
@@ -1006,12 +1020,6 @@
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Cloudfront/--Table of Contents--.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Routing, Internet gateway & Bastion.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Custom VPCs.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Encryption.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Basics.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Volume Types/--Table of Contents--.md",
     "Scratchpads/LexClaude/Support Workspace MVP.excalidraw",
     "Scratchpads/LexClaude",
     "--Obsidian Template--/Template Architecture.excalidraw",
