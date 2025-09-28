@@ -986,12 +986,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "1fe8ac82a2f470f4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 84
+        "currentTab": 85
       }
     ],
     "direction": "horizontal",
@@ -1021,7 +1031,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bc86a6221cb8e72a",
+  "active": "1fe8ac82a2f470f4",
   "lastOpenFiles": [
     "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Binary Trees.md",
