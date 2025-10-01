@@ -27,12 +27,14 @@
             "id": "f0505435deb1732a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "--Attachments/Design Facebook News Feed 2025-08-29 18.06.38.excalidraw.md"
+                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Design Facebook News Feed 2025-08-29 18.06.38.excalidraw"
+              "icon": "lucide-file",
+              "title": "Cassandra"
             }
           }
         ],
@@ -68,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "durability",
+                "query": "least fre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +106,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -1039,10 +1042,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f0505435deb1732a",
+  "active": "fa87c464967a6005",
   "lastOpenFiles": [
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Facebook News Feed.md",
+    "Reference Notes/HelloInterview/System Design/Key Technologies/DynamoDB.md",
+    "Notes/AWS/DynamoDB.md",
+    "Notes/DynamoDB vs Cassandra.md",
+    "Reference Notes/Github - donnemartin system-design-primer/Database.md",
+    "Notes/Apache/Cassandra.md",
+    "Anki/Cassandra.md",
     "--Attachments/Design Facebook News Feed 2025-08-29 18.06.38.excalidraw.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Facebook News Feed.md",
     "Reference Notes/System Design Interview/System Design Interview – Step By Step Guide.md",
     "Reference Notes/Untitled.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
@@ -1063,12 +1072,6 @@
     "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Additional Notes.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Introduction to Big O.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Introduction to Recursion.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/_note_Data Structures and Algorithms.md",
-    "Reference Notes/Leetcode/_note_Leetcode.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/--Table of Contents--.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Network Access Control Lists(NACL).md",
-    "Notes/AWS/_note_AWS.md",
-    "Notes/AWS/Services/S3/Key.md",
     "Notes/AWS/Services",
     "Scratchpads/LexClaude",
     "--Obsidian Template--/Template Architecture.excalidraw",
