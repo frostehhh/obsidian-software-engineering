@@ -47,3 +47,12 @@ GET /feed - 200 - Post[]
 ![[Design Facebook News Feed 2025-08-29 18.06.38.excalidraw]]
 
 # Deep Dives
+
+## How do we handle users who are following a large number of users?
+## How do we handle users with a large number of followers?
+## How can we handle uneven reads of Posts?
+
+# Questions
+- What if a user follows a lot of users?
+- What if we use PostgreSQL?
+- 

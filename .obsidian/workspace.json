@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "Design Facebook News Feed"
             }
-          },
-          {
-            "id": "f0505435deb1732a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cassandra"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -1010,9 +995,19 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "3190b3a15179f07e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 86
+        "currentTab": 87
       }
     ],
     "direction": "horizontal",
@@ -1034,11 +1029,17 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "fa87c464967a6005",
+  "active": "a6ac701bc4c7bdea",
   "lastOpenFiles": [
+    "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/DynamoDB.md",
     "Notes/AWS/DynamoDB.md",
     "Notes/DynamoDB vs Cassandra.md",
@@ -1066,7 +1067,6 @@
     "Reference Notes/Leetcode/Data Structures and Algorithms/Linked Lists.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Additional Notes.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Introduction to Big O.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Introduction to Recursion.md",
     "Notes/AWS/Services",
     "Scratchpads/LexClaude",
     "--Obsidian Template--/Template Architecture.excalidraw",
