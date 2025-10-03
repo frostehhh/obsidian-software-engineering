@@ -24,19 +24,35 @@
             }
           },
           {
-            "id": "699b30b71b80fda9",
+            "id": "fce06d1db8e6ff0f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalibrain/excalibrain.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "excalibrain"
+            }
+          },
+          {
+            "id": "ed97c5113aef728d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Notes/REST API.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "REST API"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,8 +84,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "least fre",
-                "matchingCase": false,
+                "query": "URI",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -109,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.0026054382324
+    "width": 438.0026054382324
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -1060,8 +1076,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5037f1beee471c20",
+  "active": "ed97c5113aef728d",
   "lastOpenFiles": [
+    "Notes/Representational State Transfer.md",
+    "Notes/REST API.md",
+    "Notes/Uniform Resource Identifier.md",
+    "Excalibrain/excalibrain.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Facebook News Feed.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/DynamoDB.md",
     "Notes/AWS/DynamoDB.md",
@@ -1070,7 +1091,6 @@
     "Notes/Apache/Cassandra.md",
     "Anki/Cassandra.md",
     "--Attachments/Design Facebook News Feed 2025-08-29 18.06.38.excalidraw.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Facebook News Feed.md",
     "Reference Notes/System Design Interview/System Design Interview – Step By Step Guide.md",
     "Reference Notes/Untitled.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
@@ -1086,10 +1106,6 @@
     "Scratchpads/LexClaude/Support Workspace MVP.excalidraw",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Binary Trees.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Linked Lists.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Additional Notes.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Introduction to Big O.md",
     "Notes/AWS/Services",
     "Scratchpads/LexClaude",
     "--Obsidian Template--/Template Architecture.excalidraw",

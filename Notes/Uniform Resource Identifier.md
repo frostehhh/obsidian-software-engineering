@@ -7,6 +7,7 @@ tags:
   - communication
 "Friend:":
   - "[[Representational State Transfer|REST]]"
+  - "[[REST API|RESTful API]]"
 ---
 
 # Definition

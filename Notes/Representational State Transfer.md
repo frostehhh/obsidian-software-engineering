@@ -24,3 +24,4 @@ A software architectural style for designing applications
 # See Also
 https://en.wikipedia.org/wiki/Software_architecture#Software_architecture_style_vs._software_architecture_pattern
 https://en.wikipedia.org/wiki/REST
+https://restfulapi.net/
