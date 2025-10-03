@@ -22,8 +22,21 @@
               "icon": "lucide-file",
               "title": "Design Facebook News Feed"
             }
+          },
+          {
+            "id": "699b30b71b80fda9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -1002,8 +1015,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
@@ -1029,15 +1042,10 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "media-extended:Open media": false
     }
   },
-  "active": "a6ac701bc4c7bdea",
+  "active": "699b30b71b80fda9",
   "lastOpenFiles": [
     "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/DynamoDB.md",

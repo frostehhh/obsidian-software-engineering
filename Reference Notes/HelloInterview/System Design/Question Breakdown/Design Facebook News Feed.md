@@ -55,4 +55,4 @@ GET /feed - 200 - Post[]
 # Questions
 - What if a user follows a lot of users?
 - What if we use PostgreSQL?
-- 
+- How do we reason out to use dynamodb?
