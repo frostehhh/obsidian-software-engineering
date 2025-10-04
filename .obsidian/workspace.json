@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/REST API.md",
-                "mode": "preview",
+                "file": "Reference Notes/Terraform/Terraform Fundamentals.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "REST API"
+              "title": "Terraform Fundamentals"
             }
           }
         ],
@@ -120,8 +120,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -1051,12 +1050,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "c61c8a126cb7c646",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 89
+        "currentTab": 90
       }
     ],
     "direction": "horizontal",
@@ -1086,10 +1095,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fa87c464967a6005",
+  "active": "ed97c5113aef728d",
   "lastOpenFiles": [
-    "Notes/Representational State Transfer.md",
+    "Reference Notes/Terraform/Overview.md",
+    "Reference Notes/Terraform/_note_Terraform.base",
     "Notes/REST API.md",
+    "Notes/Representational State Transfer.md",
     "Notes/Uniform Resource Identifier.md",
     "Excalibrain/excalibrain.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Facebook News Feed.md",
@@ -1115,12 +1126,10 @@
     "Scratchpads/Pastebin system design.md",
     "Scratchpads/LexClaude/Support Workspace MVP.excalidraw",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Binary Trees.md",
     "Notes/AWS/Services",
     "Scratchpads/LexClaude",
     "--Obsidian Template--/Template Architecture.excalidraw",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.excalidraw",
-    "Reference Notes/Terraform/_note_Terraform.base",
     "Reference Notes/nx",
     "Bases/All.base",
     "Reference Notes/Terraform",
