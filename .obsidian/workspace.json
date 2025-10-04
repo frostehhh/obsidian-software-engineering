@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "URI",
+                "query": "attention re",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -1041,12 +1041,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "4f7a34666fa14bd2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 88
+        "currentTab": 89
       }
     ],
     "direction": "horizontal",
@@ -1076,7 +1086,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed97c5113aef728d",
+  "active": "fa87c464967a6005",
   "lastOpenFiles": [
     "Notes/Representational State Transfer.md",
     "Notes/REST API.md",
