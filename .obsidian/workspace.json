@@ -41,14 +41,13 @@
             "id": "ed97c5113aef728d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Reference Notes/Terraform/Terraform Fundamentals.md",
-                "mode": "source",
-                "source": false
+                "file": "Bases/Draft Notes.base",
+                "viewName": "All"
               },
-              "icon": "lucide-file",
-              "title": "Terraform Fundamentals"
+              "icon": "lucide-table",
+              "title": "Draft Notes"
             }
           }
         ],
@@ -1097,6 +1096,10 @@
   },
   "active": "ed97c5113aef728d",
   "lastOpenFiles": [
+    "Bases/Braindumps.base",
+    "Bases/Anki.base",
+    "Bases/Draft Notes.base",
+    "Reference Notes/Terraform/Terraform Fundamentals.md",
     "Reference Notes/Terraform/Overview.md",
     "Reference Notes/Terraform/_note_Terraform.base",
     "Notes/REST API.md",
@@ -1123,17 +1126,13 @@
     "Reference Notes/System Design Interview/_note_System Design Interview.md",
     "Scratchpads/_note_Scratchpads.md",
     "Scratchpads/Scratchpad - System Design.md",
-    "Scratchpads/Pastebin system design.md",
     "Scratchpads/LexClaude/Support Workspace MVP.excalidraw",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings.md",
     "Notes/AWS/Services",
     "Scratchpads/LexClaude",
     "--Obsidian Template--/Template Architecture.excalidraw",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.excalidraw",
     "Reference Notes/nx",
     "Bases/All.base",
-    "Reference Notes/Terraform",
-    "Bases/Anki.base",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
     "--Attachments/Pasted image 20250616010430.png",
     "--Attachments/Pasted Image 20250524232947_481.png",
