@@ -1059,12 +1059,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "b9c975ccfeb7405a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 90
+        "currentTab": 91
       }
     ],
     "direction": "horizontal",
@@ -1094,7 +1104,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed97c5113aef728d",
+  "active": "b9c975ccfeb7405a",
   "lastOpenFiles": [
     "Bases/Braindumps.base",
     "Bases/Anki.base",
