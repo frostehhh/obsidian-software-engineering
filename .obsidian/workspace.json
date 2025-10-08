@@ -1072,9 +1072,19 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "1ef5a89f519af43b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
           }
         ],
-        "currentTab": 91
+        "currentTab": 92
       }
     ],
     "direction": "horizontal",
@@ -1099,7 +1109,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "ed97c5113aef728d",
+  "active": "1ef5a89f519af43b",
   "lastOpenFiles": [
     "Bases/Braindumps.base",
     "Bases/Anki.base",
