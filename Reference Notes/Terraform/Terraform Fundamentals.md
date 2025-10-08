@@ -12,3 +12,9 @@ Draft: true
 - data
 - resource
 - terraform
+- locals
+- variable
+
+# References
+https://developer.hashicorp.com/terraform/language/style#style-guide
+https://developer.hashicorp.com/terraform/language/block/check - API Reference section

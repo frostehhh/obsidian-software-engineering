@@ -8,50 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a6ac701bc4c7bdea",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Facebook News Feed.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Design Facebook News Feed"
-            }
-          },
-          {
-            "id": "fce06d1db8e6ff0f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalibrain/excalibrain.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "excalibrain"
-            }
-          },
-          {
             "id": "ed97c5113aef728d",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Bases/Draft Notes.base",
-                "viewName": "All"
+                "file": "Reference Notes/Terraform/Terraform Fundamentals.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Draft Notes"
+              "icon": "lucide-file",
+              "title": "Terraform Fundamentals"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -1082,9 +1052,19 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "ed5d6a4f603941c7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 92
+        "currentTab": 93
       }
     ],
     "direction": "horizontal",
@@ -1106,16 +1086,21 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "1ef5a89f519af43b",
+  "active": "ed97c5113aef728d",
   "lastOpenFiles": [
+    "Reference Notes/Terraform/Overview.md",
+    "Bases/Draft Notes.base",
     "Bases/Braindumps.base",
     "Bases/Anki.base",
-    "Bases/Draft Notes.base",
     "Reference Notes/Terraform/Terraform Fundamentals.md",
-    "Reference Notes/Terraform/Overview.md",
     "Reference Notes/Terraform/_note_Terraform.base",
     "Notes/REST API.md",
     "Notes/Representational State Transfer.md",
@@ -1147,7 +1132,6 @@
     "--Obsidian Template--/Template Architecture.excalidraw",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.excalidraw",
     "Reference Notes/nx",
-    "Bases/All.base",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
     "--Attachments/Pasted image 20250616010430.png",
     "--Attachments/Pasted Image 20250524232947_481.png",
