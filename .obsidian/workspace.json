@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Terraform/Terraform Fundamentals.md",
+                "file": "Reference Notes/Leetcode/Data Structures and Algorithms/Binary Trees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terraform Fundamentals"
+              "title": "Binary Trees"
             }
           }
         ]
@@ -1062,9 +1062,19 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "c09a11f45e934747",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 93
+        "currentTab": 94
       }
     ],
     "direction": "horizontal",
@@ -1086,13 +1096,19 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "ed97c5113aef728d",
+  "active": "c09a11f45e934747",
   "lastOpenFiles": [
-    "Reference Notes/Scaling Mailbox - From 0 to One Million Users in 6 Weeks and 100 Million Messages Per Day.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/_note_Data Structures and Algorithms.md",
     "Reference Notes/Terraform/Terraform Fundamentals.md",
+    "Reference Notes/Scaling Mailbox - From 0 to One Million Users in 6 Weeks and 100 Million Messages Per Day.md",
     "Reference Notes/Terraform/Overview.md",
     "Bases/Draft Notes.base",
     "Bases/Braindumps.base",
@@ -1121,7 +1137,6 @@
     "Reference Notes/Hussein Nasser/_note_Hussein Nasser.md",
     "Reference Notes/System Design Interview/_note_System Design Interview.md",
     "Scratchpads/_note_Scratchpads.md",
-    "Scratchpads/Scratchpad - System Design.md",
     "Scratchpads/LexClaude/Support Workspace MVP.excalidraw",
     "Notes/AWS/Services",
     "Scratchpads/LexClaude",

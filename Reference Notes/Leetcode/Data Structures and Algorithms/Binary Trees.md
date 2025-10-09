@@ -22,3 +22,5 @@ Draft: true
 - Postorder
 
 # Breadth-first Search
+- Searches from top to bottom
+
