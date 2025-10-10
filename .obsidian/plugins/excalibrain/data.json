@@ -244,7 +244,6 @@
     "related-mind-map": {}
   },
   "navigationHistory": [
-    "Notes/GraphQL.md",
     "Notes/API Gateway.md",
     "Notes/API Versioning.md",
     "Notes/Asynchronous.md",
@@ -289,11 +288,12 @@
     "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md",
     "Notes/IP Address.md",
     "Notes/Internet Protocol.md",
-    "Notes/Classless Inter-domain Routing.md",
     "Notes/Subnet Mask.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/CloudFormation/Intrinsic Functions.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
-    "Notes/Variable-Length Subnet Masking.md"
+    "Notes/Variable-Length Subnet Masking.md",
+    "Notes/Classless Inter-domain Routing.md",
+    "Notes/AWS/Services/VPC/Virtual Private Cloud.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "--p",
