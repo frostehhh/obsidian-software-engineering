@@ -4,37 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "7975161c056386ae",
+        "id": "a4d5309ccee90cc0",
         "type": "tabs",
         "children": [
           {
-            "id": "ed97c5113aef728d",
+            "id": "9afd4a1cc7e45d49",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Internet Protocol.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Internet Protocol"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c95748e55cc92157",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1146cd4707435e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Leetcode/Data Structures and Algorithms/Binary Trees.md",
+                "file": "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/CloudFormation/Intrinsic Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary Trees"
+              "title": "Intrinsic Functions"
             }
           },
           {
-            "id": "baf563d0d0a73146",
+            "id": "f836c2de1cb92b26",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Bases/Mindmaps.base",
-                "viewName": "All"
+                "file": "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Mindmaps"
+              "icon": "lucide-file",
+              "title": "Basics"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,9 +90,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "attention re",
-                "matchingCase": true,
-                "explainSearch": false,
+                "query": "\"cidr\"",
+                "matchingCase": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -102,7 +126,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -1127,10 +1152,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed97c5113aef728d",
+  "active": "9afd4a1cc7e45d49",
   "lastOpenFiles": [
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/CloudFormation/Intrinsic Functions.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
+    "Notes/Internet Protocol.md",
+    "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/IP Addressing/IP Addressing.md",
+    "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/IP Addressing/IPv4 Addressing/IPv4 Address Space.md",
+    "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/IP Subnetting.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/ACID-Updated.pdf",
+    "Notes/IP Packet.md",
+    "Notes/Internet Control Message Protocol.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Binary Trees.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/LeetCode - DS & Algorithms Mindmap.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Linked Lists.md",
@@ -1152,20 +1186,11 @@
     "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/DynamoDB.md",
     "Notes/AWS/DynamoDB.md",
-    "Notes/DynamoDB vs Cassandra.md",
-    "Reference Notes/Github - donnemartin system-design-primer/Database.md",
-    "Notes/Apache/Cassandra.md",
-    "Anki/Cassandra.md",
-    "--Attachments/Design Facebook News Feed 2025-08-29 18.06.38.excalidraw.md",
-    "Reference Notes/System Design Interview/System Design Interview – Step By Step Guide.md",
-    "Reference Notes/Untitled.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
     "Scratchpads/LexClaude/Support Workspace MVP.excalidraw",
     "Notes/AWS/Services",
     "Scratchpads/LexClaude",
     "--Obsidian Template--/Template Architecture.excalidraw",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.excalidraw",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
     "--Attachments/Pasted image 20250616010430.png",
     "--Attachments/Pasted Image 20250524232947_481.png",
