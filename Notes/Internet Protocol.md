@@ -14,7 +14,7 @@ This is a protocol responsible for routing and addressing [[Notes/IP Packet]]
 # IP Address
 - Layer 3 property
 - Can be set automatically or statically
-- Contains network and host portion
+- Contains **network** and **host** portion
 # Network
 - In an IPv4 address, the format is like x.x.x.x where x is any number from 0 - 255. Dotted decimal notation
 - Given an IP address 192.168.1.0/24. This is a subnet
