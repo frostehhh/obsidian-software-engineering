@@ -244,13 +244,6 @@
     "related-mind-map": {}
   },
   "navigationHistory": [
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Getting started with indexing.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Index Scan vs Index Only Scan.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Key vs Non-key column database indexing.md",
-    "Notes/B-Tree and B+ Tree.md",
-    "Notes/Database Replication.md",
-    "Notes/Grafana.md",
-    "Notes/gRPC.md",
     "Notes/GraphQL.md",
     "Notes/API Gateway.md",
     "Notes/API Versioning.md",
@@ -293,7 +286,14 @@
     "Notes/Apache/Cassandra.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Zookeeper.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md"
+    "Reference Notes/HelloInterview/System Design/Key Technologies/Flink.md",
+    "Notes/IP Address.md",
+    "Notes/Internet Protocol.md",
+    "Notes/Classless Inter-domain Routing.md",
+    "Notes/Subnet Mask.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/CloudFormation/Intrinsic Functions.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
+    "Notes/Variable-Length Subnet Masking.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "--p",

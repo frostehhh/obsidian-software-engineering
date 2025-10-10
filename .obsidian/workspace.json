@@ -54,44 +54,50 @@
               "icon": "lucide-file",
               "title": "Variable-Length Subnet Masking"
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "63638d450f9c9532",
+        "type": "tabs",
+        "children": [
           {
-            "id": "31576b6d05606c3f",
+            "id": "232c2c59d7730858",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Subnet Mask.md",
+                "file": "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subnet Mask"
+              "title": "Basics"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "c95748e55cc92157",
         "type": "tabs",
         "children": [
           {
-            "id": "c1146cd4707435e2",
+            "id": "8aff93e91ca9d7ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/CloudFormation/Intrinsic Functions.md",
+                "file": "Reference Notes/Adrian Cantrill/Amazon Web Services/Fundamentals/--Table of Contents--.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intrinsic Functions"
+              "title": "--Table of Contents--"
             }
           },
           {
-            "id": "6247668370d4fbcf",
+            "id": "5357676b09695c2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -137,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"vpc\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -1199,15 +1205,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "31576b6d05606c3f",
+  "active": "5357676b09695c2b",
   "lastOpenFiles": [
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Fundamentals/--Table of Contents--.md",
     "Notes/Variable-Length Subnet Masking.md",
+    "Excalibrain/excalibrain.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/CloudFormation/Intrinsic Functions.md",
     "Notes/Subnet Mask.md",
     "Notes/Classless Inter-domain Routing.md",
     "Notes/Internet Protocol.md",
+    "Notes/IP Address.md",
     "Notes/_note_Notes.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/CloudFormation/Intrinsic Functions.md",
     "Scratchpads/Pastebin system design.md",
     "Scratchpads/Scratchpad - System Design.md",
     "Scratchpads/LexClaude/Support Workspace MVP.excalidraw",
@@ -1227,13 +1236,10 @@
     "Mindmaps/_note_Mindmaps.md",
     "Reference Notes/Terraform/Terraform Fundamentals.md",
     "Reference Notes/Scaling Mailbox - From 0 to One Million Users in 6 Weeks and 100 Million Messages Per Day.md",
-    "Reference Notes/Terraform/Overview.md",
     "Bases/Draft Notes.base",
     "Bases/Braindumps.base",
     "Bases/Anki.base",
     "Reference Notes/Terraform/_note_Terraform.base",
-    "Notes/REST API.md",
-    "Notes/Representational State Transfer.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "Notes/AWS/Services",
     "Scratchpads/LexClaude",

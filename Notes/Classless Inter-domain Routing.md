@@ -4,16 +4,13 @@ aliases:
 tags:
   - networking
   - notes
-Friend:: 
+"Friend:":
   - "[[Notes/Internet Protocol|Internet Protocol]]"
+  - "[[IP Address]]"
 ---
 
 # What is Classless Inter-domain Routing
 - A method for dividing a network into subnets using Variable-length subnet masking
-
-
-- CIDR Block
-- CIDR Notation
 
 # CIDR Block
 A collection of IP Address that share the same network bits
@@ -31,4 +28,6 @@ Class C - 24 network bits
 
 Limitations of Classful IP Addressing
 - Fixed network sizes and results to wastage of IP Addresses
-- 
+
+# References
+https://aws.amazon.com/what-is/cidr/

@@ -1,5 +1,7 @@
 ---
 aliases: [VPC Basics]
+Friend:: 
+  - "[[Classless Inter-domain Routing|CIDR]]"
 ---
 
 
