@@ -2,7 +2,9 @@ filters:
   and:
     - '!file.name.contains("Table of Contents")'
     - '!file.name.startsWith("_note_")'
-    - file.folder.startsWith("Mindmaps")
+    - or:
+        - file.folder.startsWith("Mindmaps")
+        - file.tags.contains("mindmap")
 views:
   - type: table
     name: All

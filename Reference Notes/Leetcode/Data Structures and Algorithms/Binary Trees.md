@@ -24,3 +24,32 @@ Draft: true
 # Breadth-first Search
 - Searches from top to bottom
 
+## Sample Code
+```javascript
+const bfs = (node) => {
+	const queue = [node]
+	
+	while(queue.length >= 1) {
+		const nextQueue = []
+		const currLength = queue.length;
+		
+		for (let i = 0; i < currLength; i++) {
+			//... processing
+			const currNode = queue[i];
+			if (currNode.left) {
+				nextQueue.push(currNode.left)
+			}
+			if (currNode.right) {
+				nextQueue.push(currNode.right)
+			}
+		}
+		
+		queue = nextQueue
+	}
+	
+	return;
+}
+```
+
+
+# Binary search trees

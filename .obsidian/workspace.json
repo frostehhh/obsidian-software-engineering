@@ -20,6 +20,19 @@
               "icon": "lucide-file",
               "title": "Binary Trees"
             }
+          },
+          {
+            "id": "baf563d0d0a73146",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Bases/Mindmaps.base",
+                "viewName": "All"
+              },
+              "icon": "lucide-table",
+              "title": "Mindmaps"
+            }
           }
         ]
       }
@@ -1072,9 +1085,19 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "c1bcdb8ff1c3a5d8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 94
+        "currentTab": 95
       }
     ],
     "direction": "horizontal",
@@ -1096,12 +1119,24 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "c09a11f45e934747",
+  "active": "ed97c5113aef728d",
   "lastOpenFiles": [
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Binary Trees.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/LeetCode - DS & Algorithms Mindmap.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Linked Lists.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/_note_Data Structures and Algorithms.md",
+    "Bases/Mindmaps.base",
+    "Mindmaps/_note_Mindmaps.md",
     "Reference Notes/Terraform/Terraform Fundamentals.md",
     "Reference Notes/Scaling Mailbox - From 0 to One Million Users in 6 Weeks and 100 Million Messages Per Day.md",
     "Reference Notes/Terraform/Overview.md",
@@ -1126,18 +1161,11 @@
     "Reference Notes/Untitled.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
-    "Braindump/2025-06-02 - System Design.md",
-    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
-    "Reference Notes/HelloInterview/Behavioral Interview Discussion with Ex-Meta Hiring Committee Member.md",
-    "Reference Notes/Hussein Nasser/_note_Hussein Nasser.md",
-    "Reference Notes/System Design Interview/_note_System Design Interview.md",
-    "Scratchpads/_note_Scratchpads.md",
     "Scratchpads/LexClaude/Support Workspace MVP.excalidraw",
     "Notes/AWS/Services",
     "Scratchpads/LexClaude",
     "--Obsidian Template--/Template Architecture.excalidraw",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.excalidraw",
-    "Reference Notes/nx",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
     "--Attachments/Pasted image 20250616010430.png",
     "--Attachments/Pasted Image 20250524232947_481.png",
