@@ -53,3 +53,6 @@ const bfs = (node) => {
 
 
 # Binary search trees
+- Trees where for each node, all node values in the:
+	- left subtree < current node value
+	- right subtree > current node value
