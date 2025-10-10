@@ -72,8 +72,7 @@
               "title": "Virtual Private Cloud"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "0ea94d85bd503e3e",
@@ -660,20 +659,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a4bbf05855192704",
+  "active": "9afd4a1cc7e45d49",
   "lastOpenFiles": [
+    "Notes/Classless Inter-domain Routing.md",
+    "Notes/Variable-Length Subnet Masking.md",
     "Notes/AWS/Services/VPC/Virtual Private Cloud.md",
+    "Excalibrain/excalibrain.md",
     "Untitled.canvas",
     "Notes/Subnet Mask.md",
     "2025-10-10.md",
-    "Excalibrain/excalibrain.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
     "Notes/AWS/Services/API Gateway/API Gateway.md",
     "Notes/AWS/Services/VPC",
-    "Notes/Variable-Length Subnet Masking.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Fundamentals/--Table of Contents--.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/CloudFormation/Intrinsic Functions.md",
-    "Notes/Classless Inter-domain Routing.md",
     "Notes/Internet Protocol.md",
     "Notes/IP Address.md",
     "Notes/_note_Notes.md",
