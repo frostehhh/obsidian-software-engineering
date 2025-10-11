@@ -525,8 +525,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -535,8 +535,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -565,8 +565,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -615,8 +615,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -625,8 +625,22 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
+            }
+          },
+          {
+            "id": "9924d557f8b8d14a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalibrain/excalibrain.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from excalibrain"
             }
           }
         ],
@@ -639,7 +653,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": true,
-      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
@@ -651,16 +664,12 @@
       "omnisearch:Omnisearch": true,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": true,
-      "media-extended:Open media": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": true,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "media-extended:Open media": false
     }
   },
-  "active": "9afd4a1cc7e45d49",
+  "active": "de98dcdf24d24e09",
   "lastOpenFiles": [
+    "Notes/Internet Protocol.md",
     "Notes/Classless Inter-domain Routing.md",
     "Notes/Variable-Length Subnet Masking.md",
     "Notes/AWS/Services/VPC/Virtual Private Cloud.md",
@@ -673,7 +682,6 @@
     "Notes/AWS/Services/VPC",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Fundamentals/--Table of Contents--.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/CloudFormation/Intrinsic Functions.md",
-    "Notes/Internet Protocol.md",
     "Notes/IP Address.md",
     "Notes/_note_Notes.md",
     "Scratchpads/Pastebin system design.md",
