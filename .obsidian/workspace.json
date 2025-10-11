@@ -6,91 +6,21 @@
       {
         "id": "a4d5309ccee90cc0",
         "type": "tabs",
-        "dimension": 52.558724832214764,
         "children": [
           {
-            "id": "9afd4a1cc7e45d49",
+            "id": "cfd328154ee77f00",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Internet Protocol.md",
+                "file": "Scratchpads/2025-10-11.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Internet Protocol"
-            }
-          },
-          {
-            "id": "32657dd31618617f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Classless Inter-domain Routing.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Classless Inter-domain Routing"
-            }
-          },
-          {
-            "id": "2cbdfa1bec047506",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Variable-Length Subnet Masking.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Variable-Length Subnet Masking"
-            }
-          },
-          {
-            "id": "5357676b09695c2b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/AWS/Services/VPC/Virtual Private Cloud.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Virtual Private Cloud"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0ea94d85bd503e3e",
-        "type": "tabs",
-        "dimension": 47.441275167785236,
-        "children": [
-          {
-            "id": "de98dcdf24d24e09",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalibrain/excalibrain.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "excalibrain"
+              "title": "2025-10-11"
             }
           }
         ]
@@ -125,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"vpc\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -635,12 +565,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalibrain/excalibrain.md",
+                "file": "Scratchpads/2025-10-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from excalibrain"
+              "title": "Outgoing links from 2025-10-11"
             }
           },
           {
@@ -658,7 +588,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306
+    "width": 306,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -682,13 +613,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1f42a4a13566f37b",
+  "active": "cfd328154ee77f00",
   "lastOpenFiles": [
+    "Scratchpads/_note_Scratchpads.md",
+    "Scratchpads/2025-10-11.md",
     "Notes/Internet Protocol.md",
+    "Excalibrain/excalibrain.md",
     "Notes/Classless Inter-domain Routing.md",
     "Notes/Variable-Length Subnet Masking.md",
     "Notes/AWS/Services/VPC/Virtual Private Cloud.md",
-    "Excalibrain/excalibrain.md",
     "Untitled.canvas",
     "Notes/Subnet Mask.md",
     "2025-10-10.md",
@@ -712,7 +645,6 @@
     "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/LeetCode - DS & Algorithms Mindmap.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Linked Lists.md",
     "Bases/Mindmaps.base",
     "Bases/Draft Notes.base",
     "Bases/Braindumps.base",
