@@ -61,7 +61,7 @@ Service discovery in Zookeeper works through:
 2. Caching the list locally
 3. Connecting to one instance from the list
 4. Watching for changes to stay updated
-<!--SR:!2025-09-25,68,290-->
+<!--SR:!2026-07-14,274,310-->
 +++
 
 When should you choose Zookeeper over Redis for distributed locks?

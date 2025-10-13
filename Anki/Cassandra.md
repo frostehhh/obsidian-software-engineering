@@ -24,7 +24,7 @@ Storage Engine (LSM - Log structure merge tree):
 - Commit Log: Write-Ahead Log
 - Memtable: In-memory data to be committed to disk
 - SSTABLE: Immutable list of data from flushed Memtable
-<!--SR:!2025-10-05,34,260-->
+<!--SR:!2026-02-14,124,280-->
 +++
 
 How does Cassandra's Gossip Protocol work
@@ -32,7 +32,7 @@ How does Cassandra's Gossip Protocol work
 - Peer-to-peer communication between nodes for discovery
 - Each node knows every other node
 - Has probabilistic bias toward "seed" nodes for cluster startup
-<!--SR:!2025-10-13,71,320-->
+<!--SR:!2025-11-18,36,300-->
 +++
 
 How does Cassandra handle fault tolerance
@@ -40,7 +40,7 @@ How does Cassandra handle fault tolerance
 - Handles failed nodes
 - Uses "hinted handoffs" for write requests to failed nodes
 - Failed nodes receive hinted handoffs when they recover (send heartbeat)
-<!--SR:!2025-10-09,67,320-->
+<!--SR:!2026-08-05,296,340-->
 +++
 
 What are the consistency configuration options available in Cassandra?

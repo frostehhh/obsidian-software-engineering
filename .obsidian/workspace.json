@@ -14,11 +14,11 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Braindump/2025-10-13 - Backend and Database.md"
+                "file": "Braindump/2025-10-13 - Backend, Database and System Design.md"
               },
               "pinned": true,
               "icon": "excalidraw-icon",
-              "title": "2025-10-13 - Backend and Database"
+              "title": "2025-10-13 - Backend, Database and System Design"
             }
           },
           {
@@ -664,7 +664,7 @@
     "Notes/BASE.md",
     "Notes/_note_Notes.md",
     "Notes/ACID/ACID.md",
-    "Braindump/2025-10-13 - Backend and Database.md",
+    "Braindump/2025-10-13 - Backend, Database and System Design.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Relational Database Service/ACID vs BASE.md",
     "Notes/OSI Model/OSI Model.md",
     "Notes/ACID/Durability.md",

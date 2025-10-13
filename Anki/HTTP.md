@@ -22,7 +22,7 @@ What header do you use to prompt if a stale resource has changed?::`If-Modified-
 What headers are used for client and server to determine the compression algorithm to use[^2]
 ?
 `Accept-Encoding`(response) and `Content-Encoding`(request)
-<!--SR:!2025-09-20,87,290-->
+<!--SR:!2026-06-22,252,290-->
 +++
 
 What does a simple authentication flow look like in HTTP?[^3]
@@ -39,7 +39,7 @@ What headers are used for authentication?[^3]
 ?
 `WWW-Authenticate` and `Proxy-Authenticate` by server
 `Authorize` and `Proxy-Authorize` by client
-<!--SR:!2025-09-23,101,310-->
+<!--SR:!2026-12-20,433,330-->
 +++
 
 What are the common authentication schemes[^3]
@@ -55,7 +55,7 @@ What are the purpose of cookies in HTTP?[^4]
 Session management
 Tracking
 User preferences
-<!--SR:!2025-10-04,112,298-->
+<!--SR:!2027-01-19,463,318-->
 +++
 
 [^1]: [[HTTP Headers]]

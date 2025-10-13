@@ -47,7 +47,7 @@ What are the two main types of processes in Flink's cluster architecture and the
    - Has Task slots
    - Reserves memory for computation
    - Task slots can share resources when working on same job
-<!--SR:!2025-09-21,64,290-->
+<!--SR:!2025-11-13,31,270-->
 +++
 
 What are the supported State Management options in Flink?
@@ -56,7 +56,7 @@ Flink supports three state management options:
 1. JVM heap - in memory
 2. Filesystem
 3. RocksDB - key-value store that utilizes disk space
-<!--SR:!2025-10-03,17,210-->
+<!--SR:!2025-12-03,51,230-->
 +++
 
 What is the process of handling failures in Flink?
@@ -69,7 +69,7 @@ Flink handles failures through these steps:
 5. Task managers reset to previous checkpoint
 6. Operators reset to previous checkpoint
 7. Resume Job processing
-<!--SR:!2025-10-12,70,270-->
+<!--SR:!2026-07-04,264,290-->
 +++
 
 When should you use Flink in a system design?
