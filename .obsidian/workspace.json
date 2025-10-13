@@ -8,35 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cfd328154ee77f00",
+            "id": "e8eb178db5ac74e6",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Scratchpads/2025-10-11.md",
-                "mode": "source",
-                "source": false
+                "file": "Braindump/2025-10-13 - Backend and Database.md"
               },
               "pinned": true,
-              "icon": "lucide-file",
-              "title": "2025-10-11"
+              "icon": "excalidraw-icon",
+              "title": "2025-10-13 - Backend and Database"
             }
           },
           {
-            "id": "3afec1a699645893",
+            "id": "c49d75432d0e40d4",
             "type": "leaf",
-            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mindmaps/Backend.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Backend"
+            }
+          },
+          {
+            "id": "491b9788fd784fad",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Cross-origin Resource Sharing.md",
+                "file": "Notes/OSI Model/OSI Model.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Cross-origin Resource Sharing"
+              "title": "OSI Model"
             }
           }
         ]
@@ -71,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"options\" \"http\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -107,8 +115,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -608,9 +615,19 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "95ca49de4da0d408",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 46
+        "currentTab": 47
       }
     ],
     "direction": "horizontal",
@@ -631,14 +648,25 @@
       "omnisearch:Omnisearch": true,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": true,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "39ed79c211dff002",
+  "active": "e8eb178db5ac74e6",
   "lastOpenFiles": [
+    "Mindmaps/Backend.md",
+    "Notes/OSI Model/OSI Model.md",
+    "Braindump/2025-10-13 - Backend and Database.md",
+    "Mindmaps/Database.excalidraw.md",
+    "Mindmaps/HTTP.excalidraw.md",
+    "Braindump/_note_Braindump.md",
+    "Scratchpads/2025-10-11.md",
     "Notes/Cross-origin Resource Sharing.md",
     "Notes/Hypertext Transfer Protocol/Methods.md",
-    "Scratchpads/2025-10-11.md",
     "Notes/_note_Notes.md",
     "Scratchpads/_note_Scratchpads.md",
     "Notes/Internet Protocol.md",
@@ -659,13 +687,7 @@
     "Scratchpads/Scratchpad - System Design.md",
     "Scratchpads/LexClaude/Support Workspace MVP.excalidraw",
     "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/IP Addressing/IP Addressing.md",
-    "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/IP Addressing/IPv4 Addressing/IPv4 Address Space.md",
-    "Reference Notes/Adrian Cantrill/Networking/OSI 7-Layer Model/Network/IP Subnetting.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/ACID-Updated.pdf",
-    "Notes/IP Packet.md",
-    "Notes/Internet Control Message Protocol.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Binary Trees.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings.md",
     "Bases/Mindmaps.base",
     "Bases/Draft Notes.base",
     "Bases/Braindumps.base",
