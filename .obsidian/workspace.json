@@ -22,6 +22,22 @@
               "icon": "lucide-file",
               "title": "2025-10-11"
             }
+          },
+          {
+            "id": "3afec1a699645893",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Cross-origin Resource Sharing.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Cross-origin Resource Sharing"
+            }
           }
         ]
       }
@@ -55,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"options\" \"http\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -91,7 +107,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -465,8 +482,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -565,12 +582,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scratchpads/2025-10-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-10-11"
+              "title": "Outgoing links"
             }
           },
           {
@@ -579,12 +595,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "39ed79c211dff002",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
-        "currentTab": 45
+        "currentTab": 46
       }
     ],
     "direction": "horizontal",
@@ -605,18 +631,16 @@
       "omnisearch:Omnisearch": true,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": true,
-      "media-extended:Open media": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "media-extended:Open media": false
     }
   },
-  "active": "cfd328154ee77f00",
+  "active": "39ed79c211dff002",
   "lastOpenFiles": [
-    "Scratchpads/_note_Scratchpads.md",
+    "Notes/Cross-origin Resource Sharing.md",
+    "Notes/Hypertext Transfer Protocol/Methods.md",
     "Scratchpads/2025-10-11.md",
+    "Notes/_note_Notes.md",
+    "Scratchpads/_note_Scratchpads.md",
     "Notes/Internet Protocol.md",
     "Excalibrain/excalibrain.md",
     "Notes/Classless Inter-domain Routing.md",
@@ -631,7 +655,6 @@
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Fundamentals/--Table of Contents--.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/CloudFormation/Intrinsic Functions.md",
     "Notes/IP Address.md",
-    "Notes/_note_Notes.md",
     "Scratchpads/Pastebin system design.md",
     "Scratchpads/Scratchpad - System Design.md",
     "Scratchpads/LexClaude/Support Workspace MVP.excalidraw",
@@ -643,8 +666,6 @@
     "Notes/Internet Control Message Protocol.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Binary Trees.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/LeetCode - DS & Algorithms Mindmap.md",
     "Bases/Mindmaps.base",
     "Bases/Draft Notes.base",
     "Bases/Braindumps.base",
