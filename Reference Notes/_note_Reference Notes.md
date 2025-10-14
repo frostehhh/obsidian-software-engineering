@@ -1,1 +1,3 @@
 This folder contains notes that are personally written as my own knowledge store about relevant information from references
+
+![[Reference Notes.base]]

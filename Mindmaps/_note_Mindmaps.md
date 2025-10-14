@@ -1,1 +1,1 @@
-![[Mindmaps]]
+![[Mindmaps.base]]

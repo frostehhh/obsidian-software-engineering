@@ -13,10 +13,11 @@ views:
       - file.name
       - tags
       - aliases
+      - file.ctime
     sort:
+      - property: file.ctime
+        direction: DESC
       - property: file.folder
-        direction: ASC
-      - property: file.name
         direction: ASC
       - property: file.basename
         direction: DESC
