@@ -4,65 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a4d5309ccee90cc0",
+        "id": "1d9e999993887451",
         "type": "tabs",
         "children": [
           {
-            "id": "e8eb178db5ac74e6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Braindump/2025-10-13 - Backend, Database and System Design.md"
-              },
-              "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
-            }
-          },
-          {
-            "id": "c49d75432d0e40d4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mindmaps/Backend.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "Backend"
-            }
-          },
-          {
-            "id": "cfb2825eeb25c0bc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Braindump/2025-10-13 - Backend, Database and System Design.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "2025-10-13 - Backend, Database and System Design"
-            }
-          },
-          {
-            "id": "98c645421b794ba6",
+            "id": "6bc0d1127bca00e7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalibrain/excalibrain.md"
+                "file": "Reference Notes/Terraform/Terraform Fundamentals.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "excalibrain"
+              "icon": "lucide-file",
+              "title": "Terraform Fundamentals"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -134,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.0026054382324,
-    "collapsed": true
+    "width": 438.0026054382324
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -683,12 +641,15 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "cfb2825eeb25c0bc",
+  "active": "6bc0d1127bca00e7",
   "lastOpenFiles": [
+    "Reference Notes/Terraform/Overview.md",
+    "Reference Notes/Terraform/_note_Terraform.base",
+    "Reference Notes/_note_Reference Notes.md",
+    "Excalibrain/excalibrain.md",
     "Mindmaps/Backend.md",
     "Braindump/2025-10-13 - Backend, Database and System Design.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Serializable vs Repeatable Read.md",
-    "Excalibrain/excalibrain.md",
     "Notes/ACID/Isolation.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Phantom Reads.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Isolation.md",
@@ -697,7 +658,6 @@
     "Braindump/2025-05-18 - Database.md",
     "Braindump/2025-06-02 - System Design.md",
     "Mindmaps/_note_Mindmaps.md",
-    "Reference Notes/_note_Reference Notes.md",
     "Notes/_note_Notes.md",
     "Mindmaps/System Design.md",
     "Untitled.md",
@@ -717,12 +677,10 @@
     "Notes/OSI Model/OSI Model.md",
     "Notes/ACID/Durability.md",
     "Notes/ACID/Consistency.md",
-    "Notes/Pessimistic Locks.md",
     "Untitled.canvas",
     "Notes/AWS/Services/VPC",
     "Scratchpads/LexClaude/Support Workspace MVP.excalidraw",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/ACID-Updated.pdf",
-    "Bases/Mindmaps.base",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
     "--Attachments/Pasted image 20250616010430.png",
     "--Attachments/Pasted Image 20250524232947_481.png",
