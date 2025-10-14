@@ -21,7 +21,7 @@ Read uncommitted changes from a different transaction
 - Read committed changes from a different transaction
 - Non-repeatable because the same read repeated gives different results. Hence, it is non-repeatable
 ## Phantom Read
-Read committed inserts from a different transaction
+**Read committed inserts from a different transaction**. Transaction 1 runs a search query that returns a set of rows. Transaction 2 runs a search query that is supposed to return the same set of row, but includes unexpected new row/s.
 ## Lost updates
 With two different transactions where both update the same row, one will overwrite the other.
 
@@ -55,3 +55,4 @@ With two different transactions where both update the same row, one will overwri
 - If pessimistic locking, can use `SELECT FOR UPDATE`
 # References
 https://learn.microsoft.com/en-us/sql/odbc/reference/develop-app/transaction-isolation-levels?view=sql-server-ver16
+https://www.postgresql.org/docs/current/transaction-iso.html

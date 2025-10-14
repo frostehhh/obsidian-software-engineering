@@ -50,21 +50,19 @@
             }
           },
           {
-            "id": "e2a2baf8385f2f7c",
+            "id": "98c645421b794ba6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notes/ACID/Isolation.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalibrain/excalibrain.md"
               },
-              "icon": "lucide-file",
-              "title": "Isolation"
+              "icon": "excalidraw-icon",
+              "title": "excalibrain"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +82,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -132,12 +130,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 438.0026054382324
+    "width": 438.0026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -685,11 +683,14 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "e2a2baf8385f2f7c",
+  "active": "cfb2825eeb25c0bc",
   "lastOpenFiles": [
-    "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Serializable vs Repeatable Read.md",
+    "Excalibrain/excalibrain.md",
     "Notes/ACID/Isolation.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Phantom Reads.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Isolation.md",
+    "Reference Notes/HelloInterview/System Design/Key Technologies/PostgreSQL.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "Braindump/2025-05-18 - Database.md",
     "Braindump/2025-10-13 - Backend, Database and System Design.md",
@@ -716,10 +717,7 @@
     "Notes/OSI Model/OSI Model.md",
     "Notes/ACID/Durability.md",
     "Notes/ACID/Consistency.md",
-    "Excalibrain/excalibrain.md",
     "Notes/Pessimistic Locks.md",
-    "Notes/Optimistic Locks.md",
-    "Mindmaps/Database.excalidraw.md",
     "Untitled.canvas",
     "Notes/AWS/Services/VPC",
     "Scratchpads/LexClaude/Support Workspace MVP.excalidraw",
