@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0618c94dc7afa24c",
+        "id": "f10b61f989a00e8c",
         "type": "tabs",
         "children": [
           {
-            "id": "eaeea2c0cd259f5d",
+            "id": "c6443bf428b6c539",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mindmaps/Backend, Database and System Design.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Backend, Database and System Design"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -644,8 +642,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
@@ -670,18 +668,13 @@
       "omnisearch:Omnisearch": true,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": true,
-      "media-extended:Open external media": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "media-extended:Open external media": false
     }
   },
-  "active": "eaeea2c0cd259f5d",
+  "active": "c6443bf428b6c539",
   "lastOpenFiles": [
-    "Mindmaps/Backend.md",
     "Mindmaps/Backend, Database and System Design.md",
+    "Mindmaps/Backend.md",
     "Mindmaps/_note_Mindmaps.md",
     "Braindump/2025-10-13 - Backend, Database and System Design.md",
     "Braindump/2025-05-20 - Flink and ZooKeeper.md",
