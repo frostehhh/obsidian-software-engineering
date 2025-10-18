@@ -11,10 +11,14 @@
             "id": "c6443bf428b6c539",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Terraform/Terraform Fundamentals.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Terraform Fundamentals"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"user data\"",
+                "query": "\"terraform\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -645,9 +649,19 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "11480adceba3a580",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 52
+        "currentTab": 53
       }
     ],
     "direction": "horizontal",
@@ -668,11 +682,18 @@
       "omnisearch:Omnisearch": true,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": true,
-      "media-extended:Open external media": false
+      "media-extended:Open external media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "c6443bf428b6c539",
+  "active": "c9e86c4b43b9a499",
   "lastOpenFiles": [
+    "Reference Notes/Terraform/Overview.md",
+    "Reference Notes/Terraform/Terraform Fundamentals.md",
     "Mindmaps/Backend, Database and System Design.md",
     "Mindmaps/Backend.md",
     "Mindmaps/_note_Mindmaps.md",
@@ -682,9 +703,7 @@
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Advanced/--Table of Contents--.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Advanced/Enhanced Bootstrapping with CFN-INIT.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/Advanced/Bootstrapping EC2 using User Data.md",
-    "Reference Notes/Terraform/Terraform Fundamentals.md",
     "Braindumps.md",
-    "Reference Notes/Terraform/Overview.md",
     "Reference Notes/Terraform/_note_Terraform.base",
     "Reference Notes/_note_Reference Notes.md",
     "Excalibrain/excalibrain.md",

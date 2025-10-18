@@ -32,6 +32,18 @@ Draft: true
 	- Routing
 	- Security - IAM
 
+# Testing
+
+## Check blocks
+For checking validity of infrastructure itself
+## Lifecycle Checks
+Precondition and postcondition
+For checking validity of infrastructure itself
+
+## Run Tests
+- Run blocks
+- for testing behavior and logic of configuration
+
 # References
 https://developer.hashicorp.com/terraform/language/style#style-guide
 https://developer.hashicorp.com/terraform/language/block/check - API Reference section
