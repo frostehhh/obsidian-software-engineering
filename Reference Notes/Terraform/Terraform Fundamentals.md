@@ -43,7 +43,11 @@ For checking validity of infrastructure itself
 ## Run Tests
 - Run blocks
 - for testing behavior and logic of configuration
+# Input Variables
+Text files ending with `.tfvars` can be used as input files for setting variables values[^1]
 
 # References
 https://developer.hashicorp.com/terraform/language/style#style-guide
 https://developer.hashicorp.com/terraform/language/block/check - API Reference section
+
+[^1]: https://registry.terraform.io/providers/terraform-redhat/rhcs/latest/docs/guides/terraform-vars
