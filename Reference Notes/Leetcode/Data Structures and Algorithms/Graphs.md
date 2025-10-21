@@ -19,6 +19,7 @@ A data structure that consists of nodes and edges.
 - Outdegree
 - Directed
 - Undirected
+- Neighbors
 
 # Input formats
 - list of edges
