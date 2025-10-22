@@ -703,12 +703,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "c82da3b60a79483c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 56
+        "currentTab": 57
       }
     ],
     "direction": "horizontal",
@@ -737,7 +747,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3bcb15120da012f0",
+  "active": "c82da3b60a79483c",
   "lastOpenFiles": [
     "Reference Notes/Leetcode/Data Structures and Algorithms/Graphs.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Linked Lists.md",
