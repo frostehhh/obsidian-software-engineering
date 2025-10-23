@@ -716,9 +716,19 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "8aceb429b173950a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 57
+        "currentTab": 58
       }
     ],
     "direction": "horizontal",
@@ -739,10 +749,15 @@
       "omnisearch:Omnisearch": true,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": true,
-      "media-extended:Open external media": false
+      "media-extended:Open external media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "c82da3b60a79483c",
+  "active": "8aceb429b173950a",
   "lastOpenFiles": [
     "Reference Notes/Leetcode/Data Structures and Algorithms/Graphs.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Linked Lists.md",
