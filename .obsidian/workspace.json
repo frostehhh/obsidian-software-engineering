@@ -27,14 +27,12 @@
             "id": "780461a1c0acae64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
-                "mode": "source",
-                "source": false
+                "file": "Reference Notes/Leetcode/Data Structures and Algorithms/LeetCode - DS & Algorithms Mindmap.md"
               },
-              "icon": "lucide-file",
-              "title": "Hashing"
+              "icon": "excalidraw-icon",
+              "title": "LeetCode - DS & Algorithms Mindmap"
             }
           }
         ],
@@ -769,14 +767,14 @@
   },
   "active": "780461a1c0acae64",
   "lastOpenFiles": [
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Linked Lists.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/LeetCode - DS & Algorithms Mindmap.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Binary Trees.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Graphs.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Additional Notes.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Introduction to Big O.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Linked Lists.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/LeetCode - DS & Algorithms Mindmap.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/_note_Data Structures and Algorithms.md",
     "Reference Notes/Terraform/Terraform Fundamentals.md",
     "Reference Notes/Terraform/Overview.md",
