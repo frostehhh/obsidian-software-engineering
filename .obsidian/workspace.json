@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Leetcode/Data Structures and Algorithms/Graphs.md",
+                "file": "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graphs"
+              "title": "Hashing"
             }
           }
         ],
@@ -726,9 +726,19 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "41844d00f83bee7d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 58
+        "currentTab": 59
       }
     ],
     "direction": "horizontal",
@@ -749,19 +759,25 @@
       "omnisearch:Omnisearch": true,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": true,
-      "media-extended:Open external media": false
+      "media-extended:Open external media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "8aceb429b173950a",
+  "active": "780461a1c0acae64",
   "lastOpenFiles": [
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Graphs.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Linked Lists.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/LeetCode - DS & Algorithms Mindmap.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Binary Trees.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Arrays and Strings.md",
-    "Reference Notes/Leetcode/Data Structures and Algorithms/_note_Data Structures and Algorithms.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Graphs.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Hashing.md",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Additional Notes.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction/Introduction to Big O.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/Linked Lists.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/LeetCode - DS & Algorithms Mindmap.md",
+    "Reference Notes/Leetcode/Data Structures and Algorithms/_note_Data Structures and Algorithms.md",
     "Reference Notes/Terraform/Terraform Fundamentals.md",
     "Reference Notes/Terraform/Overview.md",
     "Mindmaps/Backend, Database and System Design.md",
@@ -780,7 +796,6 @@
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Serializable vs Repeatable Read.md",
     "Notes/ACID/Isolation.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Phantom Reads.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Isolation.md",
     "Braindump/Fundamentals of Database Engineering.canvas",
     "Bases/Reference Notes.base",
     "Bases/Notes.base",

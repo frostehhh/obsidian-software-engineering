@@ -27,3 +27,6 @@ A data structure that consists of nodes and edges.
 - adjacency matrix
 - matrix
 
+# Developing Solutions
+- given the input formats, create hashmap of { node: [list of adjacent nodes]}
+
