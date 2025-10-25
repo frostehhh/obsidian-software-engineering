@@ -45,6 +45,7 @@ Accessibility is consideration for person with disabilities including but not li
 - empty or null alt text
 - aria-hidden
 ### Functional
+- alt text
 ### Complex
 # References
 [web.dev - Accessibility](https://web.dev/learn/accessibility/welcome)
