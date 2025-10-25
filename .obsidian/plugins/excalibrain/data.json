@@ -244,10 +244,6 @@
     "related-mind-map": {}
   },
   "navigationHistory": [
-    "Notes/Database Indexes.md",
-    "Mindmaps/Database.excalidraw.md",
-    "Notes/Database Cursors.md",
-    "Notes/Database Engines.md",
     "Notes/Database Transaction.md",
     "Notes/Deadlock.md",
     "Notes/How tables and indexes are stored on disk.md",
@@ -283,7 +279,6 @@
     "Notes/Classless Inter-domain Routing.md",
     "Notes/AWS/Services/VPC/Virtual Private Cloud.md",
     "Notes/Pessimistic Locks.md",
-    "Notes/ACID/ACID.md",
     "Notes/ACID/Consistency.md",
     "Notes/ACID/Durability.md",
     "Notes/OSI Model/OSI Model.md",
@@ -293,6 +288,11 @@
     "Notes/ACID/Isolation.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Serializable vs Repeatable Read.md",
     "Braindump/2025-10-13 - Backend, Database and System Design.md",
+    "Notes/ACID/Atomicity.md",
+    "Notes/ACID/ACID.md",
+    "Accessible Rich Internet Applications.md",
+    "Notes/Accessibility.md",
+    "https://web.dev/learn/accessibility/welcome",
     "Mindmaps/Backend.md"
   ],
   "allowOntologySuggester": true,
