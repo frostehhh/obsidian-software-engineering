@@ -99,13 +99,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/ACID/Consistency.md",
+                "file": "Notes/Accessibility.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Consistency"
+              "title": "Outline of Accessibility"
             }
           },
           {
@@ -118,7 +118,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -157,55 +158,21 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/API Gateway/Basics.md",
+                "file": "Notes/Accessibility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Basics"
-            }
-          },
-          {
-            "id": "aaf7c0f012f39754",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": true,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "72da7cac39cfeab2",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "0aa17b0e305563b4",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "title": "Outgoing links from Accessibility"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 272
+    "width": 272,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,7 +196,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2a1cb4f2a4ab66bb",
+  "active": "62335ad7b46edd42",
   "lastOpenFiles": [
     "Mindmaps/Backend.md",
     "Excalibrain/excalibrain.md",

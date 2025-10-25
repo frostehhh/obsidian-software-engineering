@@ -19,9 +19,34 @@ Accessibility is consideration for person with disabilities including but not li
 # Fundamentals
 1. No ARIA is better than bad ARIA
 2. Always allow keyboard navigation
-3. 
+3. Use proper ARIA attributes for interactive elements such as form elements
 4. Do not use unnecessary ARIA attributes
+5. ?
 
+# How Tos
 
+## Content
+- Proper usage of HTML semantic elements[^1] rather than generic `div` elements
+- use heading elements(h1, h2, h3) based on content. Separate styling from the usage of those elements
+## JavaScript
+- Dynamic functionalities, HTML and CSS injected by JS tends to lack accessibility considerations
+	- Ex. onFocus - no accessibility support, CSS `:focus` has accessibility support
+## Document
+- Title element must be cohesive
+- Text must be structured from sections to subsections
+	- ex. Season 3 | Epidode 1 | The episodening
+## Links
+- There must be a description for the link via alt text
+- Must be navigatable
+
+## Images
+### Presentational
+- role="presentation"
+- empty or null alt text
+- aria-hidden
+### Functional
+### Complex
 # References
 [web.dev - Accessibility](https://web.dev/learn/accessibility/welcome)
+
+[^1]: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements
