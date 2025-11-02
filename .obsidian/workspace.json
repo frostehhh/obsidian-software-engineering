@@ -24,22 +24,6 @@
             }
           },
           {
-            "id": "0178a9f225c46ba0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Mail Server.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Mail Server"
-            }
-          },
-          {
             "id": "e7e41c722190e7b0",
             "type": "leaf",
             "pinned": true,
@@ -47,7 +31,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/AWS/Services/SES/Simple Email Service.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
@@ -58,6 +42,7 @@
           {
             "id": "0a130e812c35e8ab",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -65,12 +50,13 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Email Receiving"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/AWS/Services/SES/Email Receiving.md",
+                "file": "Notes/AWS/Services/SES/Simple Email Service.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Email Receiving"
+              "title": "Outline of Simple Email Service"
             }
           },
           {
@@ -239,18 +225,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0a130e812c35e8ab",
+  "active": "e7e41c722190e7b0",
   "lastOpenFiles": [
-    "Notes/AWS/Services/SES/Simple Email Service.md",
     "Notes/AWS/Services/SES/Email Receiving.md",
+    "Notes/AWS/Services/SES/Simple Email Service.md",
+    "Notes/Domain Name System.md",
+    "Notes/Mail Server.md",
     "Excalibrain/excalibrain.md",
     "--Obsidian Template--/Frontmatter - Notes AWS.md",
     "Notes/AWS/Services/S3/Bucket.md",
     "Notes/_note_Notes.md",
     "Notes/AWS/Services/SES",
-    "Notes/Mail Server.md",
     "Notes/How Mail Servers utilize DNS for mail sending and receiving.md",
-    "Notes/Domain Name System.md",
     "Notes/Listener, Acceptor and Readers Execution Patterns.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Listener, Acceptor and Readers Execution Patterns.md",
     "Notes/Digital Signatures.md",
