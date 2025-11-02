@@ -4,7 +4,7 @@ tags:
   - backend
   - operating-system
 Draft: false
-"Prev:":
+"Previous:":
   - "[[Notes/The Listener, the Acceptor and the Reader|The Listener, the Acceptor and the Reader]]"
 "related-reference-note:":
   - "[[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Listener, Acceptor and Readers Execution Patterns|Listener, Acceptor and Readers Execution Patterns]]"

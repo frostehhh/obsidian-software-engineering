@@ -24,68 +24,53 @@
             }
           },
           {
-            "id": "f3fd3b68918717c1",
+            "id": "0178a9f225c46ba0",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Adrian Cantrill/Networking/Domain Name System/--Table of Contents--.md",
+                "file": "Notes/Mail Server.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "--Table of Contents--"
+              "title": "Mail Server"
             }
           },
           {
-            "id": "e55e97a1b5eec41c",
+            "id": "e7e41c722190e7b0",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Adrian Cantrill/Networking/Domain Name System/Domain Name System.md",
+                "file": "Notes/AWS/Services/SES/Simple Email Service.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Domain Name System"
+              "title": "Simple Email Service"
             }
           },
           {
-            "id": "a416d22aa770cd0c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Adrian Cantrill/Networking/Domain Name System/What do we want from DNS.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "What do we want from DNS"
-            }
-          },
-          {
-            "id": "4f304cf40d7283e9",
+            "id": "0a130e812c35e8ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Github - donnemartin system-design-primer/Domain Name System.md",
+                "file": "Notes/AWS/Services/SES/Email Receiving.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Domain Name System"
+              "title": "Email Receiving"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +90,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -117,9 +102,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#networking/communication/protocols",
+                "query": "\"prev:\"",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -134,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Domain Name System.md",
+                "file": "Notes/AWS/Services/SES/Email Receiving.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Domain Name System"
+              "title": "Outline of Email Receiving"
             }
           },
           {
@@ -153,8 +138,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,36 +239,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b4633852a1568559",
+  "active": "0a130e812c35e8ab",
   "lastOpenFiles": [
-    "Reference Notes/Adrian Cantrill/Networking/Domain Name System/--Table of Contents--.md",
+    "Notes/AWS/Services/SES/Simple Email Service.md",
+    "Notes/AWS/Services/SES/Email Receiving.md",
+    "Excalibrain/excalibrain.md",
+    "--Obsidian Template--/Frontmatter - Notes AWS.md",
+    "Notes/AWS/Services/S3/Bucket.md",
+    "Notes/_note_Notes.md",
+    "Notes/AWS/Services/SES",
+    "Notes/Mail Server.md",
+    "Notes/How Mail Servers utilize DNS for mail sending and receiving.md",
+    "Notes/Domain Name System.md",
+    "Notes/Listener, Acceptor and Readers Execution Patterns.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Listener, Acceptor and Readers Execution Patterns.md",
+    "Notes/Digital Signatures.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Database Connection Pooling.md",
+    "Notes/BASE.md",
     "Reference Notes/Adrian Cantrill/Networking/Domain Name System/Domain Name System.md",
+    "Reference Notes/Adrian Cantrill/Networking/Domain Name System/What do we want from DNS.md",
+    "Reference Notes/Adrian Cantrill/Networking/Domain Name System/--Table of Contents--.md",
     "Reference Notes/Github - donnemartin system-design-primer/Domain Name System.md",
     "Notes/OSI Model/OSI Model.md",
-    "Notes/Domain Name System.md",
-    "Reference Notes/Adrian Cantrill/Networking/Domain Name System/What do we want from DNS.md",
     "Reference Notes/Adrian Cantrill/Networking/Domain Name System/Time To Live.md",
     "Reference Notes/Adrian Cantrill/Networking/Domain Name System/DNS Record Types.md",
     "Reference Notes/Adrian Cantrill/Networking/Domain Name System/Registering a new domain.md",
     "Reference Notes/Adrian Cantrill/Networking/Domain Name System/Why does DNS need a complex architecture.md",
-    "Notes/_note_Notes.md",
     "Reference Notes/Adrian Cantrill/Cybersecurity/SSL and TLS/SSL and TLS.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
     "Notes/Accessibility.md",
-    "Mindmaps/Backend.md",
-    "Excalibrain/excalibrain.md",
-    "Accessible Rich Internet Applications.md",
-    "Mindmaps/Backend, Database and System Design.md",
-    "Mindmaps/_note_Mindmaps.md",
-    "Notes/ACID/ACID.md",
-    "Notes/ACID/Atomicity.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Atomicity.md",
-    "Notes/BASE.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Introduction to ACID.md",
     "Bases/Draft Notes.base",
     "Untitled.canvas",
-    "Braindumps.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/ElasticSearch.md",
     "Reference Notes/nx",
     "Reference Notes/The Pragmatic Engineer",
     "Reference Notes/Terraform/_note_Terraform.base",
@@ -293,7 +278,6 @@
     "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction",
     "Reference Notes/Leetcode/Data Structures and Algorithms",
     "Reference Notes/Leetcode",
-    "Reference Notes/Kt.Academy",
     "--Attachments/Pasted image 20250616010430.png",
     "--Attachments/Pasted Image 20250524232947_481.png",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
