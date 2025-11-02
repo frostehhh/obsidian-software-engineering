@@ -4,6 +4,6 @@ tags:
   - networking
   - security
   - backend
-  - communication
+  - networking/communication
 Draft: false
 ---

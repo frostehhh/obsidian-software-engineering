@@ -1,14 +1,15 @@
 ---
 tags:
   - notes
-  - networking
   - backend
-  - communication
+  - networking/communication/protocols
 Draft: false
 aliases:
   - Open Systems Interconnection Model
 "related-reference-note:":
-  - - Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/OSI Model|OSI Model
+  - "[[Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 3 - Protocls/OSI Model|OSI Model]]"
+"Friend:":
+  - "[[TCP-IP Model]]"
 ---
 
 # What is the OSI Model?

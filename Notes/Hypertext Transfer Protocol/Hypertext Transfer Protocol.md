@@ -3,7 +3,7 @@ tags:
   - notes
   - networking
   - backend
-  - communication/protocols/http
+  - networking/communication/protocols/http
 Draft: false
 aliases:
   - HTTP

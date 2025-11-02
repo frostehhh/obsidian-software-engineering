@@ -2,7 +2,7 @@
 tags:
   - notes
   - backend
-  - communication
+  - networking/communication
 Draft: false
 aliases:
   - URL

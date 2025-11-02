@@ -2,7 +2,7 @@
 excalidraw-plugin: parsed
 tags:
   - excalidraw
-  - communication/protocols/http
+  - networking/communication/protocols/http
   - backend
 for-review: false
 related-mind-map::

@@ -3,7 +3,7 @@ tags:
   - reference-notes
   - networking
   - backend
-  - communication
+  - networking/communication
 Draft: false
 ---
 See [[Notes/Transmission Control Protocol|Transmission Control Protocol]]

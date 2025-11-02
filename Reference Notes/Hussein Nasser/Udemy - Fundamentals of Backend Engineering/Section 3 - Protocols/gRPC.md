@@ -1,7 +1,7 @@
 ---
 tags:
   - reference-notes
-  - communication
+  - networking/communication
   - networking
 Draft: false
 ---

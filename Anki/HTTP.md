@@ -1,7 +1,7 @@
 ---
 tags:
   - flashcards/http
-  - communication/protocols/http
+  - networking/communication/protocols/http
   - backend
 Draft: false
 ---

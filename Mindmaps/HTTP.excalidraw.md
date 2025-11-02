@@ -3,7 +3,7 @@ excalidraw-plugin: parsed
 tags:
   - excalidraw
   - backend
-  - communication/protocols/http
+  - networking/communication/protocols/http
 "Parent:":
   - "[[Hypertext Transfer Protocol|HTTP]]"
 ---

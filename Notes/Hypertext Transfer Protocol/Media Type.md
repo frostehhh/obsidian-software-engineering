@@ -1,7 +1,7 @@
 ---
 tags:
   - backend
-  - communication/protocols
+  - networking/communication/protocols
   - notes
 Friend:: 
   - "[[Hypertext Transfer Protocol|HTTP]]"

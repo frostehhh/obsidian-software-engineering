@@ -3,7 +3,7 @@ tags:
   - reference-notes
   - security
   - backend
-  - communication
+  - networking/communication
   - networking
 aliases:
   - Secure Sockets Layer and Transport Layer Security

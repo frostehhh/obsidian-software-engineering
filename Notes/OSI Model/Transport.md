@@ -2,7 +2,7 @@
 tags:
   - backend
   - backend
-  - communication
+  - networking/communication
   - networking
   - notes
 aliases:

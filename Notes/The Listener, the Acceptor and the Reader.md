@@ -2,7 +2,7 @@
 tags:
   - notes
   - backend
-  - communication
+  - networking/communication
   - networking
   - operating-system
 Draft: false

@@ -4,7 +4,7 @@ aliases:
 tags:
   - notes
   - backend
-  - communication
+  - networking/communication
   - style
   - software
 "related:":

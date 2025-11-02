@@ -4,7 +4,7 @@ aliases:
 tags:
   - notes
   - backend
-  - communication
+  - networking/communication
 "Friend:":
   - "[[Representational State Transfer|REST]]"
   - "[[REST API|RESTful API]]"

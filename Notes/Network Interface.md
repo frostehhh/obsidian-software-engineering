@@ -3,7 +3,7 @@ tags:
   - notes
   - networking
   - backend
-  - communication
+  - networking/communication
 Draft: false
 ---
 

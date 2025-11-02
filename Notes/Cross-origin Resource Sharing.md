@@ -1,7 +1,7 @@
 ---
 tags:
   - notes
-  - communication/protocols/http
+  - networking/communication/protocols/http
 aliases:
   - CORS
 Draft: true

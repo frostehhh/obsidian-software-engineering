@@ -1,14 +1,19 @@
 ---
 tags:
-  - reference-notes
+  - notes
   - networking
 Draft: true
-has-questions: false
+related-reference-note:: 
+  - "[[Reference Notes/Github - donnemartin system-design-primer/Domain Name System|Domain Name System]]"
+  - "[[Reference Notes/Adrian Cantrill/Networking/Domain Name System/Domain Name System|Domain Name System]]"
 ---
+
 A Domain Name System (DNS) translates a domain name such as [www.example.com](http://www.example.com/) to an IP address.
 - hierarchical - there are authoritatize servers at the top level
 
 # Terminologies
+- Root Name Server - a top-level name server
+- Top-level Domain - a name server for top-level domains. Top-level domains refer to the text after the last dot. Ex. `com`, `web`, `ai` 
 - NS - Name server
 - MX - Email exchange record. Indicates server for where messages are sent and received.
 - A - Address record. ex. 12.1.2.54
@@ -20,8 +25,5 @@ A Domain Name System (DNS) translates a domain name such as [www.example.com](h
 - Geolocation-based
 
 
-# References
-https://github.com/donnemartin/system-design-primer?tab=readme-ov-file#domain-name-system
-
-# Related
-[[Reference Notes/Adrian Cantrill/Networking/Domain Name System/Domain Name System|Domain Name System]]
+# How A DNS Request Travels
+See [[What do we want from DNS#Walking the tree]]

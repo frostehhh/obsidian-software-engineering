@@ -3,7 +3,7 @@ tags:
   - notes
   - backend
   - backend
-  - communication
+  - networking/communication
 Draft: false
 "similar:":
   - "[[Notes/Push]]"

@@ -2,7 +2,7 @@
 tags:
   - notes
   - backend
-  - communication/protocols
+  - networking/communication/protocols
   - networking
   - security
 Draft: false

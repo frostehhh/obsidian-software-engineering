@@ -3,7 +3,7 @@ tags:
   - notes
   - networking
   - backend
-  - communication/protocols
+  - networking/communication/protocols
 Draft: false
 "related-reference-note:":
   - "[[TCP]]"

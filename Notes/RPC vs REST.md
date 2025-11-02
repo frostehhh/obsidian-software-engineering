@@ -1,7 +1,7 @@
 ---
 tags:
   - backend
-  - communication
+  - networking/communication
   - comparison
   - notes
 "Parent:":
