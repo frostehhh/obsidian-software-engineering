@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/AWS/Services/SES/Simple Email Service.md",
+                "file": "Notes/AWS/Services/SES/Email Receiving.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Simple Email Service"
+              "title": "Outline of Email Receiving"
             }
           },
           {
@@ -225,9 +225,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7e41c722190e7b0",
+  "active": "0a130e812c35e8ab",
   "lastOpenFiles": [
+    "Notes/AWS/Services/Lambda/Lambda.md",
     "Notes/AWS/Services/SES/Email Receiving.md",
+    "Notes/AWS/Services/Lambda",
     "Notes/AWS/Services/SES/Simple Email Service.md",
     "Notes/Domain Name System.md",
     "Notes/Mail Server.md",
@@ -253,7 +255,6 @@
     "Reference Notes/Adrian Cantrill/Networking/Domain Name System/Why does DNS need a complex architecture.md",
     "Reference Notes/Adrian Cantrill/Cybersecurity/SSL and TLS/SSL and TLS.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Elastic Compute Cloud/-- Table of Contents --.md",
-    "Notes/Accessibility.md",
     "Bases/Draft Notes.base",
     "Untitled.canvas",
     "Reference Notes/nx",
@@ -263,7 +264,6 @@
     "Reference Notes/System Design Interview",
     "Reference Notes/Leetcode/Data Structures and Algorithms/Introduction",
     "Reference Notes/Leetcode/Data Structures and Algorithms",
-    "Reference Notes/Leetcode",
     "--Attachments/Pasted image 20250616010430.png",
     "--Attachments/Pasted Image 20250524232947_481.png",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
