@@ -3,6 +3,7 @@ Source: Youtube
 Channel: Andrej Karpathy
 tags:
   - reference-notes
+  - artificial-intelligence
 media_link: https://youtu.be/EWvNQjAaOHw
 Draft: false
 ---
