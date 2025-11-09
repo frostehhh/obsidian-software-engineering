@@ -236,8 +236,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -249,9 +249,19 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "a60f3afc2dd9afbc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -279,7 +289,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ef41c8fb908e0b9a",
+  "active": "a60f3afc2dd9afbc",
   "lastOpenFiles": [
     "Reference Notes/Andrej Karpathy/Andrej Karpathy - How I use LLMs.md",
     "Reference Notes/Matt Pocock/How I use Claude Code for real engineering.md",
