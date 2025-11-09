@@ -24,23 +24,35 @@
             }
           },
           {
-            "id": "7c5d93fccd1eae0f",
+            "id": "431ccdfbe7b63cab",
             "type": "leaf",
             "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalibrain/excalibrain.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "excalibrain"
+            }
+          },
+          {
+            "id": "0eb72056b9f2ade6",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Notes/AWS/Services/SQS/Simple Queueing Service.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Simple Queueing Service"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +72,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -72,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"prev:\"",
+                "query": "\"dlq\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -108,7 +120,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -269,10 +282,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7c5d93fccd1eae0f",
+  "active": "0eb72056b9f2ade6",
   "lastOpenFiles": [
+    "Excalibrain/excalibrain.md",
+    "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
     "Reference Notes/HelloInterview/System Design/Patterns/Managing Long Running Tasks.md",
     "Notes/AWS/Services/SQS/Simple Queueing Service.md",
+    "Notes/AWS/Services/SNS/Simple Notification Service.md",
+    "Notes/AWS/Services/SNS",
+    "Notes/Kafka.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Queue Service/Basics.md",
+    "Notes/Message Queue.md",
+    "Reference Notes/HelloInterview/System Design/In a Hurry/Key Technologies.md",
+    "Notes/Stream.md",
     "Notes/AWS/Services/SES/Simple Email Service.md",
     "Notes/AWS/Services/SES/Email Receiving.md",
     "Notes/AWS/_note_AWS.md",
@@ -291,23 +313,13 @@
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a Local Delivery Service like Gopuff.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/API Gateway.md",
-    "Braindump/_note_Braindump.md",
     "Reference Notes/HelloInterview/System Design/Patterns",
-    "Notes/AWS/Services/Lambda/Lambda.md",
     "Notes/AWS/Services/Lambda",
-    "Notes/Mail Server.md",
-    "Excalibrain/excalibrain.md",
-    "--Obsidian Template--/Frontmatter - Notes AWS.md",
-    "Notes/AWS/Services/S3/Bucket.md",
-    "Notes/_note_Notes.md",
     "Notes/AWS/Services/SES",
-    "Notes/How Mail Servers utilize DNS for mail sending and receiving.md",
-    "Notes/Listener, Acceptor and Readers Execution Patterns.md",
     "Bases/Draft Notes.base",
     "Untitled.canvas",
     "Reference Notes/nx",
     "Reference Notes/The Pragmatic Engineer",
-    "Reference Notes/Terraform/_note_Terraform.base",
     "--Attachments/Pasted image 20250616010430.png",
     "--Attachments/Pasted Image 20250524232947_481.png",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
