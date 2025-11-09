@@ -2,7 +2,7 @@
 tags:
   - notes
   - aws/sqs
-Draft: true
+Draft: false
 aliases:
   - SQS
   - AWS SQS
@@ -30,3 +30,8 @@ aliases:
 - for strict ordering of messages
 
 # Dead-letter Queues
+- Storage of failed messages
+- Default retention period of 30 days
+- Stores messages failed after default of 2 retries
+- Can be redrived to be placed back to the main queue
+- If messages are added to this queue, it is likely due to an issue with the workers: bugs or downtime.

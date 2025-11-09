@@ -36,23 +36,29 @@
               "icon": "excalidraw-icon",
               "title": "excalibrain"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c79dd66166817167",
+        "type": "tabs",
+        "children": [
           {
-            "id": "0eb72056b9f2ade6",
+            "id": "89d5a0e62ac01e2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Notes/AWS/Services/SQS/Simple Queueing Service.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Simple Queueing Service"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -282,12 +288,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0eb72056b9f2ade6",
+  "active": "89d5a0e62ac01e2a",
   "lastOpenFiles": [
     "Excalibrain/excalibrain.md",
+    "Notes/AWS/Services/SQS/Simple Queueing Service.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
     "Reference Notes/HelloInterview/System Design/Patterns/Managing Long Running Tasks.md",
-    "Notes/AWS/Services/SQS/Simple Queueing Service.md",
     "Notes/AWS/Services/SNS/Simple Notification Service.md",
     "Notes/AWS/Services/SNS",
     "Notes/Kafka.md",
