@@ -168,5 +168,12 @@ Others may prefer email first so that on call
 
 # Counter offers
 
-# Watch Out For Recruiter Tactics
 
+# Watch Out For Recruiter Tactics
+- They might reason out that you're exhausted
+- Desperation ->
+  Be careful about recruiter tactics providing a deadline for you to accept the offer
+- Urgency -> buy more time
+
+# Accepting your Job offer
+Accept your highest value offer based on [[#Offer Value]]
