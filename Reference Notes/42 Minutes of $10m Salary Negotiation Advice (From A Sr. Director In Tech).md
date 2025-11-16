@@ -166,6 +166,7 @@ Others may prefer email first so that on call
 5. Investigate what else you can offer:
 	e.g. More interviews, level-up loop, more scope
 
-# Counter offer #1
+# Counter offers
 
+# Watch Out For Recruiter Tactics
 
