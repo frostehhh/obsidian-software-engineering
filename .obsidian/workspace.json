@@ -8,54 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e0c540eb88f63e55",
+            "id": "34de053dec1ac242",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/HelloInterview/System Design/Patterns/Managing Long Running Tasks.md",
+                "file": "Reference Notes/Tips for negotiating your salary (from an ex-FAANG recruiter).md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Managing Long Running Tasks"
-            }
-          },
-          {
-            "id": "431ccdfbe7b63cab",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalibrain/excalibrain.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "excalibrain"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c79dd66166817167",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "89d5a0e62ac01e2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/AWS/Services/SQS/Simple Queueing Service.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Simple Queueing Service"
+              "title": "Tips for negotiating your salary (from an ex-FAANG recruiter)"
             }
           }
         ]
@@ -78,7 +43,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -90,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"dlq\"",
+                "query": "\"prev:\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -126,12 +91,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 356.0026054382324
+    "width": 408,
+    "collapsed": true
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -200,67 +165,7 @@
             }
           },
           {
-            "id": "00b25f1548ef092f",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "408a141de0027e0d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "1c0fcb184f10667d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "f89f7423a7195ec0",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "a60f3afc2dd9afbc",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "62c2c5a8d11945ae",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "d00758fde22e0ad6",
+            "id": "631a47c818b2206b",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -270,11 +175,12 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 272
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,44 +204,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d00758fde22e0ad6",
+  "active": "34de053dec1ac242",
   "lastOpenFiles": [
-    "Notes/AWS/Services/SQS/Simple Queueing Service.md",
-    "Excalibrain/excalibrain.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
+    "Reference Notes/_note_Reference Notes.md",
+    "Reference Notes/Tips for negotiating your salary (from an ex-FAANG recruiter).md",
+    "Reference Notes/Adrian Cantrill/_note_Adrian Cantrill.md",
+    "Notes/AWS/Services/SES/Email Receiving.md",
+    "Reference Notes/Matt Pocock/Untitled.md",
+    "Reference Notes/Matt Pocock/How I use Claude Code for real engineering.md",
+    "Reference Notes/Matt Pocock",
     "Reference Notes/HelloInterview/System Design/Patterns/Managing Long Running Tasks.md",
+    "Reference Notes/HelloInterview/System Design/Patterns",
+    "Notes/AWS/Services/SQS/Simple Queueing Service.md",
+    "Notes/AWS/Services/SQS",
     "Notes/AWS/Services/SNS/Simple Notification Service.md",
     "Notes/AWS/Services/SNS",
-    "Notes/Kafka.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Queue Service/Basics.md",
-    "Notes/Message Queue.md",
-    "Reference Notes/HelloInterview/System Design/In a Hurry/Key Technologies.md",
-    "Notes/Stream.md",
-    "Notes/AWS/Services/SES/Simple Email Service.md",
-    "Notes/AWS/Services/SES/Email Receiving.md",
-    "Notes/AWS/_note_AWS.md",
-    "Notes/AWS/Services/SQS",
-    "Notes/Domain Name System.md",
-    "Reference Notes/Matt Pocock/How I use Claude Code for real engineering.md",
-    "Reference Notes/HelloInterview/_note_HelloInterview.md",
-    "Reference Notes/HighScalability - Cinchcast Architecture - Producing 1,500 Hours of Audio Every Day.md",
-    "Untitled.base",
-    "Reference Notes/_note_Reference Notes.md",
-    "Reference Notes/Andrej Karpathy/Andrej Karpathy - How I use LLMs.md",
-    "Reference Notes/Andrej Karpathy/_note_Andrej Karpathy.md",
-    "Reference Notes/Matt Pocock/Untitled.md",
-    "Reference Notes/Matt Pocock",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a File Storage Service Like Dropbox.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a Local Delivery Service like Gopuff.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/API Gateway.md",
-    "Reference Notes/HelloInterview/System Design/Patterns",
+    "Notes/AWS/Services/Lambda/Lambda.md",
     "Notes/AWS/Services/Lambda",
+    "Notes/AWS/Services/SES/Simple Email Service.md",
+    "Notes/Domain Name System.md",
+    "Notes/Mail Server.md",
+    "Excalibrain/excalibrain.md",
+    "--Obsidian Template--/Frontmatter - Notes AWS.md",
+    "Notes/AWS/Services/S3/Bucket.md",
+    "Notes/_note_Notes.md",
     "Notes/AWS/Services/SES",
+    "Notes/How Mail Servers utilize DNS for mail sending and receiving.md",
+    "Notes/Listener, Acceptor and Readers Execution Patterns.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 5 - Backend Execution Patterns/Listener, Acceptor and Readers Execution Patterns.md",
+    "Notes/Digital Signatures.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Database Connection Pooling.md",
+    "Notes/BASE.md",
+    "Reference Notes/Adrian Cantrill/Networking/Domain Name System/Domain Name System.md",
+    "Reference Notes/Adrian Cantrill/Networking/Domain Name System/What do we want from DNS.md",
+    "Reference Notes/Adrian Cantrill/Networking/Domain Name System/--Table of Contents--.md",
     "Bases/Draft Notes.base",
     "Untitled.canvas",
     "Reference Notes/nx",
     "Reference Notes/The Pragmatic Engineer",
+    "Reference Notes/Terraform/_note_Terraform.base",
     "--Attachments/Pasted image 20250616010430.png",
     "--Attachments/Pasted Image 20250524232947_481.png",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
