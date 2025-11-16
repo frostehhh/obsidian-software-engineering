@@ -147,3 +147,25 @@ Get time to review
 Ask clarifiying questions
 - New info -> new reason to counter
 Examples you can say?
+
+# Best Multiple Offer Strategy
+1. Negotiate up Top offer
+2. Match 2nd offer to top
+3. Take new top offer back to 1st
+
+# Email vs Phone
+Any is fine based on your personality.
+Others may prefer email first so that on call
+
+# Low ball offer? Do This.
+1. Investigate why: this is the pay for this role or for me specifically?
+2. Mirror/Label to find why the team gave that
+3. Pause to let them solve before you do.
+4. Ask if they have made exceptions before.
+	"Hey, can I know if you've made any exceptions for this compensation for this role before. I'd like to know. That may not be me, but tell me about those situations."
+5. Investigate what else you can offer:
+	e.g. More interviews, level-up loop, more scope
+
+# Counter offer #1
+
+
