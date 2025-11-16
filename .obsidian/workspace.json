@@ -255,8 +255,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -265,8 +265,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
@@ -290,15 +290,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "d00758fde22e0ad6",
+  "active": "ce267377eef1f581",
   "lastOpenFiles": [
     "Notes/AWS/Services/SQS/Simple Queueing Service.md",
     "Excalibrain/excalibrain.md",
