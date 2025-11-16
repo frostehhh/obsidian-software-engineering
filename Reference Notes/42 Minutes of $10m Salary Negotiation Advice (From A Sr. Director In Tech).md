@@ -80,4 +80,31 @@ Draft: true
 ## Offer Value
 - total compensation
 - Career value/Skip prep
-- 
+- Title, Level and Scope
+- Others(work hours, flexibility, etc.)
+# Timeline/Stages of Negotiating
+## Find out their leverage
+- how long have they been looking for this position?
+- How desperate are they to fill their position?
+- Why are they looking for people to fill this position?
+- What is your level based on their standards?
+
+## How to Answer Salary Expectations Questions
+Ask
+- "Too early"
+- "I want to learn more about the company during the rest of the hiring process"
+- "What's your budget?"
+- "How do you value the company's equity today?"
+- "how are offer decisions approved?"
+- "What's your compensation philosophy?"
+- "Comparable levels at e.g. Meta/Google"
+- "I'm sure we'll make something work later."
+
+# Levels Matter
+Research about the level you're expected based on your skills, and learn the expected salaries.
+
+# BIGGEST FACTOR - Compensation Philosophy And Bands Vary by Co.
+- Others will want to pay the lower salary range for a role
+- Others are willing to pay the higher end of the range
+- Others want to straight out pay first the minimum
+
