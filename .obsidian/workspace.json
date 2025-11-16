@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34de053dec1ac242",
+            "id": "9fb6cae318b728b2",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Tips for negotiating your salary (from an ex-FAANG recruiter).md",
+                "file": "Reference Notes/42 Minutes of $10m Salary Negotiation Advice (From A Sr. Director In Tech).md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Tips for negotiating your salary (from an ex-FAANG recruiter)"
+              "title": "42 Minutes of $10m Salary Negotiation Advice (From A Sr. Director In Tech)"
             }
           }
         ]
@@ -72,13 +72,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/AWS/Services/SES/Email Receiving.md",
+                "file": "Reference Notes/42 Minutes of $10m Salary Negotiation Advice (From A Sr. Director In Tech).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Email Receiving"
+              "title": "Outline of 42 Minutes of $10m Salary Negotiation Advice (From A Sr. Director In Tech)"
             }
           },
           {
@@ -91,11 +91,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 408,
+    "width": 231,
     "collapsed": true
   },
   "right": {
@@ -204,10 +205,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "34de053dec1ac242",
+  "active": "9fb6cae318b728b2",
   "lastOpenFiles": [
-    "Reference Notes/_note_Reference Notes.md",
     "Reference Notes/Tips for negotiating your salary (from an ex-FAANG recruiter).md",
+    "Reference Notes/42 Minutes of $10m Salary Negotiation Advice (From A Sr. Director In Tech).md",
+    "Reference Notes/_note_Reference Notes.md",
     "Reference Notes/Adrian Cantrill/_note_Adrian Cantrill.md",
     "Notes/AWS/Services/SES/Email Receiving.md",
     "Reference Notes/Matt Pocock/Untitled.md",
@@ -237,7 +239,6 @@
     "Notes/BASE.md",
     "Reference Notes/Adrian Cantrill/Networking/Domain Name System/Domain Name System.md",
     "Reference Notes/Adrian Cantrill/Networking/Domain Name System/What do we want from DNS.md",
-    "Reference Notes/Adrian Cantrill/Networking/Domain Name System/--Table of Contents--.md",
     "Bases/Draft Notes.base",
     "Untitled.canvas",
     "Reference Notes/nx",
