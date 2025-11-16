@@ -56,6 +56,7 @@ Draft: true
 # Winning Factors for Negotiation
 - Avoid desperation
 - Research the possible salary levels before hand
+![[Pasted image 20251116204334.png]]
 
 # No other offers? Forms of leverage
 - In case you have offers, use those as leverage for your target company. Focus on getting leverage from companies that provide similar compensation structure
@@ -108,3 +109,41 @@ Research about the level you're expected based on your skills, and learn the exp
 - Others are willing to pay the higher end of the range
 - Others want to straight out pay first the minimum
 
+# "Market Rate" Is A MYTH
+Pay people better to ensure good team retention
+
+# Get it in WRITING
+It could be possible that the written offer contract does not match the verbal discussion.
+If this happens, it's bad to have to correct it since it means that both sides will be left with a sour taste.
+
+# Interviews Are Negotiations
+Goals for interviews
+- build rapport with HM/Recruiter/Skip/Team
+- Score highly
+- show unique value
+- Signal interest
+- manage timelines
+  If you plan to have multiple offers, make sure to work on them at the same time frame so that when you get the offers, they will likely be close to each other.
+
+# YOUR VALUE FORMULA
+`Value = (outcome * probability) / (effort * risk)`
+
+Exhibit value by saying
+- past success and impact
+- done this before
+- same market, model, tech
+
+# Tough Pre-offer questions
+Examples.
+- If we offer, will you accept?
+- Interviewing elsewhere?
+- What will you accept?
+
+# 1st Offer Call
+Give a neutral reaction. "Thanks."
+Avoid looking super excited, since this will signal that you may be willing to settle for less.
+Get details in writing
+Get time to review
+Ask clarifiying questions
+- New info -> new reason to counter
+Examples you can say?
