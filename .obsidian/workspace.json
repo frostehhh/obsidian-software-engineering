@@ -4,21 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "dfa2e208680d5bab",
+        "id": "9eed736cd2d260dd",
         "type": "tabs",
         "children": [
           {
-            "id": "80931c2a0bb5c62c",
+            "id": "52b98be37b2868df",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Setting up Auth.md",
+                "file": "Notes/OAuth 2.0.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Setting up Auth"
+              "title": "OAuth 2.0"
             }
           }
         ]
@@ -191,10 +193,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "80931c2a0bb5c62c",
+  "active": "52b98be37b2868df",
   "lastOpenFiles": [
-    "--Attachments/Setting up Auth 2025-11-23 15.52.43.excalidraw.md",
     "Notes/Setting up Auth.md",
+    "Notes/OAuth 2.0.md",
+    "--Attachments/Setting up Auth 2025-11-23 15.52.43.excalidraw.md",
     "Bases/Topics/Guides.base",
     "Bases/Topics/Networking.base",
     "Notes/Accessibility.md",
@@ -229,7 +232,6 @@
     "Reference Notes/HelloInterview/_note_HelloInterview.md",
     "Reference Notes/HighScalability - Cinchcast Architecture - Producing 1,500 Hours of Audio Every Day.md",
     "Reference Notes/_note_Reference Notes.md",
-    "Reference Notes/Andrej Karpathy/Andrej Karpathy - How I use LLMs.md",
     "Untitled.canvas",
     "--Attachments/Pasted image 20250616010430.png",
     "--Attachments/Pasted Image 20250524232947_481.png",
