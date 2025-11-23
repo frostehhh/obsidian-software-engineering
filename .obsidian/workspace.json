@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e6c9d2b1cf35588d",
+        "id": "dfa2e208680d5bab",
         "type": "tabs",
         "children": [
           {
-            "id": "986442cad58c9d48",
+            "id": "80931c2a0bb5c62c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "Notes/Setting up Auth.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "Setting up Auth"
             }
           }
         ]
@@ -51,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"dlq\"",
+                "query": "tag:#software",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -87,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -144,108 +145,29 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": true,
-                "searchQuery": "communication"
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "e5581edc07837a1b",
+            "id": "778288552b941f79",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
+              "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "00b25f1548ef092f",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "408a141de0027e0d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "1c0fcb184f10667d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "f89f7423a7195ec0",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "a60f3afc2dd9afbc",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "62c2c5a8d11945ae",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "d00758fde22e0ad6",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "22ba70e84399568d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 272
+    "width": 272,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,11 +183,31 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "986442cad58c9d48",
+  "active": "80931c2a0bb5c62c",
   "lastOpenFiles": [
+    "--Attachments/Setting up Auth 2025-11-23 15.52.43.excalidraw.md",
+    "Notes/Setting up Auth.md",
+    "Bases/Topics/Guides.base",
+    "Bases/Topics/Networking.base",
+    "Notes/Accessibility.md",
+    "Bases/Topics/Database.base",
+    "Bases/Topics/Security.base",
+    "Bases/Topics/Artificial Intelligence.base",
+    "Bases/Topics/Backend.base",
+    "Bases/Topics/Computer Science.base",
+    "Bases/Topics/System Design.base",
+    "Bases/Guides.base",
+    "Bases/Has Questions.base",
+    "Notes/AI Assistance Usage Tips.md",
+    "Notes/API Gateway.md",
     "Reference Notes/HelloInterview/System Design/Patterns/Managing Long Running Tasks.md",
     "Excalibrain/excalibrain.md",
     "Reference Notes/Tips for negotiating your salary (from an ex-FAANG recruiter).md",
@@ -274,7 +216,6 @@
     "Notes/AWS/Services/SQS/Simple Queueing Service.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
     "Notes/AWS/Services/SNS/Simple Notification Service.md",
-    "Notes/AWS/Services/SNS",
     "Notes/Kafka.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Queue Service/Basics.md",
     "Notes/Message Queue.md",
@@ -283,27 +224,13 @@
     "Notes/AWS/Services/SES/Simple Email Service.md",
     "Notes/AWS/Services/SES/Email Receiving.md",
     "Notes/AWS/_note_AWS.md",
-    "Notes/AWS/Services/SQS",
     "Notes/Domain Name System.md",
     "Reference Notes/Matt Pocock/How I use Claude Code for real engineering.md",
     "Reference Notes/HelloInterview/_note_HelloInterview.md",
     "Reference Notes/HighScalability - Cinchcast Architecture - Producing 1,500 Hours of Audio Every Day.md",
-    "Untitled.base",
     "Reference Notes/_note_Reference Notes.md",
     "Reference Notes/Andrej Karpathy/Andrej Karpathy - How I use LLMs.md",
-    "Reference Notes/Andrej Karpathy/_note_Andrej Karpathy.md",
-    "Reference Notes/Matt Pocock/Untitled.md",
-    "Reference Notes/Matt Pocock",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a File Storage Service Like Dropbox.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a Local Delivery Service like Gopuff.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
-    "Reference Notes/HelloInterview/System Design/Patterns",
-    "Notes/AWS/Services/Lambda",
-    "Notes/AWS/Services/SES",
-    "Bases/Draft Notes.base",
     "Untitled.canvas",
-    "Reference Notes/nx",
-    "Reference Notes/The Pragmatic Engineer",
     "--Attachments/Pasted image 20250616010430.png",
     "--Attachments/Pasted Image 20250524232947_481.png",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
