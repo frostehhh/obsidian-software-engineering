@@ -247,12 +247,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "c64f82c86fb0a2e8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
@@ -272,11 +282,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "986442cad58c9d48",
+  "active": "c64f82c86fb0a2e8",
   "lastOpenFiles": [
+    "Notes/Setting up Auth.md",
+    "Notes/OAuth 2.0.md",
+    "Bases/Topics/Security.base",
+    "Bases/Topics/Networking.base",
+    "Bases/Topics/Computer Science.base",
+    "Bases/Guides.base",
+    "--Attachments/Setting up Auth 2025-11-23 15.52.43.excalidraw.md",
     "Reference Notes/HelloInterview/System Design/Patterns/Managing Long Running Tasks.md",
     "Excalibrain/excalibrain.md",
     "Reference Notes/Tips for negotiating your salary (from an ex-FAANG recruiter).md",
@@ -305,16 +327,9 @@
     "Reference Notes/Andrej Karpathy/_note_Andrej Karpathy.md",
     "Reference Notes/Matt Pocock/Untitled.md",
     "Reference Notes/Matt Pocock",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a File Storage Service Like Dropbox.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a Local Delivery Service like Gopuff.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Cassandra.md",
     "Reference Notes/HelloInterview/System Design/Patterns",
     "Notes/AWS/Services/Lambda",
-    "Notes/AWS/Services/SES",
-    "Bases/Draft Notes.base",
     "Untitled.canvas",
-    "Reference Notes/nx",
-    "Reference Notes/The Pragmatic Engineer",
     "--Attachments/Pasted image 20250616010430.png",
     "--Attachments/Pasted Image 20250524232947_481.png",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",

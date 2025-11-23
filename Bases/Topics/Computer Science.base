@@ -2,6 +2,7 @@ filters:
   and:
     - '!file.name.contains("Table of Contents")'
     - '!file.name.startsWith("_note_")'
+    - file.hasTag("computer-science")
 views:
   - type: table
     name: All
@@ -11,9 +12,14 @@ views:
       - aliases
       - file.folder
     sort:
-      - property: tags
-        direction: ASC
       - property: file.name
         direction: ASC
       - property: file.basename
         direction: DESC
+    columnSize:
+      note.tags: 398
+  - type: table
+    name: Locks
+    filters:
+      and:
+        - file.hasTag("computer-science/locks")

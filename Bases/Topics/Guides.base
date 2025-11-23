@@ -2,7 +2,7 @@ filters:
   and:
     - '!file.name.contains("Table of Contents")'
     - '!file.name.startsWith("_note_")'
-    - file.hasTag("notes", "guide")
+    - file.hasTag("guide")
 views:
   - type: table
     name: All

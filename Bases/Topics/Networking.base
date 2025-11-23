@@ -2,6 +2,7 @@ filters:
   and:
     - '!file.name.contains("Table of Contents")'
     - '!file.name.startsWith("_note_")'
+    - file.hasTag("networking")
 views:
   - type: table
     name: All
@@ -11,8 +12,6 @@ views:
       - aliases
       - file.folder
     sort:
-      - property: tags
-        direction: ASC
       - property: file.name
         direction: ASC
       - property: file.basename

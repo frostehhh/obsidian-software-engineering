@@ -2,6 +2,7 @@ filters:
   and:
     - '!file.name.contains("Table of Contents")'
     - '!file.name.startsWith("_note_")'
+    - file.tags.contains("guide")
 views:
   - type: table
     name: All
@@ -17,3 +18,13 @@ views:
         direction: ASC
       - property: file.basename
         direction: DESC
+  - type: table
+    name: System Design
+    filters:
+      and:
+        - file.tags.contains("system-design")
+  - type: table
+    name: Artificial Intelligence
+    filters:
+      and:
+        - file.tags.contains("artificial-intelligence")
