@@ -17,7 +17,7 @@ ETAG is a response header and a unique identifier for a resource. It is paired w
 +++
 
 What header do you use to prompt if a stale resource has changed?::`If-Modified-Since`[^1]
-<!--SR:!2025-11-14,153,310-->
+<!--SR:!2027-03-18,474,310-->
 
 What headers are used for client and server to determine the compression algorithm to use[^2]
 ?
@@ -42,12 +42,12 @@ What headers are used for authentication?[^3]
 <!--SR:!2026-12-20,433,330-->
 +++
 
-What are the common authentication schemes[^3]
+What are the common authentication schemes in HTTP[^3]
 ?
 Basic
 Bearer
 Digest
-<!--SR:!2025-10-31,128,298-->
+<!--SR:!2026-02-01,64,278-->
 +++
 
 What are the purpose of cookies in HTTP?[^4]

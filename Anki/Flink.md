@@ -13,7 +13,7 @@ The main concepts in Flink are:
 2. Streams - flow of data
 3. Operator - transformations done on streams
 4. Sink - where transformed data is output
-<!--SR:!2025-11-12,101,310-->
+<!--SR:!2027-02-05,433,330-->
 +++
 
 What is a Watermark in Flink and what are its configuration options?
@@ -31,7 +31,7 @@ Flink supports four types of windows for data grouping:
 2. Sliding - overlapping windows
 3. Session - activity based windows
 4. Global - custom window logic
-<!--SR:!2025-11-08,106,290-->
+<!--SR:!2027-01-30,427,310-->
 +++
 
 What are the two main types of processes in Flink's cluster architecture and their roles?
@@ -47,7 +47,7 @@ What are the two main types of processes in Flink's cluster architecture and the
    - Has Task slots
    - Reserves memory for computation
    - Task slots can share resources when working on same job
-<!--SR:!2025-11-13,31,270-->
+<!--SR:!2026-03-25,116,290-->
 +++
 
 What are the supported State Management options in Flink?
