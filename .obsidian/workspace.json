@@ -256,9 +256,19 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "5f9c5469be8fb26e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "horizontal",
@@ -281,7 +291,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "c9e86c4b43b9a499",
+  "active": "5f9c5469be8fb26e",
   "lastOpenFiles": [
     "Notes/Setting up Auth.md",
     "Notes/OAuth 2.0.md",
