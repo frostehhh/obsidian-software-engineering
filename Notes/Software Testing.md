@@ -7,11 +7,12 @@ Draft: true
 
 - Software Testing is a part of Quality Assurance
 # Testing Types
+![[Pasted image 20251204234813.png]][^6]
 
 ## Functional and Non-functional Testing[^1][^3]
 1. Unit Testing
 2. Integration testing
-3. Functional or end-to-end testing
+3. Functional/End to End/System Testing
 4. Exploratory testing
 5. Acceptance testing
 6. Performance testing
@@ -70,3 +71,5 @@ https://www.testrail.com/blog/test-planning-guide/
 [^4]: https://www.browserstack.com/guide/software-testing-techniques
 
 [^5]: 
+
+[^6]: https://www.geeksforgeeks.org/software-testing/software-testing-tutorial/
