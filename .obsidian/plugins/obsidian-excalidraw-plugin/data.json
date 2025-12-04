@@ -110,7 +110,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.16.1",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.18.0",
     "libraryItems": [
       {
         "status": "published",
@@ -8545,14 +8545,20 @@
               "XbreLbAgGuPGr_tiXud7R"
             ],
             "startBinding": {
+              "mode": "orbit",
               "elementId": "v6Va9v7pPEZlIseg4I5-P",
-              "focus": 0.03340258771227226,
-              "gap": 9.092720869612094
+              "fixedPoint": [
+                0.5167012938561147,
+                0.5167012938561263
+              ]
             },
             "endBinding": {
+              "mode": "orbit",
               "elementId": "4v7_zzVP1Dy82NZ-1uOJA",
-              "focus": 2.456132592376039,
-              "gap": 8.206444049758204
+              "fixedPoint": [
+                0.006397616511550681,
+                -0.7695894273260176
+              ]
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -8690,14 +8696,20 @@
               "XbreLbAgGuPGr_tiXud7R"
             ],
             "startBinding": {
+              "mode": "orbit",
               "elementId": "v6Va9v7pPEZlIseg4I5-P",
-              "focus": 3.2890502365576073,
-              "gap": 9.417440996672383
+              "fixedPoint": [
+                1.87984397957172,
+                2.1515336873737807
+              ]
             },
             "endBinding": {
+              "mode": "orbit",
               "elementId": "XvgnFmIr4PMT1Qk0RiI3a",
-              "focus": -0.1328247803196256,
-              "gap": 14.942126305195984
+              "fixedPoint": [
+                1.5962777728956332,
+                0.5720129896854695
+              ]
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -8823,14 +8835,20 @@
               "XbreLbAgGuPGr_tiXud7R"
             ],
             "startBinding": {
+              "mode": "orbit",
               "elementId": "_TRhwQYRY54mP65DjT5SA",
-              "focus": -1.3793878506756339,
-              "gap": 5.390822366955263
+              "fixedPoint": [
+                0.0957629427351689,
+                -0.1926925239785908
+              ]
             },
             "endBinding": {
+              "mode": "inside",
               "elementId": "Toh85IWAiw9HabPMv8s85",
-              "gap": 1.355493879007847,
-              "focus": 0.08999325624637074
+              "fixedPoint": [
+                0.005583820004544411,
+                0.5316091890263636
+              ]
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -10281,14 +10299,20 @@
               "Zvi7m_QZ6g-ijg8pHsRNC"
             ],
             "startBinding": {
+              "mode": "orbit",
               "elementId": "pox47NS3FC9ABkChfXJMH",
-              "focus": 1.5746714835694358,
-              "gap": 9.084720379804452
+              "fixedPoint": [
+                1.0882267190595197e-8,
+                1.287335741784717
+              ]
             },
             "endBinding": {
+              "mode": "orbit",
               "elementId": "Y9GmviCvklfymeDZK1mZq",
-              "gap": 2.4986588812855737,
-              "focus": -0.9714757846993713
+              "fixedPoint": [
+                0.5001,
+                0.9857378923496943
+              ]
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -10544,9 +10568,12 @@
               "cDI_XNexy-ux4mRpCsJeq"
             ],
             "startBinding": {
+              "mode": "orbit",
               "elementId": "6QIcBleuO98WvymKt4gbA",
-              "focus": 0.24472012017708752,
-              "gap": 1.0429565441458966
+              "fixedPoint": [
+                0.5001,
+                0.7158433561673224
+              ]
             },
             "endBinding": null,
             "lastCommittedPoint": null,
@@ -10595,14 +10622,20 @@
               "cDI_XNexy-ux4mRpCsJeq"
             ],
             "startBinding": {
+              "mode": "orbit",
               "elementId": "6QIcBleuO98WvymKt4gbA",
-              "focus": -0.05630840266133614,
-              "gap": 1
+              "fixedPoint": [
+                0.8443622222992652,
+                0.5001
+              ]
             },
             "endBinding": {
+              "mode": "orbit",
               "elementId": "6vQTtRixzyLa3xqqquvtF",
-              "focus": 0.05904577717458523,
-              "gap": 1
+              "fixedPoint": [
+                0.5001,
+                0.4703779441822982
+              ]
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -10650,14 +10683,20 @@
               "cDI_XNexy-ux4mRpCsJeq"
             ],
             "startBinding": {
+              "mode": "orbit",
               "elementId": "6QIcBleuO98WvymKt4gbA",
-              "focus": -0.08869372840676369,
-              "gap": 1
+              "fixedPoint": [
+                0.5001,
+                0.42651358478503515
+              ]
             },
             "endBinding": {
+              "mode": "orbit",
               "elementId": "-XwvH_bzr33Otu49wlGel",
-              "focus": -0.09679793421698195,
-              "gap": 1
+              "fixedPoint": [
+                0.5001,
+                0.5802010842660293
+              ]
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
