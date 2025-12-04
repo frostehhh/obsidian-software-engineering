@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fb9d94b518c01cc0",
+        "id": "7f276465da84cc6f",
         "type": "tabs",
         "children": [
           {
-            "id": "02e420c7d5aad70f",
+            "id": "92386d2888c45e37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Local Setup/Windows PC/CLI Tools.md",
+                "file": "Scratchpads/2025-10-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLI Tools"
+              "title": "2025-10-11"
             }
           }
         ]
@@ -277,8 +277,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -287,8 +287,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
@@ -312,19 +312,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "ac0975199a6a4fe8",
+  "active": "92386d2888c45e37",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Local Setup/Windows PC/CLI Tools.md",
     "Local Setup/Git/Setup for password protected Git SSH keys for VS Code on Windows.md",
     "Local Setup/Windows PC/Main.md",
-    "Local Setup/Windows PC/CLI Tools.md",
     "Reference Notes/_note_Reference Notes.md",
     "Notes/Setting up Auth.md",
     "Notes/OAuth 2.0.md",
@@ -354,7 +350,6 @@
     "Notes/Domain Name System.md",
     "Reference Notes/Matt Pocock/How I use Claude Code for real engineering.md",
     "Reference Notes/HelloInterview/_note_HelloInterview.md",
-    "Reference Notes/HighScalability - Cinchcast Architecture - Producing 1,500 Hours of Audio Every Day.md",
     "Untitled.base",
     "Reference Notes/Matt Pocock",
     "Reference Notes/HelloInterview/System Design/Patterns",

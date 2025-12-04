@@ -44,7 +44,7 @@ Zookeeper handles leader election using sequential ZNodes:
 - Server with smallest sequence number becomes leader
 - Other servers are aware of the leader
 - When leader fails, server with next consecutive number takes over
-<!--SR:!2025-11-15,104,310-->
+<!--SR:!2027-02-18,446,330-->
 +++
 
 What is the difference between read and write operations in Zookeeper?
