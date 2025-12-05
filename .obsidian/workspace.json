@@ -24,6 +24,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "9eed736cd2d260dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "439779378bcab052",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,7 +243,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2957cd94a86fa89e",
+  "active": "439779378bcab052",
   "lastOpenFiles": [
     "Unit Testing.md",
     "Scratchpads/2025-12-04 - Quality Assurance and TEsting.md",
