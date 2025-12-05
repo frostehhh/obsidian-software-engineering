@@ -15,32 +15,12 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/Angular.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
               "title": "Angular"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9eed736cd2d260dd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "439779378bcab052",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -92,13 +72,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/AWS/Services/SES/Email Receiving.md",
+                "file": "Notes/Angular.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Email Receiving"
+              "title": "Outline of Angular"
             }
           },
           {
@@ -112,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -219,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272
+    "width": 272,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,7 +224,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "439779378bcab052",
+  "active": "62335ad7b46edd42",
   "lastOpenFiles": [
     "Unit Testing.md",
     "Scratchpads/2025-12-04 - Quality Assurance and TEsting.md",
