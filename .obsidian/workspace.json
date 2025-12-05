@@ -221,12 +221,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "dd4fd1fb8cbcc656",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -255,7 +265,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "09ad507ca65e79e6",
+  "active": "dd4fd1fb8cbcc656",
   "lastOpenFiles": [
     "Integration Testing.md",
     "Notes/Software Testing.md",
