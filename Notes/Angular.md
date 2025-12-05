@@ -3,6 +3,7 @@ tags:
   - notes
   - programming-languages/javascript/angular
 Draft: true
+has-questions: true
 ---
 
 - Frontend JavaScript framework made by Google
@@ -46,3 +47,12 @@ https://angular.dev/tools/cli
 | -------- | --------------------------------------------------- |
 | signal   | dynamic value                                       |
 | computed | signal that recomputes based on other signal values |
+# Routing
+- `provideRouter(routeConfig)`
+- `Routes` type
+- `RouterOutlet` - component where to render page
+- `RouterLink` - directive for navigating to path
+	`<a [routerLink]=['/details', homeLocation().id]` />
+
+# Questions
+- what is an observable type?

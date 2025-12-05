@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e87ea159172824ef",
+        "id": "033b3578434d58a8",
         "type": "tabs",
         "children": [
           {
-            "id": "d4e321d606872bb1",
+            "id": "2957cd94a86fa89e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Notes/Angular.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Angular"
             }
@@ -41,7 +43,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -89,7 +91,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,14 +148,24 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": true,
-                "searchQuery": "communication"
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "521557bb37b059c9",
+            "id": "778288552b941f79",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "922582e37ac8632a",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -162,7 +175,7 @@
             }
           },
           {
-            "id": "dd4fd1fb8cbcc656",
+            "id": "d4ca94784910e97a",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -172,7 +185,7 @@
             }
           },
           {
-            "id": "0a7f3337264482ac",
+            "id": "84bc9a8683f6e6e7",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -182,12 +195,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 272,
-    "collapsed": true
+    "width": 272
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,34 +223,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d4e321d606872bb1",
+  "active": "2957cd94a86fa89e",
   "lastOpenFiles": [
-    "Notes/_note_Notes.md",
-    "Notes/Angular.md",
-    "Notes/Untitled.md",
-    "Braindump/_note_Braindump.md",
-    "Bases/Topics/Software Testing.base",
     "Unit Testing.md",
-    "Integration Testing.md",
-    "Notes/Software Testing.md",
-    "--Attachments/Pasted image 20251204234813.png",
-    "Notes/IP Address.md",
-    "Bases/Topics/Artificial Intelligence.base",
-    "Notes/Accessible Rich Internet Applications.md",
     "Scratchpads/2025-12-04 - Quality Assurance and TEsting.md",
+    "Notes/Untitled.md",
+    "Notes/Software Testing.md",
+    "Notes/Angular.md",
+    "Notes/Accessible Rich Internet Applications.md",
+    "Integration Testing.md",
+    "Bases/Topics/Software Testing.base",
+    "--Attachments/Pasted image 20251204234813.png",
     "--Attachments/2025-12-04 - Quality Assurance and TEsting 2025-12-04 18.28.08.excalidraw.md",
-    "conflict-files-obsidian-git.md",
-    "Local Setup/Windows PC/CLI Tools.md",
-    "Local Setup/Git/Setup for password protected Git SSH keys for VS Code on Windows.md",
-    "Local Setup/Windows PC/Main.md",
-    "Reference Notes/_note_Reference Notes.md",
-    "Notes/Setting up Auth.md",
+    "Notes/Hypertext Transfer Protocol/Authentication/Authentication.md",
+    "Anki/HTTP.md",
     "Notes/OAuth 2.0.md",
-    "Bases/Topics/Security.base",
-    "Bases/Topics/Networking.base",
-    "Bases/Topics/Computer Science.base",
-    "Bases/Guides.base",
+    "conflict-files-obsidian-git.md",
+    "Notes/Setting up Auth.md",
     "--Attachments/Setting up Auth 2025-11-23 15.52.43.excalidraw.md",
+    "Bases/Topics/Guides.base",
+    "Bases/Topics/Networking.base",
+    "Notes/Accessibility.md",
+    "Bases/Topics/Database.base",
+    "Bases/Topics/Security.base",
+    "Bases/Topics/Artificial Intelligence.base",
+    "Bases/Topics/Backend.base",
+    "Bases/Topics/Computer Science.base",
+    "Bases/Topics/System Design.base",
+    "Bases/Guides.base",
+    "Notes/AI Assistance Usage Tips.md",
+    "Notes/API Gateway.md",
     "Reference Notes/HelloInterview/System Design/Patterns/Managing Long Running Tasks.md",
     "Excalibrain/excalibrain.md",
     "Reference Notes/Tips for negotiating your salary (from an ex-FAANG recruiter).md",
@@ -247,10 +261,8 @@
     "Notes/AWS/Services/SQS/Simple Queueing Service.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
     "Notes/AWS/Services/SNS/Simple Notification Service.md",
-    "Notes/AWS/Services/SNS",
-    "Notes/AWS/Services/SQS",
-    "Untitled.base",
-    "Reference Notes/Matt Pocock",
+    "Notes/Kafka.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Queue Service/Basics.md",
     "Untitled.canvas",
     "--Attachments/Pasted image 20250616010430.png",
     "--Attachments/Pasted Image 20250524232947_481.png",
