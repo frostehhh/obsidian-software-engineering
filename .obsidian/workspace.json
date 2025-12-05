@@ -4,88 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7f276465da84cc6f",
+        "id": "e87ea159172824ef",
         "type": "tabs",
         "children": [
           {
-            "id": "92386d2888c45e37",
+            "id": "d4e321d606872bb1",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scratchpads/2025-12-04 - Quality Assurance and TEsting.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-12-04 - Quality Assurance and TEsting"
-            }
-          },
-          {
-            "id": "55184ffd50af6498",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "--Attachments/2025-12-04 - Quality Assurance and TEsting 2025-12-04 18.28.08.excalidraw.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "2025-12-04 - Quality Assurance and TEsting 2025-12-04 18.28.08.excalidraw"
-            }
-          },
-          {
-            "id": "f54c0f6e7cbe9c4c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Software Testing.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Software Testing"
-            }
-          },
-          {
-            "id": "3cd076f230e6d5b4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Bases/Topics/Software Testing.base",
-                "viewName": "All"
-              },
-              "pinned": true,
-              "icon": "lucide-table",
-              "title": "Software Testing"
-            }
-          },
-          {
-            "id": "09ad507ca65e79e6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit Testing.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Unit Testing"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,8 +163,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
@@ -257,21 +189,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "dd4fd1fb8cbcc656",
+  "active": "d4e321d606872bb1",
   "lastOpenFiles": [
+    "Bases/Topics/Software Testing.base",
+    "Unit Testing.md",
     "Integration Testing.md",
     "Notes/Software Testing.md",
     "--Attachments/Pasted image 20251204234813.png",
-    "Unit Testing.md",
-    "Bases/Topics/Software Testing.base",
     "Notes/IP Address.md",
     "Bases/Topics/Artificial Intelligence.base",
     "Notes/Accessible Rich Internet Applications.md",
