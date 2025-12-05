@@ -55,7 +55,9 @@ export class App {
 	private calculator = inject(Calculator);
 	...
 	
-	constructor() 
+	constructor() {
+		...
+	}
 }
 ```
 ## Interface
