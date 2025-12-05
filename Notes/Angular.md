@@ -38,7 +38,9 @@ https://angular.dev/tools/cli
 ## Dependency Injection and Services
 - `inject` function
 - Command: `ng generate service my-service`
-```
+```javascript
+
+// service declaration
 import {Injectable} from '@angular/core';
 
 @Injectable({providedIn: 'root'})
@@ -46,6 +48,14 @@ export class Calculator {
 	add(x: number, y: number) {
 		return x + y;
 	}
+}
+
+// service usage
+export class App {
+	private calculator = inject(Calculator);
+	...
+	
+	constructor() 
 }
 ```
 ## Interface
