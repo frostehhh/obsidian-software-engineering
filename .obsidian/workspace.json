@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "033b3578434d58a8",
+        "id": "8771d26c0e07f8de",
         "type": "tabs",
         "children": [
           {
-            "id": "2957cd94a86fa89e",
+            "id": "b918b505472d33fb",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Angular.md",
-                "mode": "source",
+                "file": "Notes/Java.md",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Angular"
+              "title": "Java"
             }
           }
         ]
@@ -72,13 +72,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Angular.md",
+                "file": "Notes/Java.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Angular"
+              "title": "Outline of Java"
             }
           },
           {
@@ -91,8 +91,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,12 +189,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "244c87ec53dd602b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -224,13 +233,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "62335ad7b46edd42",
+  "active": "b918b505472d33fb",
   "lastOpenFiles": [
+    "Notes/_note_Notes.md",
+    "Notes/Java.md",
+    "Notes/Angular.md",
     "Unit Testing.md",
     "Scratchpads/2025-12-04 - Quality Assurance and TEsting.md",
     "Notes/Untitled.md",
     "Notes/Software Testing.md",
-    "Notes/Angular.md",
     "Notes/Accessible Rich Internet Applications.md",
     "Integration Testing.md",
     "Bases/Topics/Software Testing.base",
@@ -262,8 +273,6 @@
     "Notes/AWS/Services/SQS/Simple Queueing Service.md",
     "Reference Notes/HelloInterview/System Design/Key Technologies/Kafka.md",
     "Notes/AWS/Services/SNS/Simple Notification Service.md",
-    "Notes/Kafka.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Simple Queue Service/Basics.md",
     "Untitled.canvas",
     "--Attachments/Pasted image 20250616010430.png",
     "--Attachments/Pasted Image 20250524232947_481.png",

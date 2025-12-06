@@ -32,6 +32,12 @@ export class App {
 `ng`
 https://angular.dev/tools/cli
 # Fundamental Concepts
+## Property Binding
+`[...]` for binding values
+`(...)` for binding callback functions
+```
+	<input [value]="myValue" (click)="handleClick($event)" />
+```
 ## Component
 - `@Component` Decorator
 - Command: `ng generate component my-component`
