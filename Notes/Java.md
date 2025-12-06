@@ -13,6 +13,10 @@ has-questions: true
 - char
 - String
 
+# Fundamentals
+- inheritance
+- interfaces
+
 
 # Questions
 - what is `void`?
