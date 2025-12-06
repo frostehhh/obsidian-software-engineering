@@ -6,6 +6,13 @@ Draft: true
 has-questions: true
 ---
 
+- Source Code(human-readable code) -> compiled by JDK -> Bytecode(executable file/binary file)
+- Java Virtual Machines(JVM) execute bytecode
+# Types
+- int
+- char
+- String
+
 
 # Questions
 - what is `void`?
