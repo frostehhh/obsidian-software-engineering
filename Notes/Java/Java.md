@@ -29,5 +29,8 @@ has-questions: true
 		- non-static
 		- static
 	- local
+
+# Record
 # Questions
 - What is an IntFunction?
+- Use cases for enum as singleton?
