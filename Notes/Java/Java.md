@@ -1,7 +1,7 @@
 ---
 tags:
   - notes
-  - programming-languages/javascript
+  - programming-languages/java
 Draft: true
 has-questions: true
 ---
@@ -18,6 +18,7 @@ has-questions: true
 - interfaces
 
 
+
+
 # Questions
-- what is `void`?
-- why is main called main? does it have to be called main?
+- What is an IntFunction?
