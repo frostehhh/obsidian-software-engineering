@@ -17,6 +17,17 @@ has-questions: true
 - inheritance
 - interfaces
 
-
+# Classes
+- inheritance
+- constructor overriding
+- class members, methods, fields
+- [[Keyword Modifiers]]
+- static block
+- initializer block
+- nested classes
+	- inner
+		- non-static
+		- static
+	- local
 # Questions
 - What is an IntFunction?

@@ -37,8 +37,7 @@
               "title": "Keyword Modifiers"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,11 +257,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "408dda47eb2f434c",
+  "active": "b918b505472d33fb",
   "lastOpenFiles": [
+    "Notes/Java/Keyword Modifiers.md",
     "Notes/Java/Garbage Collection.md",
     "Notes/Java/_note_Java.md",
-    "Notes/Java/Keyword Modifiers.md",
     "Notes/Java/Method References.md",
     "Notes/Java/Java.md",
     "--Obsidian Template--/Template Architecture.excalidraw",
