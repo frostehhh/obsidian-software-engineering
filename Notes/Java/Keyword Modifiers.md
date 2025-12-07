@@ -7,4 +7,4 @@ Draft: true
 - public
 - private
 - protected
-- internal
+- `default` - no modifier
