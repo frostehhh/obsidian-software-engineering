@@ -31,6 +31,8 @@ has-questions: true
 	- local
 
 # Record
+- special type of class for immutable class field value usecases
+- 
 # Questions
 - What is an IntFunction?
 - Use cases for enum as singleton?
