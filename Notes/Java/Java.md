@@ -18,7 +18,5 @@ has-questions: true
 - interfaces
 
 
-
-
 # Questions
 - What is an IntFunction?
