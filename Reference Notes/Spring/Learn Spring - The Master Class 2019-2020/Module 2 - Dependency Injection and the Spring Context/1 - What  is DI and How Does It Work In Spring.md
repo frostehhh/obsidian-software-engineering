@@ -18,7 +18,7 @@ A pattern where a dependency is injected to a class that requires it
 - Easier to test
 
 # Types
-- raw
+- raw field
 - setter
 - constructor?
 # Spring and the IOC Container
