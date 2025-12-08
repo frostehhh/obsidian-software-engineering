@@ -35,7 +35,19 @@ has-questions: true
 # Record
 - special type of class for immutable class field value usecases
 
+# Generics
+- allows classes to have generic types that can be provided at the time of usage
+- Conventions
+	- V - Value
+	- K - Key
+- Raw type
+- parameterized types
+- wildcard
+## Generic Methods
 
+# Lambda Expressions
+
+# JavaDoc
 
 # Questions
 - What is an IntFunction?

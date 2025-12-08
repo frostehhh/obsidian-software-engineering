@@ -36,9 +36,25 @@
               "icon": "excalidraw-icon",
               "title": "Java Mindmap.excalidraw"
             }
+          },
+          {
+            "id": "062f132d58cd383c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Java/_note_Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "_note_Java"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,13 +103,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Java/Java Mindmap.excalidraw.md",
+                "file": "Notes/Java/_note_Java.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Java Mindmap.excalidraw"
+              "title": "Outline of _note_Java"
             }
           },
           {
@@ -110,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.0026054382324,
-    "collapsed": true
+    "width": 356.0026054382324
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -249,12 +264,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fdf7a28a28cdd529",
+  "active": "062f132d58cd383c",
   "lastOpenFiles": [
-    "Notes/Java/_note_Java.md",
     "Notes/Java/Java Mindmap.excalidraw.md",
-    "Notes/Java/Mindmaps.md",
+    "Notes/Java/_note_Java.md",
     "Notes/Java/Java.md",
+    "Notes/Java/Mindmaps.md",
     "Notes/Message Queue.md",
     "Local Setup/Windows PC/Main.md",
     "Local Setup/Windows PC/CLI Tools.md",

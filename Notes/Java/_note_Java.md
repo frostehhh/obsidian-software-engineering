@@ -5,5 +5,11 @@ tags:
 ---
 
 
+# To Learn 
+- generics
+- annotations
+- packages
+- interfaces
+- 
 # References
 https://www.geeksforgeeks.org/java/java-cheat-sheet/
