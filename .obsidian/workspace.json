@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "Java"
             }
+          },
+          {
+            "id": "fdf7a28a28cdd529",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notes/Java/Java Mindmap.excalidraw.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "Java Mindmap.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -43,7 +58,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -72,13 +87,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/AWS/Services/SES/Email Receiving.md",
+                "file": "Notes/Java/Java Mindmap.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Email Receiving"
+              "title": "Outline of Java Mindmap.excalidraw"
             }
           },
           {
@@ -95,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.0026054382324
+    "width": 356.0026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -189,12 +205,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "6e4b4c5f0494bfae",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -223,14 +249,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d4e321d606872bb1",
+  "active": "fdf7a28a28cdd529",
   "lastOpenFiles": [
+    "Notes/Java/_note_Java.md",
+    "Notes/Java/Java Mindmap.excalidraw.md",
+    "Notes/Java/Mindmaps.md",
+    "Notes/Java/Java.md",
+    "Notes/Message Queue.md",
     "Local Setup/Windows PC/Main.md",
     "Local Setup/Windows PC/CLI Tools.md",
     "Local Setup/Git/Setup for password protected Git SSH keys for VS Code on Windows.md",
-    "Notes/Java/Java.md",
     "Notes/Angular.md",
-    "Notes/Java/_note_Java.md",
     "Notes/Java/Method References.md",
     "Notes/Java/Keyword Modifiers.md",
     "Notes/Java/Garbage Collection.md",
@@ -252,13 +281,10 @@
     "conflict-files-obsidian-git.md",
     "Reference Notes/_note_Reference Notes.md",
     "Notes/Setting up Auth.md",
-    "Notes/OAuth 2.0.md",
     "Bases/Topics/Security.base",
     "Bases/Topics/Networking.base",
     "Bases/Topics/Computer Science.base",
     "Bases/Guides.base",
-    "--Attachments/Setting up Auth 2025-11-23 15.52.43.excalidraw.md",
-    "Reference Notes/HelloInterview/System Design/Patterns/Managing Long Running Tasks.md",
     "--Attachments/Pasted image 20251116204334.png",
     "Notes/AWS/Services/SNS",
     "Notes/AWS/Services/SQS",

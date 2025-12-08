@@ -29,11 +29,16 @@ has-questions: true
 		- non-static
 		- static
 	- local
+- polymorphism - inheritance + overriding of class methods or members
+## Abstract Classes
 
 # Record
 - special type of class for immutable class field value usecases
-- 
+
+
+
 # Questions
 - What is an IntFunction?
 - Use cases for enum as singleton?
-- How to efficiently reverse a palindrome in java?
+- abstract class vs interface
+- 
