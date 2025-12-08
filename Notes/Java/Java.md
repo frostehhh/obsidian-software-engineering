@@ -36,3 +36,4 @@ has-questions: true
 # Questions
 - What is an IntFunction?
 - Use cases for enum as singleton?
+- How to efficiently reverse a palindrome in java?
