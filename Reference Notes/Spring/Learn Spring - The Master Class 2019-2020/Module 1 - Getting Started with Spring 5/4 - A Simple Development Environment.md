@@ -6,6 +6,7 @@ source_url: https://courses.baeldung.com/courses/487981/lectures/9622111
 --- 
 
 - primarily uses eclipse in videos but can use other IDEs like IntelliJ
+	- setup jdk, formatter, maven versions
 - use Maven as build tool
 - imported maven project
 - Update IDE settings to use latest version of Maven
