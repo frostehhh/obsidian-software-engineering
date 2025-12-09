@@ -12,6 +12,7 @@ source_url: https://www.baeldung.com/members/courses/learn-spring/lessons/lesson
 - `@PostMapping`
 - `@DeleteMapping`
 - `@RequestBody`
+- `@ResponseStatus`
 
 ```java
 @RestController
