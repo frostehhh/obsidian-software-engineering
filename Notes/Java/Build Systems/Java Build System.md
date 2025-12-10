@@ -10,8 +10,8 @@ Parent:: "[[Java]]"
 # To check
 - java modules
 - intellij modules
-- gradle
-- maven
+- [[Gradle]]
+- [[Maven]]
 - intellij
 groovy dsl vs kotlin dsl
 
