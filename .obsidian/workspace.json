@@ -54,6 +54,16 @@
               "icon": "lucide-file",
               "title": "Gradle"
             }
+          },
+          {
+            "id": "37222d61f01d9a54",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
         "currentTab": 2
@@ -217,8 +227,8 @@
   },
   "active": "9d5ba6f601e9b651",
   "lastOpenFiles": [
-    "Notes/Java/Build Systems/Java Build System.md",
     "Notes/Java/Build Systems/Gradle.md",
+    "Notes/Java/Build Systems/Java Build System.md",
     "Notes/Java/Java.md",
     "Notes/Angular.md",
     "Reference Notes/HelloInterview/System Design/In a Hurry/Introduction.md",
