@@ -56,16 +56,6 @@
             }
           },
           {
-            "id": "37222d61f01d9a54",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "42d9955f1de81acb",
             "type": "leaf",
             "state": {
@@ -80,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,9 +192,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": true,
-                "searchQuery": "communication"
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
