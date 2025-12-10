@@ -42,6 +42,7 @@
           {
             "id": "ac2800701672e442",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -49,12 +50,29 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Maven"
             }
+          },
+          {
+            "id": "6793592ef4397305",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Java/Build Systems/Gradle.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Gradle"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -284,45 +302,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ac2800701672e442",
+  "active": "6793592ef4397305",
   "lastOpenFiles": [
-    "Notes/Java/Build Systems/Java Build System.md",
-    "Notes/Java/Java.md",
-    "Notes/Java/Garbage Collection.md",
+    "conflict-files-obsidian-git.md",
     "Notes/Java/Build Systems/Maven.md",
-    "Notes/Java/Keyword Modifiers.md",
-    "Notes/Java/_note_Java.md",
+    "Notes/Java/Build Systems/Java Build System.md",
+    "Notes/Java/Build Systems/Gradle.md",
+    "Notes/Java/Java.md",
+    "Untitled.md",
+    "Scratchpads/Untitled.md",
+    "Scratchpads/2025-12-09.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/REST API Spring Boot.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/5 -Transactions in Spring (text-only).md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/4 - Spring with JPA and Hibernate.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/3 - Pagination and Sorting.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/2 - Beyond the Default Repository.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/5 - The Spring Testing Framework.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/3 - Logging in a Spring Boot Project – The Right Way.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/1 - Working with Properties.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/9 -  Spring Wiring - @Resource and @Inject.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/7 - The BeanPostProcessor and the BeanFactoryPostProcessor.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/6 - Exploring the Scopes of Spring Beans.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/5 - Simple Wiring and Injection.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/4 - Lifecycle of a Bean - Init and Destroy Hooks.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/3 - Defining Beans, Component Scanning and Bean Annotations.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/2 - The Basics of Java Configuration and the Spring Context.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/1 - What  is DI and How Does It Work In Spring.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/6 - Maven and Spring.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020",
+    "--Attachments/Pasted image 20251209205547.png",
+    "--Attachments/Pasted image 20251208194136.png",
+    "--Attachments/Pasted image 20251208194119.png",
     "Notes/Java/Build Systems",
-    "Notes/Java/Method References.md",
     "--Obsidian Template--/Template Architecture.excalidraw",
-    "--Obsidian Template--/Questions.md",
-    "--Obsidian Template--/Related Course Demo.md",
-    "--Obsidian Template--/Frontmatter - Notes - Java.md",
-    "Notes/_note_Notes.md",
     "Notes/Java",
-    "Notes/Angular.md",
-    "Unit Testing.md",
-    "Scratchpads/2025-12-04 - Quality Assurance and TEsting.md",
-    "Notes/Untitled.md",
-    "Notes/Software Testing.md",
-    "Notes/Accessible Rich Internet Applications.md",
-    "Integration Testing.md",
     "Bases/Topics/Software Testing.base",
     "--Attachments/Pasted image 20251204234813.png",
-    "--Attachments/2025-12-04 - Quality Assurance and TEsting 2025-12-04 18.28.08.excalidraw.md",
-    "Notes/Hypertext Transfer Protocol/Authentication/Authentication.md",
-    "Anki/HTTP.md",
-    "Notes/OAuth 2.0.md",
-    "conflict-files-obsidian-git.md",
-    "Notes/Setting up Auth.md",
-    "--Attachments/Setting up Auth 2025-11-23 15.52.43.excalidraw.md",
-    "Bases/Topics/Guides.base",
-    "Bases/Topics/Networking.base",
-    "Notes/Accessibility.md",
-    "Bases/Topics/Database.base",
-    "Bases/Topics/Security.base",
-    "Bases/Topics/Artificial Intelligence.base",
-    "Bases/Topics/Backend.base",
     "--Attachments/Pasted image 20251116204334.png",
     "Untitled.canvas",
     "--Attachments/Pasted image 20250616010430.png",
@@ -330,9 +351,6 @@
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
     "Reference Notes/Adrian Cantrill/Networking/Images/TF-NET-NetworkAddressTranslation-3.png",
     "Reference Notes/Adrian Cantrill/Networking/Images/TF-NET-NetworkAddressTranslation-2.png",
-    "Reference Notes/Adrian Cantrill/Networking/Images/TF-NET-NetworkAddressTranslation-1.png",
-    "Reference Notes/Adrian Cantrill/Networking/Images/TF-NET-IPAddressingAndSubnetting-3.png",
-    "Reference Notes/Adrian Cantrill/Networking/Images/TF-NET-IPAddressingAndSubnetting-1.png",
     "Braindump/Fundamentals of Database Engineering.canvas"
   ]
 }

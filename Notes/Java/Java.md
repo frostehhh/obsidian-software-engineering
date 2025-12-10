@@ -29,5 +29,28 @@ has-questions: true
 		- non-static
 		- static
 	- local
+- polymorphism - inheritance + overriding of class methods or members
+## Abstract Classes
+
+# Record
+- special type of class for immutable class field value usecases
+
+# Generics
+- allows classes to have generic types that can be provided at the time of usage
+- Conventions
+	- V - Value
+	- K - Key
+- Raw type
+- parameterized types
+- wildcard
+## Generic Methods
+
+# Lambda Expressions
+
+# JavaDoc
+
 # Questions
 - What is an IntFunction?
+- Use cases for enum as singleton?
+- abstract class vs interface
+- 

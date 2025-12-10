@@ -5,7 +5,6 @@ tags:
   - build-tools
 Draft: true
 Parent:: "[[Java]]"
-
 ---
 
 # To check
@@ -14,5 +13,6 @@ Parent:: "[[Java]]"
 - gradle
 - maven
 - intellij
+groovy dsl vs kotlin dsl
 
 # Questions
