@@ -4,41 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ca81785bb46e6dfa",
+        "id": "eeb48a970a5b2dd3",
         "type": "tabs",
         "children": [
           {
-            "id": "1b26b9e930c58980",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Java/Java Cheat Sheet.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Java Cheat Sheet"
-            }
-          },
-          {
-            "id": "dbf0936edc042428",
+            "id": "5ecbe7e6588b504d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Angular.md",
+                "file": "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/1 - Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Angular"
+              "title": "1 - Introduction"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,13 +70,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Angular.md",
+                "file": "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/1 - Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Angular"
+              "title": "Outline of 1 - Introduction"
             }
           },
           {
@@ -106,12 +89,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 356.0026054382324
+    "width": 517
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -289,9 +271,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dbf0936edc042428",
+  "active": "5ecbe7e6588b504d",
   "lastOpenFiles": [
     "Notes/Java/Java Cheat Sheet.md",
+    "--Obsidian Template--/Frontmatter - Reference Notes Low Level Design.md",
+    "--Obsidian Template--/Frontmatter - Reference Notes with source.md",
+    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/1 - Introduction.md",
+    "Reference Notes/HelloInterview/System Design/Core Concepts/Consistent Hashing.md",
+    "Reference Notes/HelloInterview/_note_HelloInterview.md",
+    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry",
+    "Reference Notes/HelloInterview/Low Level Design",
+    "Notes/Angular.md",
     "conflict-files-obsidian-git.md",
     "Notes/Java/Build Systems/Gradle/_note_Gradle.md",
     "Notes/Java/Build Systems/Gradle/Gradle.md",
@@ -312,12 +302,6 @@
     "Scratchpads/Untitled.md",
     "Scratchpads/2025-12-09.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/REST API Spring Boot.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/5 -Transactions in Spring (text-only).md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/4 - Spring with JPA and Hibernate.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/3 - Pagination and Sorting.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/2 - Beyond the Default Repository.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/5 - The Spring Testing Framework.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration",
@@ -328,8 +312,6 @@
     "--Attachments/Pasted image 20251208194136.png",
     "--Attachments/Pasted image 20251208194119.png",
     "Notes/Java/Build Systems",
-    "--Obsidian Template--/Template Architecture.excalidraw",
-    "Notes/Java",
     "--Attachments/Pasted image 20251204234813.png",
     "--Attachments/Pasted image 20251116204334.png",
     "Untitled.canvas",
