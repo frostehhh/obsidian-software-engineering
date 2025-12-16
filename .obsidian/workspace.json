@@ -264,7 +264,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374
+    "width": 374,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -288,7 +289,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "62335ad7b46edd42",
+  "active": "dbf0936edc042428",
   "lastOpenFiles": [
     "Notes/Java/Java Cheat Sheet.md",
     "conflict-files-obsidian-git.md",

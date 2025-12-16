@@ -81,6 +81,29 @@ export class App {
 | -------- | --------------------------------------------------- |
 | signal   | dynamic value                                       |
 | computed | signal that recomputes based on other signal values |
+## Conditionals
+
+| Condition          | Deprecated | v21 |
+| ------------------ | ---------- | --- |
+| if                 | *ngIf      | @if |
+| if... then... else | *ngThen    |     |
+### If Then Else
+```
+<ng-container *ngIf="condition; then thenBlock else elseBlock"></ng-container>
+
+<ng-template #thenBlock>
+  <!-- Content to render when condition is true -->
+  <p>This is the 'then' content.</p>
+</ng-template>
+
+<ng-template #elseBlock>
+  <!-- Content to render when condition is false -->
+  <p>This is the 'else' content.</p>
+</ng-template>
+
+```
+## ngTemplate, ngContainer and ngTemplateOutlet
+https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/
 # Routing
 - `provideRouter(routeConfig)`
 - `Routes` type
