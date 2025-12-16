@@ -38,6 +38,12 @@ https://angular.dev/tools/cli
 ```
 	<input [value]="myValue" (click)="handleClick($event)" />
 ```
+
+## Two-way Binding
+`[(ngModel)]`
+```angular
+	<input [(ngModel)]="myValue" ... />
+```
 ## Component
 - `@Component` Decorator
 - Command: `ng generate component my-component`
