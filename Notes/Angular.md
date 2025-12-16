@@ -32,9 +32,9 @@ export class App {
 `ng`
 https://angular.dev/tools/cli
 # Fundamental Concepts
-## Property Binding
+## Property Binding and Event Binding
 `[...]` for binding values
-`(...)` for binding callback functions
+`(...)` for binding events
 ```
 	<input [value]="myValue" (click)="handleClick($event)" />
 ```
