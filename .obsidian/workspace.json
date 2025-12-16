@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/1 - Introduction.md",
+                "file": "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/2 - Delivery Framework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Introduction"
+              "title": "2 - Delivery Framework"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -70,13 +70,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/1 - Introduction.md",
+                "file": "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/2 - Delivery Framework.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1 - Introduction"
+              "title": "Outline of 2 - Delivery Framework"
             }
           },
           {
@@ -273,10 +273,11 @@
   },
   "active": "5ecbe7e6588b504d",
   "lastOpenFiles": [
+    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/1 - Introduction.md",
+    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/2 - Delivery Framework.md",
     "Notes/Java/Java Cheat Sheet.md",
     "--Obsidian Template--/Frontmatter - Reference Notes Low Level Design.md",
     "--Obsidian Template--/Frontmatter - Reference Notes with source.md",
-    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/1 - Introduction.md",
     "Reference Notes/HelloInterview/System Design/Core Concepts/Consistent Hashing.md",
     "Reference Notes/HelloInterview/_note_HelloInterview.md",
     "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry",
@@ -301,7 +302,6 @@
     "Notes/Java/Build Systems/Maven.md",
     "Scratchpads/Untitled.md",
     "Scratchpads/2025-12-09.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/REST API Spring Boot.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration",
