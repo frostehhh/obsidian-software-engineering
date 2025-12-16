@@ -10,4 +10,11 @@ Draft: true
 
 # Scope of Low-level Design Interviews
 - **US interviews** tend to have more structure. Expected to define scope before proceeding with design
-- **India or Asia interviews** tend to have vague requirements such that you need to clarify the requirements before proceeding with the design. Figure out the constraints and 
+- **India or Asia interviews** tend to have vague requirements such that you need to clarify the requirements before proceeding with the design. Figure out the constraints, scope and lead the design.
+
+# Interview Assessment Criteria
+- Problem analysis
+- Class design
+- Code quality
+- Extensibility and maintainability
+- Communication
