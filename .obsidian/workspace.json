@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/2 - Delivery Framework.md",
-                "mode": "source",
+                "file": "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/3 - General Design Principles.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Delivery Framework"
+              "title": "3 - General Design Principles"
             }
           }
         ]
@@ -70,13 +70,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/2 - Delivery Framework.md",
+                "file": "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/3 - General Design Principles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2 - Delivery Framework"
+              "title": "Outline of 3 - General Design Principles"
             }
           },
           {
@@ -273,8 +273,9 @@
   },
   "active": "5ecbe7e6588b504d",
   "lastOpenFiles": [
-    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/1 - Introduction.md",
     "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/2 - Delivery Framework.md",
+    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/3 - General Design Principles.md",
+    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/1 - Introduction.md",
     "Notes/Java/Java Cheat Sheet.md",
     "--Obsidian Template--/Frontmatter - Reference Notes Low Level Design.md",
     "--Obsidian Template--/Frontmatter - Reference Notes with source.md",
@@ -301,7 +302,6 @@
     "Notes/Java/Build Systems/Gradle.md",
     "Notes/Java/Build Systems/Maven.md",
     "Scratchpads/Untitled.md",
-    "Scratchpads/2025-12-09.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration",
