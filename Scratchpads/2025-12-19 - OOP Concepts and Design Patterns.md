@@ -1,0 +1,31 @@
+# OOP Concepts
+- Encapsulation
+	- hiding of internal state from external users
+	- public methods are exposed to limit and clarify how the class must be used
+- Polymorphism
+	- Subclasses have different implementations of the same method signature
+- Inheritance
+	- Subclass inherits fields and methods from a parent class
+	- Only good for stable base classes that we mostly do not expect to update
+	- Tight coupling
+	- Prior to this, consider composition + interfaces first
+- Abstraction
+	- Implementation details are hidden
+
+# Design Patterns
+- Creational
+	- Builder
+		- Class contains build methods to partially build an object each object
+		- By convention, `build` method can be written to finally build the object
+	- Factory
+		- Returns objects based on method logic
+		- If complexity is not needed, simple class initialization is sufficient
+	- Singleton
+		- Single instance of object throughout application
+- Structural
+	- Facade - pattern for wrapping complex logic together in a class
+	- Decorator - Higher-order class that adds additional methods and behaviors to a class
+- Behavioral
+	- Strategy - OOP for conditionals
+	- Observer - objects can subscribe to updates and react to them as needed
+	- State Machine - handle complexity of state via state machine with classes

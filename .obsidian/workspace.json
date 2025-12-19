@@ -4,21 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "eeb48a970a5b2dd3",
+        "id": "1c7d636bb77a281a",
         "type": "tabs",
         "children": [
           {
-            "id": "5ecbe7e6588b504d",
+            "id": "8e6bfa2ec33db154",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/5 - Design Patterns.md",
+                "file": "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Connect Four.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "5 - Design Patterns"
+              "title": "Design Connect Four"
             }
           }
         ]
@@ -41,7 +43,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -247,12 +249,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "683f71f91e370e24",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
@@ -281,10 +293,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5ecbe7e6588b504d",
+  "active": "8e6bfa2ec33db154",
   "lastOpenFiles": [
-    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/4 - OOP Concepts.md",
+    "Scratchpads/2025-12-19 - OOP Concepts and Design Patterns.md",
+    "--Obsidian Template--/Frontmatter - Reference Notes - System Design Case Study.md",
+    "--Obsidian Template--/Frontmatter - Reference Notes - Low-Level Design Case Study.md",
+    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Connect Four.md",
+    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a File Storage Service Like Dropbox.md",
     "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/5 - Design Patterns.md",
+    "Notes/_note_Notes.md",
+    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown",
+    "Mindmaps/_note_Mindmaps.md",
+    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/4 - OOP Concepts.md",
+    "Reference Notes/HelloInterview/_note_HelloInterview.md",
+    "Scratchpads/2025-12-09.md",
+    "Scratchpads/2025-12-04 - Quality Assurance and TEsting.md",
+    "Scratchpads/_note_Scratchpads.md",
     "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/3 - General Design Principles.md",
     "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/2 - Delivery Framework.md",
     "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/1 - Introduction.md",
@@ -292,7 +316,6 @@
     "--Obsidian Template--/Frontmatter - Reference Notes Low Level Design.md",
     "--Obsidian Template--/Frontmatter - Reference Notes with source.md",
     "Reference Notes/HelloInterview/System Design/Core Concepts/Consistent Hashing.md",
-    "Reference Notes/HelloInterview/_note_HelloInterview.md",
     "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry",
     "Reference Notes/HelloInterview/Low Level Design",
     "Notes/Angular.md",
@@ -302,16 +325,6 @@
     "Notes/Java/Build Systems/Gradle/Authoring Gradle Builds.md",
     "Notes/Java/Build Systems/Gradle",
     "Notes/Java/_note_Java.md",
-    "Notes/Java/Garbage Collection.md",
-    "Notes/Java/Java.md",
-    "Notes/Java/Java Mindmap.excalidraw.md",
-    "Notes/Java/Keyword Modifiers.md",
-    "Notes/Java/Method References.md",
-    "Notes/Integration Testing.md",
-    "Notes/Unit Testing.md",
-    "Untitled.md",
-    "Notes/Java/Build Systems/Java Build System.md",
-    "Notes/Java/Build Systems/Gradle.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration",
@@ -321,7 +334,6 @@
     "--Attachments/Pasted image 20251209205547.png",
     "--Attachments/Pasted image 20251208194136.png",
     "--Attachments/Pasted image 20251208194119.png",
-    "Notes/Java/Build Systems",
     "--Attachments/Pasted image 20251204234813.png",
     "--Attachments/Pasted image 20251116204334.png",
     "Untitled.canvas",
