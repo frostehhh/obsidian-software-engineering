@@ -1,3 +1,80 @@
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+# Excalidraw Data
+
+## Text Elements
+Title ^o5ipj4rW
+
+Description ^qJaaQeFB
+
+Example ^iAPMCjGE
+
+Functional Requirements:
+- User can create tweets
+- User can view tweets
+- User can delete tweets
+- ...
+
+System Scale:
+100M DAU, 500M tweets/day
+
+Non-Functional Requirements:
+- Availability > consistency
+- Low latency feed gen
+- ... ^S2aJ6hQh
+
+Requirements ^4LiRDUki
+
+Functional Requirements ^4k4JpHhQ
+
+System Scale ^k8eDdlvK
+
+Non-Functional Requirements ^gxYH84kE
+
+Example ^1wGNzo0o
+
+Core Entities
+- User
+- Tweet
+- Follow
+         ^1dkgXBFq
+
+Core Entities ^vltm07H5
+
+Example ^76nIDPr5
+
+GET /feed -> Tweet[]
+
+POST /tweet -> Tweet
+body: {
+    content: string
+}
+
+POST /follow -> void
+{
+    userId: string
+} ^Xhzy7nqK
+
+API Routes ^e0PJ612a
+
+High-Level Design ^9E4aB6Qe
+
+Simple Example ^ePRm2VNb
+
+Client ^zl5b77Bw
+
+Server ^RYgYDAsX
+
+DB ^csnXMEiA
+
+## Drawing
+```json
 {
 	"type": "excalidraw",
 	"version": 2,
@@ -1315,3 +1392,5 @@
 	},
 	"files": {}
 }
+```
+%%

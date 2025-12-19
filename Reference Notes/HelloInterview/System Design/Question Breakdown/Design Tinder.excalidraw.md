@@ -1,3 +1,214 @@
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+# Excalidraw Data
+
+## Text Elements
+Design a Dating App Like Tinder ^o5ipj4rW
+
+Tinder is a mobile dating app that helps people connect by allowing users to swipe right to like or left
+to pass on profiles. It uses location data and user-specified filters to suggest potential matches nearby. ^qJaaQeFB
+
+Example ^iAPMCjGE
+
+Functional Requirements:
+- User can create tweets
+- User can view tweets
+- User can delete tweets
+- ...
+
+System Scale:
+100M DAU, 500M tweets/day
+
+Non-Functional Requirements:
+- Availability > consistency
+- Low latency feed gen
+- ... ^S2aJ6hQh
+
+Requirements ^4LiRDUki
+
+Functional Requirements ^4k4JpHhQ
+
+1. Users can create a profile with preferences (e.g. age range, interests) and specify a maximum distance.
+2. Users can view a stack of potential matches in line with their preferences and within max distance of
+their current location.
+3. Users can swipe right / left on profiles one-by-one, to express 'yes' or 'no' on other users.
+4. Users get a match notification if they mutually swipe on each other. ^xtjCZg5f
+
+System Scale ^k8eDdlvK
+
+- 20M daily active users ^rVCxoM2x
+
+Non-Functional Requirements ^gxYH84kE
+
+- eventually consistent viewing of profiles and retrieval of stack
+- low latency retrieval of stack and profile data <300ms
+- strongly consistent swipes
+-  ^AumsOLqd
+
+Example ^1wGNzo0o
+
+Core Entities
+- User
+- Tweet
+- Follow
+         ^1dkgXBFq
+
+Core Entities ^vltm07H5
+
+- Stack - list of potential matches
+- User
+- Swipe
+- Match ^lVQPXaeo
+
+Example ^76nIDPr5
+
+GET /feed -> Tweet[]
+
+POST /tweet -> Tweet
+body: {
+    content: string
+}
+
+POST /follow -> void
+{
+    userId: string
+} ^Xhzy7nqK
+
+API Routes ^e0PJ612a
+
+// get stack of potential matches based on the current user
+GET /stack?lat=x&long=x&age_pref=x&gender_pref - User[] - 200
+header: JWT - identifies user
+
+POST /swipes - 201
+body: {
+    action: yes | no
+    userId
+}
+
+GET /users/{id} - 200 ^2CFoR56p
+
+POST /users - 200
+{
+  user - updates
+} ^NdQZ487V
+
+High-Level Design ^9E4aB6Qe
+
+Simple Example ^ePRm2VNb
+
+Client ^zl5b77Bw
+
+Server ^RYgYDAsX
+
+DB ^csnXMEiA
+
+Client ^vzgZKCg1
+
+Profile Service ^BeHPfxaq
+
+PostgreSQ
+L ^bcgn5W1t
+
+User
+- id
+- name
+- description
+- gender - male or female
+- location(lat, long)
+- pref_min_age
+- pref_max_age
+- max_location_radius ^EPOMtH1I
+
+POST /users ^AJ0PbggC
+
+API 
+Gateway/Load 
+balancer ^TVMkZqW1
+
+Stack Service ^H96WMEVb
+
+GET /stack ^dq8x5Zxn
+
+ElasticSearch ^8XUCoiyL
+
+Index
+User profile as listed above.
+Filter out if current user has swiped before ^JATgm5t1
+
+cdc ^g3qTTYf9
+
+Swipe
+- userId1
+- userId2
+- action - yes or no OR right or left or null
+PK on userId1 and userId2
+Add index on userId2 ^ajpA68av
+
+20 million daily active users
+swipes per day? 100
+
+2 billion swipes per day
+23000 swipes per second ^JkRAnzCe
+
+Swipe - 33 - 3gb ^gqvtO460
+
+User - 300 bytes -> 300gb ^RcOna4Uk
+
+Cassandra ^ZBSfZa3S
+
+Swipe ^8YA81gLi
+
+partitionKey -> userId1:userId2
+Should be sorted prior to storage
+action - yes or no ^JNmFAsUB
+
+Swipe Service ^DHAqNIce
+
+POST /swipes ^WaPc30W9
+
+Notification(AWS SNS) ^bzobBady
+
+{
+  userId1: a,
+  userId2: b,
+  user1_swipe: left,
+  user2_swipe: right
+} ^d2W8Qisd
+
+Redis - keep 
+very recent 
+swipes - TTL
+15 seconds ^PGRgBLaT
+
+Local 
+Storage - 
+Stack -> 
+100 to 150
+entries ^B3qr0Ckd
+
+Redis - stack per 
+user LRU ^wU6WtXnl
+
+cron daily ^ZcjGZhOb
+
+cdc ^lz0D5YTA
+
+CRON - daily - 
+check for invalid 
+swipes. Invalid if 
+swipe no longer 
+matches user 
+preferences ^K1dSjRWq
+
+## Drawing
+```json
 {
 	"type": "excalidraw",
 	"version": 2,
@@ -4083,3 +4294,5 @@
 	},
 	"files": {}
 }
+```
+%%
