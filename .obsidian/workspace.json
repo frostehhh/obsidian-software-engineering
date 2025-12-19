@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 517
+    "width": 517,
+    "collapsed": true
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -295,8 +296,9 @@
   },
   "active": "50c97c441ddfc46f",
   "lastOpenFiles": [
-    "--Obsidian Template--/Frontmatter - Reference Notes - Low-Level Design Case Study.md",
+    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Amazon Locker 1.md",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Amazon Locker.md",
+    "--Obsidian Template--/Frontmatter - Reference Notes - Low-Level Design Case Study.md",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Connect Four.md",
     "--Obsidian Template--/Frontmatter - Reference Notes - Spring.md",
     "--Obsidian Template--/Frontmatter - Reference Notes - Website Article.md",
@@ -321,7 +323,6 @@
     "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/3 - General Design Principles.md",
     "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/2 - Delivery Framework.md",
     "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/1 - Introduction.md",
-    "Notes/Java/Java Cheat Sheet.md",
     "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry",
     "Reference Notes/HelloInterview/Low Level Design",
     "Notes/Java/Build Systems/Gradle",

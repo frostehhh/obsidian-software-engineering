@@ -76,9 +76,9 @@ This keeps the state handling in one place. Generally more maintainable
 class Locker {
 	- compartments
 	- mappingCompartmentToCode: Map<Compartment, AccessCode>
-	- availableCompartments -> subset of compartments
+	- filledCompartments -> subset of compartments
 	  
-	+ getAvailableCompartments()
+	+ getFilledCompartments()
 	+ unlockCompartment(compartmentId, code)
 }
 
@@ -107,16 +107,36 @@ class AccessCode {
 }
 ```
 # Implementation
+
+## Sample Flow
+1. deposit and return access token
+2. user retrieve package
+	- valid code
+	- invalid code
+3. expired package
+
 ```java
 class Locker {
 	- compartments
 	- mappingCompartmentToCode: Map<Compartment, AccessCode>
 	- availableCompartments -> subset of compartments
 	  
-	+ getAvailableCompartments() {
-	  
+	+ getAvailableCompartments(size) {
+		  for (Compartment c : availableCompartments) {
+			  if (c.size == size) {
+				  return c;
+			  }
+		  }
+		  // Can also throw error that there are no available
+		  return null;
 	  }
-	+ unlockCompartment(compartmentId, code)
+    + deposit(compartmentId) {
+	      code = AccessCode(generateCode(), expiryDate, compartmentId)
+	      // update mappingCompartmentToCode
+      }
+	+ unlockCompartment(compartmentId, code) {
+		  
+	  }
 }
 
 enum CompartmentSize {
@@ -139,7 +159,8 @@ class AccessCode {
 	- compartmentId
 	  
 	+ AccessCode(code, expiryDate, compartmentId)
-	+ ...getters  
+	+ ...getters
+	
 	
 }
 ```
