@@ -30,35 +30,119 @@ AccessToken
 1 Compartment : 1 AccessToken
 
 # Class Design
-
+## Solution 1
+Access code state logic is declared across all entities
 ```java
 class Locker {
 	- compartments
+	- filledCompartments -> subset of compartments
 	  
-	+ getAvailableCompartments(size)
-	+ depositInCompartment
+	+ Locker(compartments)
+	+ getFilledCompartments()
+	+ unlockCompartment(compartmentId, code)
 }
 
 enum CompartmentSize {
+	SMALL,
+	MEDIUM,
+	LARGE,
 }
 
 class Compartment {
+	- id
 	- size
-	- item
-	- accessToken
+	- AccessCode accessCode
 	  
-	+ inputAccessCode(code)
+	+ Compartment(size)
+	+ getId()
+	+ getSize()
+	+ validateAccessCode(code)
 }
 
-class CompartmentAccessCode {
+class AccessCode {
 	- code
 	- expiryDate
-	
-	+ validateCode(code)
+	- compartmentId
+	  
+    + AccessCode(code, expiryDate, compartmentId)
+	+ validateAccessCode(compartmentId, code)
 }
 ```
 
+## Solution 2
+State logic for access code is located only `Locker` class
+This keeps the state handling in one place. Generally more maintainable
+```java
+class Locker {
+	- compartments
+	- mappingCompartmentToCode: Map<Compartment, AccessCode>
+	- availableCompartments -> subset of compartments
+	  
+	+ getAvailableCompartments()
+	+ unlockCompartment(compartmentId, code)
+}
+
+enum CompartmentSize {
+	SMALL,
+	MEDIUM,
+	LARGE,
+}
+
+class Compartment {
+	- id
+	- size
+
+	+ getId()
+	+ getSize()
+}
+
+class AccessCode {
+	- code
+	- expiryDate
+	- compartmentId
+	  
+	+ AccessCode(code, expiryDate, compartmentId)
+	+ ...getters  
+	
+}
+```
 # Implementation
+```java
+class Locker {
+	- compartments
+	- mappingCompartmentToCode: Map<Compartment, AccessCode>
+	- availableCompartments -> subset of compartments
+	  
+	+ getAvailableCompartments() {
+	  
+	  }
+	+ unlockCompartment(compartmentId, code)
+}
+
+enum CompartmentSize {
+	SMALL,
+	MEDIUM,
+	LARGE,
+}
+
+class Compartment {
+	- id
+	- size
+
+	+ getId()
+	+ getSize()
+}
+
+class AccessCode {
+	- code
+	- expiryDate
+	- compartmentId
+	  
+	+ AccessCode(code, expiryDate, compartmentId)
+	+ ...getters  
+	
+}
+```
 
 # Extensibility and Maintainability
 
