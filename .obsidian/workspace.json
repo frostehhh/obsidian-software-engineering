@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50c97c441ddfc46f",
+            "id": "32cf501fb3cf839e",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Amazon Locker.md",
+                "file": "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/Design Amazon Locker Review.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Design Amazon Locker"
+              "title": "Design Amazon Locker Review"
             }
           }
         ]
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 517,
-    "collapsed": true
+    "width": 517
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -260,12 +259,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "8d4f0b5592ad18bc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "horizontal",
@@ -294,10 +303,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50c97c441ddfc46f",
+  "active": "32cf501fb3cf839e",
   "lastOpenFiles": [
-    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Amazon Locker 1.md",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Amazon Locker.md",
+    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/Design Amazon Locker Review.md",
+    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review",
+    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Amazon Locker 1.md",
     "--Obsidian Template--/Frontmatter - Reference Notes - Low-Level Design Case Study.md",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Connect Four.md",
     "--Obsidian Template--/Frontmatter - Reference Notes - Spring.md",
@@ -322,7 +333,6 @@
     "Scratchpads/_note_Scratchpads.md",
     "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/3 - General Design Principles.md",
     "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/2 - Delivery Framework.md",
-    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/1 - Introduction.md",
     "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry",
     "Reference Notes/HelloInterview/Low Level Design",
     "Notes/Java/Build Systems/Gradle",
@@ -331,7 +341,6 @@
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020",
     "--Attachments/Pasted image 20251209205547.png",
     "--Attachments/Pasted image 20251208194136.png",
     "--Attachments/Pasted image 20251208194119.png",

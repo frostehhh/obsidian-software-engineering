@@ -13,7 +13,7 @@ Design a locker system like Amazon Locker where delivery drivers can deposit pac
 # Requirements
 - **Delivery Driver** deposits **packages** to **Locker Unit**
 - **Customer** can pickup via code their **package** from a **Locker Unit**
-- **Locker Units** have different sizes
+- **Compartments** have different sizes
 - Codes can expire -> max 7 days
 - 1 **package**: 1 **Locker Unit**
 - Customers can have multiple packages
