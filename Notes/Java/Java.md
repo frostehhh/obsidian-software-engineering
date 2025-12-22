@@ -32,9 +32,17 @@ has-questions: true
 - polymorphism - inheritance + overriding of class methods or members
 ## Abstract Classes
 
-# Record
+## Record classes
 - special type of class for immutable class field value usecases
-
+```java
+public record Person(string name)
+```
+- This can also be used as a nested class
+```java
+public class OuterClass {
+	public static record InnerClass(int x, int y) {}
+}
+```
 # Generics
 - allows classes to have generic types that can be provided at the time of usage
 - Conventions

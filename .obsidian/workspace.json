@@ -72,13 +72,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/3 - General Design Principles.md",
+                "file": "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/Design Amazon Locker Review.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3 - General Design Principles"
+              "title": "Outline of Design Amazon Locker Review"
             }
           },
           {
@@ -91,7 +91,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -305,6 +306,8 @@
   },
   "active": "32cf501fb3cf839e",
   "lastOpenFiles": [
+    "Notes/Java/Java.md",
+    "Notes/Java/Java Cheat Sheet.md",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/Design Amazon Locker Review.md",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Amazon Locker.md",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review",
@@ -331,8 +334,6 @@
     "Scratchpads/2025-12-09.md",
     "Scratchpads/2025-12-04 - Quality Assurance and TEsting.md",
     "Scratchpads/_note_Scratchpads.md",
-    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/3 - General Design Principles.md",
-    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/2 - Delivery Framework.md",
     "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry",
     "Reference Notes/HelloInterview/Low Level Design",
     "Notes/Java/Build Systems/Gradle",

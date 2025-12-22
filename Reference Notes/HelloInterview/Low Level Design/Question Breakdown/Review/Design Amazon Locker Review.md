@@ -74,12 +74,22 @@ class AccessCode {
 class Locker {
 	List<Compartment> compartments;
 	Map<String, AccessCode> accessCodeMapping;
+	Set<Compartment> availableCompartments;
 	
-	public { compartmentId, tokenCode } deposit(size) {
-	
+	public DepositResult deposit(size) {
+		// check if there are available compartments for the given size
+		if (!hasAvailableCompartments) {
+			throw new RuntimeException("No available compartments");
+		}
+		
+		// generate accessCode
+		// create new AccessCode object
+		// append accessCodeMapping
+		// remove compartment from availableCompartments
+		
+		return DepositResult(compartment.getId(), accessCode.getCode());
 	}
 	
-	public DepositResult
 	
 	// on input of code, if it matches, it will open a compartment door
 	public String pickup(code) {
@@ -117,10 +127,7 @@ class Locker {
 	
 	// ...getters
 	
-	public static class DepositResult {
-		
-		DepositResult()
-	}
+	public static record DepositResult (String compartmentId, String accessCode) {}
 }
 
 enum CompartmentSize {
