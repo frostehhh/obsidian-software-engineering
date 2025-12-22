@@ -35,7 +35,7 @@ AccessCode
 ```java
 class Locker {
 	List<Compartment> compartments;
-	Map<String, AccessCode> mapIdToCode;
+	Map<String, AccessCode> accessCodeMapping;
 	
 	public { compartmentId, tokenCode } deposit(size)
 	public boolean pickup(compartmentId, code)
@@ -73,26 +73,54 @@ class AccessCode {
 ```java
 class Locker {
 	List<Compartment> compartments;
-	Map<String, AccessCode> mapIdToCode;
+	Map<String, AccessCode> accessCodeMapping;
 	
 	public { compartmentId, tokenCode } deposit(size) {
 	
 	}
+	
+	public DepositResult
+	
 	// on input of code, if it matches, it will open a compartment door
-	public boolean pickup(code) {
+	public String pickup(code) {
 		/*
 			check if code has value
 			check if code exists
 			check if code matches. If yes, if compartment is not expired
 		*/
 		
-		if (!code) {
-			
+		if (code == null) {
+			// throw new RuntimeException
+		}
+		AccessCode accessCode = accessCodeMapping.get(code);
+		if (accessCode == null) {
+			// throw new RuntimeException
 		}
 		
+		Compartment compartment = accessCode.getCompartmentIfValid()
+		if (compartment == null) {
+			// clear deposit
+			clearDeposit(accessCode);
+			throw new RuntimeException("Expired code");
+		}
+		
+		clearDeposit(accessCode);
+		
+		return compartment.getId();
+	}
+	
+	private void clearDeposit(AccessCode accessCode) {
+		Compartment comp = accessCode.getCompartment();
+		comp.getId()
+		// clearing logic
 	}
 	
 	// ...getters
+	
+	public static class DepositResult {
+		
+		DepositResult()
+	}
 }
 
 enum CompartmentSize {
