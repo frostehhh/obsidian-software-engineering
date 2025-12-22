@@ -4,7 +4,7 @@ tags:
   - backend
   - system-design/patterns
 source_url: https://www.hellointerview.com/learn/system-design/patterns/long-running-tasks
-Draft: true
+Draft: false
 ---
 
 For any long running tasks that take more than a few seconds to return a response, the typical solution is to make it asynchronous.

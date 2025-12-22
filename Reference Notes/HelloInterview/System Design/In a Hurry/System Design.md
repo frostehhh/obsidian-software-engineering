@@ -3,7 +3,7 @@ tags:
   - reference-notes
   - system-design
   - guide
-Draft: true
+Draft: false
 ---
 
 # Types of System Design interview[^1]

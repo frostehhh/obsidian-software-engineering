@@ -15,7 +15,7 @@ Design a locker system like Amazon Locker where delivery drivers can deposit pac
 - **Delivery Driver** deposits **packages** to **Locker Unit**
 - **Customer** can pickup via code their **package** from a **Locker Unit**
 - **Compartments** have different sizes
-- Codes can expire -> max 7 days
+- Codes can expire -> default 7 days
 - 1 **package**: 1 **Locker Unit**
 - Customers can have multiple packages
 
@@ -74,17 +74,18 @@ class AccessCode {
 class Locker {
 	List<Compartment> compartments;
 	Map<String, AccessCode> accessCodeMapping;
-	Set<Compartment> availableCompartments;
+	Set<String> availableCompartments;
 	
 	public DepositResult deposit(size) {
 		// check if there are available compartments for the given size
-		if (!hasAvailableCompartments) {
+		Compartment availableCompartment = // get available compartment based on size
+		if (availableCompartment == null) {
 			throw new RuntimeException("No available compartments");
 		}
 		
-		// generate accessCode
-		// create new AccessCode object
-		// append accessCodeMapping
+		AccessCode accessCode = accessCode.generateAccessCode(availableCompartment);
+		accessCodeMapping.put(accessCode.getCode(), accessCode);
+		availableCompartments.delete(compartment);
 		// remove compartment from availableCompartments
 		
 		return DepositResult(compartment.getId(), accessCode.getCode());
@@ -152,6 +153,13 @@ class AccessCode {
 	Instant expiryDatetime;
 	
 	// getters
+	
+	public static AccessCode generateAccessCode(Compartment compartment) {
+		const code = generateCode();
+		const expiryDateTime = Instant.now() + 7 days;
+		
+		return AccessCode(code, compartment.getId(), expiryDateTime)
+	}
 }
 ```
 # Extensibility and Maintainability

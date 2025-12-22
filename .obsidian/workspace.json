@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "32cf501fb3cf839e",
+            "id": "6c764599d523057d",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/Design Amazon Locker Review.md",
+                "file": "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Elevator.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Design Amazon Locker Review"
+              "title": "Design Elevator"
             }
           }
         ]
@@ -43,7 +43,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -72,13 +72,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/Design Amazon Locker Review.md",
+                "file": "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Elevator.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Design Amazon Locker Review"
+              "title": "Outline of Design Elevator"
             }
           },
           {
@@ -91,12 +91,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 517
+    "width": 407,
+    "collapsed": true
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -304,44 +304,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "32cf501fb3cf839e",
+  "active": "6c764599d523057d",
   "lastOpenFiles": [
+    "Bases/Draft Notes.base",
+    "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
+    "Notes/AWS/Services/SNS/Simple Notification Service.md",
+    "Reference Notes/HelloInterview/System Design/Patterns/Managing Long Running Tasks.md",
+    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Elevator.md",
+    "--Obsidian Template--/Frontmatter/Notes/Frontmatter - Notes.md",
+    "--Obsidian Template--/Frontmatter/Notes",
+    "--Obsidian Template--/Frontmatter",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes.md",
+    "--Obsidian Template--/HelloInterview - System Design Delivery Framework.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - Backend.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes",
+    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/Design Amazon Locker Review.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Video Reference.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - Low-Level Design Case Study.md",
+    "--Obsidian Template--/Frontmatter - Reference Notes Low Level Design.md",
     "Notes/Java/Java.md",
     "Notes/Java/Java Cheat Sheet.md",
-    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/Design Amazon Locker Review.md",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Amazon Locker.md",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Amazon Locker 1.md",
-    "--Obsidian Template--/Frontmatter - Reference Notes - Low-Level Design Case Study.md",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Connect Four.md",
-    "--Obsidian Template--/Frontmatter - Reference Notes - Spring.md",
-    "--Obsidian Template--/Frontmatter - Reference Notes - Website Article.md",
-    "--Obsidian Template--/Frontmatter - Reference Notes Low Level Design.md",
-    "--Obsidian Template--/Frontmatter - Reference Notes - System Design Case Study.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - Spring.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - Website Article.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - System Design Case Study.md",
     "--Obsidian Template--/Template Architecture.excalidraw.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design FB Live Comments.excalidraw.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design TicketMaster.excalidraw.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Tinder.excalidraw.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design Yelp.excalidraw.md",
-    "Scratchpads/2025-12-19 - OOP Concepts and Design Patterns.md",
-    "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a File Storage Service Like Dropbox.md",
-    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/5 - Design Patterns.md",
-    "Notes/_note_Notes.md",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown",
-    "Mindmaps/_note_Mindmaps.md",
-    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/4 - OOP Concepts.md",
-    "Reference Notes/HelloInterview/_note_HelloInterview.md",
-    "Scratchpads/2025-12-09.md",
-    "Scratchpads/2025-12-04 - Quality Assurance and TEsting.md",
-    "Scratchpads/_note_Scratchpads.md",
     "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry",
     "Reference Notes/HelloInterview/Low Level Design",
     "Notes/Java/Build Systems/Gradle",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5",
     "--Attachments/Pasted image 20251209205547.png",
     "--Attachments/Pasted image 20251208194136.png",
     "--Attachments/Pasted image 20251208194119.png",
