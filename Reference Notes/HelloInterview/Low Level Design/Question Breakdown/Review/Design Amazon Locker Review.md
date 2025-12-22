@@ -76,8 +76,21 @@ class Locker {
 	Map<String, AccessCode> mapIdToCode;
 	
 	public { compartmentId, tokenCode } deposit(size) {
+	
 	}
-	public boolean pickup(compartmentId, code)
+	// on input of code, if it matches, it will open a compartment door
+	public boolean pickup(code) {
+		/*
+			check if code has value
+			check if code exists
+			check if code matches. If yes, if compartment is not expired
+		*/
+		
+		if (!code) {
+			
+		}
+		
+	}
 	
 	// ...getters
 }
