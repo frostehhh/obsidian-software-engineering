@@ -282,9 +282,19 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "a508717b88eaf800",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "horizontal",
@@ -308,7 +318,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "5e5ab579f0404f40",
+  "active": "6c764599d523057d",
   "lastOpenFiles": [
     "Bases/Draft Notes.base",
     "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
