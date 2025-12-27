@@ -81,13 +81,79 @@ class Elevator {
 	
 	// ...getters
 }
+```
+# Implementation
+```java
 
-// sample flow
+enum Direction {
+	UP,
+	DOWN,
+	NONE,
+}
+enum RequestType {
+	PICKUP_UP,
+	PICKUP_DOWN,
+	FLOOR,
+}
+record ElevatorRequest(RequestType rt, int floor) {}
+
+class ElevatorSystem {
+	Elevator[] elevators;
+	int floors;
+	
+	ElevatorSystem()
+	
+	public void hallCallRequest(Direction d, int floor) {
+		/*
+			- validate the floor
+			- if invalid, end here
+			- if valid, proceed
+			- selection logic for which elevator to handle this request
+			- request creation
+			- appending of request to selected elevator
+		*/
+		if (floor > floors) {
+			throw new RuntimeException("Invalid floor");
+		}
+		RequestType rt = d == Direction.UP ? RequestType.PICKUP_UP : PICKUP_DOWN;
+		Request req = new Request(rt, floor);
+		
+		// select elevator that requires the least steps.
+		// for each elevator, calculate distance
+	}
+	private int calculateStepsFromRequest(Request req, Elevator el) {
+		
+	}
+	public void floorRequest(String elevatorId, int floor)
+	public void simulateStep() // movement - 1 tick = 1 move if there exists at least one element in the queue
+	
+	// ...getters
+}
+
+class Elevator {
+	int floor = 0;
+	List<Integer> floorQueue = new ArrayList<>();
+	Direction direction = Direction.UP;
+	
+	Elevator()
+	public void appendQueue(int floor)
+	public void toggleDirection()
+	public void step(Direction dir)
+	
+	// ...getters
+}
+```
+
+# Sample Flow
+Flows to consider
+- happy path
+- idle elevators
+- 
+```java
 ElevatorSystem s = new ElevatorSystem()
 s.hallCallRequest(Direction.UP, 3)
 	Elevator.appendQueue(3)
 Elevator.simulateElevators()
 ```
-# Implementation
 
 # Extensibility and Maintainability
