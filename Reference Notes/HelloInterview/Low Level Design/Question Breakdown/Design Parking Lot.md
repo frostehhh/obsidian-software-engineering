@@ -36,7 +36,9 @@ class ParkingController {
 	}
 	
 	public Ticket handleVehicleEntry(VehicleType vType, Instant timestamp)
-	public boolean handleVehicleExit()
+	public boolean handleVehicleExit() {
+		
+	}
 	
 	// ...getters
 }
