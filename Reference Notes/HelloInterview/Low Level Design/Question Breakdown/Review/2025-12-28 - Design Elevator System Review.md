@@ -2,10 +2,17 @@
 tags:
   - guide
   - low-level-design/case-study
-Draft: true
+Draft: false
 source_url: https://www.hellointerview.com/learn/low-level-design/problem-breakdowns/elevator
 "origin:": "[[Design Elevator]]"
 ---
+
+> [!note]
+> Done with pseudocode.
+> 
+> Some missing implementations such as
+> - details for step
+> - selection for best elevator
 
 # Problem
 **🛗 What is an Elevator System?** An elevator system manages multiple elevators serving different floors in a building. When someone requests an elevator, the system decides which one to dispatch. Once inside, passengers select their destination floors. The system needs to move elevators efficiently while handling multiple concurrent requests.
