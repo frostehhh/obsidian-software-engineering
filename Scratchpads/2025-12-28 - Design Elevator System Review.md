@@ -56,13 +56,22 @@ class ElevatorController {
 		// 0 down is not allowed
 		// 9 up is not allowed
 	}
-	private void selectBestElevator(Direction dir, int floor) {
+	private void selectBestElevatorForRequest(Direction dir, int floor) {
 		// What algorithm can we have here?
+		// down to up/up to down
+		
+		// least busy
+		// already in incoming direction
+		// least steps/effort
+		
+		// get requests of each elevator, current floor and direction
+		// based on those information, identify which is best to take the
+		// request
 	}
 	// Request from hall call
 	public void requestPickup(Direction dir, int floor) {
 		validateFloorRequest(dir, floor)
-		// selectBestElevator
+		selectBestElevatorForRequest(dir, floor)
 	}
 	// Request from within elevator
 	public void requestFloor(int floor)
@@ -70,7 +79,12 @@ class ElevatorController {
 	public void step()
 }
 
-record FloorRequest(Direction dir, int floor){}
+enum class RequestType {
+	PICKUP_UP,
+	PICKUP_DOWN,
+	FLOOR,
+}
+record FloorRequest(RequestType dir, int floor) {}
 class Elevator {
 	Direction direction = Direction.IDLE;
 	int floor = 0;
@@ -78,12 +92,38 @@ class Elevator {
 	
 	public Elevator(int floor) {}
 	
+	// Append request to the requests list
+	public void addRequest(Direction dir, int floor)
 	// move a floor or open door at a floor
-	public void step(Direction dir)
+	public void step(Direction dir) {
+		/*
+			If no requests
+				Direction.IDLE
+			If has requests
+				Continue going in current direction if:
+				- there are floor only requests that can be approached in the direction
+				- there are floor requests that match the current direction of the elevator and the elevator will go to
+				Update floor by +1/-1 depending on direction to move towards next request
+			If at floor where a request can be fulfilled:
+				- clear request from requests list
+				- identify if will continue going up or down.
+				  Can use hasRequestInDirection
+				  
+		*/
+		// go up
+		// go down
+		// idle
+		// open
+	}
 	/*
-		For example, floor is at 5 and direction is UP, check if we stay idle, go down or continue going up. Continue going up if there is a request at a higher floor
+	For example, floor is at 5 and direction is UP, check if we stay idle, go down or continue going up. Continue going up if there is a request at a higher floor
 	*/
-	public boolean hasRequestsInDirection(Direction dir)
+	public boolean hasRequestsInDirection(Direction dir) {
+		/*
+			Get current floor and direction
+			Check if there are existing requests that match 
+		*/
+	}
 }
 /*
 */
@@ -98,6 +138,8 @@ class Elevator {
 
 **Simulation**
 List of requests
+
+Elevator 1
 
 | Current floor | Request Floor | Request Direction |
 | ------------- | ------------- | ----------------- |
