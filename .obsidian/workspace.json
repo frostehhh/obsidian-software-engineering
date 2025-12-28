@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "35f8a7f0976ca628",
+            "id": "f9c86566bd78a420",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scratchpads/2025-12-27 - Design Patterns.md",
+                "file": "Scratchpads/2025-12-28 - Design Elevator System Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-27 - Design Patterns"
+              "title": "2025-12-28 - Design Elevator System Review"
             }
           }
         ],
@@ -314,12 +314,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "e096c3a37c9b33d3",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "horizontal",
@@ -348,15 +358,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "35f8a7f0976ca628",
+  "active": "f9c86566bd78a420",
   "lastOpenFiles": [
-    "Scratchpads/2025-12-19 - OOP Concepts and Design Patterns.md",
-    "Scratchpads/2025-12-27 - Design Patterns.md",
-    "Scratchpads/2025-12-09.md",
-    "Scratchpads/2025-12-04 - Quality Assurance and TEsting.md",
-    "Scratchpads/_note_Scratchpads.md",
-    "Reference Notes/_note_Reference Notes.md",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Elevator.md",
+    "Scratchpads/2025-12-28 - Design Elevator System Review.md",
+    "Scratchpads/_note_Scratchpads.md",
+    "Scratchpads/2025-12-04 - Quality Assurance and TEsting.md",
+    "Reference Notes/_note_Reference Notes.md",
+    "Scratchpads/2025-12-27 - Design Patterns.md",
+    "Scratchpads/2025-12-19 - OOP Concepts and Design Patterns.md",
+    "Scratchpads/2025-12-09.md",
     "Bases/Draft Notes.base",
     "Reference Notes/HelloInterview/System Design/In a Hurry/System Design.md",
     "Notes/AWS/Services/SNS/Simple Notification Service.md",
@@ -380,7 +391,6 @@
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Connect Four.md",
     "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - Spring.md",
     "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - Website Article.md",
-    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - System Design Case Study.md",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown",
     "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry",
     "Reference Notes/HelloInterview/Low Level Design",
