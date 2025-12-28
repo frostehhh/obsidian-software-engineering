@@ -30,14 +30,30 @@ class ParkingController {
 	private float HOURLY_RATE = 5.0;
 	private List<ParkingSlot> parkingSlots;
 	private List<ParkingSlot> availableParkingSlots;
+	private Map<ParkingSlot, Ticket> slotsToTicketMapping;
 	
 	public ParkingController() {
 		...
 	}
 	
-	public Ticket handleVehicleEntry(VehicleType vType, Instant timestamp)
-	public boolean handleVehicleExit() {
-		
+	public Ticket handleVehicleEntry(VehicleType vType, Instant timestamp) {
+		/*
+			validate vType and timestamp
+			Check if there are available slots for the given vehicleType
+			If slot exists,
+		      - create Ticket
+			  - update parkingSlots, availableParkingSlots, slotsToTicketMapping
+			else, 
+				reject and throw error
+		*/
+	}
+	public boolean handleVehicleExit(Ticket ticket) {
+		/*
+			compute actual price based on ticket data
+			hours to compute is rounded to the nearest hour
+			
+			Update parkingSlots and availableParkingSlots
+		*/
 	}
 	
 	// ...getters
@@ -52,11 +68,14 @@ class ParkingSlot {
 	string id;
 	VehicleType vType;
 	boolean occupied;
+	
+	public void occupy
+	
+	// ...getters
 }
 
 class Ticket {
 	string id;
-	string parkingSlotId;
 	VehicleType vType;
 	Instant entryTime;
 }
