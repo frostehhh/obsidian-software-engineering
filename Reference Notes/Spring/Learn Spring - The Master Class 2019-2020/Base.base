@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.folder.startsWith("Reference Notes/Spring/Learn Spring - The Master Class 2019-2020")
+views:
+  - type: table
+    name: All

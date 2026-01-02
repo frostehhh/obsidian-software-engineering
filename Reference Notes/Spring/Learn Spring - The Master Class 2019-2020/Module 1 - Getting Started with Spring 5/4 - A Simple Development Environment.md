@@ -12,3 +12,7 @@ source_url: https://courses.baeldung.com/courses/487981/lectures/9622111
 - Update IDE settings to use latest version of Maven
 - Add run configuration for BUILD
 	![[Pasted image 20251208194119.png]]
+# Extra
+
+Can import maven project by right-clicking root pom.xml and clicking "Add as Maven Project"
+![[Pasted image 20260102210135.png]]
