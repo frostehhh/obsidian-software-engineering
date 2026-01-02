@@ -24,35 +24,21 @@
             }
           },
           {
-            "id": "b905bc83eb9dedae",
+            "id": "aede5df78e2e9adb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/6 - Maven and Spring.md",
+                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/3 - Logging in a Spring Boot Project – The Right Way.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6 - Maven and Spring"
-            }
-          },
-          {
-            "id": "a52eec4f5b6f891d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - Spring.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Frontmatter - Reference Notes - Spring"
+              "title": "3 - Logging in a Spring Boot Project – The Right Way"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +58,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -348,8 +334,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
@@ -374,21 +360,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "a52eec4f5b6f891d",
+  "active": "aede5df78e2e9adb",
   "lastOpenFiles": [
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/2 - Working with Profiles in Spring.md",
+    "Scratchpads/2026-01-02 - Spring.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/6 - Maven and Spring.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - Spring.md",
     "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - System Design Case Study.md",
     "--Obsidian Template--/Related Course Demo.md",
     "--Obsidian Template--/Template Architecture.excalidraw.md",
     "--Obsidian Template--/HelloInterview - System Design Delivery Framework.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/2 - Working with Profiles in Spring.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/REST API Spring Boot.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/5 -Transactions in Spring (text-only).md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/4 - Spring with JPA and Hibernate.md",
@@ -406,10 +390,7 @@
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/3 - Defining Beans, Component Scanning and Bean Annotations.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/2 - The Basics of Java Configuration and the Spring Context.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/1 - What  is DI and How Does It Work In Spring.md",
-    "Scratchpads/2026-01-02 - Spring.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/6 - Maven and Spring.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/5 - The Real World Project We're Building.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/4 - A Simple Development Environment.md",
     "--Obsidian Template--/Frontmatter/Scratchpad",
     "Bases/Draft Notes.base",
     "--Obsidian Template--/Frontmatter/Notes",
