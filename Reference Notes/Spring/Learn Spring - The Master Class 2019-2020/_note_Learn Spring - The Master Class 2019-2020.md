@@ -5,3 +5,4 @@ tags:
 source_url: https://courses.baeldung.com/courses/487981/lectures/15719686
 ---
 
+![[Base.base]]

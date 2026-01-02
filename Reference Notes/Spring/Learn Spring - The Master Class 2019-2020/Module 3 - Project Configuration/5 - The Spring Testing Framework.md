@@ -19,3 +19,6 @@ class TestConfig {
 
 }
 ```
+
+- Context between tests is cached by default by Spring
+- ComponentScan is needed so that we know where to extract beans needed for the test class
