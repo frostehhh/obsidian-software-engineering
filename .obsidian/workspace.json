@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2b165cd7c99b4dd1",
+        "id": "da3ab659fe76de1b",
         "type": "tabs",
         "children": [
           {
-            "id": "92f7411ac192c4c1",
+            "id": "9279209fe3019ebf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1 - Project Persistence with Spring Data JPA"
+              "title": "New tab"
             }
           }
         ]
@@ -89,8 +85,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -362,10 +357,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fa87c464967a6005",
+  "active": "9279209fe3019ebf",
   "lastOpenFiles": [
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/3 - Pagination and Sorting.md",
+    "Notes/Java/Java Persistence API.md",
+    "Notes/Java/_note_Java.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/3 - Pagination and Sorting.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/2 - Beyond the Default Repository.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/5 -Transactions in Spring (text-only).md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/4 - Spring with JPA and Hibernate.md",
@@ -374,7 +371,6 @@
     "Notes/Java/Classpath.md",
     "Notes/Java/Java.md",
     "Notes/Java/Garbage Collection.md",
-    "Notes/Java/_note_Java.md",
     "Notes/_note_Notes.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/7 - Spring Boot Default Properties.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot",
@@ -393,7 +389,6 @@
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/2 - Working with Profiles in Spring.md",
     "Reference Notes/_note_Reference Notes.md",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Elevator.md",
-    "Scratchpads/2026-01-02 - Spring.md",
     "--Obsidian Template--/Frontmatter/Scratchpad",
     "Bases/Draft Notes.base",
     "--Obsidian Template--/Frontmatter/Notes",
