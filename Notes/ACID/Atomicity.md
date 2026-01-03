@@ -9,4 +9,5 @@ Parent::
 - "[[ACID]]"
 ---
 
-Atomicity is a database property where all queries in a transaction must either succeed or fail together
+- Database property
+- all queries in a transaction must either succeed or fail together

@@ -18,3 +18,5 @@ views:
         direction: ASC
       - property: file.basename
         direction: DESC
+    columnSize:
+      note.tags: 211

@@ -5,13 +5,16 @@ tags:
   - database
   - redis
   - tool
-Draft: false
+Draft: true
 "related-reference-note:":
   - "[[Reference Notes/HelloInterview/System Design/Key Technologies/Redis|Redis]]"
 has-questions: false
 ---
 
-Redis is a key-value store that supports various types of value types
+- key-value store that supports various types of value types
+- single-threaded nature
+	- ensures atomicity
+	- in-order processing
 # Basics
 - data-structure key-value store -> key-value pairs with values of various data structures
 - In-memory data -> lack of durability
@@ -66,4 +69,9 @@ Stores location/coordinations
 # References
 https://redis.io/docs/latest/develop/data-types/streams/
 
+# See Also
+https://redis.io/glossary/redis-race-condition/
+
 [^1]: https://redis.io/docs/latest/develop/interact/pubsub/
+
+
