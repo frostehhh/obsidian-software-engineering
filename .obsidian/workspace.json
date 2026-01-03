@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/4 - A Simple Development Environment.md",
+                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/8 - Deploying the Boot application - Other Options.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - A Simple Development Environment"
+              "title": "8 - Deploying the Boot application - Other Options"
             }
           }
         ],
@@ -357,9 +357,19 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "1c3c911338cda28a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "horizontal",
@@ -380,11 +390,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "aede5df78e2e9adb",
   "lastOpenFiles": [
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/7 - Spring Boot Default Properties.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/8 - Deploying the Boot application - Other Options.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/4 - A Simple Development Environment.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/3 - Logging in a Spring Boot Project – The Right Way.md",
     "conflict-files-obsidian-git.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/2 - Working with Profiles in Spring.md",
@@ -408,9 +426,6 @@
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/6 - Exploring the Scopes of Spring Beans.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/5 - Simple Wiring and Injection.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/4 - Lifecycle of a Bean - Init and Destroy Hooks.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/3 - Defining Beans, Component Scanning and Bean Annotations.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/2 - The Basics of Java Configuration and the Spring Context.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/1 - What  is DI and How Does It Work In Spring.md",
     "--Obsidian Template--/Frontmatter/Scratchpad",
     "Bases/Draft Notes.base",
     "--Obsidian Template--/Frontmatter/Notes",
