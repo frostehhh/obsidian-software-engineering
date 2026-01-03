@@ -200,8 +200,6 @@
     "related-mind-map": {}
   },
   "navigationHistory": [
-    "Notes/AWS/S3/Key.md",
-    "Notes/Exclusive Lock.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Two-phase locking.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Solve the Double Booking Problem (Code Example).md",
     "Notes/Blob Storage Usage Patterns.md",
@@ -249,7 +247,9 @@
     "Notes/AWS/Services/SES/Untitled.md",
     "Notes/AWS/Services/S3/Bucket.md",
     "Notes/AWS/Services/SES/Simple Email Service.md",
-    "--Obsidian Template--/Frontmatter - Notes 1.md"
+    "--Obsidian Template--/Frontmatter - Notes 1.md",
+    "Notes/Mutex.md",
+    "Mutex vs Semaphore.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "--p",
