@@ -4,41 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1c7d636bb77a281a",
+        "id": "2b165cd7c99b4dd1",
         "type": "tabs",
         "children": [
           {
-            "id": "f9c86566bd78a420",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scratchpads/2026-01-02 - Spring.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-01-02 - Spring"
-            }
-          },
-          {
-            "id": "aede5df78e2e9adb",
+            "id": "92f7411ac192c4c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot/1 - Spring Boot Auto-configuration.md",
+                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot/2 - Actuators in Boot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Spring Boot Auto-configuration"
+              "title": "2 - Actuators in Boot"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"gradle\"",
+                "query": "\"classpath\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -110,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 514.0026054382324
+    "width": 485
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -329,7 +312,7 @@
             }
           },
           {
-            "id": "e6fe52f173066557",
+            "id": "e88016bc2597e0a9",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -339,37 +322,7 @@
             }
           },
           {
-            "id": "9b56f1ccb236c600",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "2ef860f452edfba0",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "1c3c911338cda28a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "0995806d7efb0a75",
+            "id": "dfa827b56fc4b9e7",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -379,7 +332,7 @@
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 20
       }
     ],
     "direction": "horizontal",
@@ -408,44 +361,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0995806d7efb0a75",
+  "active": "92f7411ac192c4c1",
   "lastOpenFiles": [
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/_note_Learn Spring - The Master Class 2019-2020.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot/1 - Spring Boot Auto-configuration.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot/2 - Actuators in Boot.md",
+    "Notes/Java/Classpath.md",
+    "Notes/Java/Java.md",
+    "Notes/Java/Garbage Collection.md",
+    "Notes/Java/_note_Java.md",
+    "Notes/_note_Notes.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/7 - Spring Boot Default Properties.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/8 - Deploying the Boot application - Other Options.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/7 - Spring Boot Default Properties.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/4 - A Simple Development Environment.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/3 - Logging in a Spring Boot Project – The Right Way.md",
-    "conflict-files-obsidian-git.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/2 - Working with Profiles in Spring.md",
-    "Scratchpads/2026-01-02 - Spring.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/6 - Maven and Spring.md",
-    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - Spring.md",
-    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - System Design Case Study.md",
-    "--Obsidian Template--/Related Course Demo.md",
-    "--Obsidian Template--/Template Architecture.excalidraw.md",
-    "--Obsidian Template--/HelloInterview - System Design Delivery Framework.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/REST API Spring Boot.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/6 - Working with @PropertySource.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/5 -Transactions in Spring (text-only).md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/4 - Spring with JPA and Hibernate.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/3 - Pagination and Sorting.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/2 - Beyond the Default Repository.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/_note_Learn Spring - The Master Class 2019-2020.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Base.base",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Untitled.md",
+    "Reference Notes/Spring/Spring Framework/_note_Spring Framework.md",
+    "Reference Notes/Spring/_note_Spring.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/5 - The Spring Testing Framework.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/1 - Working with Properties.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/9 -  Spring Wiring - @Resource and @Inject.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/7 - The BeanPostProcessor and the BeanFactoryPostProcessor.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/6 - Exploring the Scopes of Spring Beans.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/Untitled",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/4 - A Simple Development Environment.md",
+    "--Attachments/Pasted image 20260102210135.png",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/3 - Logging in a Spring Boot Project – The Right Way.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/2 - Working with Profiles in Spring.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/3 - Pagination and Sorting.md",
+    "Reference Notes/_note_Reference Notes.md",
+    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Elevator.md",
+    "Scratchpads/2026-01-02 - Spring.md",
+    "--Obsidian Template--/Frontmatter/Scratchpad/Note.md",
     "--Obsidian Template--/Frontmatter/Scratchpad",
+    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Parking Lot.md",
+    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/2025-12-28 - Design Elevator System Review.md",
     "Bases/Draft Notes.base",
     "--Obsidian Template--/Frontmatter/Notes",
     "--Obsidian Template--/Frontmatter",
     "--Obsidian Template--/Frontmatter/Reference Notes",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown",
-    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry",
-    "Reference Notes/HelloInterview/Low Level Design",
     "--Attachments/Pasted image 20251209205547.png",
     "--Attachments/Pasted image 20251208194136.png",
     "--Attachments/Pasted image 20251208194119.png",
@@ -456,7 +410,6 @@
     "--Attachments/Pasted Image 20250524232947_481.png",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
     "Reference Notes/Adrian Cantrill/Networking/Images/TF-NET-NetworkAddressTranslation-3.png",
-    "Reference Notes/Adrian Cantrill/Networking/Images/TF-NET-NetworkAddressTranslation-2.png",
     "Braindump/Fundamentals of Database Engineering.canvas"
   ]
 }
