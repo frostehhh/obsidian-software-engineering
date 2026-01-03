@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/3 - Logging in a Spring Boot Project – The Right Way.md",
+                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/4 - A Simple Development Environment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 - Logging in a Spring Boot Project – The Right Way"
+              "title": "4 - A Simple Development Environment"
             }
           }
         ],
@@ -347,9 +347,19 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "2ef860f452edfba0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "horizontal",
@@ -375,6 +385,7 @@
   },
   "active": "aede5df78e2e9adb",
   "lastOpenFiles": [
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/3 - Logging in a Spring Boot Project – The Right Way.md",
     "conflict-files-obsidian-git.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/2 - Working with Profiles in Spring.md",
     "Scratchpads/2026-01-02 - Spring.md",
@@ -390,7 +401,6 @@
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/3 - Pagination and Sorting.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/2 - Beyond the Default Repository.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/3 - Logging in a Spring Boot Project – The Right Way.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/5 - The Spring Testing Framework.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/1 - Working with Properties.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/9 -  Spring Wiring - @Resource and @Inject.md",
