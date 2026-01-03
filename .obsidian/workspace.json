@@ -367,9 +367,19 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "0995806d7efb0a75",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "horizontal",
@@ -390,10 +400,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "aede5df78e2e9adb",
+  "active": "0995806d7efb0a75",
   "lastOpenFiles": [
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/_note_Learn Spring - The Master Class 2019-2020.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot/1 - Spring Boot Auto-configuration.md",
