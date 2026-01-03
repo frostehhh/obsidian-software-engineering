@@ -64,9 +64,19 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "453302452395338f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -405,7 +415,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "14ac08c06ca0a871",
+  "active": "453302452395338f",
   "lastOpenFiles": [
     "Mutex vs Semaphore.md",
     "Notes/Mutex.md",
