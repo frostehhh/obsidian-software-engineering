@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1addb615075a0c0a",
+        "id": "78353eead8d0c6b5",
         "type": "tabs",
         "children": [
           {
-            "id": "8c977334936c1d3a",
+            "id": "3aac81f720245af5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Rate Limiter.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Design Rate Limiter"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "offsetdate",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -85,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -377,9 +380,19 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "60242219d19c0850",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 25
+        "currentTab": 26
       }
     ],
     "direction": "horizontal",
@@ -400,11 +413,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "8c977334936c1d3a",
+  "active": "3aac81f720245af5",
   "lastOpenFiles": [
+    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Parking Lot.md",
+    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Rate Limiter.md",
     "Scratchpads/2026-01-02 - Spring.md",
     "Scratchpads/2026-01-04 - practice Infor.md",
     "Scratchpads/_note_Scratchpads.md",
@@ -430,8 +450,6 @@
     "--Obsidian Template--/Template Architecture.excalidraw.md",
     "--Obsidian Template--/HelloInterview - System Design Delivery Framework.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/REST API Spring Boot.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/5 -Transactions in Spring (text-only).md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/4 - Spring with JPA and Hibernate.md",
     "--Obsidian Template--/Frontmatter/Scratchpad",
     "Bases/Draft Notes.base",
     "--Obsidian Template--/Frontmatter/Notes",
