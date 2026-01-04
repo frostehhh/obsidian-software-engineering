@@ -49,6 +49,31 @@ RateLimitResult
 
 # Class Design
 
+```
+class RateLimiter:
+    - limiters: Map<string, Limiter>
+    - defaultLimiter: Limiter
+
+    + RateLimiter(configs, defaultConfig)
+    + allow(clientId, endpoint) -> RateLimitResult
+
+class LimiterFactory:
+    + create(configData) -> Limiter
+
+interface Limiter:
+    + allow(key) -> RateLimitResult
+
+class RateLimitResult:
+    - allowed: boolean
+    - remaining: int
+    - retryAfterMs: long | null
+
+    + RateLimitResult(allowed, remaining, retryAfterMs)
+    + isAllowed() -> boolean
+    + getRemaining() -> int
+    + getRetryAfterMs() -> long | null
+```
+
 # Implementation
 
 # Extensibility and Maintainability
