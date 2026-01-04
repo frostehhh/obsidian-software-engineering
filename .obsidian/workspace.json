@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1c7d636bb77a281a",
+        "id": "1addb615075a0c0a",
         "type": "tabs",
         "children": [
           {
-            "id": "f9c86566bd78a420",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scratchpads/2026-01-02 - Spring.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-01-02 - Spring"
-            }
-          },
-          {
-            "id": "ed452ad6192cd0e9",
+            "id": "8c977334936c1d3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scratchpads/2026-01-04 - practice Infor.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-01-04 - practice Infor"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -395,8 +374,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
@@ -421,19 +400,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "fa87c464967a6005",
+  "active": "8c977334936c1d3a",
   "lastOpenFiles": [
-    "Scratchpads/_note_Scratchpads.md",
-    "Scratchpads/2026-01-04 - practice Infor.md",
     "Scratchpads/2026-01-02 - Spring.md",
+    "Scratchpads/2026-01-04 - practice Infor.md",
+    "Scratchpads/_note_Scratchpads.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot/1 - Spring Boot Auto-configuration.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot/2 - Actuators in Boot.md",
     "Notes/Semaphore.md",
