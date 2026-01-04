@@ -387,12 +387,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "280d5b9e5fbe38b3",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 27
       }
     ],
     "direction": "horizontal",
@@ -421,7 +431,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3aac81f720245af5",
+  "active": "280d5b9e5fbe38b3",
   "lastOpenFiles": [
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Parking Lot.md",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Rate Limiter.md",
