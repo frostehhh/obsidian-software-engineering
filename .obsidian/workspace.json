@@ -4,79 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "da3ab659fe76de1b",
+        "id": "78353eead8d0c6b5",
         "type": "tabs",
         "children": [
           {
-            "id": "9279209fe3019ebf",
+            "id": "3aac81f720245af5",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Redis.md",
+                "file": "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/2026-01-05 - Design Rate Limiter.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Redis"
+              "title": "2026-01-05 - Design Rate Limiter"
             }
           },
           {
-            "id": "7e4f566c150ec868",
+            "id": "ffa8dd5ebd5c230f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Semaphore.md",
+                "file": "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Rate Limiter.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Semaphore"
-            }
-          },
-          {
-            "id": "3dcd38fbd47a8ee5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mutex vs Semaphore.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Mutex vs Semaphore"
-            }
-          },
-          {
-            "id": "14ac08c06ca0a871",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "453302452395338f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Design Rate Limiter"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +57,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -108,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"semaphore\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -148,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303
+    "width": 514.0026054382324
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -367,7 +328,7 @@
             }
           },
           {
-            "id": "e88016bc2597e0a9",
+            "id": "e6fe52f173066557",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -377,7 +338,87 @@
             }
           },
           {
-            "id": "dfa827b56fc4b9e7",
+            "id": "9b56f1ccb236c600",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "2ef860f452edfba0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "1c3c911338cda28a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "0995806d7efb0a75",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "5840302a366ff102",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "c7f6ece530db879e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "60242219d19c0850",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "280d5b9e5fbe38b3",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "cf94262bd94f26ed",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -387,11 +428,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 28
       }
     ],
     "direction": "horizontal",
-    "width": 374
+    "width": 374,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -415,39 +457,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "453302452395338f",
+  "active": "3aac81f720245af5",
   "lastOpenFiles": [
-    "Mutex vs Semaphore.md",
-    "Notes/Mutex.md",
-    "Notes/Redis.md",
-    "Notes/Semaphore.md",
-    "Excalibrain/excalibrain.md",
-    "Notes/_note_Notes.md",
-    "Notes/ACID/Atomicity.md",
-    "Braindump/Fundamentals of Database and Backend.excalidraw.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Atomicity.md",
-    "Reference Notes/HelloInterview/System Design/Key Technologies/Zookeeper.md",
-    "Braindump/Fundamentals of Database Engineering.canvas",
-    "Notes/Java/Java Persistence API.md",
-    "Notes/Java/_note_Java.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/3 - Pagination and Sorting.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/2 - Beyond the Default Repository.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/5 -Transactions in Spring (text-only).md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/4 - Spring with JPA and Hibernate.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot/2 - Actuators in Boot.md",
+    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Rate Limiter.md",
+    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/2026-01-05 - Design Rate Limiter.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - Low-Level Design Case Study Review.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - System Design Case Study.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - Low-Level Design Case Study.md",
+    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/2025-12-28 - Design Elevator System Review.md",
+    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/Design Amazon Locker Review.md",
+    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Parking Lot.md",
+    "Scratchpads/2026-01-02 - Spring.md",
+    "Scratchpads/2026-01-04 - practice Infor.md",
+    "Scratchpads/_note_Scratchpads.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot/1 - Spring Boot Auto-configuration.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot/2 - Actuators in Boot.md",
+    "Notes/Semaphore.md",
+    "Notes/Mutex.md",
+    "Notes/Java/Java Persistence API.md",
     "Notes/Java/Classpath.md",
-    "Notes/Java/Java.md",
-    "Notes/Java/Garbage Collection.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/7 - Spring Boot Default Properties.md",
+    "Mutex vs Semaphore.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/_note_Learn Spring - The Master Class 2019-2020.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/8 - Deploying the Boot application - Other Options.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/6 - Working with @PropertySource.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/_note_Learn Spring - The Master Class 2019-2020.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Base.base",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/Untitled",
-    "--Attachments/Pasted image 20260102210135.png",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/7 - Spring Boot Default Properties.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/4 - A Simple Development Environment.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/3 - Logging in a Spring Boot Project – The Right Way.md",
+    "conflict-files-obsidian-git.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/2 - Working with Profiles in Spring.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/6 - Maven and Spring.md",
     "--Obsidian Template--/Frontmatter/Scratchpad",
     "Bases/Draft Notes.base",
     "--Obsidian Template--/Frontmatter/Notes",
@@ -455,6 +493,8 @@
     "--Obsidian Template--/Frontmatter/Reference Notes",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown",
+    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry",
+    "Reference Notes/HelloInterview/Low Level Design",
     "--Attachments/Pasted image 20251209205547.png",
     "--Attachments/Pasted image 20251208194136.png",
     "--Attachments/Pasted image 20251208194119.png",
@@ -464,6 +504,8 @@
     "--Attachments/Pasted image 20250616010430.png",
     "--Attachments/Pasted Image 20250524232947_481.png",
     "Reference Notes/Docker/Images/Pasted image 20230313012146.png",
-    "Reference Notes/Adrian Cantrill/Networking/Images/TF-NET-NetworkAddressTranslation-3.png"
+    "Reference Notes/Adrian Cantrill/Networking/Images/TF-NET-NetworkAddressTranslation-3.png",
+    "Reference Notes/Adrian Cantrill/Networking/Images/TF-NET-NetworkAddressTranslation-2.png",
+    "Braindump/Fundamentals of Database Engineering.canvas"
   ]
 }
