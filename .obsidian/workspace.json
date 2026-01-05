@@ -10,6 +10,22 @@
           {
             "id": "3aac81f720245af5",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/2026-01-05 - Design Rate Limiter.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-01-05 - Design Rate Limiter"
+            }
+          },
+          {
+            "id": "ffa8dd5ebd5c230f",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -397,12 +413,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "cf94262bd94f26ed",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 28
       }
     ],
     "direction": "horizontal",
@@ -431,10 +457,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "280d5b9e5fbe38b3",
+  "active": "3aac81f720245af5",
   "lastOpenFiles": [
-    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Parking Lot.md",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Rate Limiter.md",
+    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/2026-01-05 - Design Rate Limiter.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - Low-Level Design Case Study Review.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - System Design Case Study.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - Low-Level Design Case Study.md",
+    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/2025-12-28 - Design Elevator System Review.md",
+    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/Design Amazon Locker Review.md",
+    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Parking Lot.md",
     "Scratchpads/2026-01-02 - Spring.md",
     "Scratchpads/2026-01-04 - practice Infor.md",
     "Scratchpads/_note_Scratchpads.md",
@@ -454,12 +486,6 @@
     "conflict-files-obsidian-git.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/2 - Working with Profiles in Spring.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/6 - Maven and Spring.md",
-    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - Spring.md",
-    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - System Design Case Study.md",
-    "--Obsidian Template--/Related Course Demo.md",
-    "--Obsidian Template--/Template Architecture.excalidraw.md",
-    "--Obsidian Template--/HelloInterview - System Design Delivery Framework.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/REST API Spring Boot.md",
     "--Obsidian Template--/Frontmatter/Scratchpad",
     "Bases/Draft Notes.base",
     "--Obsidian Template--/Frontmatter/Notes",

@@ -3,6 +3,7 @@ tags:
   - guide
   - low-level-design/case-study
 Draft: false
+date: 2025-12-28
 source_url: https://www.hellointerview.com/learn/low-level-design/problem-breakdowns/elevator
 "origin:": "[[Design Elevator]]"
 ---
