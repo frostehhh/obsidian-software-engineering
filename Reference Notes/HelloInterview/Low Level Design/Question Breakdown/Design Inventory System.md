@@ -53,7 +53,10 @@ class InventoryManager {
 	public addStock(warehouseId, productId, quantity)
 	public removeStock(warehouseId, productId, quantiy)
 	public transferStock(warehouseA, warehouseB, productId, quantity)
+	public List<Warehouse> getWarehousesWithAvailability(productId, quantity) returns list of warehouse IDs
+	public void setLowStockAlert(warehouseId, productId, threshold, listener)
 }
+
 class Warehouse {
 	String warehouseId;
 	Map<String, Integer> stocks;
@@ -61,19 +64,17 @@ class Warehouse {
 	
 	public Warehouse(String warehouseId, Map<String, Integer> stocks) {
 	}
+	public void setLowStockAlert(productId, threshold, listener)
 }
 
 class AlertConfig {
-	String productId;
-	String warehouseId;
-	Integer quantityThreshold;
-	// is this enough? how do we know who to alert?
-	String[] alertMechanisms;
+	int threshhold;
+	AlertListener alertListener;
 }
 
-class AlertListener {
+interface AlertListener {
 	// pass output quantity
-	public void listen(productId, quantity)
+	public void listen(warehouseId, productId, quantity)
 }
 
 ```
