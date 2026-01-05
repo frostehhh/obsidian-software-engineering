@@ -48,10 +48,34 @@ Out of Scope:
 # Class Design
 ```java
 class InventoryManager {
-	addStock(warehouseId, productId, quantity)
-	removeStock(warehouseId, productId, quantiy)
-	transferStock(warehouseA, warehouseB)
+	public InventoryManager() {}
+
+	public addStock(warehouseId, productId, quantity)
+	public removeStock(warehouseId, productId, quantiy)
+	public transferStock(warehouseA, warehouseB, productId, quantity)
 }
+class Warehouse {
+	String warehouseId;
+	Map<String, Integer> stocks;
+	Map<String, AlertConfig> alertConfigs;
+	
+	public Warehouse(String warehouseId, Map<String, Integer> stocks) {
+	}
+}
+
+class AlertConfig {
+	String productId;
+	String warehouseId;
+	Integer quantityThreshold;
+	// is this enough? how do we know who to alert?
+	String[] alertMechanisms;
+}
+
+class AlertListener {
+	// pass output quantity
+	public void listen(productId, quantity)
+}
+
 ```
 
 # Implementation
