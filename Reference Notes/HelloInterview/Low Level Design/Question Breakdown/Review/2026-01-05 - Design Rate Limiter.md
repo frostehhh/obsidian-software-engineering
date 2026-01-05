@@ -8,6 +8,9 @@ date: 2026-01-05
 "origin:": "[[Design Rate Limiter]]"
 ---
 
+> [!note]
+> Didn't complete, but considered done enough for practice
+
 # Problem
 
 "You're building an in-memory rate limiter for an API gateway. The system receives configuration from an external service that provides rate limiting rules per endpoint. Each endpoint can have its own limit with a specific algorithm. Here's an example configuration for one endpoint:
@@ -89,14 +92,15 @@ class RateLimiter {
 	
 	// configs and defaultConfig are json
 	public RateLimiter(
-		JSONObject configs,
-		JSONObject defaultConfig,
+		List<Map<String, Config>> configs,
+		Map<String, Config> defaultConfig,
 	) {
 		LimiterFactory factory = new LimiterFactory();
 		Map<String, Limiter> newLimiters = new HashMap<>();
-		for (JSONObject externalConfig : configs) {
+		for (Map<String, Config> externalConfig : configs) {
 			String endpoint = externalConfig.get('endpoint');
 			Limiter limiter = factory.create(externalConfig);
+			newLimiters.set(endpoint, limiter);
 		}
 		
 		this.configMapping = newLimiters;
