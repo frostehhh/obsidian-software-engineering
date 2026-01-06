@@ -34,6 +34,9 @@ class CoffeeShopController {
 
 	public static handleFrequentCustomer (Order o) {
 		// query if customer is frequent
+		if (o.customer.isFrequentCustomer()) {
+			Or
+		}
 	}
 }
 
@@ -43,7 +46,15 @@ class Person {
 }
 
 class Employee extends Person {}
-class Customer extends Person {}
+
+class Customer extends Person {
+	private int visitsInPast30Days;
+	private static final int frequentCount = 5;
+	
+	public boolean isFrequentCustomer() {
+		return visitsInPast30Days >= frequentCount;
+	}
+}
 
 class Order {
 	String id;

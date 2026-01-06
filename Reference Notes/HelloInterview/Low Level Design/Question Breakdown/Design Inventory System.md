@@ -81,5 +81,100 @@ interface AlertListener {
 
 # Implementation
 
+```java
+class InventoryManager {
+	private Map<String, Warehouse> warehouses = new HashMap<>();
+	
+	public InventoryManager(List<Warehouse> warehouses) {
+		this.warehouses = // convert list of warehouses to map;
+	}
+
+	public addStock(warehouseId, productId, quantity) {
+		Warehouse warehouse = warehouses.get(warehouseId);
+		warehouse.addStock(productId, quantity);
+	}
+	public removeStock(warehouseId, productId, quantity) {
+		Warehouse warehouse = warehouses.get(warehouseId);
+		warehouse.removeStock(productId, quantity);
+	}
+	public transferStock(warehouseA, warehouseB, productId, quantity) {
+		Warehouse whA = warehouses.get(warehouseA);
+		Warehouse whB = warehouses.get(warehouseB);
+		
+		if (warehouseA.getStocks(productId) >= quantity) {
+			whB.addStock(productId, quantity);
+			whA.removeStock(productId, quantity);
+		}
+	}
+	public List<Warehouse> getWarehousesWithAvailability(productId, quantity) {
+		// use warehouse.getStocks(productId) and compare with quantity. Return all warehouses that have enough stocks
+	}
+	public void setLowStockAlert(warehouseId, productId, threshold, listener)
+}
+
+class Warehouse {
+	String warehouseId;
+	Map<String, Integer> stocks;
+	Map<String, AlertConfig> alertConfigs;
+	
+	public Warehouse(String warehouseId, Map<String, Integer> stocks) {
+	}
+	
+	public void addStock(String productId, int quantity) {
+		// validate if productId and quantity have a value
+		// validate if productId exists
+		
+		stocks.put(productId, stocks.get(productId) + quantity)
+	}
+	
+	public int getStocks(String productId) {
+		return stocks.get(productId);
+	}
+	
+	public void removeStock(String productId, int quantity) {
+		// validate if productId and quantity have a value
+		// validate if productId exists
+		// validate if requests to remove X number of quantity is valid
+		
+		stocks.put(productId, stocks.get(productId) - quantity)
+		
+		List<AlertConfig> alertConfigs = // use checkIfLowStockAlert to return list
+		for (AlertConfig ac : alertConfigs) {
+			setLowStockAlert(productId, threshhold, listener);
+		}
+	}
+	public void setLowStockAlert(productId, threshold, listener) {
+			
+	}
+	
+	private List<AlertConfigs> checkIfLowStockAlert(productId) {
+	
+	}
+}
+
+class AlertConfig {
+	int threshhold;
+	AlertListener alertListener;
+}
+
+interface AlertListener {
+	// pass output quantity
+	public void onLowStock(warehouseId, productId, quantity)
+}
+
+class MailAlertListener implements AlertListener {
+	public void onLowStock(warehouseId, productId, quantity) {
+		// send email alert
+	}
+}
+
+class SMSAlertListener implements AlertListener {
+	public void onLowStock(warehouseId, productId, quantity) {
+		// send sms alerts
+	}
+}
+
+```
+
 # Extensibility and Maintainability
 
