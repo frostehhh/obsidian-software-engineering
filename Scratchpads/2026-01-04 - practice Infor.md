@@ -35,7 +35,7 @@ class CoffeeShopController {
 	public static handleFrequentCustomer (Order o) {
 		// query if customer is frequent
 		if (o.customer.isFrequentCustomer()) {
-			Or
+			Order updatedOrder = updateOrder(o);
 		}
 	}
 }
@@ -92,8 +92,6 @@ enum CoffeeSize {
 	TALL,
 	GRANDE,
 	VENTI,
-	
-	public 
 }
 
 enum ItemCategory {

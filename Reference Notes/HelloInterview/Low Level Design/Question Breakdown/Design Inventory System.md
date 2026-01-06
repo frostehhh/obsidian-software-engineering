@@ -48,7 +48,8 @@ Out of Scope:
 # Class Design
 ```java
 class InventoryManager {
-	public InventoryManager() {}
+	public InventoryManager() {
+	}
 
 	public addStock(warehouseId, productId, quantity)
 	public removeStock(warehouseId, productId, quantiy)
@@ -117,6 +118,7 @@ class Warehouse {
 	Map<String, Integer> stocks;
 	Map<String, AlertConfig> alertConfigs;
 	
+	public Warehouse(String warehouseId) {}
 	public Warehouse(String warehouseId, Map<String, Integer> stocks) {
 	}
 	
