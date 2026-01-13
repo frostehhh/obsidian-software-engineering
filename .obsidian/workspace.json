@@ -8,36 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3aac81f720245af5",
+            "id": "bd5b955738117911",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/2026-01-05 - Design Rate Limiter.md",
+                "file": "Reference Notes/Tips for negotiating your salary (from an ex-FAANG recruiter).md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-01-05 - Design Rate Limiter"
+              "title": "Tips for negotiating your salary (from an ex-FAANG recruiter)"
             }
           },
           {
-            "id": "ffa8dd5ebd5c230f",
+            "id": "959e74adbffd5e3a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/42 Minutes of $10m Salary Negotiation Advice (From A Sr. Director In Tech).md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "42 Minutes of $10m Salary Negotiation Advice (From A Sr. Director In Tech)"
+            }
+          },
+          {
+            "id": "c12deb0205ec05b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Rate Limiter.md",
+                "file": "Scratchpads/2026-01-04 - practice Infor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Rate Limiter"
+              "title": "2026-01-04 - practice Infor"
+            }
+          },
+          {
+            "id": "321bef6d257c4ebc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -57,7 +88,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -69,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"negotiat",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -86,13 +117,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Elevator.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Design Elevator"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -109,7 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 514.0026054382324
+    "width": 370.0026054382324
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -426,9 +457,59 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "3dcd92bd95518f00",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "139fce19f90e1736",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "06743304965dca8b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "ded4853f413a0489",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "6de318886e20cbd4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 28
+        "currentTab": 33
       }
     ],
     "direction": "horizontal",
@@ -449,13 +530,35 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "3aac81f720245af5",
+  "active": "321bef6d257c4ebc",
   "lastOpenFiles": [
-    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Rate Limiter.md",
+    "Scratchpads/2026-01-04 - practice Infor.md",
+    "conflict-files-obsidian-git.md",
+    "Scratchpads/_note_Scratchpads.md",
+    "Reference Notes/42 Minutes of $10m Salary Negotiation Advice (From A Sr. Director In Tech).md",
+    "Scratchpads/motivation as pain.md",
+    "Reference Notes/Tips for negotiating your salary (from an ex-FAANG recruiter).md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/4 - Spring with JPA and Hibernate.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/REST API Spring Boot.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/5 -Transactions in Spring (text-only).md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/3 - Pagination and Sorting.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/2 - Beyond the Default Repository.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/_note_Learn Spring - The Master Class 2019-2020.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Base.base",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/5 - Simple Wiring and Injection.md",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/2026-01-05 - Design Rate Limiter.md",
+    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Rate Limiter.md",
+    "Notes/Mutex vs Semaphore.md",
+    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Inventory System.md",
     "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - Low-Level Design Case Study Review.md",
     "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - System Design Case Study.md",
     "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - Low-Level Design Case Study.md",
@@ -463,24 +566,8 @@
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/Design Amazon Locker Review.md",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Parking Lot.md",
     "Scratchpads/2026-01-02 - Spring.md",
-    "Scratchpads/2026-01-04 - practice Infor.md",
-    "Scratchpads/_note_Scratchpads.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot/1 - Spring Boot Auto-configuration.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot/2 - Actuators in Boot.md",
-    "Notes/Semaphore.md",
-    "Notes/Mutex.md",
-    "Notes/Java/Java Persistence API.md",
-    "Notes/Java/Classpath.md",
-    "Mutex vs Semaphore.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/_note_Learn Spring - The Master Class 2019-2020.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/8 - Deploying the Boot application - Other Options.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/7 - Spring Boot Default Properties.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/4 - A Simple Development Environment.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/3 - Logging in a Spring Boot Project – The Right Way.md",
-    "conflict-files-obsidian-git.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/2 - Working with Profiles in Spring.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/6 - Maven and Spring.md",
     "--Obsidian Template--/Frontmatter/Scratchpad",
     "Bases/Draft Notes.base",
     "--Obsidian Template--/Frontmatter/Notes",
@@ -489,7 +576,6 @@
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown",
     "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry",
-    "Reference Notes/HelloInterview/Low Level Design",
     "--Attachments/Pasted image 20251209205547.png",
     "--Attachments/Pasted image 20251208194136.png",
     "--Attachments/Pasted image 20251208194119.png",

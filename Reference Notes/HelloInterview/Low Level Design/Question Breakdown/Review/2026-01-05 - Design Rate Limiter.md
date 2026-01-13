@@ -8,6 +8,9 @@ date: 2026-01-05
 "origin:": "[[Design Rate Limiter]]"
 ---
 
+> [!note]
+> Didn't complete, but considered done enough for practice
+
 # Problem
 
 "You're building an in-memory rate limiter for an API gateway. The system receives configuration from an external service that provides rate limiting rules per endpoint. Each endpoint can have its own limit with a specific algorithm. Here's an example configuration for one endpoint:
@@ -55,21 +58,110 @@ RateLimitResult
 class RateLimiter {
     // endpoint to configuration
 	Map<String, Limiter> configMapping;
+	Limiter defaultConfig;
 	
 	public RateLimiter(configs, defaultConfig)
 }
+
 
 interface Limiter {
 	public RateLimitResult allow(clientId, endpoint)
 }
 
+// Create 
+class LimiterFactory {
+	public Limiter create(externalConfig) {}
+}
+class TokenBucketLimiter implements Limiter {}
+class SlidingWindowLogLimiter implements Limiter {}
+
 class RateLimitResult {
 	boolean allowed;
 	int remaining;
-	long retryAfterMs;
+	long retryAfterMs; // nullable
 }
 ```
 
 # Implementation
+```java
+class RateLimiter {
+    // endpoint to configuration
+	Map<String, Limiter> configMapping;
+	Limiter defaultConfig;
+	
+	
+	// configs and defaultConfig are json
+	public RateLimiter(
+		List<Map<String, Config>> configs,
+		Map<String, Config> defaultConfig,
+	) {
+		LimiterFactory factory = new LimiterFactory();
+		Map<String, Limiter> newLimiters = new HashMap<>();
+		for (Map<String, Config> externalConfig : configs) {
+			String endpoint = externalConfig.get('endpoint');
+			Limiter limiter = factory.create(externalConfig);
+			newLimiters.set(endpoint, limiter);
+		}
+		
+		this.configMapping = newLimiters;
+		this.defaultConfig = JSON.parse(defaultConfig);
+	}
+}
+
+interface Limiter {
+	public RateLimitResult allow(clientId, endpoint)
+}
+// Create 
+class LimiterFactory {
+	public Limiter create(externalConfig) {
+		string algorithm = externalConfig.get('algorithm');
+		JSONObject algoConfig = externalConfig.get('algoConfig');
+		
+		switch (algorithm) {
+			case "token_bucket": {
+				return TokenBucketLimiter(
+				)
+			}
+			case "sliding_window_log": {
+				return SlidingWindowLogLimiter(
+				);
+			}
+			default: {
+				throw new RuntimeException("Unknown algorithm");
+			}
+		}
+		
+	}
+}
+class TokenBucketLimiter implements Limiter {
+	// private state that I do not know. Specific to this limiter
+
+	public RateLimitResult allow(String key) {
+	
+		return RateLimitResult(...)
+	}
+class SlidingWindowLogLimiter implements Limiter {
+	public RateLimitResult allow(String key) {
+	
+		return RateLimitResult(...)
+	}
+}
+
+class RateLimitResult {
+	boolean allowed;
+	int remaining;
+	long retryAfterMs; // nullable
+}
+```
+
+## SampleFlow
+```java
+//initialize
+
+
+
+RateLimiter rl = new RateLimiter(configs, defaultConfig);
+
+```
 
 # Extensibility and Maintainability

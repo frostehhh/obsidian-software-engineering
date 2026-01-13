@@ -167,7 +167,19 @@ Others may prefer email first so that on call
 	e.g. More interviews, level-up loop, more scope
 
 # Counter offers
-
+## Offer 1
+- Thanks
+- Still a Gap
+- Short unique value pitch - to tell why you are good for this role
+- Identify TC Anchor OR leave open
+- What do you value more? Equity vs Cash?
+- Use leverage
+	- lost bonus/vests
+	- promos
+	- other offers/interviews
+	- market data
+	- risks
+	- incoming promotions, salary raises
 
 # Watch Out For Recruiter Tactics
 - They might reason out that you're exhausted

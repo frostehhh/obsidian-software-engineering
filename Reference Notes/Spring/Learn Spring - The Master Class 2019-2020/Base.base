@@ -4,3 +4,11 @@ filters:
 views:
   - type: table
     name: All
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
