@@ -4,11 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "994d6b2c5ff4847b",
+        "id": "78353eead8d0c6b5",
         "type": "tabs",
         "children": [
           {
-            "id": "9ee83a63939d4b51",
+            "id": "bd5b955738117911",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Tips for negotiating your salary (from an ex-FAANG recruiter).md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Tips for negotiating your salary (from an ex-FAANG recruiter)"
+            }
+          },
+          {
+            "id": "959e74adbffd5e3a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/42 Minutes of $10m Salary Negotiation Advice (From A Sr. Director In Tech).md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "42 Minutes of $10m Salary Negotiation Advice (From A Sr. Director In Tech)"
+            }
+          },
+          {
+            "id": "c12deb0205ec05b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scratchpads/2026-01-04 - practice Infor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-04 - practice Infor"
+            }
+          },
+          {
+            "id": "321bef6d257c4ebc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +67,8 @@
               "title": "knowledge-confidence-level"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -53,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"negotiat",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -93,7 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374
+    "width": 370.0026054382324
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -157,8 +204,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -237,8 +284,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-history-view"
+              "icon": "history",
+              "title": "History"
             }
           },
           {
@@ -462,7 +509,17 @@
             }
           },
           {
-            "id": "25291eadc68dac89",
+            "id": "95e791630c15ed11",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "5977f9a310b2b591",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -472,28 +529,27 @@
             }
           }
         ],
-        "currentTab": 34
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 374,
-    "collapsed": true
+    "width": 374
   },
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
+      "media-extended:Open external media": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "open-vscode:VSCode": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "omnisearch:Omnisearch": false,
-      "open-vscode:VSCode": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open external media": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
@@ -501,23 +557,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ee83a63939d4b51",
+  "active": "321bef6d257c4ebc",
   "lastOpenFiles": [
+    "Knowledge Confidence/Confidence Levels.base",
     "Knowledge Confidence/Units/Java/Concurrency.md",
     "Knowledge Confidence/Units/Java/Java.md",
-    "Knowledge Confidence/Confidence Levels.base",
-    "--Properties/knowledge-confidence-level.md",
-    "Scratchpads/2026-01-04 - practice Infor.md",
-    "Reference Notes/42 Minutes of $10m Salary Negotiation Advice (From A Sr. Director In Tech).md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 7 - Extras/JSON Web Token.md",
-    "--Obsidian Template--/Frontmatter/Knowledge Confidence/Unit.md",
-    "--Obsidian Template--/Frontmatter/Knowledge Confidence",
     "Knowledge Confidence/Units/Java",
     "Knowledge Confidence/Units",
-    "Knowledge Confidence/Untitled.md",
     "Knowledge Confidence",
+    "--Obsidian Template--/Frontmatter/Knowledge Confidence/Unit.md",
+    "--Obsidian Template--/Frontmatter/Knowledge Confidence",
+    "Notes/_note_Notes.md",
+    "Mindmaps/_note_Mindmaps.md",
+    "Scratchpads/2026-01-04 - practice Infor.md",
     "conflict-files-obsidian-git.md",
     "Scratchpads/_note_Scratchpads.md",
+    "Reference Notes/42 Minutes of $10m Salary Negotiation Advice (From A Sr. Director In Tech).md",
     "Scratchpads/motivation as pain.md",
     "Reference Notes/Tips for negotiating your salary (from an ex-FAANG recruiter).md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/4 - Spring with JPA and Hibernate.md",
@@ -534,6 +589,7 @@
     "Notes/Mutex vs Semaphore.md",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Inventory System.md",
     "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - Low-Level Design Case Study Review.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - System Design Case Study.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot",
     "--Obsidian Template--/Frontmatter/Scratchpad",
     "Bases/Draft Notes.base",
