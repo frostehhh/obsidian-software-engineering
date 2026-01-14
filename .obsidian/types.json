@@ -30,6 +30,7 @@
     "knowledge-confidence-level": "multitext",
     "excalidraw-embed-md": "checkbox",
     "excalidraw-export-internal-links": "checkbox",
-    "date": "date"
+    "date": "date",
+    "confidence-level": "number"
   }
 }

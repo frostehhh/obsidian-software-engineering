@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "78353eead8d0c6b5",
+        "id": "994d6b2c5ff4847b",
         "type": "tabs",
         "children": [
           {
-            "id": "bd5b955738117911",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Tips for negotiating your salary (from an ex-FAANG recruiter).md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Tips for negotiating your salary (from an ex-FAANG recruiter)"
-            }
-          },
-          {
-            "id": "959e74adbffd5e3a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/42 Minutes of $10m Salary Negotiation Advice (From A Sr. Director In Tech).md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "42 Minutes of $10m Salary Negotiation Advice (From A Sr. Director In Tech)"
-            }
-          },
-          {
-            "id": "c12deb0205ec05b1",
+            "id": "9ee83a63939d4b51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scratchpads/2026-01-04 - practice Infor.md",
+                "file": "--Properties/knowledge-confidence-level.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-04 - practice Infor"
-            }
-          },
-          {
-            "id": "321bef6d257c4ebc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "knowledge-confidence-level"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"negotiat",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -136,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.0026054382324
+    "width": 374
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -503,9 +460,19 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "25291eadc68dac89",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 33
+        "currentTab": 34
       }
     ],
     "direction": "horizontal",
@@ -526,15 +493,31 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open external media": false
+      "media-extended:Open external media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "c9e86c4b43b9a499",
+  "active": "9ee83a63939d4b51",
   "lastOpenFiles": [
+    "Knowledge Confidence/Units/Java/Concurrency.md",
+    "Knowledge Confidence/Units/Java/Java.md",
+    "Knowledge Confidence/Confidence Levels.base",
+    "--Properties/knowledge-confidence-level.md",
     "Scratchpads/2026-01-04 - practice Infor.md",
+    "Reference Notes/42 Minutes of $10m Salary Negotiation Advice (From A Sr. Director In Tech).md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Backend Engineering/Section 7 - Extras/JSON Web Token.md",
+    "--Obsidian Template--/Frontmatter/Knowledge Confidence/Unit.md",
+    "--Obsidian Template--/Frontmatter/Knowledge Confidence",
+    "Knowledge Confidence/Units/Java",
+    "Knowledge Confidence/Units",
+    "Knowledge Confidence/Untitled.md",
+    "Knowledge Confidence",
     "conflict-files-obsidian-git.md",
     "Scratchpads/_note_Scratchpads.md",
-    "Reference Notes/42 Minutes of $10m Salary Negotiation Advice (From A Sr. Director In Tech).md",
     "Scratchpads/motivation as pain.md",
     "Reference Notes/Tips for negotiating your salary (from an ex-FAANG recruiter).md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/4 - Spring with JPA and Hibernate.md",
@@ -551,22 +534,10 @@
     "Notes/Mutex vs Semaphore.md",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Inventory System.md",
     "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - Low-Level Design Case Study Review.md",
-    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - System Design Case Study.md",
-    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - Low-Level Design Case Study.md",
-    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/2025-12-28 - Design Elevator System Review.md",
-    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/Design Amazon Locker Review.md",
-    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Parking Lot.md",
-    "Scratchpads/2026-01-02 - Spring.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot/1 - Spring Boot Auto-configuration.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot",
     "--Obsidian Template--/Frontmatter/Scratchpad",
     "Bases/Draft Notes.base",
     "--Obsidian Template--/Frontmatter/Notes",
-    "--Obsidian Template--/Frontmatter",
-    "--Obsidian Template--/Frontmatter/Reference Notes",
-    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review",
-    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown",
-    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry",
     "--Attachments/Pasted image 20251209205547.png",
     "--Attachments/Pasted image 20251208194136.png",
     "--Attachments/Pasted image 20251208194119.png",

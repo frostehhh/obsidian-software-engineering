@@ -7,7 +7,6 @@ Draft: false
   - "[[HTTP Cookies]]"
 has-questions: false
 knowledge-confidence-level:
-  - 2 - Needs improvement
 ---
 
 ![[Session-based Authentication]]

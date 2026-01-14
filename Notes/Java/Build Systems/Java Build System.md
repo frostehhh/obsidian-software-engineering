@@ -4,7 +4,7 @@ tags:
   - programming-languages/java
   - build-tools
 Draft: true
-Parent:: "[[Java]]"
+"Parent:": "[[Notes/Java/Java]]"
 ---
 
 # To check
