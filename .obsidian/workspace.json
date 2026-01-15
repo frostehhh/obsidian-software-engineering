@@ -537,9 +537,19 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "bd5730041ff644d4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
           }
         ],
-        "currentTab": 36
+        "currentTab": 37
       }
     ],
     "direction": "horizontal",
@@ -562,7 +572,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "92de6dc1789432dc",
+  "active": "bd5730041ff644d4",
   "lastOpenFiles": [
     "Knowledge Confidence/Confidence Levels.base",
     "Knowledge Confidence/Units/Java/Concurrency.md",
