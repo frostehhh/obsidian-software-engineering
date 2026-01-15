@@ -8,67 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd5b955738117911",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Tips for negotiating your salary (from an ex-FAANG recruiter).md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Tips for negotiating your salary (from an ex-FAANG recruiter)"
-            }
-          },
-          {
-            "id": "959e74adbffd5e3a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/42 Minutes of $10m Salary Negotiation Advice (From A Sr. Director In Tech).md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "42 Minutes of $10m Salary Negotiation Advice (From A Sr. Director In Tech)"
-            }
-          },
-          {
-            "id": "c12deb0205ec05b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scratchpads/2026-01-04 - practice Infor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-04 - practice Infor"
-            }
-          },
-          {
             "id": "321bef6d257c4ebc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/_note_Learn Spring - The Master Class 2019-2020.md",
-                "mode": "source",
+                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/1 - Why Spring.md",
+                "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "_note_Learn Spring - The Master Class 2019-2020"
+              "title": "1 - Why Spring"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,8 +55,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"negotiat",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -136,7 +91,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -559,11 +515,12 @@
             }
           }
         ],
-        "currentTab": 38
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 374
+    "width": 374,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -587,10 +544,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "321bef6d257c4ebc",
+  "active": "fa87c464967a6005",
   "lastOpenFiles": [
-    "Reference Notes/Spring/Spring Framework/_note_Spring Framework.md",
     "Knowledge Confidence/Confidence Levels.base",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/1 - Why Spring.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/_note_Learn Spring - The Master Class 2019-2020.md",
+    "Reference Notes/Spring/Spring Framework/_note_Spring Framework.md",
     "Notes/Java/_note_Java.md",
     "Anki/_note_Anki.md",
     "--Properties/knowledge-confidence-level.md",
@@ -615,12 +574,9 @@
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/3 - Pagination and Sorting.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/2 - Beyond the Default Repository.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/_note_Learn Spring - The Master Class 2019-2020.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Base.base",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/5 - Simple Wiring and Injection.md",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/2026-01-05 - Design Rate Limiter.md",
-    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Rate Limiter.md",
-    "Notes/Mutex vs Semaphore.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot",
     "--Obsidian Template--/Frontmatter/Scratchpad",
     "Bases/Draft Notes.base",
