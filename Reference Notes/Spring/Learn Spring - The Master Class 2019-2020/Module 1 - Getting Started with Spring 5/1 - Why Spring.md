@@ -12,3 +12,4 @@ has-questions:
 - Very stable
 - Can pick components that you need in your project
 # Questions
+- What is JEE for?
