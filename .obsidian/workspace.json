@@ -8,19 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "321bef6d257c4ebc",
+            "id": "520b7caba038fab2",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/1 - Why Spring.md",
+                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/_note_Learn Spring - The Master Class 2019-2020.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "1 - Why Spring"
+              "title": "_note_Learn Spring - The Master Class 2019-2020"
+            }
+          },
+          {
+            "id": "d80ee27aae1a1bea",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "1 - Project Persistence with Spring Data JPA"
             }
           }
         ]
@@ -43,7 +59,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -544,11 +560,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "321bef6d257c4ebc",
+  "active": "fa87c464967a6005",
   "lastOpenFiles": [
-    "Knowledge Confidence/Confidence Levels.base",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/1 - Why Spring.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/_note_Learn Spring - The Master Class 2019-2020.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/1 - Why Spring.md",
+    "Notes/Java Enterprise Edition.md",
+    "Notes/_note_Notes.md",
+    "Reference Notes/_note_Reference Notes.md",
+    "Reference Notes/Untitled.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/4 - Spring with JPA and Hibernate.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/3 - Pagination and Sorting.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/2 - Beyond the Default Repository.md",
+    "Knowledge Confidence/Confidence Levels.base",
     "Reference Notes/Spring/Spring Framework/_note_Spring Framework.md",
     "Notes/Java/_note_Java.md",
     "Anki/_note_Anki.md",
@@ -560,7 +584,6 @@
     "Knowledge Confidence",
     "--Obsidian Template--/Frontmatter/Knowledge Confidence/Unit.md",
     "--Obsidian Template--/Frontmatter/Knowledge Confidence",
-    "Notes/_note_Notes.md",
     "Mindmaps/_note_Mindmaps.md",
     "Scratchpads/2026-01-04 - practice Infor.md",
     "conflict-files-obsidian-git.md",
@@ -568,15 +591,9 @@
     "Reference Notes/42 Minutes of $10m Salary Negotiation Advice (From A Sr. Director In Tech).md",
     "Scratchpads/motivation as pain.md",
     "Reference Notes/Tips for negotiating your salary (from an ex-FAANG recruiter).md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/4 - Spring with JPA and Hibernate.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/REST API Spring Boot.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/5 -Transactions in Spring (text-only).md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/3 - Pagination and Sorting.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/2 - Beyond the Default Repository.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Base.base",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/5 - Simple Wiring and Injection.md",
-    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/2026-01-05 - Design Rate Limiter.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot",
     "--Obsidian Template--/Frontmatter/Scratchpad",
     "Bases/Draft Notes.base",
