@@ -59,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "--Properties/knowledge-confidence-level.md",
+                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/_note_Learn Spring - The Master Class 2019-2020.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "knowledge-confidence-level"
+              "title": "_note_Learn Spring - The Master Class 2019-2020"
             }
           }
         ],
@@ -544,12 +544,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "2d4755e6896ff777",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 37
+        "currentTab": 38
       }
     ],
     "direction": "horizontal",
@@ -569,12 +579,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "bd5730041ff644d4",
+  "active": "321bef6d257c4ebc",
   "lastOpenFiles": [
+    "Reference Notes/Spring/Spring Framework/_note_Spring Framework.md",
     "Knowledge Confidence/Confidence Levels.base",
+    "Notes/Java/_note_Java.md",
+    "Anki/_note_Anki.md",
+    "--Properties/knowledge-confidence-level.md",
     "Knowledge Confidence/Units/Java/Concurrency.md",
     "Knowledge Confidence/Units/Java/Java.md",
     "Knowledge Confidence/Units/Java",
@@ -602,9 +621,6 @@
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/2026-01-05 - Design Rate Limiter.md",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Rate Limiter.md",
     "Notes/Mutex vs Semaphore.md",
-    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Design Inventory System.md",
-    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - Low-Level Design Case Study Review.md",
-    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - System Design Case Study.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot",
     "--Obsidian Template--/Frontmatter/Scratchpad",
     "Bases/Draft Notes.base",
