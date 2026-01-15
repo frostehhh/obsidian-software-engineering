@@ -15,28 +15,12 @@
               "type": "markdown",
               "state": {
                 "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/_note_Learn Spring - The Master Class 2019-2020.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
               "title": "_note_Learn Spring - The Master Class 2019-2020"
-            }
-          },
-          {
-            "id": "d80ee27aae1a1bea",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "1 - Project Persistence with Spring Data JPA"
             }
           }
         ]
@@ -560,9 +544,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fa87c464967a6005",
+  "active": "520b7caba038fab2",
   "lastOpenFiles": [
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/6 - Maven and Spring.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/5 - The Real World Project We're Building.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/4 - A Simple Development Environment.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/_note_Learn Spring - The Master Class 2019-2020.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/1 - Why Spring.md",
     "Notes/Java Enterprise Edition.md",
@@ -590,9 +577,6 @@
     "Scratchpads/_note_Scratchpads.md",
     "Reference Notes/42 Minutes of $10m Salary Negotiation Advice (From A Sr. Director In Tech).md",
     "Scratchpads/motivation as pain.md",
-    "Reference Notes/Tips for negotiating your salary (from an ex-FAANG recruiter).md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/REST API Spring Boot.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/5 -Transactions in Spring (text-only).md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Base.base",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot",
     "--Obsidian Template--/Frontmatter/Scratchpad",
