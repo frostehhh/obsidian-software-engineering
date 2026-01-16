@@ -500,12 +500,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
             "id": "2d4755e6896ff777",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "78aaad54528f3b39",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -515,7 +525,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 39
       }
     ],
     "direction": "horizontal",
@@ -544,7 +554,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "520b7caba038fab2",
+  "active": "78aaad54528f3b39",
   "lastOpenFiles": [
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/6 - Maven and Spring.md",
