@@ -200,8 +200,6 @@
     "related-mind-map": {}
   },
   "navigationHistory": [
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Two-phase locking.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 8 - Concurrency Control/Solve the Double Booking Problem (Code Example).md",
     "Notes/Blob Storage Usage Patterns.md",
     "Notes/Blob Storage.md",
     "Notes/AWS/S3/Simple Storage Service.md",
@@ -249,7 +247,9 @@
     "Notes/AWS/Services/SES/Simple Email Service.md",
     "--Obsidian Template--/Frontmatter - Notes 1.md",
     "Notes/Mutex.md",
-    "Mutex vs Semaphore.md"
+    "Mutex vs Semaphore.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Accounts/AWS Account.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "--p",
