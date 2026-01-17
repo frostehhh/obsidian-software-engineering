@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "12e9dd8a2e83e0fb",
+        "id": "ba0a082349c240ff",
         "type": "tabs",
         "children": [
           {
-            "id": "d1e6ffb663430eac",
+            "id": "7947b5ad0faa0d97",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/2 - Beyond the Default Repository.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2 - Beyond the Default Repository"
             }
           }
         ]
@@ -85,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -568,12 +571,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d1e6ffb663430eac",
+  "active": "7947b5ad0faa0d97",
   "lastOpenFiles": [
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Accounts/AWS Account.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Accounts/Identities.md",
     "Excalibrain/excalibrain.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/_note_Learn Spring - The Master Class 2019-2020.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/6 - Maven and Spring.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/5 - The Real World Project We're Building.md",

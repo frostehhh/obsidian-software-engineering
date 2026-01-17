@@ -3,7 +3,7 @@ tags:
   - reference-notes
   - spring
 source_url: https://www.baeldung.com/members/courses/learn-spring/lessons/lesson-1-project-persistence-with-spring-data-jpa
-Draft: true
+Draft: false
 ---
 
 # Dependencies Needed
@@ -22,4 +22,6 @@ Draft: true
 
 # Testing
 - For testing purposes for the tutorial's sake, `findById` and `save` were tested.
-- Ideally, these tests aren't needed in a practical setting
+- Ideally, these tests aren't needed in a practical setting because they are simply testing code that is
+	- Test if you have custom implementation. For instance, handwritten query.
+- 

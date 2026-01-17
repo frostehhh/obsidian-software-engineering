@@ -9,8 +9,6 @@ Draft: true
 - `@Query`
 
 ```java
-
-
 @Entity
 public class Project {
 
