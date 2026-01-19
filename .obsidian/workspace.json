@@ -550,9 +550,19 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "26dbc315c3b4b683",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
           }
         ],
-        "currentTab": 42
+        "currentTab": 43
       }
     ],
     "direction": "horizontal",
@@ -576,7 +586,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "5e76e28ce7e67c9f",
+  "active": "26dbc315c3b4b683",
   "lastOpenFiles": [
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Accounts/AWS Account.md",
