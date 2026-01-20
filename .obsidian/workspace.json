@@ -26,19 +26,85 @@
           {
             "id": "c1d4ddd18913510e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Java/Hashcode.md",
+                "file": "Notes/Java/hashCode().md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Hashcode"
+              "title": "hashCode()"
+            }
+          },
+          {
+            "id": "ea4aa079af5865da",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Java/equals().md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "equals()"
+            }
+          },
+          {
+            "id": "f01cebf6eca8ae55",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Java/Object class.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Object class"
+            }
+          },
+          {
+            "id": "6137560c00cc4565",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Shallow Comparison.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Shallow Comparison"
+            }
+          },
+          {
+            "id": "92276ead432bec68",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Deep Comparison.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Deep Comparison"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -58,7 +124,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -70,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#software",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -176,26 +242,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "922582e37ac8632a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "d4ca94784910e97a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
             }
           },
           {
@@ -609,12 +655,11 @@
             }
           }
         ],
-        "currentTab": 46
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 374,
-    "collapsed": true
+    "width": 374
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -638,10 +683,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c1d4ddd18913510e",
+  "active": "92276ead432bec68",
   "lastOpenFiles": [
+    "Notes/Shallow Comparison.md",
+    "Notes/Deep Comparison.md",
+    "Notes/_note_Notes.md",
+    "Notes/Java/Object class.md",
+    "Notes/Java/equals().md",
     "Notes/Java/_note_Java.md",
-    "Notes/Java/Hashcode.md",
+    "Notes/Java/hashCode().md",
+    "Notes/Java/Untitled.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/2 - Beyond the Default Repository.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/3 - Pagination and Sorting.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
@@ -654,7 +705,6 @@
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/4 - A Simple Development Environment.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/1 - Why Spring.md",
     "Notes/Java Enterprise Edition.md",
-    "Notes/_note_Notes.md",
     "Reference Notes/_note_Reference Notes.md",
     "Reference Notes/Untitled.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/4 - Spring with JPA and Hibernate.md",
@@ -662,15 +712,10 @@
     "Reference Notes/Spring/Spring Framework/_note_Spring Framework.md",
     "Anki/_note_Anki.md",
     "--Properties/knowledge-confidence-level.md",
-    "Knowledge Confidence/Units/Java/Concurrency.md",
-    "Knowledge Confidence/Units/Java/Java.md",
     "Knowledge Confidence/Units/Java",
     "Knowledge Confidence/Units",
     "Knowledge Confidence",
-    "--Obsidian Template--/Frontmatter/Knowledge Confidence/Unit.md",
     "--Obsidian Template--/Frontmatter/Knowledge Confidence",
-    "Mindmaps/_note_Mindmaps.md",
-    "Scratchpads/2026-01-04 - practice Infor.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Base.base",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot",
     "--Obsidian Template--/Frontmatter/Scratchpad",
