@@ -6,6 +6,18 @@ source_url: https://www.baeldung.com/members/courses/learn-spring/lessons/lesson
 Draft: true
 ---
 
+# Extending the default repository method with custom methods
+The default repository can be extended with new methods with the certain specs available in Spring/Spring Boot?
+
+**Examples**
+```
+Optional<Project> findByName(String name);
+List<Project> findByDateCreatedBetween(LocalDate startDate, LocalDate endDate);
+```
+
+
+# Extending Project with 0 to many Tasks
+# @Query Annotation
 - `@Query`
 
 ```java
