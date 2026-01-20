@@ -70,41 +70,9 @@
               "icon": "lucide-file",
               "title": "Object class"
             }
-          },
-          {
-            "id": "6137560c00cc4565",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Shallow Comparison.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Shallow Comparison"
-            }
-          },
-          {
-            "id": "92276ead432bec68",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Deep Comparison.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Deep Comparison"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -683,15 +651,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "92276ead432bec68",
+  "active": "c1d4ddd18913510e",
   "lastOpenFiles": [
+    "Notes/Java/equals().md",
+    "Notes/Java/hashCode().md",
+    "Notes/Java/Object class.md",
     "Notes/Shallow Comparison.md",
     "Notes/Deep Comparison.md",
     "Notes/_note_Notes.md",
-    "Notes/Java/Object class.md",
-    "Notes/Java/equals().md",
     "Notes/Java/_note_Java.md",
-    "Notes/Java/hashCode().md",
     "Notes/Java/Untitled.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/2 - Beyond the Default Repository.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/3 - Pagination and Sorting.md",
