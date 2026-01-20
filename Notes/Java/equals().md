@@ -2,7 +2,7 @@
 tags:
   - notes
   - programming-languages/java
-Draft: true
+Draft: false
 ---
 
 - equals() method exists by default in the root [[Object class]]

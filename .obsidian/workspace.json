@@ -54,25 +54,8 @@
               "icon": "lucide-file",
               "title": "equals()"
             }
-          },
-          {
-            "id": "f01cebf6eca8ae55",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Java/Object class.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Object class"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -651,10 +634,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c1d4ddd18913510e",
+  "active": "7947b5ad0faa0d97",
   "lastOpenFiles": [
-    "Notes/Java/equals().md",
     "Notes/Java/hashCode().md",
+    "Notes/Java/equals().md",
     "Notes/Java/Object class.md",
     "Notes/Shallow Comparison.md",
     "Notes/Deep Comparison.md",
