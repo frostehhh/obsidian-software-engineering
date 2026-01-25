@@ -3,7 +3,7 @@ tags:
   - reference-notes
   - spring
 source_url: https://www.baeldung.com/members/courses/learn-spring/lessons/lesson-3-pagination-and-sorting
-Draft: true
+Draft: false
 ---
 
 - `PagingAndSortingRepository<EntityClass, IdType>` for supporting pagination and sorting for repository interfaces

@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "deeccba5646f1f70",
+            "id": "fbb0d5ab264fe1b9",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/3 - Pagination and Sorting.md",
-                "mode": "source",
+                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/4 - Spring with JPA and Hibernate.md",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "3 - Pagination and Sorting"
+              "title": "4 - Spring with JPA and Hibernate"
             }
           }
         ]
@@ -613,8 +613,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "deeccba5646f1f70",
+  "active": "fbb0d5ab264fe1b9",
   "lastOpenFiles": [
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/3 - Pagination and Sorting.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/2 - Beyond the Default Repository.md",
     "Notes/Java/hashCode().md",
     "Notes/Java/equals().md",
@@ -624,8 +626,6 @@
     "Notes/_note_Notes.md",
     "Notes/Java/_note_Java.md",
     "Notes/Java/Untitled.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/3 - Pagination and Sorting.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Accounts/AWS Account.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Accounts/Identities.md",
     "Excalibrain/excalibrain.md",
