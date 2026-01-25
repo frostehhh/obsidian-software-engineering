@@ -15,15 +15,30 @@
               "type": "markdown",
               "state": {
                 "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/4 - Spring with JPA and Hibernate.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
               "title": "4 - Spring with JPA and Hibernate"
             }
+          },
+          {
+            "id": "52d007adfd277824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Spring/_note_Spring.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_note_Spring"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,8 +70,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#software",
-                "matchingCase": true,
+                "query": "\"@configuration\"",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -613,8 +628,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fbb0d5ab264fe1b9",
+  "active": "52d007adfd277824",
   "lastOpenFiles": [
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/4 - Spring with JPA and Hibernate.md",
+    "Notes/Spring/_note_Spring.md",
+    "Notes/Spring/Cheat Sheet.md",
+    "Notes/_note_Notes.md",
+    "Notes/Spring",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/5 - The Spring Testing Framework.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/6 - Working with @PropertySource.md",
+    "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies/Lazy-initialized Beans.md",
+    "Reference Notes/Spring/Spring Framework/Ways to setup Spring via annotations.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot/1 - Spring Boot Auto-configuration.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/7 - Spring Boot Default Properties.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/_note_Learn Spring - The Master Class 2019-2020.md",
+    "Notes/Java/Java Persistence API.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/3 - Pagination and Sorting.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/2 - Beyond the Default Repository.md",
@@ -623,25 +651,13 @@
     "Notes/Java/Object class.md",
     "Notes/Shallow Comparison.md",
     "Notes/Deep Comparison.md",
-    "Notes/_note_Notes.md",
     "Notes/Java/_note_Java.md",
     "Notes/Java/Untitled.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Accounts/AWS Account.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Accounts/Identities.md",
     "Excalibrain/excalibrain.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/_note_Learn Spring - The Master Class 2019-2020.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/6 - Maven and Spring.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/5 - The Real World Project We're Building.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/4 - A Simple Development Environment.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 1 - Getting Started with Spring 5/1 - Why Spring.md",
-    "Notes/Java Enterprise Edition.md",
-    "Reference Notes/_note_Reference Notes.md",
-    "Reference Notes/Untitled.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/4 - Spring with JPA and Hibernate.md",
     "Knowledge Confidence/Confidence Levels.base",
-    "Reference Notes/Spring/Spring Framework/_note_Spring Framework.md",
-    "Anki/_note_Anki.md",
-    "--Properties/knowledge-confidence-level.md",
     "Knowledge Confidence/Units/Java",
     "Knowledge Confidence/Units",
     "Knowledge Confidence",
@@ -650,7 +666,6 @@
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot",
     "--Obsidian Template--/Frontmatter/Scratchpad",
     "Bases/Draft Notes.base",
-    "--Obsidian Template--/Frontmatter/Notes",
     "--Attachments/Pasted image 20251209205547.png",
     "--Attachments/Pasted image 20251208194136.png",
     "--Attachments/Pasted image 20251208194119.png",
