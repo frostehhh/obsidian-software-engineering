@@ -11,11 +11,14 @@ Draft: true
 - `@ControllerAdvice` annotation - makes the configuration globally available to all controllers
 - `@ExceptionHandler` - specifies the exception class to handle
 	- Can specify a parent exception class, which will also intercept subclasses
-
+- `extends ResponseEntityExceptionHandler` - class provided by Spring Boot to provide defaults for framework-specific exceptions
 ```java
-@ExceptionHandler(DataRetrievalFailureException.class)
-public ResponseEntity<String> handleDataRetrievalException(DataRetrievalFailureException ex) {
-    return new ResponseEntity<String>("Exception retrieving data: " + ex.getMessage(),
-              HttpStatus.NOT_FOUND);
+@ControllerAdvice  
+public class GlobalExceptionHandler extends ResponseEntityExceptionHandler {  
+  
+    @ExceptionHandler(EmptyResultDataAccessException.class)  
+    public ResponseEntity<String> handleEmptyResultDataAccessException(EmptyResultDataAccessException ex) {  
+        return new ResponseEntity<>("Exception retrieving data: " + ex.getMessage(), HttpStatus.NOT_FOUND);  
+    }  
 }
 ```
