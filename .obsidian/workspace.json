@@ -22,6 +22,39 @@
               "icon": "lucide-file",
               "title": "5 - Transactions in Spring (text-only)"
             }
+          },
+          {
+            "id": "ec81cc99f26d0228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Database Transaction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Database Transaction"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "bcb02db5b07fbe59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82999c0a227a9c11",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalibrain/excalibrain.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "excalibrain"
+            }
           }
         ]
       }
@@ -55,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"component\"",
+                "query": "\"transaction\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -91,7 +124,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -623,8 +657,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78ef94253144dd57",
+  "active": "ec81cc99f26d0228",
   "lastOpenFiles": [
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/What is a transaction.md",
+    "Notes/Database Transaction.md",
+    "Excalibrain/excalibrain.md",
+    "Braindump/2025-05-20 - Flink and ZooKeeper.md",
+    "Notes/ACID/ACID.md",
+    "Notes/ACID/Atomicity.md",
+    "Notes/BASE.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/5 - Transactions in Spring (text-only).md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/4 - Spring with JPA and Hibernate.md",
     "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies/@Autowired Annotation.md",
     "Notes/Write-Ahead Log.md",
@@ -644,14 +686,6 @@
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/2 - Beyond the Default Repository.md",
     "Notes/Java/hashCode().md",
-    "Notes/Java/equals().md",
-    "Notes/Java/Object class.md",
-    "Notes/Shallow Comparison.md",
-    "Notes/Deep Comparison.md",
-    "Notes/Java/_note_Java.md",
-    "Notes/Java/Untitled.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Accounts/AWS Account.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Accounts/Identities.md",
     "Knowledge Confidence/Confidence Levels.base",
     "Knowledge Confidence/Units/Java",
     "Knowledge Confidence/Units",

@@ -11,7 +11,7 @@ related-reference-note::
 - "[[How tables and indexes are stored on disk]]"
 ---
 
-- A transaction is a collection of queries
+- A transaction is a collection of queries that must all succeed or fail together
 - Relevant keywords
 	- BEGIN
 	- COMMIT
