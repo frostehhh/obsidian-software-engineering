@@ -8,7 +8,7 @@ Draft: false
 
 # @PathVariable annotation
 - method parameter
-- binds method parameter to path in URL
+- binds method parameter to path param in URL
 - Can use regex
 - Can mark as optional
 
