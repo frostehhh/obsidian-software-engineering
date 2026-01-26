@@ -24,33 +24,19 @@
             }
           },
           {
-            "id": "a42a13a959a625af",
+            "id": "6be4aeb497a58450",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/3 - Controllers and Request Response.md",
+                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/The @PathVariable Annotation.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "3 - Controllers and Request Response"
-            }
-          },
-          {
-            "id": "47f098991128e47a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/REST API Spring Boot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "REST API Spring Boot"
+              "title": "The @PathVariable Annotation"
             }
           }
         ],
@@ -126,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.0026054382324
+    "width": 369
   },
   "right": {
     "id": "5a10da42bb9a1e07",
@@ -233,10 +219,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a42a13a959a625af",
+  "active": "6be4aeb497a58450",
   "lastOpenFiles": [
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/REST API Spring Boot.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/3 - Controllers and Request Response.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/2 - Controllers and Request Response.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/The @PathVariable Annotation.md",
     "Notes/Java/throw and throws.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/5 - Transactions in Spring (text-only).md",
     "Notes/Aspect-Oriented Programming.md",
@@ -260,7 +247,6 @@
     "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies/@Autowired Annotation.md",
     "Notes/Write-Ahead Log.md",
     "Notes/Spring/_note_Spring.md",
-    "Notes/Spring/Cheat Sheet.md",
     "Notes/Spring",
     "Knowledge Confidence/Confidence Levels.base",
     "Knowledge Confidence/Units/Java",
