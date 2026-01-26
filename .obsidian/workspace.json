@@ -24,36 +24,19 @@
             }
           },
           {
-            "id": "ec81cc99f26d0228",
+            "id": "ee6b9401715db88d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Database Transaction.md",
+                "file": "Notes/Java/throw and throws.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Database Transaction"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "bcb02db5b07fbe59",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "82999c0a227a9c11",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalibrain/excalibrain.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "excalibrain"
+              "title": "throw and throws"
             }
           }
         ]
@@ -88,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"transaction\"",
+                "query": "tag:#artificial-intelligence/workflow",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -124,8 +107,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,448 +155,13 @@
             }
           },
           {
-            "id": "14f7b6fae3ef1f54",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": true,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "778288552b941f79",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "84bc9a8683f6e6e7",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "244c87ec53dd602b",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "65b03ab7fd85fc3d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "05ab76ed267a64c8",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "d5ea185e6df4bd4d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "5a3cd2678a69f2e4",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "history",
-              "title": "History"
-            }
-          },
-          {
-            "id": "a1aba8bcdc3e80d5",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "683f71f91e370e24",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "8d4f0b5592ad18bc",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "5e5ab579f0404f40",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "a508717b88eaf800",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "10e1f87277cf90bb",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "e096c3a37c9b33d3",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "e6fe52f173066557",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "9b56f1ccb236c600",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "2ef860f452edfba0",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "1c3c911338cda28a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "0995806d7efb0a75",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "5840302a366ff102",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "c7f6ece530db879e",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "60242219d19c0850",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "280d5b9e5fbe38b3",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "cf94262bd94f26ed",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "3dcd92bd95518f00",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "139fce19f90e1736",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "06743304965dca8b",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "ded4853f413a0489",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "6de318886e20cbd4",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "95e791630c15ed11",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "5977f9a310b2b591",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "92de6dc1789432dc",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "bd5730041ff644d4",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "2d4755e6896ff777",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "78aaad54528f3b39",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "72ab9b70df483236",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "751ec34153c347d2",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "5e76e28ce7e67c9f",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
             "id": "26dbc315c3b4b683",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "bd2714e14b0c445b",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "3f86261569ebfbae",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "b945541e301f09f6",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "e83f7cca8097c17c",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -626,14 +173,28 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "9a269d07d80b9075",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ],
-        "currentTab": 46
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 374,
-    "collapsed": true
+    "width": 374
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -657,16 +218,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec81cc99f26d0228",
+  "active": "78ef94253144dd57",
   "lastOpenFiles": [
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/What is a transaction.md",
-    "Notes/Database Transaction.md",
+    "Notes/Java/throw and throws.md",
+    "Notes/Aspect-Oriented Programming.md",
+    "--Obsidian Template--/Frontmatter/Notes/Note.md",
+    "--Obsidian Template--/Frontmatter/Notes/AWS.md",
+    "--Obsidian Template--/Frontmatter/Notes/Terraform.md",
+    "--Obsidian Template--/Frontmatter/Notes/Java.md",
+    "--Obsidian Template--/Frontmatter/Notes/Database.md",
+    "--Obsidian Template--/Frontmatter/Notes/Database Locks.md",
+    "--Obsidian Template--/Frontmatter/Notes/Cryptography.md",
+    "--Obsidian Template--/Frontmatter/Notes/Backend.md",
+    "Notes/Java/_note_Java.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/5 - Transactions in Spring (text-only).md",
     "Excalibrain/excalibrain.md",
+    "Notes/Database Transaction.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/What is a transaction.md",
     "Braindump/2025-05-20 - Flink and ZooKeeper.md",
     "Notes/ACID/ACID.md",
     "Notes/ACID/Atomicity.md",
     "Notes/BASE.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/5 - Transactions in Spring (text-only).md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/4 - Spring with JPA and Hibernate.md",
     "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies/@Autowired Annotation.md",
     "Notes/Write-Ahead Log.md",
@@ -675,17 +247,6 @@
     "Notes/_note_Notes.md",
     "Notes/Spring",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/5 - The Spring Testing Framework.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/6 - Working with @PropertySource.md",
-    "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies/Lazy-initialized Beans.md",
-    "Reference Notes/Spring/Spring Framework/Ways to setup Spring via annotations.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot/1 - Spring Boot Auto-configuration.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/7 - Spring Boot Default Properties.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/_note_Learn Spring - The Master Class 2019-2020.md",
-    "Notes/Java/Java Persistence API.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/3 - Pagination and Sorting.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/2 - Beyond the Default Repository.md",
-    "Notes/Java/hashCode().md",
     "Knowledge Confidence/Confidence Levels.base",
     "Knowledge Confidence/Units/Java",
     "Knowledge Confidence/Units",
