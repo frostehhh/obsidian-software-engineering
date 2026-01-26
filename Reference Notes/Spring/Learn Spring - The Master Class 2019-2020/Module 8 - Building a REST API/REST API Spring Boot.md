@@ -6,6 +6,7 @@ source_url: https://www.baeldung.com/members/courses/learn-spring/lessons/lesson
 ---
 
 - `@RestController`
+	- Combination of `@Controller` and `@ResponseBody`
 - `@RequestMapping`
 - `@GetMapping`
 - `@PutMapping`
