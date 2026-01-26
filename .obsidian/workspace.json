@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fbb0d5ab264fe1b9",
+            "id": "78ef94253144dd57",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/4 - Spring with JPA and Hibernate.md",
+                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/5 - Transactions in Spring (text-only).md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "4 - Spring with JPA and Hibernate"
+              "title": "5 - Transactions in Spring (text-only)"
             }
           }
         ]
@@ -91,8 +91,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -624,12 +623,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fbb0d5ab264fe1b9",
+  "active": "78ef94253144dd57",
   "lastOpenFiles": [
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/4 - Spring with JPA and Hibernate.md",
     "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies/@Autowired Annotation.md",
     "Notes/Write-Ahead Log.md",
     "Notes/Spring/_note_Spring.md",
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/4 - Spring with JPA and Hibernate.md",
     "Notes/Spring/Cheat Sheet.md",
     "Notes/_note_Notes.md",
     "Notes/Spring",
