@@ -200,10 +200,6 @@
     "related-mind-map": {}
   },
   "navigationHistory": [
-    "Notes/Blob Storage Usage Patterns.md",
-    "Notes/Blob Storage.md",
-    "Notes/AWS/S3/Simple Storage Service.md",
-    "tag:aws/s3",
     "tag:aws",
     "Notes/DynamoDB vs Cassandra.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a File Storage Service Like Dropbox.md",
@@ -249,7 +245,11 @@
     "Notes/Mutex.md",
     "Mutex vs Semaphore.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Accounts/AWS Account.md"
+    "Reference Notes/Adrian Cantrill/Amazon Web Services/Accounts/AWS Account.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/What is a transaction.md",
+    "Untitled.md",
+    "Notes/Database Transaction.md",
+    "Notes/Aspect-Oriented Programming.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "--p",
