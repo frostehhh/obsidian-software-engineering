@@ -4,62 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ba0a082349c240ff",
+        "id": "12cad31f71b76348",
         "type": "tabs",
         "children": [
           {
-            "id": "ee6b9401715db88d",
+            "id": "2723ade8afd137e6",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Java/throw and throws.md",
+                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/5 - Exception Handling in the API.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "throw and throws"
-            }
-          },
-          {
-            "id": "6be4aeb497a58450",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/3 - The @PathVariable Annotation.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "3 - The @PathVariable Annotation"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "97048c4396622749",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "818feba47d1dd8e3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/4 - The @RequestParam Annotation.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "4 - The @RequestParam Annotation"
+              "title": "5 - Exception Handling in the API"
             }
           }
         ]
@@ -242,13 +201,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "818feba47d1dd8e3",
+  "active": "2723ade8afd137e6",
   "lastOpenFiles": [
-    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/3 - The @PathVariable Annotation.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/5 - Exception Handling in the API.md",
+    "Notes/Java/throw and throws.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/4 - The @RequestParam Annotation.md",
+    "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/3 - The @PathVariable Annotation.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/REST API Spring Boot.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/2 - Controllers and Request Response.md",
-    "Notes/Java/throw and throws.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/5 - Transactions in Spring (text-only).md",
     "Notes/Aspect-Oriented Programming.md",
     "--Obsidian Template--/Frontmatter/Notes/Note.md",
@@ -269,7 +229,6 @@
     "Notes/BASE.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/4 - Spring with JPA and Hibernate.md",
     "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies/@Autowired Annotation.md",
-    "Notes/Write-Ahead Log.md",
     "Notes/Spring",
     "Knowledge Confidence/Confidence Levels.base",
     "Knowledge Confidence/Units/Java",
