@@ -3,7 +3,6 @@ tags:
   - reference-notes
   - spring
 source_url: https://www.baeldung.com/members/courses/learn-spring/lessons/lesson-3-controllers-and-urls-the-pathvariable-annotation-text-only
-Draft: false
 ---
 
 # @PathVariable annotation

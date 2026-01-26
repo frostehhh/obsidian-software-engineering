@@ -3,7 +3,6 @@ tags:
   - reference-notes
   - spring
 source_url: https://www.baeldung.com/members/courses/learn-spring/lessons/lesson-4-controllers-and-urls-the-requestparam-annotation-text-only
-Draft: true
 ---
 
 # @RequestParam
