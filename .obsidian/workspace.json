@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Java/_note_Learn Java.md",
+                "file": "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "_note_Learn Java"
+              "title": "_note_Learn Java Collections"
             }
           },
           {
@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Java/Module 3 - Object-oriented Programming Basics/Untitled.md",
+                "file": "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Frontmatter - Reference Notes"
             }
           }
         ],
@@ -87,13 +87,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Java/Module 3 - Object-oriented Programming Basics/Untitled.md",
+                "file": "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Frontmatter - Reference Notes"
             }
           },
           {
@@ -230,15 +230,21 @@
   },
   "active": "0852f8c9cc50f6ca",
   "lastOpenFiles": [
-    "Reference Notes/Baeldung/Learn Java/_note_Learn Java.md",
-    "Reference Notes/Baeldung/Learn Java/Module 3 - Object-oriented Programming Basics/Untitled.md",
-    "Reference Notes/Baeldung/Learn Java/Module 3 - Object-oriented Programming Basics",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - Backend.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes with source.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Video.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 1 - Overview of Java Collections/1 - From Arrays to Collections.md",
+    "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 1 - Overview of Java Collections",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Object-oriented Programming Basics/Untitled.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Object-oriented Programming Basics",
     "Notes/Java/Method References.md",
     "Notes/Java/_note_Java.md",
     "Notes/Java/Java.md",
     "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/_note_Learn Spring - The Master Class 2019-2020.md",
     "Reference Notes/Spring/_note_Spring.md",
-    "Reference Notes/Baeldung/Learn Java",
+    "Reference Notes/Baeldung/Learn Java Collections",
     "Reference Notes/_note_Reference Notes.md",
     "Reference Notes/Baeldung",
     "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/5 - Exception Handling in the API.md",
@@ -254,18 +260,12 @@
     "--Obsidian Template--/Frontmatter/Notes/Terraform.md",
     "--Obsidian Template--/Frontmatter/Notes/Java.md",
     "--Obsidian Template--/Frontmatter/Notes/Database.md",
-    "--Obsidian Template--/Frontmatter/Notes/Database Locks.md",
-    "--Obsidian Template--/Frontmatter/Notes/Cryptography.md",
-    "--Obsidian Template--/Frontmatter/Notes/Backend.md",
-    "Excalibrain/excalibrain.md",
-    "Notes/Database Transaction.md",
     "Notes/Spring",
     "Knowledge Confidence/Confidence Levels.base",
     "Knowledge Confidence/Units/Java",
     "Knowledge Confidence/Units",
     "Knowledge Confidence",
     "--Obsidian Template--/Frontmatter/Knowledge Confidence",
-    "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/Base.base",
     "--Attachments/Pasted image 20251209205547.png",
     "--Attachments/Pasted image 20251208194136.png",
     "--Attachments/Pasted image 20251208194119.png",
