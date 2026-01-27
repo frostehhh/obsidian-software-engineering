@@ -8,6 +8,9 @@ has-questions: true
 
 - Source Code(human-readable code) -> compiled by JDK -> Bytecode(executable file/binary file)
 - Java Virtual Machines(JVM) execute bytecode
+# Variables
+- A storage location for values
+- can store different [[#Types]] of data
 # Types
 - int
 - char
