@@ -200,8 +200,6 @@
     "related-mind-map": {}
   },
   "navigationHistory": [
-    "tag:aws",
-    "Notes/DynamoDB vs Cassandra.md",
     "Reference Notes/HelloInterview/System Design/Question Breakdown/Design a File Storage Service Like Dropbox.md",
     "Notes/User Datagram Protocol.md",
     "Notes/Materialized View.md",
@@ -249,7 +247,9 @@
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/What is a transaction.md",
     "Untitled.md",
     "Notes/Database Transaction.md",
-    "Notes/Aspect-Oriented Programming.md"
+    "Notes/Aspect-Oriented Programming.md",
+    "fifo.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 1 - Overview of Java Collections/2 - Overview of the Java Collections Framework.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "--p",

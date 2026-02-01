@@ -38,6 +38,20 @@
               "icon": "lucide-file",
               "title": "2 - Overview of the Java Collections Framework"
             }
+          },
+          {
+            "id": "0b6bc94660866fbe",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalibrain/excalibrain.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "excalibrain"
+            }
           }
         ],
         "currentTab": 1
@@ -89,13 +103,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
+                "file": "Reference Notes/Baeldung/Learn Java Collections/Module 1 - Overview of Java Collections/2 - Overview of the Java Collections Framework.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _note_Learn Java Collections"
+              "title": "Outline of 2 - Overview of the Java Collections Framework"
             }
           },
           {
@@ -108,7 +122,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -242,11 +257,13 @@
   },
   "active": "c3127b3fac34aedd",
   "lastOpenFiles": [
+    "Excalibrain/excalibrain.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 1 - Overview of Java Collections/2 - Overview of the Java Collections Framework.md",
+    "fifo.md",
     "Notes/Message Queue.md",
     "Notes/First-In First-Out.md",
     "Queue.md",
     "Notes/_note_Notes.md",
-    "Reference Notes/Baeldung/Learn Java Collections/Module 1 - Overview of Java Collections/2 - Overview of the Java Collections Framework.md",
     "--Obsidian Template--/Frontmatter/Reference Notes/Java/Collections.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 1 - Overview of Java Collections/1 - From Arrays to Collections.md",
     "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
@@ -268,9 +285,7 @@
     "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes with source.md",
     "--Obsidian Template--/Frontmatter/Reference Notes/Video.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 1 - Overview of Java Collections",
-    "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Object-oriented Programming Basics/Untitled.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Object-oriented Programming Basics",
-    "Notes/Java/Method References.md",
     "Reference Notes/Baeldung/Learn Java Collections",
     "Reference Notes/Baeldung",
     "Notes/Spring",
