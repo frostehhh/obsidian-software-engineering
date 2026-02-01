@@ -3,7 +3,7 @@ tags:
   - reference-notes
   - java/collections
 source_url: https://www.baeldung.com/members/courses/learn-java-collections/lessons/lesson-2-basic-arraylist-operations
-Draft: true
+Draft: false
 ---
 
 - appending
@@ -27,5 +27,7 @@ myList.get(1);
 myList.contains("A");
 myList.indexOf("A");
 
+myList.set(1, "B");
 
+myList.println();\
 ```
