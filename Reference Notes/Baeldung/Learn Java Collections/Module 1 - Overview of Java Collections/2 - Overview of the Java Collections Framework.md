@@ -3,7 +3,7 @@ tags:
   - reference-notes
   - java/collections
 source_url: https://www.baeldung.com/members/courses/learn-java-collections/lessons/lesson-2-overview-of-the-java-collections-framework
-Draft: true
+Draft: false
 ---
 
 - Collections Framework
@@ -12,6 +12,8 @@ Draft: true
 		- Set
 		- Queue
 	- Map
+- The standard Collections objects are not thread-safe by default
+	- There are thread-safe implementations(not discussed in this article yet)
 
 # List
 Ordered collections accessible by index
@@ -57,4 +59,3 @@ Unique collections
 ||_HashMap_|No|No duplicate keys|Fast lookup, no ordering|
 ||_LinkedHashMap_|Yes (insertion)|No duplicate keys|Maintains insertion order|
 ||_TreeMap_|Yes (sorted by key)|No duplicate keys|Keep keys sorted|
-g
