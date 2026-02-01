@@ -22,8 +22,25 @@
               "icon": "lucide-file",
               "title": "_note_Learn Java Collections"
             }
+          },
+          {
+            "id": "c3127b3fac34aedd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Baeldung/Learn Java Collections/Module 1 - Overview of Java Collections/2 - Overview of the Java Collections Framework.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2 - Overview of the Java Collections Framework"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -43,7 +60,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -179,12 +196,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "90d032b8ea0c4560",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -213,8 +240,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2723ade8afd137e6",
+  "active": "c3127b3fac34aedd",
   "lastOpenFiles": [
+    "Notes/Message Queue.md",
+    "Notes/First-In First-Out.md",
+    "Queue.md",
+    "Notes/_note_Notes.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 1 - Overview of Java Collections/2 - Overview of the Java Collections Framework.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Java/Collections.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 1 - Overview of Java Collections/1 - From Arrays to Collections.md",
+    "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Untitled.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Java",
     "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes.md",
     "--Obsidian Template--/Frontmatter/Reference Notes/Reference Notes.md",
     "--Obsidian Template--/Frontmatter/Reference Notes/With Source.md",
@@ -230,27 +267,17 @@
     "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes - Backend.md",
     "--Obsidian Template--/Frontmatter/Reference Notes/Frontmatter - Reference Notes with source.md",
     "--Obsidian Template--/Frontmatter/Reference Notes/Video.md",
-    "Reference Notes/Baeldung/Learn Java Collections/Module 1 - Overview of Java Collections/1 - From Arrays to Collections.md",
-    "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 1 - Overview of Java Collections",
     "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Object-oriented Programming Basics/Untitled.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Object-oriented Programming Basics",
     "Notes/Java/Method References.md",
-    "Notes/Java/_note_Java.md",
-    "Notes/Java/Java.md",
-    "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/_note_Learn Spring - The Master Class 2019-2020.md",
-    "Reference Notes/Spring/_note_Spring.md",
     "Reference Notes/Baeldung/Learn Java Collections",
-    "Reference Notes/_note_Reference Notes.md",
     "Reference Notes/Baeldung",
-    "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/Module 8 - Building a REST API/5 - Exception Handling in the API.md",
-    "Notes/Java/throw and throws.md",
     "Notes/Spring",
     "Knowledge Confidence/Confidence Levels.base",
     "Knowledge Confidence/Units/Java",
     "Knowledge Confidence/Units",
     "Knowledge Confidence",
-    "--Obsidian Template--/Frontmatter/Knowledge Confidence",
     "--Attachments/Pasted image 20251209205547.png",
     "--Attachments/Pasted image 20251208194136.png",
     "--Attachments/Pasted image 20251208194119.png",
