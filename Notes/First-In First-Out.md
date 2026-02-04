@@ -3,6 +3,8 @@ tags:
   - notes
   - data-structures
 Draft: false
+aliases:
+  - FIFO
 ---
 
 - Method in insertion and removal of data in a data structure

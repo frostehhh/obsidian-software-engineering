@@ -1,0 +1,17 @@
+---
+tags:
+  - reference-notes
+  - java/collections
+source_url: https://www.baeldung.com/members/courses/learn-java-collections/lessons/lesson-2-iterators-fine-grained-control-over-traversal
+Draft: true
+---
+
+# Iterator
+- `Iterator` class
+- Methods
+	- hasNext()
+	- next()
+	- remove()
+	- forEachRemaining(Predicate)
+
+# ListIterator
