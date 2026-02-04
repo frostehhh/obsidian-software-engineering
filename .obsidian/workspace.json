@@ -55,26 +55,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "d146c61e61314bc3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "89da4a03a020a04c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalibrain/excalibrain.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "excalibrain"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
