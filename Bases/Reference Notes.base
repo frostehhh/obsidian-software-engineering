@@ -7,14 +7,20 @@ filters:
 views:
   - type: table
     name: All
+    groupBy:
+      property: file.folder
+      direction: ASC
     order:
       - file.name
       - tags
-      - aliases
-      - file.folder
       - Draft
     sort:
+      - property: tags
+        direction: ASC
       - property: file.name
         direction: ASC
       - property: file.basename
         direction: DESC
+    limit: 20
+    summaries:
+      file.name: Empty
