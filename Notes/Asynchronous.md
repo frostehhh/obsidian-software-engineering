@@ -3,7 +3,7 @@ tags:
   - notes
   - computer-science
 Draft: false
-opposite:: [[Synchronous]]
+"opposite:": "[[Synchronous]]"
 ---
 - Tasks do not need to be coordinated
 - Caller can work while waiting for a response

@@ -2,8 +2,10 @@
 tags:
   - notes
   - computer-science
+  - synchronization
+  - concurrency
 Draft: false
-opposite:: [[Asynchronous]]
+opposite:: "[[Asynchronous]]"
 ---
 
 - Tasks are coordinated

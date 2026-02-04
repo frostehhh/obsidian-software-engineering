@@ -2,7 +2,7 @@
 tags:
   - notes
   - synchronization
-Draft: true
+Draft: false
 ---
 
 - Means of access control by multiple processes in a system to a common resource

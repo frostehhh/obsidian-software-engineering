@@ -200,9 +200,6 @@
     "related-mind-map": {}
   },
   "navigationHistory": [
-    "Notes/Internet Protocol.md",
-    "Notes/Subnet Mask.md",
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/CloudFormation/Intrinsic Functions.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
     "Notes/Variable-Length Subnet Masking.md",
     "Notes/Classless Inter-domain Routing.md",
@@ -230,7 +227,6 @@
     "Notes/AWS/Services/S3/Bucket.md",
     "Notes/AWS/Services/SES/Simple Email Service.md",
     "--Obsidian Template--/Frontmatter - Notes 1.md",
-    "Notes/Mutex.md",
     "Mutex vs Semaphore.md",
     "Reference Notes/Spring/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/1 - Project Persistence with Spring Data JPA.md",
     "Reference Notes/Adrian Cantrill/Amazon Web Services/Accounts/AWS Account.md",
@@ -249,7 +245,11 @@
     "Reference Notes/Baeldung/Learn Java Collections/Module 1 - Overview of Java Collections/1 - From Arrays to Collections.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 2 - Deep Dive Into Lists/4 - Introduction to Linked Lists.md",
     "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
-    "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/Untitled.md"
+    "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/Untitled.md",
+    "Notes/Semaphore.md",
+    "Notes/Mutex vs Semaphore.md",
+    "Untitled.base",
+    "Notes/Mutex.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "--p",
