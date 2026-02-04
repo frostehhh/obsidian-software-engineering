@@ -40,8 +40,9 @@
             }
           },
           {
-            "id": "deb6a62c78da7ace",
+            "id": "fd41d704cc303278",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -49,6 +50,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "2 - Correctness"
             }
@@ -86,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"synchronized\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -264,9 +266,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "deb6a62c78da7ace",
+  "active": "fd41d704cc303278",
   "lastOpenFiles": [
     "Reference Notes/HelloInterview/Low Level Design/Concurrency/1 - Introduction.md",
+    "Notes/Eventual Consistency.md",
     "Reference Notes/HelloInterview/Low Level Design/Concurrency/2 - Correctness.md",
     "Notes/Mutex.md",
     "Notes/Synchronous.md",
@@ -300,7 +303,6 @@
     "Bases/Reference Notes.base",
     "Reference Notes/Adrian Cantrill/_note_Adrian Cantrill.md",
     "Dataviews/Reference Notes.md",
-    "Notes/Queue.md",
     "Dataviews",
     "--Attachments/Pasted image 20251209205547.png",
     "--Attachments/Pasted image 20251208194136.png",
