@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scratchpads/2026-02-05 - PRACTICe java collections.md",
+                "file": "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/2 - Iterators - Fine-Grained Control over Traversal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-05 - PRACTICe java collections"
+              "title": "2 - Iterators - Fine-Grained Control over Traversal"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"synchronized\"",
+                "query": "\"Listiterator\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -233,8 +234,8 @@
   },
   "active": "358371bf38e03ad9",
   "lastOpenFiles": [
-    "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
     "Scratchpads/2026-02-05 - PRACTICe java collections.md",
+    "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
     "Reference Notes/HelloInterview/Low Level Design/Concurrency/2 - Correctness.md",
     "Reference Notes/HelloInterview/Low Level Design/Concurrency/1 - Introduction.md",
     "Notes/Eventual Consistency.md",
