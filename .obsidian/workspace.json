@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Listiterator\"",
+                "query": "\"method reference",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -233,6 +234,8 @@
   },
   "active": "62d41859596522db",
   "lastOpenFiles": [
+    "Notes/Java/Method References.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/3 - Sorting Collections with Comparable and Comparator.md",
     "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
     "Reference Notes/HelloInterview/Low Level Design/Concurrency/2 - Correctness.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/2 - Iterators - Fine-Grained Control over Traversal.md",
@@ -264,8 +267,6 @@
     "Reference Notes/_note_Reference Notes.md",
     "--Obsidian Template--/Frontmatter/Reference Notes/Low-Level Design.md",
     "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/5 - Design Patterns.md",
-    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/2 - Delivery Framework.md",
-    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/1 - Introduction.md",
     "Reference Notes/HelloInterview/Low Level Design/Concurrency",
     "Bases/Reference Notes.base",
     "Dataviews",
