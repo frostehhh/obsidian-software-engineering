@@ -4,59 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "12cad31f71b76348",
+        "id": "4adeddff690fb76b",
         "type": "tabs",
         "children": [
           {
-            "id": "2723ade8afd137e6",
+            "id": "358371bf38e03ad9",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
+                "file": "Scratchpads/2026-02-05 - PRACTICe java collections.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "_note_Learn Java Collections"
-            }
-          },
-          {
-            "id": "5cd19abd39639fc6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/HelloInterview/Low Level Design/Concurrency/1 - Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "1 - Introduction"
-            }
-          },
-          {
-            "id": "fd41d704cc303278",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/HelloInterview/Low Level Design/Concurrency/2 - Correctness.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2 - Correctness"
+              "title": "2026-02-05 - PRACTICe java collections"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,11 +231,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fd41d704cc303278",
+  "active": "358371bf38e03ad9",
   "lastOpenFiles": [
+    "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
+    "Scratchpads/2026-02-05 - PRACTICe java collections.md",
+    "Reference Notes/HelloInterview/Low Level Design/Concurrency/2 - Correctness.md",
     "Reference Notes/HelloInterview/Low Level Design/Concurrency/1 - Introduction.md",
     "Notes/Eventual Consistency.md",
-    "Reference Notes/HelloInterview/Low Level Design/Concurrency/2 - Correctness.md",
     "Notes/Mutex.md",
     "Notes/Synchronous.md",
     "Notes/Asynchronous.md",
@@ -281,7 +248,6 @@
     "Bases/Topics/Networking.base",
     "Bases/Topics/Guides.base",
     "Notes/Semaphore.md",
-    "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
     "Excalibrain/excalibrain.md",
     "Untitled.base",
     "Notes/Mutex vs Semaphore.md",
@@ -302,7 +268,6 @@
     "Reference Notes/HelloInterview/Low Level Design/Concurrency",
     "Bases/Reference Notes.base",
     "Reference Notes/Adrian Cantrill/_note_Adrian Cantrill.md",
-    "Dataviews/Reference Notes.md",
     "Dataviews",
     "--Attachments/Pasted image 20251209205547.png",
     "--Attachments/Pasted image 20251208194136.png",
