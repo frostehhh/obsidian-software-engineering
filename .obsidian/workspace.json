@@ -11,13 +11,14 @@
             "id": "62d41859596522db",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Bases/All.base",
-                "viewName": "All"
+                "file": "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/2 - Basic HashSet Operations.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "All"
+              "icon": "lucide-file",
+              "title": "2 - Basic HashSet Operations"
             }
           }
         ]
@@ -40,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -191,9 +192,19 @@
   },
   "active": "62d41859596522db",
   "lastOpenFiles": [
-    "Notes/Queue.md",
-    "Bases/All.base",
     "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/1 - Introduction to HashSets.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/3 - Sorting Collections with Comparable and Comparator.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/2 - Iterators - Fine-Grained Control over Traversal.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/1 - Enhanced For-Loops - A Simple Iteration Technique.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 2 - Deep Dive Into Lists/3 - Bulk Operations on Lists.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 2 - Deep Dive Into Lists/4 - Introduction to Linked Lists.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 2 - Deep Dive Into Lists/2 - Basic ArrayList Operations.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 2 - Deep Dive Into Lists/1 - Introduction to ArrayLists.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/2 - Basic HashSet Operations.md",
+    "Notes/Set.md",
+    "Notes/Queue.md",
+    "Notes/_note_Notes.md",
+    "Bases/All.base",
     "Untitled.base",
     "subnet.md",
     "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
@@ -202,12 +213,9 @@
     "Reference Notes/Baeldung/Learn Java Collections/Module 1 - Overview of Java Collections/1 - From Arrays to Collections.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets",
     "Reference Notes/Baeldung/Learn Java Collections/Untitled.canvas",
-    "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/1 - Enhanced For-Loops - A Simple Iteration Technique.md",
-    "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/3 - Sorting Collections with Comparable and Comparator.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/Untitled",
     "Notes/Java/Method References.md",
     "Reference Notes/HelloInterview/Low Level Design/Concurrency/2 - Correctness.md",
-    "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/2 - Iterators - Fine-Grained Control over Traversal.md",
     "Scratchpads/2026-02-05 - PRACTICe java collections.md",
     "Reference Notes/HelloInterview/Low Level Design/Concurrency/1 - Introduction.md",
     "Notes/Eventual Consistency.md",
@@ -220,13 +228,6 @@
     "Bases/Topics/Networking.base",
     "Bases/Topics/Guides.base",
     "Notes/Semaphore.md",
-    "Excalibrain/excalibrain.md",
-    "Notes/Mutex vs Semaphore.md",
-    "Notes/Process.md",
-    "Notes/Thread.md",
-    "Notes/Process and Thread Patterns.md",
-    "Notes/Listener, Acceptor and Readers Execution Patterns.md",
-    "Notes/Coroutines.md",
     "Reference Notes/HelloInterview/Low Level Design/Concurrency",
     "--Attachments/Pasted image 20251209205547.png",
     "--Attachments/Pasted image 20251208194136.png",

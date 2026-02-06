@@ -1,7 +1,7 @@
 ---
 tags:
   - reference-notes
-  - java/collections
+  - java/collections/list
 source_url: https://www.baeldung.com/members/courses/learn-java-collections/lessons/lesson-3-bulk-operations-on-lists
 Draft: false
 ---
