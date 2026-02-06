@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/3 - LinkedHashSet - Preserving Insertion Order.md",
+                "file": "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/4 - TreeSet - SortedSet and Natural Ordering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 - LinkedHashSet - Preserving Insertion Order"
+              "title": "4 - TreeSet - SortedSet and Natural Ordering"
             }
           }
         ]
@@ -192,8 +192,10 @@
   },
   "active": "62d41859596522db",
   "lastOpenFiles": [
-    "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/2 - Basic HashSet Operations.md",
+    "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/4 - TreeSet - SortedSet and Natural Ordering.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/3 - LinkedHashSet - Preserving Insertion Order.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/2 - Basic HashSet Operations.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 2 - Deep Dive Into Lists/3 - Bulk Operations on Lists.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/1 - Introduction to HashSets.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/3 - Sorting Collections with Comparable and Comparator.md",
@@ -208,7 +210,6 @@
     "Bases/All.base",
     "Untitled.base",
     "subnet.md",
-    "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
     "Notes/Java/Object class.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 1 - Overview of Java Collections/2 - Overview of the Java Collections Framework.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 1 - Overview of Java Collections/1 - From Arrays to Collections.md",
@@ -222,7 +223,6 @@
     "Notes/Eventual Consistency.md",
     "Notes/Mutex.md",
     "Notes/Synchronous.md",
-    "Notes/Asynchronous.md",
     "Bases/Topics/System Design.base",
     "Bases/Topics/Software Testing.base",
     "Bases/Topics/Security.base",
