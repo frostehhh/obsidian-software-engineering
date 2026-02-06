@@ -6,5 +6,4 @@ source_url: https://www.baeldung.com/members/courses/learn-java-collections/less
 Draft: true
 ---
 
-
-
+- [[set]]

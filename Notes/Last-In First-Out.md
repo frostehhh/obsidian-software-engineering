@@ -2,6 +2,7 @@
 tags:
   - notes
   - data-structures
+  - pattern
 Draft: false
 aliases:
   - LIFO

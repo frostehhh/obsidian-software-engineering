@@ -5,6 +5,9 @@ filters:
 views:
   - type: table
     name: All
+    filters:
+      and:
+        - file.tags.contains("data-structures")
     order:
       - file.name
       - tags

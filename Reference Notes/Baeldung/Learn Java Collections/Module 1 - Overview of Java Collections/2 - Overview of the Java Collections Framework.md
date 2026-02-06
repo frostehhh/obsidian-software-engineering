@@ -20,7 +20,6 @@ Ordered collections accessible by index
 ## Types
 - ArrayList
 - LinkedList
-
 # Set
 Unique collections
 ## Types

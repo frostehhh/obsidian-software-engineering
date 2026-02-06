@@ -11,14 +11,13 @@
             "id": "62d41859596522db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/1 - Introduction to HashSets.md",
-                "mode": "source",
-                "source": false
+                "file": "Bases/All.base",
+                "viewName": "All"
               },
-              "icon": "lucide-file",
-              "title": "1 - Introduction to HashSets"
+              "icon": "lucide-table",
+              "title": "All"
             }
           }
         ]
@@ -41,7 +40,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"method reference",
+                "query": "tag:#data-structures",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -137,77 +136,36 @@
             }
           },
           {
-            "id": "26dbc315c3b4b683",
+            "id": "2ef57755206b966a",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
-            "id": "a2a716aca1a3b1d1",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "9a269d07d80b9075",
+            "id": "b5912d4e578ff632",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "showSearch": true,
+                "searchQuery": "data"
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "a8544deb98514adf",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "90d032b8ea0c4560",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "1616e15e628e6ee1",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 374,
-    "collapsed": true
+    "width": 374
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,13 +181,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "62d41859596522db",
   "lastOpenFiles": [
-    "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
+    "Notes/Queue.md",
+    "Bases/All.base",
     "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/1 - Introduction to HashSets.md",
+    "Untitled.base",
+    "subnet.md",
+    "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
+    "Notes/Java/Object class.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 1 - Overview of Java Collections/2 - Overview of the Java Collections Framework.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 1 - Overview of Java Collections/1 - From Arrays to Collections.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets",
     "Reference Notes/Baeldung/Learn Java Collections/Untitled.canvas",
     "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/1 - Enhanced For-Loops - A Simple Iteration Technique.md",
@@ -244,7 +214,6 @@
     "Notes/Mutex.md",
     "Notes/Synchronous.md",
     "Notes/Asynchronous.md",
-    "Bases/All.base",
     "Bases/Topics/System Design.base",
     "Bases/Topics/Software Testing.base",
     "Bases/Topics/Security.base",
@@ -252,18 +221,12 @@
     "Bases/Topics/Guides.base",
     "Notes/Semaphore.md",
     "Excalibrain/excalibrain.md",
-    "Untitled.base",
     "Notes/Mutex vs Semaphore.md",
     "Notes/Process.md",
     "Notes/Thread.md",
     "Notes/Process and Thread Patterns.md",
     "Notes/Listener, Acceptor and Readers Execution Patterns.md",
     "Notes/Coroutines.md",
-    "Reference Notes/Baeldung/Learn Java Collections/Module 1 - Overview of Java Collections/2 - Overview of the Java Collections Framework.md",
-    "Braindump/Backend.md",
-    "Mindmaps/Backend.md",
-    "Mindmaps/Backend, Database and System Design.md",
-    "Reference Notes/_note_Reference Notes.md",
     "Reference Notes/HelloInterview/Low Level Design/Concurrency",
     "--Attachments/Pasted image 20251209205547.png",
     "--Attachments/Pasted image 20251208194136.png",

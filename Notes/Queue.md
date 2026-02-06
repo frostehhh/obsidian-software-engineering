@@ -2,7 +2,7 @@
 tags:
   - notes
   - pattern
-  - data-structure
+  - data-structures
 Draft: false
 Friend:: "[[First-In First-Out]]"
 ---
