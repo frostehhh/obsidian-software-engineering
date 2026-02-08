@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3e7d0b2eb4f2a431",
+        "id": "b844eba57f38fd02",
         "type": "tabs",
         "children": [
           {
-            "id": "62d41859596522db",
+            "id": "25b9f05eba05916a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/Untitled.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.11.7"
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
         ]
@@ -142,8 +140,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -182,18 +180,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "62d41859596522db",
+  "active": "25b9f05eba05916a",
   "lastOpenFiles": [
-    "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/Untitled.md",
+    "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps",
     "Reference Notes/Baeldung/Learn Java Collections/Module 2 - Deep Dive Into Lists/1 - Introduction to ArrayLists.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/4 - TreeSet - SortedSet and Natural Ordering.md",
