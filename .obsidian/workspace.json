@@ -158,9 +158,19 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "2eb54d21d943ce2b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -183,7 +193,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "25b9f05eba05916a",
+  "active": "2eb54d21d943ce2b",
   "lastOpenFiles": [
     "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/Untitled.md",
     "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
