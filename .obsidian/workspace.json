@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Java/Java.md",
+                "file": "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types/4 - Overview of Queues.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java"
+              "title": "4 - Overview of Queues"
             }
           }
         ]
@@ -89,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,9 +210,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fa87c464967a6005",
+  "active": "25b9f05eba05916a",
   "lastOpenFiles": [
+    "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types/3 - Generics.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types/4 - Overview of Queues.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types/2 - The Collections Class.md",
+    "Notes/Java/Java.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/3 - Sorting Collections with Comparable and Comparator.md",
     "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types/1 - Sequenced Collections.md",
@@ -239,11 +241,8 @@
     "Reference Notes/Baeldung/Learn Java Collections/Module 2 - Deep Dive Into Lists/2 - Basic ArrayList Operations.md",
     "Notes/Set.md",
     "Notes/Queue.md",
-    "Notes/_note_Notes.md",
     "Bases/All.base",
     "Untitled.base",
-    "subnet.md",
-    "Notes/Java/Object class.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets",
     "Reference Notes/Baeldung/Learn Java Collections/Untitled.canvas",
     "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/Untitled",
