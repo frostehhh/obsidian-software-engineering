@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/1 - Introduction to HashMap.md",
+                "file": "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/2 - Basic HashMap Operations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Introduction to HashMap"
+              "title": "2 - Basic HashMap Operations"
             }
           }
         ]
@@ -212,11 +212,13 @@
   },
   "active": "25b9f05eba05916a",
   "lastOpenFiles": [
+    "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/1 - Introduction to HashMap.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/2 - Basic HashMap Operations.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/Untitled",
     "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/1 - Introduction to HashSets.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/2 - Basic HashSet Operations.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/3 - LinkedHashSet - Preserving Insertion Order.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/4 - TreeSet - SortedSet and Natural Ordering.md",
-    "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/1 - Introduction to HashMap.md",
     "Scratchpads/_note_Scratchpads.md",
     "Scratchpads/2026-01-04 - practice Infor.md",
     "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
@@ -243,12 +245,10 @@
     "Notes/Java/Method References.md",
     "Reference Notes/HelloInterview/Low Level Design/Concurrency/2 - Correctness.md",
     "Scratchpads/2026-02-05 - PRACTICe java collections.md",
-    "Reference Notes/HelloInterview/Low Level Design/Concurrency/1 - Introduction.md",
     "Bases/Topics/System Design.base",
     "Bases/Topics/Software Testing.base",
     "Bases/Topics/Security.base",
     "Bases/Topics/Networking.base",
-    "Bases/Topics/Guides.base",
     "--Attachments/Pasted image 20251209205547.png",
     "--Attachments/Pasted image 20251208194136.png",
     "--Attachments/Pasted image 20251208194119.png",
