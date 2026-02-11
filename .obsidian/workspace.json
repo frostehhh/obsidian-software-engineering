@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/5 - TreeMaps - Sorted Maps and Natural Ordering.md",
+                "file": "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types/1 - Sequenced Collections.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 - TreeMaps - Sorted Maps and Natural Ordering"
+              "title": "1 - Sequenced Collections"
             }
           }
         ]
@@ -212,8 +212,11 @@
   },
   "active": "25b9f05eba05916a",
   "lastOpenFiles": [
-    "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/4 - LinkedHashMap - Maintaining Insertion Order.md",
+    "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types/1 - Sequenced Collections.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types",
     "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/5 - TreeMaps - Sorted Maps and Natural Ordering.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/4 - LinkedHashMap - Maintaining Insertion Order.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/3 - Iterating over HashMaps.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/2 - Basic HashMap Operations.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/1 - Introduction to HashMap.md",
@@ -224,7 +227,6 @@
     "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/2 - Basic HashSet Operations.md",
     "Scratchpads/_note_Scratchpads.md",
     "Scratchpads/2026-01-04 - practice Infor.md",
-    "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps",
     "Reference Notes/Baeldung/Learn Java Collections/Module 2 - Deep Dive Into Lists/1 - Introduction to ArrayLists.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 2 - Deep Dive Into Lists/3 - Bulk Operations on Lists.md",
@@ -241,14 +243,12 @@
     "subnet.md",
     "Notes/Java/Object class.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 1 - Overview of Java Collections/2 - Overview of the Java Collections Framework.md",
-    "Reference Notes/Baeldung/Learn Java Collections/Module 1 - Overview of Java Collections/1 - From Arrays to Collections.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets",
     "Reference Notes/Baeldung/Learn Java Collections/Untitled.canvas",
     "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/Untitled",
     "Bases/Topics/System Design.base",
     "Bases/Topics/Software Testing.base",
     "Bases/Topics/Security.base",
-    "Bases/Topics/Networking.base",
     "--Attachments/Pasted image 20251209205547.png",
     "--Attachments/Pasted image 20251208194136.png",
     "--Attachments/Pasted image 20251208194119.png",
