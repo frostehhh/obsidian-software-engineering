@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/2 - Basic HashMap Operations.md",
+                "file": "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/5 - TreeMaps - Sorted Maps and Natural Ordering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Basic HashMap Operations"
+              "title": "5 - TreeMaps - Sorted Maps and Natural Ordering"
             }
           }
         ]
@@ -212,13 +212,16 @@
   },
   "active": "25b9f05eba05916a",
   "lastOpenFiles": [
-    "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/1 - Introduction to HashMap.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/4 - LinkedHashMap - Maintaining Insertion Order.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/5 - TreeMaps - Sorted Maps and Natural Ordering.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/3 - Iterating over HashMaps.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/2 - Basic HashMap Operations.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/1 - Introduction to HashMap.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/4 - TreeSet - SortedSet and Natural Ordering.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/3 - LinkedHashSet - Preserving Insertion Order.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/Untitled",
     "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/1 - Introduction to HashSets.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/2 - Basic HashSet Operations.md",
-    "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/3 - LinkedHashSet - Preserving Insertion Order.md",
-    "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/4 - TreeSet - SortedSet and Natural Ordering.md",
     "Scratchpads/_note_Scratchpads.md",
     "Scratchpads/2026-01-04 - practice Infor.md",
     "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
@@ -242,9 +245,6 @@
     "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets",
     "Reference Notes/Baeldung/Learn Java Collections/Untitled.canvas",
     "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/Untitled",
-    "Notes/Java/Method References.md",
-    "Reference Notes/HelloInterview/Low Level Design/Concurrency/2 - Correctness.md",
-    "Scratchpads/2026-02-05 - PRACTICe java collections.md",
     "Bases/Topics/System Design.base",
     "Bases/Topics/Software Testing.base",
     "Bases/Topics/Security.base",
