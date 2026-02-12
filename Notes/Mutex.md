@@ -2,7 +2,7 @@
 tags:
   - notes
   - synchronization
-  - lock
+  - computer-science/locks
 Draft: false
 ---
 

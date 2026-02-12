@@ -81,7 +81,7 @@
   "showAttachments": false,
   "showURLNodes": true,
   "showVirtualNodes": false,
-  "showFolderNodes": false,
+  "showFolderNodes": true,
   "showTagNodes": true,
   "showPageNodes": true,
   "showNeighborCount": true,
@@ -200,8 +200,6 @@
     "related-mind-map": {}
   },
   "navigationHistory": [
-    "Reference Notes/Adrian Cantrill/Amazon Web Services/Services/Virtual Private Cloud/Basics.md",
-    "Notes/Variable-Length Subnet Masking.md",
     "Notes/Classless Inter-domain Routing.md",
     "Notes/AWS/Services/VPC/Virtual Private Cloud.md",
     "Notes/Pessimistic Locks.md",
@@ -249,7 +247,9 @@
     "Notes/Semaphore.md",
     "Notes/Mutex vs Semaphore.md",
     "Untitled.base",
-    "Notes/Mutex.md"
+    "Notes/Mutex.md",
+    "tag:computer-science/locks",
+    "Reference Notes/HelloInterview/Low Level Design/Concurrency/1 - Introduction.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "--p",

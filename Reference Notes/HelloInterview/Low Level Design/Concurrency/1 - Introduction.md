@@ -4,6 +4,7 @@ tags:
   - reference-notes
   - synchronization
   - concurrency
+  - computer-science/locks
 Draft: false
 source_url: https://www.hellointerview.com/learn/low-level-design/concurrency/intro
 ---
