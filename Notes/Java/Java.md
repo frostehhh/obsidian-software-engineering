@@ -64,4 +64,6 @@ public class OuterClass {
 - What is an IntFunction?
 - Use cases for enum as singleton?
 - abstract class vs interface
-- 
+
+# References
+https://dev.java/

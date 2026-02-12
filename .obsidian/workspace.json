@@ -8,49 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c18639d3f0cb2a20",
+            "id": "4c87a63790b1e901",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types/5 - Concurrent Collections.md",
+                "file": "Reference Notes/Baeldung/Learn Java Streams/Module 1 - Introduction to Functional Programming/1 - Functional Programming and Java Streams.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "5 - Concurrent Collections"
+              "title": "1 - Functional Programming and Java Streams"
             }
           },
           {
-            "id": "456722f2f9203692",
+            "id": "559e5db7a65b755b",
             "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalibrain/excalibrain.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "excalibrain"
-            }
-          },
-          {
-            "id": "1e4a2185292cc1c1",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types/6 - Select the Right Collection.md",
+                "file": "Notes/Java/Java.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "6 - Select the Right Collection"
+              "title": "Java"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +60,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -82,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"stream\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -269,10 +259,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1e4a2185292cc1c1",
+  "active": "c9e86c4b43b9a499",
   "lastOpenFiles": [
-    "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types/5 - Concurrent Collections.md",
+    "Reference Notes/Baeldung/Learn Java Streams/Module 1 - Introduction to Functional Programming/1 - Functional Programming and Java Streams.md",
+    "Notes/Java/Java.md",
+    "Anki/Flink.md",
+    "Notes/Stream.md",
+    "Reference Notes/Baeldung/Learn Java Streams/_note_Learn Java Streams.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Java/Streams.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Java/Collections.md",
+    "Reference Notes/Baeldung/Learn Java Streams/Module 1 - Introduction to Functional Programming",
+    "Reference Notes/Baeldung/Learn Java Collections/Learn Java Collections.base",
+    "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
+    "Reference Notes/Baeldung/Learn Java Streams",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types/7 - Legacy Collections.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types/6 - Select the Right Collection.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types/5 - Concurrent Collections.md",
     "Reference Notes/HelloInterview/Low Level Design/Concurrency/1 - Introduction.md",
     "Excalibrain/excalibrain.md",
     "Reference Notes/HelloInterview/Low Level Design/Concurrency/2 - Correctness.md",
@@ -282,32 +284,20 @@
     "Reference Notes/Baeldung/Learn Java Collections/Module 2 - Deep Dive Into Lists/4 - Introduction to Linked Lists.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types/3 - Generics.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types/2 - The Collections Class.md",
-    "Notes/Java/Java.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/3 - Sorting Collections with Comparable and Comparator.md",
-    "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types/1 - Sequenced Collections.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types",
     "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/5 - TreeMaps - Sorted Maps and Natural Ordering.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/4 - LinkedHashMap - Maintaining Insertion Order.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/3 - Iterating over HashMaps.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/2 - Basic HashMap Operations.md",
-    "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/1 - Introduction to HashMap.md",
-    "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/4 - TreeSet - SortedSet and Natural Ordering.md",
-    "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/3 - LinkedHashSet - Preserving Insertion Order.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/Untitled",
-    "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/1 - Introduction to HashSets.md",
-    "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets/2 - Basic HashSet Operations.md",
-    "Scratchpads/_note_Scratchpads.md",
-    "Scratchpads/2026-01-04 - practice Infor.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps",
     "Bases/All.base",
     "Untitled.base",
     "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets",
     "Reference Notes/Baeldung/Learn Java Collections/Untitled.canvas",
     "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/Untitled",
-    "Bases/Topics/System Design.base",
-    "Bases/Topics/Software Testing.base",
-    "Bases/Topics/Security.base",
     "--Attachments/Pasted image 20251209205547.png",
     "--Attachments/Pasted image 20251208194136.png",
     "--Attachments/Pasted image 20251208194119.png",

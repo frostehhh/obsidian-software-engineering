@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.folder.startsWith("Reference Notes/Baeldung/Learn Java Collections")
+views:
+  - type: table
+    name: Table
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - Draft
+    sort:
+      - property: Draft
+        direction: ASC

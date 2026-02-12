@@ -200,11 +200,6 @@
     "related-mind-map": {}
   },
   "navigationHistory": [
-    "Notes/Classless Inter-domain Routing.md",
-    "Notes/AWS/Services/VPC/Virtual Private Cloud.md",
-    "Notes/Pessimistic Locks.md",
-    "Notes/ACID/Consistency.md",
-    "Notes/ACID/Durability.md",
     "Notes/OSI Model/OSI Model.md",
     "Braindump/2025-10-13 - Backend and Database.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Isolation.md",
@@ -242,14 +237,19 @@
     "Reference Notes/Baeldung/Learn Java Collections/Module 1 - Overview of Java Collections/2 - Overview of the Java Collections Framework.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 1 - Overview of Java Collections/1 - From Arrays to Collections.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 2 - Deep Dive Into Lists/4 - Introduction to Linked Lists.md",
-    "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/Untitled.md",
     "Notes/Semaphore.md",
     "Notes/Mutex vs Semaphore.md",
     "Untitled.base",
     "Notes/Mutex.md",
     "tag:computer-science/locks",
-    "Reference Notes/HelloInterview/Low Level Design/Concurrency/1 - Introduction.md"
+    "Reference Notes/HelloInterview/Low Level Design/Concurrency/1 - Introduction.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types/5 - Concurrent Collections.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types/Untitled.md",
+    "Reference Notes/Baeldung/Learn Java Collections/Untitled.base",
+    "Reference Notes/Baeldung/Learn Java Collections/Learn Java Collections.base",
+    "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
+    "Reference Notes/Baeldung/Learn Java Streams/_note_Learn Java Streams.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "--p",
