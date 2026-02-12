@@ -211,9 +211,19 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "19b95e1df2e36254",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -236,7 +246,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "c18639d3f0cb2a20",
+  "active": "19b95e1df2e36254",
   "lastOpenFiles": [
     "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types/4 - Overview of Queues.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types/5 - Concurrent Collections.md",
