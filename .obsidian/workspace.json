@@ -8,53 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c87a63790b1e901",
+            "id": "4d3edbfedcce0364",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Java Streams/Module 1 - Introduction to Functional Programming/1 - Functional Programming and Java Streams.md",
+                "file": "Reference Notes/Baeldung/Learn Java Streams/Module 2 - Introduction to Java Streams/1 - Creating Streams.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "1 - Functional Programming and Java Streams"
-            }
-          },
-          {
-            "id": "ded904a6db5c16ff",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Java/Streams.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Streams"
-            }
-          },
-          {
-            "id": "8ec803533c88bc5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Baeldung/Learn Java Streams/Module 1 - Introduction to Functional Programming/2 - Functional Interfaces and Lambdas in Java.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 - Functional Interfaces and Lambdas in Java"
+              "title": "1 - Creating Streams"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"stream\"",
+                "query": "\"has-questions\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -122,7 +91,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,12 +200,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
             "id": "c0b46432913fd9ad",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "f25eeb8621495be3",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -245,7 +225,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -273,15 +253,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c9e86c4b43b9a499",
+  "active": "4d3edbfedcce0364",
   "lastOpenFiles": [
-    "Reference Notes/Baeldung/Learn Java Streams/Module 2 - Introduction to Java Streams",
     "Reference Notes/Baeldung/Learn Java Streams/Module 1 - Introduction to Functional Programming/1 - Functional Programming and Java Streams.md",
+    "Reference Notes/Baeldung/Learn Java Streams/Module 2 - Introduction to Java Streams/1 - Creating Streams.md",
+    "--Obsidian Template--/Questions.md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 1 - Introduction to Functional Programming/2 - Functional Interfaces and Lambdas in Java.md",
-    "Notes/Java/Streams.md",
+    "Notes/Java/Lambda Expressions.md",
+    "Notes/Java/Functional Interfaces.md",
     "Notes/Java/_note_Java.md",
-    "Notes/_note_Notes.md",
     "Notes/Java/Java.md",
+    "Notes/_note_Notes.md",
+    "Notes/Java/Streams.md",
+    "Scratchpads/2026-02-14 - Java Streams.md",
+    "Scratchpads/_note_Scratchpads.md",
+    "Reference Notes/Baeldung/Learn Java Streams/Module 2 - Introduction to Java Streams",
     "Anki/Flink.md",
     "Notes/Stream.md",
     "Reference Notes/Baeldung/Learn Java Streams/_note_Learn Java Streams.md",
@@ -299,11 +285,6 @@
     "Reference Notes/HelloInterview/Low Level Design/Concurrency/2 - Correctness.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 1 - Overview of Java Collections/2 - Overview of the Java Collections Framework.md",
     "Notes/Mutex.md",
-    "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types/4 - Overview of Queues.md",
-    "Reference Notes/Baeldung/Learn Java Collections/Module 2 - Deep Dive Into Lists/4 - Introduction to Linked Lists.md",
-    "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types/3 - Generics.md",
-    "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types/2 - The Collections Class.md",
-    "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/3 - Sorting Collections with Comparable and Comparator.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 6 - Other Collection Types",
     "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps/Untitled",
     "Reference Notes/Baeldung/Learn Java Collections/Module 5 - Working with Maps",
@@ -311,7 +292,6 @@
     "Untitled.base",
     "Reference Notes/Baeldung/Learn Java Collections/Module 4 - Working with Sets",
     "Reference Notes/Baeldung/Learn Java Collections/Untitled.canvas",
-    "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/Untitled",
     "--Attachments/Pasted image 20251209205547.png",
     "--Attachments/Pasted image 20251208194136.png",
     "--Attachments/Pasted image 20251208194119.png",

@@ -1,1 +1,4 @@
+---
+has-questions: true
+---
 # Questions

@@ -56,8 +56,6 @@ public class OuterClass {
 - wildcard
 ## Generic Methods
 
-# Lambda Expressions
-
 # JavaDoc
 
 # Questions
