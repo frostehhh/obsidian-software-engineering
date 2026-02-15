@@ -24,17 +24,19 @@
             }
           },
           {
-            "id": "5dfde20166c70e11",
+            "id": "72e950345bc7cd3a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "--Obsidian Template--/Frontmatter/Reference Notes/Java/Streams.md",
+                "file": "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/1 - collect().md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Streams"
+              "title": "1 - collect()"
             }
           }
         ],
@@ -267,12 +269,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5dfde20166c70e11",
+  "active": "72e950345bc7cd3a",
   "lastOpenFiles": [
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/Terminal Stream Operations.md",
+    "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/1 - collect().md",
+    "Reference Notes/Baeldung/Learn Java Streams/Module 3 - Intermediate Stream Operations/Intermediate Stream Operations.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Java/Collections.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Java/Streams.md",
     "Reference Notes/Baeldung/Learn Java Streams/_note_Learn Java Streams.md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations",
-    "Reference Notes/Baeldung/Learn Java Streams/Module 3 - Intermediate Stream Operations/Intermediate Stream Operations.md",
     "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/3 - Sorting Collections with Comparable and Comparator.md",
     "Notes/Java/equals().md",
     "Notes/Java/Functional Interfaces.md",
@@ -297,10 +302,7 @@
     "Reference Notes/Adrian Cantrill/_note_Adrian Cantrill.md",
     "Bases/Reference Notes.base",
     "Reference Notes/Allen Holub/_note_Allen Holub.md",
-    "Reference Notes/Andrej Karpathy/_note_Andrej Karpathy.md",
-    "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 3 - Intermediate Stream Operations",
-    "Reference Notes/Baeldung/Learn Java Streams/Module 1 - Introduction to Functional Programming/1 - Functional Programming and Java Streams.md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 2 - Introduction to Java Streams",
     "Reference Notes/Baeldung/Learn Java Streams/Module 1 - Introduction to Functional Programming",
     "Reference Notes/Baeldung/Learn Java Collections/Learn Java Collections.base",
