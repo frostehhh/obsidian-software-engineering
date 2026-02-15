@@ -26,6 +26,7 @@
           {
             "id": "c8bc10a47c48100b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -33,6 +34,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "2 - Intermediate and Terminal Operations"
             }
