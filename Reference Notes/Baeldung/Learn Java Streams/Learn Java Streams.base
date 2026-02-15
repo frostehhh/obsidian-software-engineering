@@ -1,0 +1,9 @@
+filters:
+  and:
+    - file.folder.startsWith("Reference Notes/Baeldung/Learn Java Streams")
+views:
+  - type: table
+    name: Table
+    groupBy:
+      property: file.folder
+      direction: ASC
