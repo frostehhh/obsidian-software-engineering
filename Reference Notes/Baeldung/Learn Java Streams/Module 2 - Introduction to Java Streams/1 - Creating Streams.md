@@ -2,9 +2,14 @@
 tags:
   - notes
   - programming-languages/java
-Draft: true
+Draft: false
 source_url: https://www.baeldung.com/members/courses/learn-java-streams/lessons/lesson-1-creating-streams
 ---
+
+1. `.stream()` method on existing collection object
+2. `Stream` utilities
+	- `.of()`
+	- `.empty()`
 
 # Questions
 - Streams aren't copies of the collection they are created from. Does that mean each value references the original?
