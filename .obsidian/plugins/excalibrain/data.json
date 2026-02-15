@@ -200,10 +200,6 @@
     "related-mind-map": {}
   },
   "navigationHistory": [
-    "Notes/OSI Model/OSI Model.md",
-    "Braindump/2025-10-13 - Backend and Database.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Isolation.md",
-    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Phantom Reads.md",
     "Notes/ACID/Isolation.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 2 - ACID/Serializable vs Repeatable Read.md",
     "Braindump/2025-10-13 - Backend, Database and System Design.md",
@@ -249,7 +245,11 @@
     "Reference Notes/Baeldung/Learn Java Collections/Untitled.base",
     "Reference Notes/Baeldung/Learn Java Collections/Learn Java Collections.base",
     "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
-    "Reference Notes/Baeldung/Learn Java Streams/_note_Learn Java Streams.md"
+    "Reference Notes/Baeldung/Learn Java Streams/_note_Learn Java Streams.md",
+    "Notes/Java/hashCode().md",
+    "Notes/Java/Object class.md",
+    "Reference Notes/_note_Reference Notes.md",
+    "Reference Notes/Baeldung/Learn Java Streams/Module 2 - Introduction to Java Streams/2 - Intermediate and Terminal Operations.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "--p",

@@ -3,6 +3,7 @@ tags:
   - notes
   - programming-languages/java
 Draft: false
+Parent:: "[[Object class]]"
 ---
 
 - value utilized but not limited to Hash data structures such as `HashMap` and `HashSet` for comparison of hash values [^1][^2]
