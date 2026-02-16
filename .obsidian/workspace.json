@@ -24,24 +24,9 @@
             }
           },
           {
-            "id": "72e950345bc7cd3a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/1 - collect().md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "1 - collect()"
-            }
-          },
-          {
             "id": "942e3f7df79782ce",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -49,12 +34,13 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "4 - reduce()"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -296,8 +282,8 @@
   },
   "active": "942e3f7df79782ce",
   "lastOpenFiles": [
-    "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/3 - groupingBy(), partitioningBy().md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/4 - reduce().md",
+    "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/3 - groupingBy(), partitioningBy().md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/2 - toMap(), toList(), toSet().md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 3 - Intermediate Stream Operations/Intermediate Stream Operations.md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/1 - collect().md",
