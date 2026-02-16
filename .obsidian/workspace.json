@@ -122,7 +122,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -269,7 +270,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374
+    "width": 374,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,7 +295,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "942e3f7df79782ce",
+  "active": "fa87c464967a6005",
   "lastOpenFiles": [
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/2 - toMap(), toList(), toSet().md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/3 - groupingBy(), partitioningBy().md",
