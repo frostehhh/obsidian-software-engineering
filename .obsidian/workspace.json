@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/2 - toMap(), toList(), toSet().md",
+                "file": "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/3 - groupingBy(), partitioningBy().md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - toMap(), toList(), toSet()"
+              "title": "3 - groupingBy(), partitioningBy()"
             }
           }
         ],
@@ -295,11 +295,12 @@
   },
   "active": "942e3f7df79782ce",
   "lastOpenFiles": [
+    "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/2 - toMap(), toList(), toSet().md",
+    "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/3 - groupingBy(), partitioningBy().md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 3 - Intermediate Stream Operations/Intermediate Stream Operations.md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/1 - collect().md",
     "--Obsidian Template--/Frontmatter/Reference Notes/Java/Streams.md",
     "Notes/Java/Streams.md",
-    "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/2 - toMap(), toList(), toSet().md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/Terminal Stream Operations.md",
     "--Obsidian Template--/Frontmatter/Reference Notes/Java/Collections.md",
     "Reference Notes/Baeldung/Learn Java Streams/_note_Learn Java Streams.md",
@@ -324,7 +325,6 @@
     "Reference Notes/Refere.base",
     "Reference Notes/Github - donnemartin system-design-primer/_note_Github - donnemartin system-design-primer.md",
     "Reference Notes/Untitled.md",
-    "Reference Notes/Anthropic/_note_Anthropic.md",
     "Bases/Reference Notes.base",
     "Reference Notes/Baeldung/Learn Java Streams/Module 3 - Intermediate Stream Operations",
     "Reference Notes/Baeldung/Learn Java Streams/Module 2 - Introduction to Java Streams",
