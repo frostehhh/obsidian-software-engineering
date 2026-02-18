@@ -8,33 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "942e3f7df79782ce",
+            "id": "50b466d931212178",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/4 - reduce().md",
+                "file": "Reference Notes/Baeldung/Learn Java Streams/Module 5 - Advanced Stream Operations/4 - Parallel Streams.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "4 - reduce()"
+              "title": "4 - Parallel Streams"
             }
           },
           {
-            "id": "50b466d931212178",
+            "id": "0c7345b8acffc1a0",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Java Streams/Module 5 - Advanced Stream Operations/2 - Numeric Streams.md",
+                "file": "Reference Notes/Baeldung/Learn Java Streams/Module 5 - Advanced Stream Operations/3 - Infinite Streams.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "2 - Numeric Streams"
+              "title": "3 - Infinite Streams"
             }
           }
         ],
@@ -298,10 +300,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50b466d931212178",
+  "active": "0c7345b8acffc1a0",
   "lastOpenFiles": [
-    "Reference Notes/Baeldung/Learn Java Streams/Module 5 - Advanced Stream Operations/1 - Stream Gatherers.md",
+    "Reference Notes/Baeldung/Learn Java Streams/Module 5 - Advanced Stream Operations/4 - Parallel Streams.md",
+    "Reference Notes/Baeldung/Learn Java Streams/Module 5 - Advanced Stream Operations/3 - Infinite Streams.md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 5 - Advanced Stream Operations/2 - Numeric Streams.md",
+    "Reference Notes/Baeldung/Learn Java Streams/Module 5 - Advanced Stream Operations/1 - Stream Gatherers.md",
     "Reference Notes/Baeldung/Learn Java Streams/_note_Learn Java Streams.md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 5 - Advanced Stream Operations",
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/8 - Common Operation Patterns.md",
@@ -327,8 +331,6 @@
     "Notes/Java/Classpath.md",
     "Notes/Java/_note_Java.md",
     "Notes/Java/Java.base",
-    "Reference Notes/Baeldung/Learn Java Streams/Module 2 - Introduction to Java Streams/2 - Intermediate and Terminal Operations.md",
-    "Reference Notes/Baeldung/Learn Java Streams/Module 2 - Introduction to Java Streams/1 - Creating Streams.md",
     "Reference Notes/Baeldung/Learn Java Streams/Learn Java Streams.base",
     "Reference Notes/Refere.base",
     "Bases/Reference Notes.base",
