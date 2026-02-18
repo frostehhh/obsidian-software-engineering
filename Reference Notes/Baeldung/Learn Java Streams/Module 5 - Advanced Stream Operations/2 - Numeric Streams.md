@@ -24,3 +24,5 @@ IntStream.of(1,2,3).sum()
 // range
 IntStream.range(1, 5)
 ```
+
+See source URL for more examples
