@@ -234,8 +234,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -244,8 +244,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -257,9 +257,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "81b526c809e93ee4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "horizontal",
@@ -288,7 +298,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50b466d931212178",
+  "active": "81b526c809e93ee4",
   "lastOpenFiles": [
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/7 - anyMatch(), allMatch(), noneMatch().md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/8 - Common Operation Patterns.md",
