@@ -10,6 +10,7 @@ Draft: false
 	- `IntStream`
 	- `LongStream`
 	- `DoubleStream`
+- The benefit of this over the generic `Stream` is that it avoids the overhead of boxing and unboxing. Each numeric stream works directly with the related primitive numeric type
 - Contains methods that are particular for number types including but not limited to:
 	- `average()`
 # Examples
