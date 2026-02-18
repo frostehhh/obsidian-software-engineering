@@ -70,13 +70,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Java Collections/Module 2 - Deep Dive Into Lists/3 - Bulk Operations on Lists.md",
+                "file": "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/3 - Writing Tests.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3 - Bulk Operations on Lists"
+              "title": "Outline of 3 - Writing Tests"
             }
           },
           {
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -281,7 +282,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5a0ab236c2258841",
+  "active": "62335ad7b46edd42",
   "lastOpenFiles": [
     "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/1 - JUnit Ecosystem.md",
     "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/3 - Writing Tests.md",
