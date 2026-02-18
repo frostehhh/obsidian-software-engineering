@@ -3,7 +3,7 @@ tags:
   - reference-notes
   - java/junit
 source_url: https://www.baeldung.com/members/courses/learn-junit/lessons/lesson-1-junit-ecosystem
-Draft: true
+Draft: false
 ---
 
 - JUnit is a lightweight unit-testing framework for [[Notes/Java/Java|Java]]

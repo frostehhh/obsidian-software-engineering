@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/1 - JUnit Ecosystem.md",
+                "file": "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/3 - Writing Tests.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - JUnit Ecosystem"
+              "title": "3 - Writing Tests"
             }
           }
         ]
@@ -284,6 +284,7 @@
   "active": "5a0ab236c2258841",
   "lastOpenFiles": [
     "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/1 - JUnit Ecosystem.md",
+    "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/3 - Writing Tests.md",
     "Reference Notes/Baeldung/Learn JUnit/_note_Learn JUnit.md",
     "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit",
     "Reference Notes/Baeldung/Learn JUnit/Learn JUnit.base",
@@ -314,7 +315,6 @@
     "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/3 - Sorting Collections with Comparable and Comparator.md",
     "Notes/Java/equals().md",
     "Notes/Java/Functional Interfaces.md",
-    "Notes/Java/Garbage Collection.md",
     "Notes/Java/Java.base",
     "Reference Notes/Refere.base",
     "Bases/Reference Notes.base",
