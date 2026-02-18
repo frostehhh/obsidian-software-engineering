@@ -3,7 +3,7 @@ tags:
   - reference-notes
   - java/junit
 source_url: https://www.baeldung.com/members/courses/learn-junit/lessons/lesson-3-writing-tests
-Draft: true
+Draft: false
 ---
 
 1. Install JUnit
