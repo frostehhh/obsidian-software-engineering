@@ -8,33 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50b466d931212178",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Baeldung/Learn Java Streams/Module 5 - Advanced Stream Operations/4 - Parallel Streams.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "4 - Parallel Streams"
-            }
-          },
-          {
-            "id": "b961e9a1906a7780",
+            "id": "5a0ab236c2258841",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Java Streams/Module 5 - Advanced Stream Operations/2 - Numeric Streams.md",
+                "file": "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/1 - JUnit Ecosystem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Numeric Streams"
+              "title": "1 - JUnit Ecosystem"
             }
           }
         ]
@@ -297,13 +281,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50b466d931212178",
+  "active": "5a0ab236c2258841",
   "lastOpenFiles": [
-    "Reference Notes/Baeldung/Learn Java Streams/Module 5 - Advanced Stream Operations/2 - Numeric Streams.md",
+    "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/1 - JUnit Ecosystem.md",
+    "Reference Notes/Baeldung/Learn JUnit/_note_Learn JUnit.md",
+    "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit",
+    "Reference Notes/Baeldung/Learn JUnit/Learn JUnit.base",
+    "Reference Notes/Baeldung/Learn Java Streams/Learn Java Streams.base",
+    "Reference Notes/Docker/_note_Docker.md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 5 - Advanced Stream Operations/4 - Parallel Streams.md",
+    "Reference Notes/Baeldung/Learn Java Streams/Module 5 - Advanced Stream Operations/2 - Numeric Streams.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Java/JUnit.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Java/Streams.md",
+    "Reference Notes/Baeldung/Learn Java Streams/_note_Learn Java Streams.md",
+    "Reference Notes/Baeldung/Learn JUnit",
     "Reference Notes/Baeldung/Learn Java Streams/Module 5 - Advanced Stream Operations/3 - Infinite Streams.md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 5 - Advanced Stream Operations/1 - Stream Gatherers.md",
-    "Reference Notes/Baeldung/Learn Java Streams/_note_Learn Java Streams.md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 5 - Advanced Stream Operations",
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/8 - Common Operation Patterns.md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/7 - anyMatch(), allMatch(), noneMatch().md",
@@ -314,7 +307,6 @@
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/3 - groupingBy(), partitioningBy().md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/5 - count(), average(), min(), max().md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 3 - Intermediate Stream Operations/Intermediate Stream Operations.md",
-    "--Obsidian Template--/Frontmatter/Reference Notes/Java/Streams.md",
     "Notes/Java/Streams.md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/Terminal Stream Operations.md",
     "--Obsidian Template--/Frontmatter/Reference Notes/Java/Collections.md",
@@ -323,18 +315,10 @@
     "Notes/Java/equals().md",
     "Notes/Java/Functional Interfaces.md",
     "Notes/Java/Garbage Collection.md",
-    "Notes/Java/Comparable.md",
-    "Notes/Java/Comparator.md",
-    "Notes/Java/Classpath.md",
-    "Notes/Java/_note_Java.md",
     "Notes/Java/Java.base",
-    "Reference Notes/Baeldung/Learn Java Streams/Learn Java Streams.base",
     "Reference Notes/Refere.base",
     "Bases/Reference Notes.base",
     "Reference Notes/Baeldung/Learn Java Streams/Module 3 - Intermediate Stream Operations",
-    "Reference Notes/Baeldung/Learn Java Streams/Module 2 - Introduction to Java Streams",
-    "Reference Notes/Baeldung/Learn Java Streams/Module 1 - Introduction to Functional Programming",
-    "Reference Notes/Baeldung/Learn Java Collections/Learn Java Collections.base",
     "Reference Notes/Baeldung/Learn Java Collections/Untitled.canvas",
     "--Attachments/Pasted image 20251209205547.png",
     "--Attachments/Pasted image 20251208194136.png",
