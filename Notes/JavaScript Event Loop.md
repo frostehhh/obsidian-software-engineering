@@ -1,7 +1,7 @@
 ---
 tags:
   - notes
-  - programming-languages/javascript
+  - javascript
 ---
 
 1. What is an event loop

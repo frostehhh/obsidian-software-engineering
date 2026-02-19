@@ -1,7 +1,7 @@
 ---
 tags:
   - notes
-  - programming-languages/java/streams
+  - java/streams
 Draft: false
 ---
 

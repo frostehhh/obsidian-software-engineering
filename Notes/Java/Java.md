@@ -1,7 +1,7 @@
 ---
 tags:
   - notes
-  - programming-languages/java
+  - java
 Draft: true
 has-questions: true
 ---
@@ -20,6 +20,13 @@ has-questions: true
 - inheritance
 - interfaces
 
+# Interfaces
+- Describes methods to be included in a class
+- Can be used as a type to [[4 - OOP Concepts#Abstraction|abstract]] implementation details
+- Related to [[4 - OOP Concepts#Polymorphism]] since multiple classes can implement an interface. The implementation behavior changes depending on the class used to instantiate
+- May commonly be described as any of the following
+	- blueprint
+	- contract
 # Classes
 - inheritance
 - constructor overriding

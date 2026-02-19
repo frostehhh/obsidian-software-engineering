@@ -52,23 +52,9 @@
               "icon": "lucide-file",
               "title": "4 - Testing Our Functionality"
             }
-          },
-          {
-            "id": "e27cdbf034614867",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Unit Testing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unit Testing"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#java/junit",
+                "query": "tag:#design-patterns",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -117,13 +103,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Unit Testing.md",
+                "file": "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/4 - Testing Our Functionality.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unit Testing"
+              "title": "Outline of 4 - Testing Our Functionality"
             }
           },
           {
@@ -156,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Unit Testing.md",
+                "file": "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/4 - Testing Our Functionality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Unit Testing"
+              "title": "Backlinks for 4 - Testing Our Functionality"
             }
           },
           {
@@ -175,12 +161,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Unit Testing.md",
+                "file": "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/4 - Testing Our Functionality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Unit Testing"
+              "title": "Outgoing links from 4 - Testing Our Functionality"
             }
           },
           {
@@ -192,7 +178,7 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": true,
-                "searchQuery": "junit"
+                "searchQuery": "pattern"
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -227,17 +213,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e27cdbf034614867",
+  "active": "4a478f2c3024f2c2",
   "lastOpenFiles": [
-    "Notes/Integration Testing.md",
+    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/5 - Design Patterns.md",
     "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/4 - Testing Our Functionality.md",
+    "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Introduction.md",
+    "Knowledge Confidence/Confidence Levels.base",
+    "Notes/Integration Testing.md",
+    "Notes/Java/Java.md",
+    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/4 - OOP Concepts.md",
     "Bases/Topics/Software Testing.base",
+    "Notes/Unit Testing.md",
     "--Obsidian Template--/Frontmatter/Reference Notes/Java/JUnit.md",
     "Reference Notes/Baeldung/Learn JUnit/Learn JUnit.base",
     "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/3 - Writing Tests.md",
     "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/1 - JUnit Ecosystem.md",
     "Reference Notes/Baeldung/Learn JUnit/_note_Learn JUnit.md",
-    "Notes/Unit Testing.md",
     "Notes/Software Testing.md",
     "Notes/Java/Build Systems/Gradle/Authoring Gradle Builds.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Combining Database Indexes for Better Performance.md",
@@ -257,13 +248,9 @@
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/7 - anyMatch(), allMatch(), noneMatch().md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/6 - findFirst(), findAny().md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/4 - reduce().md",
-    "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/1 - collect().md",
-    "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/2 - toMap(), toList(), toSet().md",
-    "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/3 - groupingBy(), partitioningBy().md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations",
     "Notes/Java/Java.base",
     "Reference Notes/Refere.base",
-    "Bases/Reference Notes.base",
     "Reference Notes/Baeldung/Learn Java Collections/Untitled.canvas",
     "--Attachments/Pasted image 20251209205547.png",
     "--Attachments/Pasted image 20251208194136.png",

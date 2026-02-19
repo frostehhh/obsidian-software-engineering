@@ -1,7 +1,7 @@
 ---
 tags:
   - notes
-  - programming-languages/java
+  - java
   - build-tools
 Draft: true
 "Parent:": "[[Notes/Java/Java]]"

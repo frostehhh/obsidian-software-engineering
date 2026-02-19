@@ -1,7 +1,7 @@
 ---
 tags:
   - notes
-  - programming-languages/java
+  - java
 knowledge-confidence-level:
   - 3 - Needs improvement
 ---

@@ -1,7 +1,7 @@
 ---
 tags:
   - notes
-  - programming-languages/javascript/angular
+  - javascript/angular
 Draft: false
 has-questions: true
 ---

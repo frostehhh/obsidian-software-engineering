@@ -1,7 +1,7 @@
 ---
 tags:
   - notes
-  - programming-languages/java
+  - java
   - spring
 Draft: true
 ---

@@ -1,7 +1,7 @@
 ---
 tags:
   - notes
-  - programming-languages/java
+  - java
 ---
 
 - Mechanism for destroying unused objects and variables

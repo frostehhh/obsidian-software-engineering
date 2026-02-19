@@ -2,6 +2,9 @@
 aliases:
   - IoC
   - Introduction to IoC
+tags:
+  - reference-notes
+  - design-patterns
 ---
 Inversion of control is a principle where in Spring context, Spring creates or instantiates the dependencies that an object needs. For example, we have a class and in the constructor, dependencies are defined. Spring initializes those dependencies for that class's use.[^1]
 

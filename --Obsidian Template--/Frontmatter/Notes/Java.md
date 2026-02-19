@@ -1,6 +1,6 @@
 ---
 tags:
   - notes
-  - programming-languages/java
+  - java
 Draft: true
 ---

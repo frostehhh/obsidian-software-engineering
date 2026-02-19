@@ -1,7 +1,7 @@
 ---
 tags:
   - notes
-  - programming-languages/java
+  - java
 Draft: false
 source_url: https://www.baeldung.com/members/courses/learn-java-streams/lessons/lesson-1-creating-streams
 ---

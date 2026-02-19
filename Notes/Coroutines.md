@@ -1,7 +1,7 @@
 ---
 tags:
   - notes
-  - programming-languages/kotlin
+  - kotlin
 Draft: false
 source_url:
 aliases:

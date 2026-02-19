@@ -1,7 +1,7 @@
 ---
 tags:
   - notes
-  - programming-languages/java
+  - java
   - build-tools/gradle
 Draft: true
 Parent:: "[[Java Build System]]"
