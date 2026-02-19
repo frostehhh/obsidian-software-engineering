@@ -36,9 +36,39 @@
               "icon": "lucide-table",
               "title": "Software Testing"
             }
+          },
+          {
+            "id": "4a478f2c3024f2c2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/4 - Testing Our Functionality.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "4 - Testing Our Functionality"
+            }
+          },
+          {
+            "id": "e27cdbf034614867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Unit Testing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unit Testing"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -87,13 +117,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bases/Topics/Software Testing.base",
+                "file": "Notes/Unit Testing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Software Testing"
+              "title": "Outline of Unit Testing"
             }
           },
           {
@@ -126,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bases/Topics/Software Testing.base",
+                "file": "Notes/Unit Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Software Testing"
+              "title": "Backlinks for Unit Testing"
             }
           },
           {
@@ -145,12 +175,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bases/Topics/Software Testing.base",
+                "file": "Notes/Unit Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Software Testing"
+              "title": "Outgoing links from Unit Testing"
             }
           },
           {
@@ -197,25 +227,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b5912d4e578ff632",
+  "active": "e27cdbf034614867",
   "lastOpenFiles": [
-    "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/4 - Testing Our Functionality.md",
-    "Reference Notes/Baeldung/Learn JUnit/Learn JUnit.base",
-    "Notes/Unit Testing.md",
     "Notes/Integration Testing.md",
+    "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/4 - Testing Our Functionality.md",
+    "Bases/Topics/Software Testing.base",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Java/JUnit.md",
+    "Reference Notes/Baeldung/Learn JUnit/Learn JUnit.base",
+    "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/3 - Writing Tests.md",
+    "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/1 - JUnit Ecosystem.md",
+    "Reference Notes/Baeldung/Learn JUnit/_note_Learn JUnit.md",
+    "Notes/Unit Testing.md",
     "Notes/Software Testing.md",
     "Notes/Java/Build Systems/Gradle/Authoring Gradle Builds.md",
     "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Combining Database Indexes for Better Performance.md",
     "Notes/AI Assistance Usage Tips.md",
-    "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/3 - Writing Tests.md",
-    "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/1 - JUnit Ecosystem.md",
-    "Reference Notes/Baeldung/Learn JUnit/_note_Learn JUnit.md",
     "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit",
     "Reference Notes/Baeldung/Learn Java Streams/Learn Java Streams.base",
     "Reference Notes/Docker/_note_Docker.md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 5 - Advanced Stream Operations/4 - Parallel Streams.md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 5 - Advanced Stream Operations/2 - Numeric Streams.md",
-    "--Obsidian Template--/Frontmatter/Reference Notes/Java/JUnit.md",
     "--Obsidian Template--/Frontmatter/Reference Notes/Java/Streams.md",
     "Reference Notes/Baeldung/Learn Java Streams/_note_Learn Java Streams.md",
     "Reference Notes/Baeldung/Learn JUnit",
@@ -233,7 +264,6 @@
     "Notes/Java/Java.base",
     "Reference Notes/Refere.base",
     "Bases/Reference Notes.base",
-    "Reference Notes/Baeldung/Learn Java Streams/Module 3 - Intermediate Stream Operations",
     "Reference Notes/Baeldung/Learn Java Collections/Untitled.canvas",
     "--Attachments/Pasted image 20251209205547.png",
     "--Attachments/Pasted image 20251208194136.png",
