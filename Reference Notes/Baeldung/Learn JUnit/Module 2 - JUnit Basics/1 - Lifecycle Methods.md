@@ -7,3 +7,14 @@ source_url: https://www.baeldung.com/members/courses/learn-junit/lessons/lesson-
 Draft: true
 ---
 
+# Lifecycle Methods
+Lifecycle methods can be configured via annotations on class methods
+
+The list of lifecycle methods are the following:
+- BeforeAll
+- BeforeEach
+- AfterAll
+- AfterEach
+
+The `*Each` lifecycles are executed before or after each test
+The `*All` lifecycles are executed before all test cases or after all tests cases
