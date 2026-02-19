@@ -4,24 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "b844eba57f38fd02",
+        "id": "c43e3a4500e663d0",
         "type": "tabs",
         "children": [
           {
-            "id": "5a0ab236c2258841",
+            "id": "1d76d2f8eb79ae5f",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/4 - Testing Our Functionality.md",
-                "mode": "source",
-                "source": false
+                "file": "Reference Notes/Baeldung/Learn JUnit/Learn JUnit.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "4 - Testing Our Functionality"
+              "pinned": true,
+              "icon": "lucide-table",
+              "title": "Learn JUnit"
+            }
+          },
+          {
+            "id": "d5bd492b920a146f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Bases/Topics/Software Testing.base",
+                "viewName": "All"
+              },
+              "pinned": true,
+              "icon": "lucide-table",
+              "title": "Software Testing"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#java/junit",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -70,13 +87,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/4 - Testing Our Functionality.md",
+                "file": "Bases/Topics/Software Testing.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4 - Testing Our Functionality"
+              "title": "Outline of Software Testing"
             }
           },
           {
@@ -109,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anki/Security.md",
+                "file": "Bases/Topics/Software Testing.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Security"
+              "title": "Backlinks for Software Testing"
             }
           },
           {
@@ -128,22 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Accessibility.md",
+                "file": "Bases/Topics/Software Testing.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Accessibility"
-            }
-          },
-          {
-            "id": "2ef57755206b966a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "title": "Outgoing links from Software Testing"
             }
           },
           {
@@ -155,119 +162,18 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": true,
-                "searchQuery": ""
+                "searchQuery": "junit"
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "2eb54d21d943ce2b",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "19acf863b39fadda",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "19b95e1df2e36254",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "707c1cf5647923d6",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "c0b46432913fd9ad",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "f25eeb8621495be3",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "2cc548208e0f5284",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "4b46ed751f4d4386",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "81b526c809e93ee4",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "36d596e45e9eda94",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 374,
-    "collapsed": true
+    "width": 374
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,17 +189,28 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "5a0ab236c2258841",
+  "active": "b5912d4e578ff632",
   "lastOpenFiles": [
-    "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/3 - Writing Tests.md",
     "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/4 - Testing Our Functionality.md",
+    "Reference Notes/Baeldung/Learn JUnit/Learn JUnit.base",
+    "Notes/Unit Testing.md",
+    "Notes/Integration Testing.md",
+    "Notes/Software Testing.md",
+    "Notes/Java/Build Systems/Gradle/Authoring Gradle Builds.md",
+    "Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/Section 4 - Database Indexing/Combining Database Indexes for Better Performance.md",
+    "Notes/AI Assistance Usage Tips.md",
+    "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/3 - Writing Tests.md",
     "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/1 - JUnit Ecosystem.md",
     "Reference Notes/Baeldung/Learn JUnit/_note_Learn JUnit.md",
     "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit",
-    "Reference Notes/Baeldung/Learn JUnit/Learn JUnit.base",
     "Reference Notes/Baeldung/Learn Java Streams/Learn Java Streams.base",
     "Reference Notes/Docker/_note_Docker.md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 5 - Advanced Stream Operations/4 - Parallel Streams.md",
@@ -312,14 +229,7 @@
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/1 - collect().md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/2 - toMap(), toList(), toSet().md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/3 - groupingBy(), partitioningBy().md",
-    "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/5 - count(), average(), min(), max().md",
-    "Reference Notes/Baeldung/Learn Java Streams/Module 3 - Intermediate Stream Operations/Intermediate Stream Operations.md",
-    "Notes/Java/Streams.md",
-    "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations/Terminal Stream Operations.md",
-    "--Obsidian Template--/Frontmatter/Reference Notes/Java/Collections.md",
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations",
-    "Reference Notes/Baeldung/Learn Java Collections/Module 3 - Iteration and Comparison/3 - Sorting Collections with Comparable and Comparator.md",
-    "Notes/Java/equals().md",
     "Notes/Java/Java.base",
     "Reference Notes/Refere.base",
     "Bases/Reference Notes.base",
