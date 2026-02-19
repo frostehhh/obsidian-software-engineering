@@ -13,6 +13,33 @@ Draft: true
 - Mockito significantly simplifies the setup needed for creating mocks. Otherwise, 
 
 # Mockito
+## Methods
+`Mockito.mock()` - creates mock instance
+`Mockito.when()` - When a method on a mock instance is called, define what output that method returns
+
+```java
+class CampaignServiceMockLifecycleUnitTest {
+    private CampaignRepository repository;
+    private DefaultCampaignService service;
+
+    @BeforeEach
+    void setup() {
+        this.repository = Mockito.mock(CampaignRepository.class);
+        this.service = new DefaultCampaignService(repository);
+    }
+
+    @Test
+    void whenClosingACampaignWhichIsNotFound_thenReturnEmpty() {
+        Mockito.when(repository.findById(1L))
+          .thenReturn(Optional.empty());
+
+        assertTrue(service.closeCampaign(1L).isEmpty());
+    }
+
+    // other tests
+}
+
+```
 ## Annotations
 `@ExtendWith(MockitoExtension.class)` 
 - simplifies overhead needed to setting up the mocks
