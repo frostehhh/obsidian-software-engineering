@@ -4,7 +4,7 @@ tags:
   - java/junit
   - software/testing
 source_url: https://www.baeldung.com/members/courses/learn-junit/lessons/lesson-2-mocking
-Draft: true
+Draft: false
 ---
 
 - Mocking is make a fake implementation of a component for the sake of providing data

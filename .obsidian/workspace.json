@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/2 - Mocking.md",
+                "file": "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/3 - JUnit Assertions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Mocking"
+              "title": "3 - JUnit Assertions"
             }
           }
         ],
@@ -101,13 +101,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/2 - Mocking.md",
+                "file": "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/3 - JUnit Assertions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2 - Mocking"
+              "title": "Outline of 3 - JUnit Assertions"
             }
           },
           {
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/2 - Mocking.md",
+                "file": "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/3 - JUnit Assertions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2 - Mocking"
+              "title": "Backlinks for 3 - JUnit Assertions"
             }
           },
           {
@@ -159,12 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/2 - Mocking.md",
+                "file": "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/3 - JUnit Assertions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2 - Mocking"
+              "title": "Outgoing links from 3 - JUnit Assertions"
             }
           },
           {
@@ -176,7 +176,7 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": true,
-                "searchQuery": "pattern"
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -211,10 +211,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "23e9a67db1754dea",
+  "active": "b5912d4e578ff632",
   "lastOpenFiles": [
-    "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/1 - Lifecycle Methods.md",
     "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/2 - Mocking.md",
+    "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/3 - JUnit Assertions.md",
+    "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/1 - Lifecycle Methods.md",
     "Reference Notes/Baeldung/Learn JUnit/Learn JUnit.base",
     "Bases/Topics/Software Testing.base",
     "Reference Notes/Baeldung/Learn JUnit/_note_Learn JUnit.md",
@@ -241,7 +242,6 @@
     "Reference Notes/Anthropic/Prompt Engineering Guide.md",
     "Reference Notes/Anthropic/Mastering Claude Code in 30 Minutes.md",
     "Reference Notes/Anthropic/_note_Anthropic.md",
-    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/5 - Design Patterns.md",
     "Knowledge Confidence/Confidence Levels.base",
     "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit",
     "Reference Notes/Baeldung/Learn Java Streams/Learn Java Streams.base",
