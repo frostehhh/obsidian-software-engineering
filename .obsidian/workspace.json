@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn JUnit/Module 3 - Advanced JUnit Assertions/3 - Advanced Assertions - AssertJ.md",
+                "file": "Reference Notes/Baeldung/Learn JUnit/Module 4 - Advanced Test Types/1 - Repeated Tests.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 - Advanced Assertions - AssertJ"
+              "title": "1 - Repeated Tests"
             }
           }
         ],
@@ -203,26 +203,35 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "0c240d1ca545fd80",
   "lastOpenFiles": [
-    "Reference Notes/Baeldung/Learn JUnit/Module 3 - Advanced JUnit Assertions/2 - Advanced Assertions - Hamcrest.md",
+    "Reference Notes/Baeldung/Learn JUnit/_note_Learn JUnit.md",
+    "Reference Notes/Baeldung/Learn JUnit/Module 4 - Advanced Test Types/1 - Repeated Tests.md",
+    "Reference Notes/Baeldung/Learn JUnit/Module 4 - Advanced Test Types",
+    "Reference Notes/Baeldung/Learn JUnit/Module 3 - Advanced JUnit Assertions/4 - Grouping Assertions.md",
+    "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/3 - Writing Tests.md",
+    "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/4 - Testing Our Functionality.md",
+    "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/1 - Lifecycle Methods.md",
+    "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/2 - Mocking.md",
     "Reference Notes/Baeldung/Learn JUnit/Module 3 - Advanced JUnit Assertions/3 - Advanced Assertions - AssertJ.md",
+    "Reference Notes/Baeldung/Learn JUnit/Module 3 - Advanced JUnit Assertions/2 - Advanced Assertions - Hamcrest.md",
     "Reference Notes/Baeldung/Learn JUnit/Module 3 - Advanced JUnit Assertions/1 - Expecting Exceptions.md",
     "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/5 - Disabling Tests.md",
     "Reference Notes/Baeldung/Learn JUnit/Module 3 - Advanced JUnit Assertions",
     "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/4 - Test Naming and Display Name.md",
     "Bases/Topics/Software Testing.base",
     "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/3 - JUnit Assertions.md",
-    "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/2 - Mocking.md",
-    "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/1 - Lifecycle Methods.md",
     "Reference Notes/Baeldung/Learn JUnit/Learn JUnit.base",
-    "Reference Notes/Baeldung/Learn JUnit/_note_Learn JUnit.md",
     "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics",
     "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/5 - Tests and Project Configuration.md",
-    "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/4 - Testing Our Functionality.md",
     "Reference Notes/Spring/Spring Framework/Inversion of Control Container/IoC Container Configuration Types.md",
     "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Introduction.md",
     "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Bean.md",
@@ -235,15 +244,11 @@
     "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies/_note_Dependencies.md",
     "Reference Notes/Spring/Spring Framework/Inversion of Control Container/_note_Inversion of Control Container.md",
     "Reference Notes/Spring/Spring Framework/Introduction.md",
-    "Reference Notes/Spring/Spring Framework/_note_Spring Framework.md",
-    "Reference Notes/Spring/_note_Spring.md",
-    "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
     "Knowledge Confidence/Confidence Levels.base",
     "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit",
     "Reference Notes/Baeldung/Learn Java Streams/Learn Java Streams.base",
     "Reference Notes/Baeldung/Learn JUnit",
     "Reference Notes/Baeldung/Learn Java Streams/Module 5 - Advanced Stream Operations",
-    "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations",
     "Reference Notes/Baeldung/Learn Java Collections/Untitled.canvas",
     "--Attachments/Pasted image 20251209205547.png",
     "--Attachments/Pasted image 20251208194136.png",
