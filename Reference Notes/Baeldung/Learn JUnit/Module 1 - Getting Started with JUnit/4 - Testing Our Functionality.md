@@ -4,7 +4,7 @@ tags:
   - java/junit
   - software/testing
 source_url: https://www.baeldung.com/members/courses/learn-junit/lessons/lesson-4-testing-our-functionality
-Draft: true
+Draft: false
 ---
 
 # Outline
@@ -36,3 +36,7 @@ Integration tests involve testing of multiple components.
 3. **Tests for state changes.** If possible, test for state changes. For example, on save of a repository, check if an ID is internally generated for the saved item
 
 # Inversion of Control
+A design pattern where external sources are responsible for initializing dependencies. This simplifies usage of dependencies by other classes that require them
+
+# Mocking
+Mocking of data to provide a more detailed and complex data setup 

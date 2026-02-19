@@ -38,19 +38,17 @@
             }
           },
           {
-            "id": "4a478f2c3024f2c2",
+            "id": "7641e3e573a9ed55",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/4 - Testing Our Functionality.md",
+                "file": "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/1 - Lifecycle Methods.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "4 - Testing Our Functionality"
+              "title": "1 - Lifecycle Methods"
             }
           }
         ],
@@ -74,7 +72,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -103,13 +101,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/4 - Testing Our Functionality.md",
+                "file": "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/1 - Lifecycle Methods.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4 - Testing Our Functionality"
+              "title": "Outline of 1 - Lifecycle Methods"
             }
           },
           {
@@ -142,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/4 - Testing Our Functionality.md",
+                "file": "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/1 - Lifecycle Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4 - Testing Our Functionality"
+              "title": "Backlinks for 1 - Lifecycle Methods"
             }
           },
           {
@@ -161,12 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/4 - Testing Our Functionality.md",
+                "file": "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/1 - Lifecycle Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 4 - Testing Our Functionality"
+              "title": "Outgoing links from 1 - Lifecycle Methods"
             }
           },
           {
@@ -213,8 +211,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4a478f2c3024f2c2",
+  "active": "7641e3e573a9ed55",
   "lastOpenFiles": [
+    "Reference Notes/Baeldung/Learn JUnit/_note_Learn JUnit.md",
+    "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/1 - Lifecycle Methods.md",
+    "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics",
+    "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/5 - Tests and Project Configuration.md",
+    "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/4 - Testing Our Functionality.md",
+    "Bases/Topics/Software Testing.base",
     "Reference Notes/Spring/Spring Framework/Inversion of Control Container/IoC Container Configuration Types.md",
     "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Introduction.md",
     "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Bean.md",
@@ -231,18 +235,13 @@
     "Reference Notes/Spring/_note_Spring.md",
     "Reference Notes/Baeldung/Learn Java Collections/_note_Learn Java Collections.md",
     "Reference Notes/Baeldung/Learn Java Streams/_note_Learn Java Streams.md",
-    "Reference Notes/Baeldung/Learn JUnit/_note_Learn JUnit.md",
     "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/_note_Learn Spring - The Master Class 2019-2020.md",
     "Reference Notes/Anthropic/Prompt Engineering Guide.md",
     "Reference Notes/Anthropic/Mastering Claude Code in 30 Minutes.md",
     "Reference Notes/Anthropic/_note_Anthropic.md",
-    "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/4 - Testing Our Functionality.md",
     "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/5 - Design Patterns.md",
     "Knowledge Confidence/Confidence Levels.base",
     "Notes/Integration Testing.md",
-    "Notes/Java/Java.md",
-    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/4 - OOP Concepts.md",
-    "Bases/Topics/Software Testing.base",
     "Reference Notes/Baeldung/Learn JUnit/Learn JUnit.base",
     "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit",
     "Reference Notes/Baeldung/Learn Java Streams/Learn Java Streams.base",
@@ -250,7 +249,6 @@
     "Reference Notes/Baeldung/Learn Java Streams/Module 5 - Advanced Stream Operations",
     "Reference Notes/Baeldung/Learn Java Streams/Module 4 - Terminal Stream Operations",
     "Notes/Java/Java.base",
-    "Reference Notes/Refere.base",
     "Reference Notes/Baeldung/Learn Java Collections/Untitled.canvas",
     "--Attachments/Pasted image 20251209205547.png",
     "--Attachments/Pasted image 20251208194136.png",
