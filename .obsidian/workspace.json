@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn JUnit/Module 5 - Managing Tests with JUnit/3 - Test Suites.md",
+                "file": "Reference Notes/Baeldung/Learn JUnit/Module 5 - Managing Tests with JUnit/5 - Parallel Executions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 - Test Suites"
+              "title": "5 - Parallel Executions"
             }
           }
         ],
@@ -213,8 +213,10 @@
   },
   "active": "dede38cdd3987053",
   "lastOpenFiles": [
-    "Bases/Topics/Software Testing.base",
+    "Reference Notes/Baeldung/Learn JUnit/Module 5 - Managing Tests with JUnit/4 - Conditional Test Execution.md",
+    "Reference Notes/Baeldung/Learn JUnit/Module 5 - Managing Tests with JUnit/5 - Parallel Executions.md",
     "Reference Notes/Baeldung/Learn JUnit/Module 5 - Managing Tests with JUnit/3 - Test Suites.md",
+    "Bases/Topics/Software Testing.base",
     "Reference Notes/Baeldung/Learn JUnit/Learn JUnit.base",
     "Reference Notes/Baeldung/Learn JUnit/Module 5 - Managing Tests with JUnit/2 - Tagging and Filtering.md",
     "Reference Notes/Baeldung/Learn JUnit/Module 5 - Managing Tests with JUnit/1 - Execution Order.md",
@@ -243,7 +245,6 @@
     "Reference Notes/Spring/Spring Framework/Inversion of Control Container/IoC Container Configuration Types.md",
     "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Introduction.md",
     "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Bean.md",
-    "Reference Notes/Spring/Spring Framework/Inversion of Control Container/Dependencies/Dependency Injection.md",
     "Knowledge Confidence/Confidence Levels.base",
     "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit",
     "Reference Notes/Baeldung/Learn Java Streams/Learn Java Streams.base",
