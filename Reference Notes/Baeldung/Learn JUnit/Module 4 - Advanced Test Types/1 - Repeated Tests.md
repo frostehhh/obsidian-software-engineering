@@ -7,7 +7,7 @@ source_url: https://www.baeldung.com/members/courses/learn-junit/lessons/lesson-
 Draft: false
 ---
 
-- `@Repeated` annotation
+- `@RepeatedTest` annotation
 - Repeats a test `n` amount of times
 - Can have custom display name
 - can have failure threshhold to indicate max number of failures to stop at 
