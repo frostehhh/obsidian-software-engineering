@@ -1,0 +1,9 @@
+filters:
+  and:
+    - file.folder.startsWith("Reference Notes/Baeldung/Learn Mockito")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Draft

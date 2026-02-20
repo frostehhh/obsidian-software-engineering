@@ -4,7 +4,7 @@ tags:
   - java/mockito
   - software/testing/unit
 source_url: https://www.baeldung.com/members/courses/learn-mockito/lessons/lesson-6-verifying-interactions-with-mocks
-Draft: true
+Draft: false
 ---
 
 Mockito can be used to verify that specific methods and parameter values are invoked.
