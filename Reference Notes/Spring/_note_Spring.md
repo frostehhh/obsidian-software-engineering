@@ -1,7 +1,7 @@
 ---
 tags:
   - reference-notes
-  - java/spring
+  - spring
 source_url: https://github.com/donnemartin/system-design-primer
 ---
 

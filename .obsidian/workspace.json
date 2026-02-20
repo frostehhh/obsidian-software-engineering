@@ -71,12 +71,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/5 - Stubbing Methods for Controlled Behavior.md",
-                "mode": "source",
+                "file": "Scratchpads/2026-02-20 - spring.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 - Stubbing Methods for Controlled Behavior"
+              "title": "2026-02-20 - spring"
             }
           }
         ],
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mockito.mock",
+                "query": "tag:#java/spring",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -148,7 +148,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -204,7 +205,7 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": true,
-                "searchQuery": "software/testing"
+                "searchQuery": "spring"
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -239,10 +240,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "276ae6c4880e11eb",
+  "active": "fa87c464967a6005",
   "lastOpenFiles": [
-    "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/Mockito Introduction.md",
+    "Scratchpads/_note_Scratchpads.md",
+    "Scratchpads/2026-02-20 - spring.md",
     "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/5 - Stubbing Methods for Controlled Behavior.md",
+    "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/Mockito Introduction.md",
     "Reference Notes/Baeldung/Learn Mockito/_note_Learn Mockito.md",
     "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/1 - Introduction to Unit Testing and Mocking Concepts.md",
     "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/2 - Mocking.md",
@@ -271,8 +274,6 @@
     "Reference Notes/Baeldung/Learn JUnit/Module 4 - Advanced Test Types",
     "Reference Notes/Baeldung/Learn JUnit/Module 3 - Advanced JUnit Assertions/4 - Grouping Assertions.md",
     "Reference Notes/Baeldung/Learn JUnit/Module 1 - Getting Started with JUnit/4 - Testing Our Functionality.md",
-    "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/1 - Lifecycle Methods.md",
-    "Reference Notes/Baeldung/Learn JUnit/Module 3 - Advanced JUnit Assertions/3 - Advanced Assertions - AssertJ.md",
     "Reference Notes/Baeldung/Learn JUnit/Module 3 - Advanced JUnit Assertions",
     "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics",
     "Knowledge Confidence/Confidence Levels.base",
