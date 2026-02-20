@@ -30,7 +30,9 @@ has-questions: true
 # Classes
 - inheritance
 - constructor overriding
-- class members, methods, fields
+- contains
+	- members/fields/member fields
+	- methods
 - [[Keyword Modifiers]]
 - static block
 - initializer block

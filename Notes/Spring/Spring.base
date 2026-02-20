@@ -6,3 +6,6 @@ filters:
 views:
   - type: table
     name: Table
+    order:
+      - file.name
+      - Draft

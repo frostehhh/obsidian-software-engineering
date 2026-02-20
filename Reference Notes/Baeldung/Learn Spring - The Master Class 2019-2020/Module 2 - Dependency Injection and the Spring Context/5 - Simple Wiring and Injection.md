@@ -5,7 +5,7 @@ tags:
 source_url: https://courses.baeldung.com/courses/487981/lectures/9808403
 ---
 
-
+Uses the `@Autowired` annotation for dependency injection
 # Types of Injection
 ## Constructor
 ```java
@@ -17,6 +17,10 @@ public class MyClass {
 	}
 }
 ```
+
+> [!important]
+> For testability, this method of autowiring is the most flexible and should be the default way of dependency injection
+
 ## Setter
 ```java
 public class MyClass {
