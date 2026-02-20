@@ -2,7 +2,7 @@
 tags:
   - reference-notes
   - java/junit
-  - software/testing
+  - software/testing/unit
 source_url: https://www.baeldung.com/members/courses/learn-junit/lessons/lesson-5-tests-and-project-configuration
 Draft: false
 ---

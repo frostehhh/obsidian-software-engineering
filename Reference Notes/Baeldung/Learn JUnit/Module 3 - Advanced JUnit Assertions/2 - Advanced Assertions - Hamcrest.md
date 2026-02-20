@@ -2,7 +2,7 @@
 tags:
   - reference-notes
   - java/junit
-  - software/testing
+  - software/testing/unit
 source_url: https://www.baeldung.com/members/courses/learn-junit/lessons/lesson-2-advanced-assertions-hamcrest
 Draft: false
 ---

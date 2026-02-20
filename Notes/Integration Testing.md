@@ -1,7 +1,7 @@
 ---
 tags:
   - notes
-  - software/testing
+  - software/testing/integration
 Draft: false
 ---
 

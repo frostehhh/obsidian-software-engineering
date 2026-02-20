@@ -2,7 +2,7 @@
 tags:
   - reference-notes
   - java/junit
-  - software/testing
+  - software/testing/unit
 source_url:
 Draft: true
 ---

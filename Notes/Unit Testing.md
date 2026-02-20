@@ -1,13 +1,18 @@
 ---
 tags:
   - notes
-  - software/testing
+  - software/testing/unit
 Draft: false
 ---
 
 - Testing units of code
 - A unit may refer to a small function or a group of functions **within a module**
 
+# Benefits
+- help to avoid bugs
+- supports creation of modular code
+- prevent regression. bugs can be caught early
+- a form of documentation
 # Types
 1. Logic Tests
 2. Boundary Tests
