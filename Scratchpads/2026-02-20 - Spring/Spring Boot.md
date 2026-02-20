@@ -1,0 +1,4 @@
+- An opinionated wrapper over the Spring framework
+- simplifies many usecases and workflows that Spring supports
+- Provides many default configuration while heavily lessening the boilerplate of getting started with a Spring project
+- Provides means to configure defaults

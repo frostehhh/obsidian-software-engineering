@@ -1,3 +1,6 @@
+---
+date: 2025-12-19
+---
 # OOP Concepts
 - Encapsulation
 	- hiding of internal state from external users

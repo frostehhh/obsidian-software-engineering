@@ -1,3 +1,6 @@
+---
+date: 2026-12-27
+---
 1. Creational
 	- Singleton
 	- Factory

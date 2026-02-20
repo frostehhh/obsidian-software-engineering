@@ -1,0 +1,10 @@
+filters:
+  and:
+    - file.folder.startsWith("Scratchpads")
+    - file.name != "Scratchpads.base"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - date

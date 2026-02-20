@@ -1,3 +1,6 @@
+---
+date: 2025-12-04
+---
 
 
 ![[2025-12-04 - Quality Assurance and TEsting 2025-12-04 18.28.08.excalidraw]]

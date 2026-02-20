@@ -5,7 +5,6 @@ tags:
 source_url: https://courses.baeldung.com/courses/487981/lectures/9621844
 ---
 
-
 - Opinionated abstraction of Spring
 - simplifies usage and significantly minimizes boilerplate
 - Has many defaults

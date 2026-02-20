@@ -1,0 +1,8 @@
+filters:
+  and:
+    - file.folder.startsWith("Notes/Spring")
+    - file.name != "Spring.base"
+    - file.name != "_note_Spring"
+views:
+  - type: table
+    name: Table
