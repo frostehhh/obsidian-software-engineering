@@ -7,3 +7,18 @@ source_url: https://www.baeldung.com/members/courses/learn-mockito/lessons/lesso
 Draft: true
 ---
 
+Mockito can be used to verify that specific methods and parameter values are invoked.
+# Methods
+- `verify()`
+- `times(n)`
+- `never()`
+- `inOrder.verify()`
+
+```java
+verify(taskRepository).findById(2L);
+verify(taskRepository, times(2)).findById(2L);
+verify(taskRepository, never()).findById(2L);
+
+inOrder.verify(taskRepository).findById(2L);
+inOrder.verify(taskRepository).findById(3L);
+```

@@ -31,5 +31,5 @@ when(taskRepository.findById(1L))
 ```
 ## Argument Matchers
 - if no specific value is needed, can use `any*()` argument matcher helper
-- 
+- Note that you cannot mix the use of exact values and argument matchers. In this case, you exact values wrapped in `eq()` or a similar matcher
 See https://site.mockito.org/javadoc/current/org/mockito/ArgumentMatchers.html for list of available ArgumentMatchers
