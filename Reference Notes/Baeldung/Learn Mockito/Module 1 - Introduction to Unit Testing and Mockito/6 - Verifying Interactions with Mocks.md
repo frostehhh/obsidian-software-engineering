@@ -10,7 +10,6 @@ Draft: true
 Mockito can be used to verify that specific methods and parameter values are invoked.
 # Methods
 - `verify()`
-	- Exam
 - `times(n)`
 - `never()`
 - `inOrder.verify()`
@@ -20,6 +19,9 @@ Mockito can be used to verify that specific methods and parameter values are inv
 ```java
 verify(taskRepository).findById(2L);
 verify(taskRepository).findByIdAndName(2L, "myName");
+// exact values cannot be mixed with argument matchers
+verify(taskRepository).findByIdAndName(any(), eq("myName"));
+
 verify(taskRepository, times(2)).findById(2L);
 verify(taskRepository, never()).findById(2L);
 
