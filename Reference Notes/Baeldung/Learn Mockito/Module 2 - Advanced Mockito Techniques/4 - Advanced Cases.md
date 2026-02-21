@@ -15,3 +15,7 @@ has-questions: true
 - What's the difference with this and doAnswer?
 	doAnswer is for mocking side-effects
 	ArgumentCaptor is for verifying assertions
+
+# See Also
+https://site.mockito.org/javadoc/current/org/mockito/ArgumentCaptor.html
+https://www.baeldung.com/mockito-argumentcaptor
