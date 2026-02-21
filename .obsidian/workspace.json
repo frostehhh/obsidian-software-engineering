@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Mockito/Module 2 - Advanced Mockito Techniques/3 - Exception Handling in Unit Tests.md",
+                "file": "Mindmaps/_note_Mindmaps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 - Exception Handling in Unit Tests"
+              "title": "_note_Mindmaps"
+            }
+          },
+          {
+            "id": "91cb6e124a7c7ed4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mindmaps/Interest Space.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Interest Space"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,10 +194,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "10fa766a510d89fb",
+  "active": "91cb6e124a7c7ed4",
   "lastOpenFiles": [
-    "Reference Notes/Baeldung/Learn Mockito/Module 2 - Advanced Mockito Techniques/2 - Advanced Stubbing Techniques.md",
+    "Mindmaps/_note_Mindmaps.md",
+    "Mindmaps/Interest Space.md",
     "Reference Notes/Baeldung/Learn Mockito/Module 2 - Advanced Mockito Techniques/3 - Exception Handling in Unit Tests.md",
+    "Reference Notes/Baeldung/Learn Mockito/Module 2 - Advanced Mockito Techniques/2 - Advanced Stubbing Techniques.md",
     "Reference Notes/Baeldung/Learn Mockito/Learn Mockito.base",
     "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/2 - Mocking.md",
     "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/5 - Stubbing Methods for Controlled Behavior.md",
@@ -209,8 +224,6 @@
     "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/7 - Spring Boot Default Properties.md",
     "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/8 - Deploying the Boot application - Other Options.md",
     "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/5 - The Spring Testing Framework.md",
-    "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/6 - Working with @PropertySource.md",
-    "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot/1 - Spring Boot Auto-configuration.md",
     "Notes/Spring/Spring.base",
     "Notes/Spring/Annotations",
     "Scratchpads/Scratchpads.base",
