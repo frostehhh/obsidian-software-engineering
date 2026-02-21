@@ -4,21 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b4f419241aca2031",
+        "id": "7d6ac9127b6c8e25",
         "type": "tabs",
         "children": [
           {
-            "id": "4df95fecbc55a682",
+            "id": "babc866403d4ba18",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scratchpads/2026-02-21 - mockito.md",
+                "file": "Reference Notes/Baeldung/Learn Mockito/Module 2 - Advanced Mockito Techniques/3 - Exception Handling in Unit Tests.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-02-21 - mockito"
+              "title": "3 - Exception Handling in Unit Tests"
             }
           }
         ]
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "thenThrow",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -89,7 +91,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,22 +184,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4df95fecbc55a682",
+  "active": "fa87c464967a6005",
   "lastOpenFiles": [
-    "Scratchpads/_note_Scratchpads.md",
     "Scratchpads/2026-02-21 - mockito.md",
+    "Reference Notes/Baeldung/Learn Mockito/Module 2 - Advanced Mockito Techniques/1 - Working with Spies and Partial Mocks.md",
+    "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/Mockito Introduction.md",
+    "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/6 - Verifying Interactions with Mocks.md",
+    "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/5 - Stubbing Methods for Controlled Behavior.md",
+    "Reference Notes/Baeldung/Learn Mockito/Module 2 - Advanced Mockito Techniques/2 - Advanced Stubbing Techniques.md",
+    "Reference Notes/Baeldung/Learn Mockito/Module 2 - Advanced Mockito Techniques/3 - Exception Handling in Unit Tests.md",
+    "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/1 - Introduction to Unit Testing and Mocking Concepts.md",
+    "Reference Notes/_note_Reference Notes.md",
+    "Scratchpads/_note_Scratchpads.md",
     "Mindmaps/Interest Space.md",
     "Mindmaps/_note_Mindmaps.md",
-    "Reference Notes/Baeldung/Learn Mockito/Module 2 - Advanced Mockito Techniques/3 - Exception Handling in Unit Tests.md",
-    "Reference Notes/Baeldung/Learn Mockito/Module 2 - Advanced Mockito Techniques/2 - Advanced Stubbing Techniques.md",
     "Reference Notes/Baeldung/Learn Mockito/Learn Mockito.base",
     "Reference Notes/Baeldung/Learn JUnit/Module 2 - JUnit Basics/2 - Mocking.md",
-    "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/5 - Stubbing Methods for Controlled Behavior.md",
-    "Reference Notes/Baeldung/Learn Mockito/Module 2 - Advanced Mockito Techniques/1 - Working with Spies and Partial Mocks.md",
     "Reference Notes/Baeldung/Learn Mockito/_note_Learn Mockito.md",
-    "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/6 - Verifying Interactions with Mocks.md",
     "Reference Notes/Baeldung/Learn Mockito/Module 2 - Advanced Mockito Techniques",
-    "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/Mockito Introduction.md",
     "Scratchpads/2026-02-20 - Spring/2026-02-20 - spring.md",
     "Notes/Spring/What is Spring?.md",
     "Notes/Spring/Annotations.md",
@@ -209,8 +214,6 @@
     "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/3 - Defining Beans, Component Scanning and Bean Annotations.md",
     "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/2 - The Basics of Java Configuration and the Spring Context.md",
     "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/1 - What  is DI and How Does It Work In Spring.md",
-    "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/2 - Working with Profiles in Spring.md",
-    "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/Module 3 - Project Configuration/7 - Spring Boot Default Properties.md",
     "Notes/Spring/Spring.base",
     "Notes/Spring/Annotations",
     "Scratchpads/Scratchpads.base",
