@@ -11,30 +11,13 @@
             "id": "10fa766a510d89fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mindmaps/_note_Mindmaps.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "_note_Mindmaps"
-            }
-          },
-          {
-            "id": "91cb6e124a7c7ed4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mindmaps/Interest Space.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Interest Space"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,10 +169,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "91cb6e124a7c7ed4",
+  "active": "10fa766a510d89fb",
   "lastOpenFiles": [
     "Mindmaps/Interest Space.md",
     "Mindmaps/_note_Mindmaps.md",
