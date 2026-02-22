@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Mockito/Module 2 - Advanced Mockito Techniques/4 - Advanced Cases.md",
+                "file": "Notes/_note_Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - Advanced Cases"
+              "title": "_note_Notes"
             }
           }
         ],
@@ -190,16 +190,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "928a6a3690886f9c",
   "lastOpenFiles": [
+    "Notes/Eudaimonia.md",
+    "Notes/_note_Notes.md",
+    "Reference Notes/Baeldung/Learn Mockito/Module 2 - Advanced Mockito Techniques/4 - Advanced Cases.md",
     "Reference Notes/Baeldung/Learn JUnit/Summary.md",
     "Reference Notes/Baeldung/Learn JUnit/Learn JUnit.base",
     "Reference Notes/Baeldung/Learn Mockito/Summary.md",
     "Reference Notes/Baeldung/Learn Mockito/Learn Mockito.base",
-    "Reference Notes/Baeldung/Learn Mockito/Module 2 - Advanced Mockito Techniques/4 - Advanced Cases.md",
     "Reference Notes/Baeldung/Learn Mockito/Module 2 - Advanced Mockito Techniques/3 - Exception Handling in Unit Tests.md",
     "Scratchpads/2026-02-21 - mockito.md",
     "Reference Notes/Baeldung/Learn Mockito/Module 2 - Advanced Mockito Techniques/1 - Working with Spies and Partial Mocks.md",
@@ -222,7 +229,6 @@
     "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/_note_Learn Spring - The Master Class 2019-2020.md",
     "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/7 - The BeanPostProcessor and the BeanFactoryPostProcessor.md",
     "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/6 - Exploring the Scopes of Spring Beans.md",
-    "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/Module 2 - Dependency Injection and the Spring Context/5 - Simple Wiring and Injection.md",
     "Notes/Spring/Spring.base",
     "Notes/Spring/Annotations",
     "Scratchpads/Scratchpads.base",
