@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:Notes  ",
+  "search": " tag:#mind-maps  ",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2057270820398326,
-  "close": true
+  "scale": 1.2644587316080755,
+  "close": false
 }

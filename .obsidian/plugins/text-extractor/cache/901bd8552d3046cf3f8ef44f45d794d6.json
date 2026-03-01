@@ -1,1 +1,0 @@
-{"path":"Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230406211439.png","text":"Data Encryption Keys (DEKS) @ o @ s * GenerateDataKey - works on > 4KB * Plaintext Version —> @ s Ciphertext Version ——» @ * Encrypt data using plaintext key [:]—é-} « Discard P e Store encrypted key with data","libVersion":"0.3.2","langs":"eng"}

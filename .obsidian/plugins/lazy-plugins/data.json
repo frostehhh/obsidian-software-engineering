@@ -16,7 +16,7 @@
         "startupType": "long"
       },
       "obsidian-excalidraw-plugin": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "highlightr-plugin": {
         "startupType": "short"
@@ -94,7 +94,7 @@
         "startupType": "long"
       },
       "supercharged-links-obsidian": {
-        "startupType": "long"
+        "startupType": "disabled"
       },
       "obsidian-hover-editor": {
         "startupType": "instant"
@@ -109,18 +109,12 @@
         "startupType": "instant"
       },
       "mermaid-tools": {
-        "startupType": "long"
-      },
-      "obsidian-to-anki-plugin": {
         "startupType": "instant"
       },
       "tag-wrangler": {
-        "startupType": "instant"
+        "startupType": "long"
       },
-      "smart-connections": {
-        "startupType": "instant"
-      },
-      "custom-sort": {
+      "advanced-canvas": {
         "startupType": "instant"
       }
     },

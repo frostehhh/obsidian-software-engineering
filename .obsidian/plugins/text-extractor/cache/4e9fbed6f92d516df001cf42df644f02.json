@@ -1,1 +1,0 @@
-{"path":"Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230416173305.png","text":"@ Using an IGW N V23] VPC - 10.16.0.0/16 - us-east-1 1. Create IGW 2. Attach IGW to VPC Ry 3. Create custom RT (T llr! 4. Associate RT & ‘= 5. Default Routes => IGW Route 0.0.0.0/0 & :-/0 6. Subnet allocate IPv4 Table","libVersion":"0.3.2","langs":"eng"}

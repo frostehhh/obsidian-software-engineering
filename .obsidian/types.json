@@ -25,12 +25,8 @@
     "excalidraw-open-md": "checkbox",
     "Source": "multitext",
     "Channel": "multitext",
-    "opposite": "text",
-    "opposite:": "text",
-    "knowledge-confidence-level": "multitext",
-    "excalidraw-embed-md": "checkbox",
+    "Speakers": "multitext",
     "excalidraw-export-internal-links": "checkbox",
-    "date": "date",
-    "confidence-level": "number"
+    "excalidraw-embed-md": "checkbox"
   }
 }

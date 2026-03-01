@@ -4,13 +4,7 @@
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
     "iconColor": null,
-    "recentlyUsedIcons": [
-      "✏",
-      "🗃",
-      "LiPencil",
-      "🧠",
-      "LiBrain"
-    ],
+    "recentlyUsedIcons": [],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -33,9 +27,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "Braindump": "🧠",
-  "Mindmaps": "🧠",
-  "Excalidraw": "LiPencil",
-  "Anki": "🗃"
+  }
 }

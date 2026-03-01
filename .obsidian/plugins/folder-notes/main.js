@@ -387,19 +387,7 @@ function getFolderPathFromString(path) {
   return folderPath;
 }
 function getFileExplorer(plugin) {
-  var _a, _b, _c;
-  let leaf = plugin.app.workspace.getLeavesOfType("file-explorer")[0];
-  if (!leaf) {
-    return void 0;
-  }
-  if (((_c = (_b = (_a = leaf.containerEl) == null ? void 0 : _a.lastChild) == null ? void 0 : _b.dataset) == null ? void 0 : _c.type) == "mk-path-view") {
-    plugin.app.workspace.iterateAllLeaves((x) => {
-      var _a2, _b2;
-      if (((_b2 = (_a2 = x.tabHeaderEl) == null ? void 0 : _a2.dataset) == null ? void 0 : _b2.type) == "file-explorer") {
-        leaf = x;
-      }
-    });
-  }
+  const leaf = plugin.app.workspace.getLeavesOfType("file-explorer")[0];
   return leaf;
 }
 function getFileExplorerActiveFolder() {
@@ -2071,14 +2059,10 @@ var ExcludedFolder = class {
 
 // src/functions/styleFunctions.ts
 function refreshAllFolderStyles(forceReload = false, plugin) {
-  const fileExplorer = getFileExplorer(plugin);
-  if (!fileExplorer) {
+  if (plugin.activeFileExplorer === getFileExplorer(plugin) && !forceReload) {
     return;
   }
-  if (plugin.activeFileExplorer === fileExplorer && !forceReload) {
-    return;
-  }
-  plugin.activeFileExplorer = fileExplorer;
+  plugin.activeFileExplorer = getFileExplorer(plugin);
   plugin.app.vault.getAllLoadedFiles().forEach(async (file) => {
     if (file instanceof import_obsidian7.TFolder) {
       await updateCSSClassesForFolder(file.path, plugin);
@@ -2209,7 +2193,7 @@ function showFolderNoteInFileExplorer(path, plugin) {
   updateCSSClassesForFolder(path, plugin);
 }
 function hideFolderNoteInFileExplorer(folderPath, plugin) {
-  plugin.settings.excludeFolders = plugin.settings.excludeFolders.filter((folder) => folder.path !== folderPath || !folder.showFolderNote);
+  plugin.settings.excludeFolders = plugin.settings.excludeFolders.filter((folder) => folder.path !== folderPath && folder.showFolderNote);
   plugin.saveSettings(false);
   removeCSSClassFromFileExplorerEL(folderPath, "show-folder-note-in-explorer", true, plugin);
   updateCSSClassesForFolder(folderPath, plugin);
@@ -3372,7 +3356,7 @@ async function deleteFolderNote(plugin, file, displayModal) {
   const folder = getFolder(plugin, file);
   if (!folder)
     return;
-  plugin.settings.excludeFolders = plugin.settings.excludeFolders.filter((excludedFolder) => excludedFolder.path !== folder.path || !excludedFolder.showFolderNote);
+  plugin.settings.excludeFolders = plugin.settings.excludeFolders.filter((excludedFolder) => excludedFolder.path !== folder.path && excludedFolder.showFolderNote);
   plugin.saveSettings(false);
   removeCSSClassFromFileExplorerEL(folder.path, "has-folder-note", false, plugin);
   switch (plugin.settings.deleteFilesAction) {
@@ -4572,12 +4556,7 @@ async function buildLinkList(items, plugin, yaml, pathBlacklist, sourceFile, ind
 }
 function buildFileLinkListLine(item, yaml, indentStr) {
   const prefix = yaml.isInCallout ? "> " : "";
-  let base;
-  if (yaml.useWikilinks) {
-    base = `${prefix}${indentStr}- [[${item.path}|${item.basename}]]`;
-  } else {
-    base = `${prefix}${indentStr}- [${item.basename}](${encodeURI(item.path)})`;
-  }
+  const base = `${prefix}${indentStr}- [[${item.path}|${item.basename}]]`;
   if (yaml.hideLinkList) {
     return base + ' <span class="fv-link-list-item"></span>';
   }
@@ -4592,11 +4571,7 @@ async function buildFolderLinkListLines(item, plugin, yaml, pathBlacklist, sourc
     folderNote = getFolderNote(plugin, item.path);
   }
   if (folderNote) {
-    if (yaml.useWikilinks) {
-      line = `${prefix}${indentStr}- [[${folderNote.path}|${item.name}]]`;
-    } else {
-      line = `${prefix}${indentStr}- [${item.name}](${encodeURI(folderNote.path)})`;
-    }
+    line = `${prefix}${indentStr}- [[${folderNote.path}|${item.name}]]`;
   }
   if (yaml.hideLinkList) {
     line += ' <span class="fv-link-list-item"></span>';
@@ -4710,7 +4685,7 @@ async function updateAllOverviews(plugin) {
   });
 }
 function buildYamlConfig(yaml, defaultSettings, ctx, includeTypesParam) {
-  var _a, _b, _c, _d, _e, _f, _g, _h, _i, _j, _k, _l, _m, _n, _o, _p, _q, _r, _s, _t, _u, _v, _w, _x, _y, _z;
+  var _a, _b, _c, _d, _e, _f, _g, _h, _i, _j, _k, _l, _m, _n, _o, _p, _q, _r, _s, _t, _u, _v, _w, _x;
   return {
     id: (_a = yaml == null ? void 0 : yaml.id) != null ? _a : crypto.randomUUID(),
     folderPath: (_c = (_b = yaml == null ? void 0 : yaml.folderPath) == null ? void 0 : _b.trim()) != null ? _c : getFolderPathFromString2(ctx.sourcePath),
@@ -4735,8 +4710,7 @@ function buildYamlConfig(yaml, defaultSettings, ctx, includeTypesParam) {
     useActualLinks: (_u = yaml == null ? void 0 : yaml.useActualLinks) != null ? _u : defaultSettings.useActualLinks,
     fmtpIntegration: (_v = yaml == null ? void 0 : yaml.fmtpIntegration) != null ? _v : defaultSettings.fmtpIntegration,
     titleSize: (_w = yaml == null ? void 0 : yaml.titleSize) != null ? _w : defaultSettings.titleSize,
-    isInCallout: (_x = yaml == null ? void 0 : yaml.isInCallout) != null ? _x : false,
-    useWikilinks: (_z = (_y = yaml == null ? void 0 : yaml.useWikilinks) != null ? _y : defaultSettings.useWikilinks) != null ? _z : true
+    isInCallout: (_x = yaml == null ? void 0 : yaml.isInCallout) != null ? _x : false
   };
 }
 async function updateYamlById(plugin, overviewId, file, newYaml, addLinkList, isCallout = false) {
@@ -4825,7 +4799,7 @@ var FolderOverviewSettings = class extends import_obsidian29.Modal {
     updateYaml(this.plugin, this.ctx, this.el, this.yaml, false);
   }
   initializeYaml(yaml, ctx, defaultSettings) {
-    var _a, _b, _c, _d, _e, _f, _g, _h, _i, _j, _k, _l, _m, _n, _o, _p, _q, _r, _s, _t, _u, _v, _w, _x, _y;
+    var _a, _b, _c, _d, _e, _f, _g, _h, _i, _j, _k, _l, _m, _n, _o, _p, _q, _r, _s, _t, _u, _v, _w;
     if (!yaml) {
       return this.defaultSettings;
     }
@@ -4855,8 +4829,7 @@ var FolderOverviewSettings = class extends import_obsidian29.Modal {
         useActualLinks: (_t = yaml == null ? void 0 : yaml.useActualLinks) != null ? _t : defaultSettings.useActualLinks,
         fmtpIntegration: (_u = yaml == null ? void 0 : yaml.fmtpIntegration) != null ? _u : defaultSettings.fmtpIntegration,
         titleSize: (_v = yaml == null ? void 0 : yaml.titleSize) != null ? _v : defaultSettings.titleSize,
-        isInCallout: (_w = yaml == null ? void 0 : yaml.isInCallout) != null ? _w : false,
-        useWikilinks: (_y = (_x = yaml == null ? void 0 : yaml.useWikilinks) != null ? _x : defaultSettings.useWikilinks) != null ? _y : true
+        isInCallout: (_w = yaml == null ? void 0 : yaml.isInCallout) != null ? _w : false
       };
     }
     return yaml;
@@ -6193,8 +6166,7 @@ var OVERVIEW_SETTINGS = {
   useActualLinks: false,
   fmtpIntegration: false,
   titleSize: 1,
-  isInCallout: false,
-  useWikilinks: true
+  isInCallout: false
 };
 var GLOBAL_SETTINGS = {
   autoUpdateLinks: false
@@ -6244,8 +6216,9 @@ var createOrReplaceSetting = (container, section, changedSection, renderSetting)
       sectionContainer.empty();
       renderSetting(sectionContainer);
       return;
+    } else {
+      return;
     }
-    return;
   }
   sectionContainer = container.createDiv({
     cls: `setting-${section} overview-setting-item-fv`
@@ -6331,13 +6304,6 @@ async function createOverviewSettings(contentEl, yaml, plugin, defaultSettings, 
     new import_obsidian36.Setting(settingEl).setName("Use actual links").setDesc("Choose if the links in the overview should be showed in the graph view. This requires a second list under the actual overview and which is hidden by default.").addToggle((toggle) => toggle.setValue(yaml.useActualLinks).onChange(async (value) => {
       yaml.useActualLinks = value;
       updateSettings(contentEl, yaml, plugin, yaml.useActualLinks, defaultSettings, el, ctx, file);
-      refresh(contentEl, yaml, plugin, defaultSettings, display, el, ctx, file, settingsTab, modal);
-    }));
-  });
-  createOrReplaceSetting(contentEl, "use-wikilinks", changedSection, (settingEl) => {
-    new import_obsidian36.Setting(settingEl).setName("Use wikilinks").setDesc("Choose if the links in the link list should be in wikilink format or markdown link format (e.g., [[link]] vs [link](url)).").addToggle((toggle) => toggle.setValue(yaml.useWikilinks).onChange(async (value) => {
-      yaml.useWikilinks = value;
-      updateSettings(contentEl, yaml, plugin, false, defaultSettings, el, ctx, file);
       refresh(contentEl, yaml, plugin, defaultSettings, display, el, ctx, file, settingsTab, modal);
     }));
   });
@@ -6522,7 +6488,6 @@ function determineVisibleSections(yaml, plugin) {
     "setting-allow-drag-and-drop": yaml.style === "explorer",
     "setting-hide-folder-overview": !yaml.hideLinkList && yaml.useActualLinks,
     "setting-hide-link-list": !yaml.hideFolderOverview && yaml.useActualLinks,
-    "setting-use-wikilinks": yaml.useActualLinks,
     "setting-fmtp-integration": !!plugin.app.plugins.getPlugin("obsidian-front-matter-title-plugin")
   };
 }
@@ -6626,7 +6591,7 @@ var WhitelistedFoldersSettings = class extends import_obsidian38.Modal {
         const whitelistedFolder = new WhitelistedFolder("", this.plugin.settings.whitelistFolders.length, void 0, this.plugin);
         addWhitelistFolderListItem(this.plugin.settingsTab, contentEl, whitelistedFolder);
         addWhitelistedFolder(this.plugin, whitelistedFolder);
-        this.settingsTab.renderSettingsPage(this.settingsTab.plugin.settings.settingsTab);
+        this.settingsTab.display();
       });
     });
     this.plugin.settings.whitelistFolders.sort((a, b) => a.position - b.position).forEach((whitelistedFolder) => {
@@ -6684,7 +6649,7 @@ async function renderExcludeFolders(settingsTab) {
       const excludedFolder = new ExcludedFolder("", settingsTab.plugin.settings.excludeFolders.length, void 0, settingsTab.plugin);
       addExcludeFolderListItem(settingsTab, containerEl, excludedFolder);
       addExcludedFolder(settingsTab.plugin, excludedFolder);
-      settingsTab.renderSettingsPage(settingsTab.plugin.settings.settingsTab);
+      settingsTab.display();
     });
   });
   settingsTab.plugin.settings.excludeFolders.filter((folder) => !folder.hideInSettings).sort((a, b) => a.position - b.position).forEach((excludedFolder) => {
@@ -6750,8 +6715,7 @@ var DEFAULT_SETTINGS2 = {
     useActualLinks: false,
     fmtpIntegration: false,
     titleSize: 1,
-    isInCallout: false,
-    useWikilinks: true
+    isInCallout: false
   },
   useSubmenus: true,
   syncMove: true,
@@ -8804,9 +8768,6 @@ var FolderNotesPlugin = class extends import_obsidian52.Plugin {
     registerFileExplorerObserver(this);
     this.registerView(FOLDER_OVERVIEW_VIEW, (leaf2) => {
       return new FolderOverviewView(leaf2, this);
-    });
-    this.app.workspace.on("layout-change", () => {
-      this.tabManager.updateTabs();
     });
     if (this.app.plugins.getPlugin("obsidian-front-matter-title-plugin")) {
       this.fmtpHandler = new FrontMatterTitlePluginHandler(this);

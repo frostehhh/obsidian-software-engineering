@@ -1,1 +1,0 @@
-{"path":"Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230418004316.png","text":"EC2 Architecture [P P * EC2 Instances are virtual machines (OS+Resources) ® EC2 Instances run on EC2 Hosts e Shared Hosts or Dedicated Hosts e Hosts = 1 AZ - AZ Fails, Host Fails, Instances Fail","libVersion":"0.3.2","langs":"eng"}

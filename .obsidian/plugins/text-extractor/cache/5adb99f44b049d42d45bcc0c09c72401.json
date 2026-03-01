@@ -1,1 +1,0 @@
-{"path":"Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230411030128.png","text":"VPC Design - End State @ hpstearncantitio (©) acrancantil I&»)] VPC - 10.16.0.0/16 - us-east-1 DB APP WEB A - m Tier 10.16.0.0/20 10.16.16.0/20 10.16.32.0/20 vPC ; Router Internet d c m.rv.d m Tier 'SPARE CAPACITY FOR FUTURE AZ f","libVersion":"0.3.2","langs":"eng"}

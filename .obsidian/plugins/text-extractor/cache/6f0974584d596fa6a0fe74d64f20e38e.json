@@ -1,1 +1,0 @@
-{"path":"Reference Notes/Hussein Nasser/Udemy - Fundamentals of Database Engineering/--Attachments/Serializable vs non-repeatable.pdf","text":"aa bb bb bb aa aa t 1t2 changes a's to b's changes b's to a's bb aa read committed/ non-repeatable aa bb bb bb aa aa t1 t2 changes a's to b's changes b's to a's serializable","libVersion":"0.3.2","langs":""}

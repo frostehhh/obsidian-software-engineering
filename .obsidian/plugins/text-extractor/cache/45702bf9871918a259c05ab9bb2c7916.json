@@ -1,1 +1,0 @@
-{"path":"Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230405021707.png","text":"N S3 Bucket Policies @ st @ s e A form of resource policy e Like identity policies, but attached to a bucket * Resource perspective permissions * ALLOW/DENY same or different accounts e ALLOW/DENY Anonymous principals","libVersion":"0.3.2","langs":"eng"}

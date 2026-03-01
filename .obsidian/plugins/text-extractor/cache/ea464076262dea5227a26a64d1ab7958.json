@@ -1,1 +1,0 @@
-{"path":"--Attachments/gRPC Pros and Cons.png","text":"Pros Cons e Fast & Compact e Schema e One Client Library e Thick Client e Progress Feedback (upload) e Proxies e Cancel Request (H2) e Error handling e H2/Protobuf o No native browser support e Timeouts (pub/sub) S","libVersion":"0.3.2","langs":"eng"}

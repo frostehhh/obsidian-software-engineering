@@ -8,16 +8,18 @@
     "shortName": "Mo"
   },
   "syncInterval": 200,
-  "minSyncInterval": 50,
-  "maxSyncInterval": 1000,
   "enableJs": false,
   "viewFieldDisplayNullAsEmpty": false,
   "enableSyntaxHighlighting": true,
   "enableEditorRightClickMenu": true,
   "inputFieldTemplates": [
     {
-      "name": "tags",
-      "declaration": "INPUT[inlineListSuggester(\n  option(video-notes),\n  option(productivity),\n  option(learning),\n  option(scheduling),\n  option(study-techniques)\n)]"
+      "name": "rating",
+      "declaration": "INPUT[inlineSelect(option(Very Unsatisfactory), option(Unsatisfactory), option(Ok), option(Good), option(Great))]"
+    },
+    {
+      "name": "certainty",
+      "declaration": "INPUT[inlineSelect(option(Definitely Not), option(Not sure), option(Maybe), option(Definite))]"
     }
   ],
   "buttonTemplates": [],
