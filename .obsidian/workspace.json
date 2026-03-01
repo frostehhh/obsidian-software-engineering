@@ -24,6 +24,18 @@
             }
           },
           {
+            "id": "39f37df6b54ce440",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          },
+          {
             "id": "50ff1edbc74bfcf4",
             "type": "leaf",
             "state": {
@@ -37,7 +49,8 @@
               "title": "1 - Behavior-driven Development with Mockito"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,15 +202,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "ba2530237234fd06",
+  "active": "39f37df6b54ce440",
   "lastOpenFiles": [
     "Reference Notes/Baeldung/Learn Mockito/Module 3 - Testing Practices and Methodologies/1 - Behavior-driven Development with Mockito.md",
     "Reference Notes/Baeldung/Learn Mockito/_note_Learn Mockito.md",
