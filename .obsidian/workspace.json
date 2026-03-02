@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267
+    "width": 494.0024719238281
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -251,9 +251,19 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "29acb437588167fe",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "horizontal",
@@ -274,10 +284,15 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "media-extended:Open external media": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "fe7037aa12c38cb4",
+  "active": "29acb437588167fe",
   "lastOpenFiles": [
     "Knowledge Confidence/Confidence Levels.base",
     "Notes/_note_Notes.md",
