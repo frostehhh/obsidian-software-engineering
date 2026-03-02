@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "827759a9b2e52bc5",
+        "id": "32443e6e05eee8f4",
         "type": "tabs",
         "children": [
           {
-            "id": "dd278a36a5db6c68",
+            "id": "658e6ed3f7de82a3",
             "type": "leaf",
             "state": {
-              "type": "style-settings",
+              "type": "empty",
               "state": {},
-              "icon": "gear",
-              "title": "Style Settings"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -258,12 +258,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "3712fe75f8757d2e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "horizontal",
@@ -292,7 +302,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "29acb437588167fe",
+  "active": "3712fe75f8757d2e",
   "lastOpenFiles": [
     "Knowledge Confidence/Confidence Levels.base",
     "Notes/_note_Notes.md",
