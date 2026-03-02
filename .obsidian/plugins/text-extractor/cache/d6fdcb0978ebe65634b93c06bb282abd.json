@@ -1,0 +1,1 @@
+{"path":"Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230501194202.png","text":"4 8 ACID vs BASE T e ACID and BASE are DB transaction models e CAP Theorem - Consistency, Availability, Partition Tolerant (resilience) - Choose 2 e ACID = Consistency e BASE = Availability","libVersion":"0.5.0","langs":"eng"}

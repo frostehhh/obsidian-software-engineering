@@ -1,0 +1,1 @@
+{"path":"Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230429225122.png","text":"ECS Concepts Blmmemn @i e Container Definition - Image & Ports e Task Definition - Security (Task Role), Container(s), Resources * Task Role - IAM Role which the TASK assumes e Service - How many copies, HA, Restarts","libVersion":"0.5.0","langs":"eng"}

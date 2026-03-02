@@ -1,0 +1,1 @@
+{"path":"Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230402040759.png","text":"£ When to use IAM Roles @ s @ s G- %1 3 [v]> <— web Identities fh——a— g Role Ride DynamoDB Sharing App No AWS Credentials on the app 1,000,000's of users Uses Existing customer logins Scales to 100,000,000's of accounts","libVersion":"0.5.0","langs":"eng"}

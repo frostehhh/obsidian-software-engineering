@@ -268,12 +268,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "c062703131aaecd2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "horizontal",
@@ -302,7 +312,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3712fe75f8757d2e",
+  "active": "c062703131aaecd2",
   "lastOpenFiles": [
     "Knowledge Confidence/Confidence Levels.base",
     "Notes/_note_Notes.md",

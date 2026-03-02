@@ -1,0 +1,1 @@
+{"path":"Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230406194011.png","text":"Key Management Service (KIVIS) @ ossesncas @ ot Regional & Public Service * Create, Store and Manage Keys e Symmetric and Asymmetric Keys Cryptographic operations (encrypt, decrypt &...) * Keys never leave KMS - Provides FIPS 140-2 (L2)","libVersion":"0.5.0","langs":"eng"}

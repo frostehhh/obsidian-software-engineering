@@ -1,0 +1,1 @@
+{"path":"Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230507161201.png","text":"Kinesis Architecture @ i © s _— 24 Hour Window Kinesis Data Record (1VB) Up to 365 days - & {::E \\\\ Kinesis Stream / — k —/ T s———— | i::t N . f/—¢ ~N 1 MB Ingestion # aws 2 MB Consumption | =t","libVersion":"0.5.0","langs":"eng"}

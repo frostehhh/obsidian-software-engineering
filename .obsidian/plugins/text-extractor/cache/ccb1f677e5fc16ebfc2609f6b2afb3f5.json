@@ -1,0 +1,1 @@
+{"path":"Reference Notes/Adrian Cantrill/Amazon Web Services/Images/Pasted image 20230416180400.png","text":"A Bastion Host / Jumpbox @ moscancanaio. @ s e Bastion Host = Jumpbox * An instance in a public subnet * Incoming management connections arrive there * Then access internal VPC resources e Often the only way IN to a VPC","libVersion":"0.5.0","langs":"eng"}
