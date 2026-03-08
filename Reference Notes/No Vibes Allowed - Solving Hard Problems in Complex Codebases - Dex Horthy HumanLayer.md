@@ -7,7 +7,7 @@ tags:
   - artificial-intelligence
   - artificial-intelligence/workflow
 media_link: https://www.youtube.com/watch?v=rmvDxxNubIg
-Draft: true
+Draft: false
 ---
 
 # Key takeaways
