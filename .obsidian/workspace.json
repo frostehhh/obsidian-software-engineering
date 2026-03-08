@@ -11,10 +11,14 @@
             "id": "658e6ed3f7de82a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "--Obsidian Template--/Frontmatter/Scratchpad/Note.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Note"
             }
           }
         ]
@@ -318,12 +322,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "f0ca837db0552bd0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "horizontal",
@@ -352,7 +366,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "de068f198ea24cf5",
+  "active": "f0ca837db0552bd0",
   "lastOpenFiles": [
     "Knowledge Confidence/Confidence Levels.base",
     "Notes/_note_Notes.md",
