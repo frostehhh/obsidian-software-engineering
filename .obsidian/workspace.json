@@ -344,12 +344,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "5a799761ad102b74",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 24
       }
     ],
     "direction": "horizontal",
@@ -374,11 +384,10 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "658e6ed3f7de82a3",
+  "active": "5a799761ad102b74",
   "lastOpenFiles": [
     "--Attachments/Pasted image 20260308225527.png",
     "Reference Notes/_note_Reference Notes.md",
