@@ -1,6 +1,7 @@
 ---
 Source: Youtube
 Channel:
+  - AI Engineer
 tags:
   - video-notes
   - software
@@ -10,5 +11,6 @@ media_link: https://youtu.be/8kMaTybvDUw
 Draft: true
 ---
 
+Based on https://github.com/humanlayer/12-factor-agents
 # Outline
 - the agent journey
