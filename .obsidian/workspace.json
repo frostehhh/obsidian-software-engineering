@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -466,11 +466,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a691eca81ea1d92d",
+  "active": "252b182af8d3ffda",
   "lastOpenFiles": [
+    "Reference Notes/Anthropic/Prompt Engineering Guide.md",
     "Notes/AI Agent vs Agentic AI.md",
     "Reference Notes/HumanLayer/12-Factor Agents - Patterns of reliable LLM applications — Dex Horthy.md",
-    "Reference Notes/Anthropic/Prompt Engineering Guide.md",
     "Notes/_note_Notes.md",
     "Reference Notes/HumanLayer/No Vibes Allowed - Solving Hard Problems in Complex Codebases - Dex Horthy HumanLayer.md",
     "Reference Notes/_note_Reference Notes.md",
