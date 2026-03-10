@@ -5,11 +5,16 @@ tags:
 Draft: true
 aliases:
   - JPA
+origin:: 
+ - "[[ORM]]"
+related-reference-note:: 
+ - "[[1 - ORM Concepts and Introduction]]"
 ---
 
 # JPA[^1]
 - A specification indicating how object-relational mapping must be implemented
 - Spec describes how to interact with relational databases, tables and entities
+- For an ORM vendor to be JPA-compliant, they must follow JPA specs. JPA specs suggest the use of annotations to bridge OOP with relational databases
 # Core Components[^1]
 ## Entity
 - Defines a class as an entity

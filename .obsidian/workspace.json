@@ -31,7 +31,7 @@
               "type": "markdown",
               "state": {
                 "file": "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 1 - Introduction to Hibernate and JPA/1 - ORM Concepts and Introduction.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
@@ -53,6 +53,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "ORM"
+            }
+          },
+          {
+            "id": "542e09dfb83100f6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Java/Java Persistence API.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Java Persistence API"
             }
           }
         ],
@@ -427,12 +443,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "bda5285a6aa0e1a1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 28
+        "currentTab": 29
       }
     ],
     "direction": "horizontal",
@@ -463,10 +489,11 @@
   },
   "active": "9a79bc178e90e4a7",
   "lastOpenFiles": [
-    "Notes/Java/ORM.md",
     "Notes/Java/Java Persistence API.md",
-    "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 1 - Introduction to Hibernate and JPA/1 - ORM Concepts and Introduction.md",
+    "Notes/Java/ORM.md",
+    "Notes/Java/Hibernate.md",
     "Notes/Java/_note_Java.md",
+    "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 1 - Introduction to Hibernate and JPA/1 - ORM Concepts and Introduction.md",
     "--Obsidian Template--/Frontmatter/Reference Notes/Java/Hibernate and JPA.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/_note_Learn Hibernate and JPA.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 1 - Introduction to Hibernate and JPA",
@@ -500,7 +527,6 @@
     "--Attachments--/_note_--Attachments--.md",
     "--Attachments--",
     "Book Reviews/Atomic Habits.md",
-    "Dataviews/Draft Video-notes.md",
     "Canvas/Untitled.canvas",
     "--Attachments/Pasted image 20250413133349.png",
     "--Attachments/Pasted image 20250413133339.png",
