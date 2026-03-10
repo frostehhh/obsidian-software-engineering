@@ -1,7 +1,7 @@
 ---
 tags:
   - notes
-  - java
+  - java/jpa
 Draft: true
 aliases:
   - JPA
