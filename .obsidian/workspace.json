@@ -422,12 +422,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "a691eca81ea1d92d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 27
       }
     ],
     "direction": "horizontal",
@@ -456,7 +466,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8e39aa0192269f5f",
+  "active": "a691eca81ea1d92d",
   "lastOpenFiles": [
     "Notes/AI Agent vs Agentic AI.md",
     "Reference Notes/HumanLayer/12-Factor Agents - Patterns of reliable LLM applications — Dex Horthy.md",
