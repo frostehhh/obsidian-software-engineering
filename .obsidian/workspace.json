@@ -477,12 +477,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "fab70ff928591edd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 30
+        "currentTab": 31
       }
     ],
     "direction": "horizontal",
@@ -511,7 +521,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4322f36bc4aae968",
+  "active": "fab70ff928591edd",
   "lastOpenFiles": [
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 1 - Introduction to Hibernate and JPA/1 - ORM Concepts and Introduction.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 1 - Introduction to Hibernate and JPA/3 - Setting Up Hibernate and JPA.md",
