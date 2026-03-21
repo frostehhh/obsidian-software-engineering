@@ -40,6 +40,7 @@
           {
             "id": "e254757265a3eb0a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -47,11 +48,13 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "2 - Mapping Relationships"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "onetomany",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +107,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -246,11 +250,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "131b45bac27f8153",
+  "active": "e254757265a3eb0a",
   "lastOpenFiles": [
+    "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/2 - Beyond the Default Repository.md",
+    "Reference Notes/Baeldung/Learn Hibernate and JPA/Learn Hibernate and JPA Map.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/1 - Entity Mappings.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/2 - Mapping Relationships.md",
-    "Reference Notes/Baeldung/Learn Hibernate and JPA/Learn Hibernate and JPA Map.md",
     "Notes/Java/Hibernate.md",
     "Notes/Data Definition Language.md",
     "Notes/_note_Notes.md",
@@ -275,7 +280,6 @@
     "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/1 - Introduction.md",
     "Notes/Accessibility.md",
     "Notes/Java/_note_Java.md",
-    "--Obsidian Template--/Frontmatter/Reference Notes/Java/Hibernate and JPA.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 1 - Introduction to Hibernate and JPA",
     "Reference Notes/Baeldung/Learn Hibernate and JPA",
     "Reference Notes/HumanLayer",
