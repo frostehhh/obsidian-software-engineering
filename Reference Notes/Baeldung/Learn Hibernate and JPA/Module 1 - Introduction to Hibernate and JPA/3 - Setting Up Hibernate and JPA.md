@@ -12,11 +12,13 @@ has-questions: true
 - Dependencies via pom.xml since we're using Maven
 	- hibernate.core
 	- h2 database as the option for the persistence storage
-- persistence.xml
+- persistence.xml in the [[META-INF]]
 	- persistence configuration
 	- includes persistence storage option(h2 in our case)
 - Hooking up the `Worker` class to be marked as an persistence entity
-
-# Questions
-- What is the META-INF directory for? Is it particularly a JPA spec?
-- Where is the documentation for the META-INF directory and the persistence.xml file?
+- Using the `Persistence` API to create a entity manager factory
+	```java
+	Persistence.createEntityManagerFactory("LHJ");
+	```
+# See also
+https://openjpa.apache.org/builds/1.2.3/apache-openjpa/docs/jpa_overview_persistence.html#:~:text=xml%20.-,1.,xml&text=The%20root%20element%20of%20a,of%20the%20PersistenceProvider%20bootstrapping%20interface.
