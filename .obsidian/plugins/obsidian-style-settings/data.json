@@ -25,5 +25,6 @@
   "mado-miniflow@@toggle-sidebar-right-top": true,
   "mado-miniflow@@toggle-note-animation": true,
   "mado-miniflow@@toggle-sidebar-fixed-left": false,
-  "mado-miniflow@@toggle-sidebar-fixed-right": false
+  "mado-miniflow@@toggle-sidebar-fixed-right": false,
+  "mado-miniflow@@theme-color": "theme-yellowish"
 }

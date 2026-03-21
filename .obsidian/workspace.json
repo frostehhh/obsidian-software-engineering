@@ -8,72 +8,9 @@
         "type": "tabs",
         "children": [
           {
-            "id": "16c80350d5cf2b07",
+            "id": "73b4c17685dde1f1",
             "type": "leaf",
             "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Java/Java Persistence API.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Java Persistence API"
-            }
-          },
-          {
-            "id": "9a79bc178e90e4a7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 1 - Introduction to Hibernate and JPA/1 - ORM Concepts and Introduction.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "1 - ORM Concepts and Introduction"
-            }
-          },
-          {
-            "id": "a3803c1eaa9f9557",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Java/ORM.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "ORM"
-            }
-          },
-          {
-            "id": "542e09dfb83100f6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Java/Java Persistence API.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Java Persistence API"
-            }
-          },
-          {
-            "id": "3742158e93798e8c",
-            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -81,12 +18,12 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "3 - Setting Up Hibernate and JPA"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -487,12 +424,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "7968ccab7e096b48",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 31
+        "currentTab": 32
       }
     ],
     "direction": "horizontal",
@@ -521,11 +468,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fab70ff928591edd",
+  "active": "73b4c17685dde1f1",
   "lastOpenFiles": [
-    "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 1 - Introduction to Hibernate and JPA/1 - ORM Concepts and Introduction.md",
+    "Bases/Draft Notes.base",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 1 - Introduction to Hibernate and JPA/3 - Setting Up Hibernate and JPA.md",
+    "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot/2 - Actuators in Boot.md",
+    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/1 - Introduction.md",
+    "Notes/Accessibility.md",
     "Notes/Java/Java Persistence API.md",
+    "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 1 - Introduction to Hibernate and JPA/1 - ORM Concepts and Introduction.md",
     "Notes/Java/ORM.md",
     "Notes/Java/Hibernate.md",
     "Notes/Java/_note_Java.md",
@@ -553,14 +504,9 @@
     "ExcaliBrain/_note_ExcaliBrain.md",
     "Dataviews/_note_Dataviews.md",
     "Dataviews",
-    "Canvas/_note_Canvas.md",
     "Canvas",
-    "Bases/_note_Bases.md",
     "Bases",
-    "--Obsidian Template--/_note_--Obsidian Template--.md",
     "--Obsidian Template--",
-    "--Attachments--/_note_--Attachments--.md",
-    "--Attachments--",
     "Canvas/Untitled.canvas",
     "--Attachments/Pasted image 20250413133349.png",
     "--Attachments/Pasted image 20250413133339.png",
