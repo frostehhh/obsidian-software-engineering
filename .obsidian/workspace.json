@@ -17,8 +17,8 @@
                 "file": "Reference Notes/Baeldung/Learn Hibernate and JPA/Learn Hibernate and JPA Map.md"
               },
               "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "Learn Hibernate and JPA Map"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -45,7 +45,7 @@
               "type": "markdown",
               "state": {
                 "file": "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/2 - Mapping Relationships.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
@@ -216,8 +216,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
@@ -242,12 +242,7 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "media-extended:Open external media": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "e254757265a3eb0a",

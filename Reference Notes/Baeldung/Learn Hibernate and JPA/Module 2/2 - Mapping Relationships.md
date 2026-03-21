@@ -4,8 +4,8 @@ tags:
   - java/hibernate
   - java/jpa
 source_url: https://www.baeldung.com/members/courses/learn-hibernate-and-jpa/lessons/lesson-2-mapping-relationships
-Draft: true
-has-questions: true
+Draft: false
+has-questions: false
 ---
 
 # Relationships
@@ -13,6 +13,20 @@ has-questions: true
 - one to many
 - many to one
 - many to many
+## Embeddable
+- `@Embeddable` is used to mark a class as embeddable
+	- Makes it conveniently reusable
+- Used to map a class and its properties to specific columns in the underlying database table
+- `@Embedded`, `@AttributeOverrides` and `@AttributeOverride` annotations is used in an entity class member 
+```java
+@Embedded
+@AttributeOverrides({
+  @AttributeOverride(name = "street", column = @Column(name = "address_street")),
+  @AttributeOverride(name = "city", column = @Column(name = "address_city")),
+  @AttributeOverride(name = "zipCode", column = @Column(name = "address_zip_code"))
+})
+private Address address;
+```
 ## One to one
 - `@OneToOne` annotation
 ## Many to one and One to many
@@ -40,7 +54,21 @@ has-questions: true
 ## Many to Many
 - `@ManyToMany` annotation
 ### With JoinTable
-
+- `@JoinTable` annotation
+	```java
+	// in Task entity
+	@ManyToMany
+	@JoinTable(
+	  name = "Task_Label",
+	  joinColumns = @JoinColumn(name = "task_id"),
+	  inverseJoinColumns = @JoinColumn(name = "label_id")
+	)
+	private Set<Label> labels = new HashSet<>();
+	
+	// in Label entity
+	@ManyToMany(mappedBy = "labels")
+	private Set<Task> tasks = new HashSet<>();
+	```
 
 ### With a separate entity
 - In a separate table that links two entities, add relationship mapping to the 2 relationships via `@ManyToOne`
