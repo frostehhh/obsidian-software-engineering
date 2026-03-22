@@ -36,9 +36,23 @@
               "icon": "lucide-file",
               "title": "3 - Mapping Enum and Date Types"
             }
+          },
+          {
+            "id": "ec4e6009da2fddda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/4 - Advanced ID Mapping.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 - Advanced ID Mapping"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/3 - Mapping Enum and Date Types.md",
+                "file": "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/4 - Advanced ID Mapping.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3 - Mapping Enum and Date Types"
+              "title": "Outline of 4 - Advanced ID Mapping"
             }
           }
         ]
@@ -205,9 +219,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "748db7a023e8f160",
+  "active": "ec4e6009da2fddda",
   "lastOpenFiles": [
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Learn Hibernate and JPA Map.md",
+    "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/4 - Advanced ID Mapping.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/3 - Mapping Enum and Date Types.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/2 - Mapping Relationships.md",
     "Scratchpads/2026-03-22 - Hibernate and JPA.md",
@@ -233,7 +248,6 @@
     "Notes/Java/ORM.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/_note_Learn Hibernate and JPA.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2",
-    "Notes/Java/META-INF.md",
     "Bases/Draft Notes.base",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 1 - Introduction to Hibernate and JPA",
     "Reference Notes/Baeldung/Learn Hibernate and JPA",
