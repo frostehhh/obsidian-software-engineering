@@ -17,8 +17,8 @@
                 "file": "Reference Notes/Baeldung/Learn Hibernate and JPA/Learn Hibernate and JPA Map.md"
               },
               "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
+              "icon": "excalidraw-icon",
+              "title": "Learn Hibernate and JPA Map"
             }
           },
           {
@@ -52,9 +52,25 @@
               "icon": "lucide-file",
               "title": "2 - Mapping Relationships"
             }
+          },
+          {
+            "id": "66887e21b2298dc2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scratchpads/2026-03-22 - Hibernate and JPA.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-03-22 - Hibernate and JPA"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,9 +122,24 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "d2667930fede267f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Scratchpads/2026-03-22 - Hibernate and JPA.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-03-22 - Hibernate and JPA"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -169,74 +200,21 @@
             }
           },
           {
-            "id": "d2667930fede267f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "excalibrain.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of excalibrain"
-            }
-          },
-          {
             "id": "b7a897f0c88ab5ce",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
-            }
-          },
-          {
-            "id": "fa3086fb0ad06606",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "side-panel-control-view"
-            }
-          },
-          {
-            "id": "4265431c93419ccb",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
-            }
-          },
-          {
-            "id": "8b55eac90ecc8f69",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "46718e632feb9c23",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 407,
-    "collapsed": true
+    "width": 407
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,15 +234,18 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "46718e632feb9c23",
+  "active": "b7a897f0c88ab5ce",
   "lastOpenFiles": [
-    "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/2 - Beyond the Default Repository.md",
+    "Scratchpads/_note_Scratchpads.md",
+    "Scratchpads/2026-03-22 - Hibernate and JPA.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Learn Hibernate and JPA Map.md",
-    "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/1 - Entity Mappings.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/2 - Mapping Relationships.md",
+    "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/2 - Beyond the Default Repository.md",
+    "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/1 - Entity Mappings.md",
     "Notes/Java/Hibernate.md",
     "Notes/Data Definition Language.md",
     "Notes/_note_Notes.md",
@@ -287,8 +268,6 @@
     "Bases/Draft Notes.base",
     "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot/2 - Actuators in Boot.md",
     "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/1 - Introduction.md",
-    "Notes/Accessibility.md",
-    "Notes/Java/_note_Java.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 1 - Introduction to Hibernate and JPA",
     "Reference Notes/Baeldung/Learn Hibernate and JPA",
     "Reference Notes/HumanLayer",
