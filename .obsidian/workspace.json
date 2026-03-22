@@ -22,37 +22,38 @@
             }
           },
           {
-            "id": "748db7a023e8f160",
+            "id": "b96baec0552c574f",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/3 - Mapping Enum and Date Types.md",
+                "file": "Notes/Java/Java.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "3 - Mapping Enum and Date Types"
+              "title": "Java"
             }
           },
           {
-            "id": "ec4e6009da2fddda",
+            "id": "6efb0ed9440d177b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/4 - Advanced ID Mapping.md",
+                "file": "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/5 - Inheritance Mapping Introduction.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "4 - Advanced ID Mapping"
+              "title": "5 - Inheritance Mapping Introduction"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,20 +112,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/4 - Advanced ID Mapping.md",
+                "file": "Reference Notes/Baeldung/Learn Hibernate and JPA/Learn Hibernate and JPA Map.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4 - Advanced ID Mapping"
+              "title": "Outline of Learn Hibernate and JPA Map"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 319.0024719238281
+    "width": 497.0024719238281
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -195,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407
+    "width": 407,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,10 +221,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec4e6009da2fddda",
+  "active": "131b45bac27f8153",
   "lastOpenFiles": [
-    "Reference Notes/Baeldung/Learn Hibernate and JPA/Learn Hibernate and JPA Map.md",
+    "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/5 - Inheritance Mapping Introduction.md",
+    "Notes/Java/Java.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/4 - Advanced ID Mapping.md",
+    "Reference Notes/Baeldung/Learn Hibernate and JPA/Learn Hibernate and JPA Map.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/3 - Mapping Enum and Date Types.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/2 - Mapping Relationships.md",
     "Scratchpads/2026-03-22 - Hibernate and JPA.md",
@@ -245,8 +249,6 @@
     "Notes/Java/Lambda Expressions.md",
     "Notes/Java/Method References.md",
     "Notes/Java/Object class.md",
-    "Notes/Java/ORM.md",
-    "Reference Notes/Baeldung/Learn Hibernate and JPA/_note_Learn Hibernate and JPA.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2",
     "Bases/Draft Notes.base",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 1 - Introduction to Hibernate and JPA",
