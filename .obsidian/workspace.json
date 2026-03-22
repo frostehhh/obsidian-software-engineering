@@ -38,24 +38,9 @@
             }
           },
           {
-            "id": "6efb0ed9440d177b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/5 - Inheritance Mapping Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "5 - Inheritance Mapping Introduction"
-            }
-          },
-          {
             "id": "5c5d3e7b18dffdc5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -63,6 +48,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "6 - Inheritance Mapping Advanced"
             }
@@ -127,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/5 - Inheritance Mapping Introduction.md",
+                "file": "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/6 - Inheritance Mapping Advanced.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5 - Inheritance Mapping Introduction"
+              "title": "Outline of 6 - Inheritance Mapping Advanced"
             }
           }
         ]
@@ -236,10 +222,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6efb0ed9440d177b",
+  "active": "5c5d3e7b18dffdc5",
   "lastOpenFiles": [
-    "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/6 - Inheritance Mapping Advanced.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/5 - Inheritance Mapping Introduction.md",
+    "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/6 - Inheritance Mapping Advanced.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Learn Hibernate and JPA Map.md",
     "Notes/Java/Java.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/4 - Advanced ID Mapping.md",
