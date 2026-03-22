@@ -62,6 +62,8 @@ class WorkerSkill {
 
 // many WorkerSkill t
 @ManyToOne
-private Worker
+private Worker worker;
+@ManyToOne
+private Skill skill;
 }
 ```

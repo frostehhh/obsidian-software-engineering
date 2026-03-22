@@ -22,55 +22,23 @@
             }
           },
           {
-            "id": "f490d9b2e11c9f89",
+            "id": "748db7a023e8f160",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/1 - Entity Mappings.md",
+                "file": "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/3 - Mapping Enum and Date Types.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "1 - Entity Mappings"
-            }
-          },
-          {
-            "id": "e254757265a3eb0a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/2 - Mapping Relationships.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2 - Mapping Relationships"
-            }
-          },
-          {
-            "id": "66887e21b2298dc2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scratchpads/2026-03-22 - Hibernate and JPA.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-03-22 - Hibernate and JPA"
+              "title": "3 - Mapping Enum and Date Types"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,21 +97,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scratchpads/2026-03-22 - Hibernate and JPA.md",
+                "file": "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/3 - Mapping Enum and Date Types.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-22 - Hibernate and JPA"
+              "title": "Outline of 3 - Mapping Enum and Date Types"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 488.0024719238281
+    "width": 319.0024719238281
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -238,12 +205,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b7a897f0c88ab5ce",
+  "active": "748db7a023e8f160",
   "lastOpenFiles": [
-    "Scratchpads/_note_Scratchpads.md",
-    "Scratchpads/2026-03-22 - Hibernate and JPA.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Learn Hibernate and JPA Map.md",
+    "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/3 - Mapping Enum and Date Types.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/2 - Mapping Relationships.md",
+    "Scratchpads/2026-03-22 - Hibernate and JPA.md",
+    "--Obsidian Template--/Frontmatter/Scratchpad/Note.md",
+    "Scratchpads/_note_Scratchpads.md",
     "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/Module 5 - Persistence and Data Access/2 - Beyond the Default Repository.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2/1 - Entity Mappings.md",
     "Notes/Java/Hibernate.md",
@@ -266,8 +235,6 @@
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2",
     "Notes/Java/META-INF.md",
     "Bases/Draft Notes.base",
-    "Reference Notes/Baeldung/Learn Spring - The Master Class 2019-2020/Module 4 - Deep Dive Into Spring Boot/2 - Actuators in Boot.md",
-    "Reference Notes/HelloInterview/Low Level Design/1 - In a Hurry/1 - Introduction.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 1 - Introduction to Hibernate and JPA",
     "Reference Notes/Baeldung/Learn Hibernate and JPA",
     "Reference Notes/HumanLayer",

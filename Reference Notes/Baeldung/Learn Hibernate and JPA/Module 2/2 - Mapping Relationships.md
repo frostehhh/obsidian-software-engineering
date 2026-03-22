@@ -82,10 +82,29 @@ class WorkerSkill {
 	@JoinColumn(name = "skill_id")
 	private List<Skill> skills;
 }
+
+@Entity
+class Worker {
+    // ... existing fields
+
+    @OneToMany(mappedBy = "worker")
+    private Set<WorkerSkill> workerSkills = new HashSet<>();
+
+    // setters and getters
+}
+
+@Entity
+class Skill {
+    // ... existing fields
+
+    @OneToMany(mappedBy = "skill")
+    private Set<WorkerSkill> workerSkills = new HashSet<>();
+
+    // setters and getters
+}
 ```
 # Questions
-- When creating bidirectional entity associations for instance with `@OneToMany` in one entity and `@ManyToOne` in the other, one of the entities must have a `mappedBy` attribute, which matches the counterpart entity's name.
-	- Does it matter which entity has the `mappedBy` attribute?
+
 
 # See Also
 https://docs.hibernate.org/jpa/2.1/api/javax/persistence/OneToMany.html
