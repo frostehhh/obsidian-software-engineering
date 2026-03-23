@@ -29,3 +29,18 @@ private Set<Task> tasks = new HashSet<>();
 
 
 # orphanRemoval
+- entity child instance is removed if it no longer has a reference to parent
+```java
+@OneToMany(mappedBy = "campaign", cascade = CascadeType.ALL, orphanRemoval = true)
+private Set<Task> tasks = new HashSet<>();
+```
+
+
+# fetchType
+- specifies when child entities are to be fetched
+- will dive in another chapter
+
+```java
+@OneToMany(mappedBy = "campaign", orphanRemoval = true, fetch = FetchType.EAGER, cascade = CascadeType.ALL)
+private Set<Task> tasks = new HashSet<>();
+```
