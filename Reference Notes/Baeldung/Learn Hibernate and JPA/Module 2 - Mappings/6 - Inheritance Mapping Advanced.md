@@ -71,3 +71,4 @@ public abstract class Worker {
 - The superclass is not an entity, but it is mapped onto the subclasses
 	- As a result, does not support polymorphic queries because- does not support polymorphic queries 
 - Similar to Table by class but without the ID sequence table
+- 
