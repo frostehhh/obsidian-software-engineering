@@ -17,8 +17,8 @@
                 "file": "Reference Notes/Baeldung/Learn Hibernate and JPA/Learn Hibernate and JPA Map.md"
               },
               "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "Learn Hibernate and JPA Map"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -205,9 +205,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "b0adfd637bde1c78",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -236,7 +246,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7091c23fb967445f",
+  "active": "b0adfd637bde1c78",
   "lastOpenFiles": [
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 3 - Core Hibernate and JPA Concepts/1 - Basic CRUD Operations.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 3 - Core Hibernate and JPA Concepts/2 - Entity Relationships and Operations.md",
