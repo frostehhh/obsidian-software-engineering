@@ -59,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 3 - Core Hibernate and JPA Concepts/2 - Entity Relationships and Operations.md",
+                "file": "Notes/_note_Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Entity Relationships and Operations"
+              "title": "_note_Notes"
             }
           }
         ],
@@ -212,12 +212,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "cccdf62f434e0d38",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -246,10 +256,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b0adfd637bde1c78",
+  "active": "7091c23fb967445f",
   "lastOpenFiles": [
-    "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 3 - Core Hibernate and JPA Concepts/1 - Basic CRUD Operations.md",
+    "Notes/Untitled.md",
+    "Notes/_note_Notes.md",
+    "Reference Notes/_note_Reference Notes.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 3 - Core Hibernate and JPA Concepts/2 - Entity Relationships and Operations.md",
+    "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 3 - Core Hibernate and JPA Concepts/1 - Basic CRUD Operations.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Learn Hibernate and JPA Map.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2 - Mappings/6 - Inheritance Mapping Advanced.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/_note_Learn Hibernate and JPA.md",
@@ -266,15 +279,12 @@
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2 - Mappings/1 - Entity Mappings.md",
     "Notes/Java/Hibernate.md",
     "Notes/Data Definition Language.md",
-    "Notes/_note_Notes.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 1 - Introduction to Hibernate and JPA/3 - Setting Up Hibernate and JPA.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 1 - Introduction to Hibernate and JPA/1 - ORM Concepts and Introduction.md",
     "Notes/Java/Java Persistence API.md",
     "Notes/Java/Keyword Modifiers.md",
     "Notes/Java/Comparable.md",
     "Notes/Java/Comparator.md",
-    "Notes/Java/equals().md",
-    "Notes/Java/Functional Interfaces.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2 - Mappings",
     "Bases/Draft Notes.base",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 1 - Introduction to Hibernate and JPA",
