@@ -1,0 +1,9 @@
+filters:
+  and:
+    - file.folder.startsWith("Reference Notes/Baeldung/Learn Hibernate and JPA")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Draft

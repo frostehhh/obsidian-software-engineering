@@ -4,7 +4,7 @@ tags:
   - java/hibernate
   - java/jpa
 source_url: https://www.baeldung.com/members/courses/learn-hibernate-and-jpa/lessons/lesson-2-entity-relationships-and-operations
-Draft: true
+Draft: false
 ---
 
 # Cascade Operations

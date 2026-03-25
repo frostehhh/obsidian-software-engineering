@@ -4,7 +4,7 @@ tags:
   - java/hibernate
   - java/jpa
 source_url: https://www.baeldung.com/members/courses/learn-hibernate-and-jpa/lessons/lesson-3-setting-up-hibernate-and-jpa
-Draft: true
+Draft: false
 has-questions: true
 ---
 
