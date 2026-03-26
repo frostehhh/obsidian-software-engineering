@@ -191,9 +191,19 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "741938c199963be8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -221,7 +231,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "28c20281786c825e",
+  "active": "741938c199963be8",
   "lastOpenFiles": [
     "Notes/AI Software Engineering/Workflows/PRD(TaskMaster AI).md",
     "Notes/AI Software Engineering/Workflows/AI Workflows.base",
