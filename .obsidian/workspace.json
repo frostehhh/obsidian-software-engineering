@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/AI Software Engineering/Workflows/Code Review Specialist with sub-specialisations.md",
+                "file": "Notes/Spring/Spring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Code Review Specialist with sub-specialisations"
+              "title": "Spring"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:guide",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,8 +188,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -201,9 +201,19 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "7f0137eb28b83a1d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -231,13 +241,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "741938c199963be8",
+  "active": "28c20281786c825e",
   "lastOpenFiles": [
+    "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/2025-12-28 - Design Elevator System Review.md",
+    "Notes/AI Software Engineering/Workflows/Code Review Specialist with sub-specialisations.md",
     "Notes/AI Software Engineering/Workflows/PRD(TaskMaster AI).md",
     "Notes/AI Software Engineering/Workflows/AI Workflows.base",
     "Notes/AI Software Engineering/Workflows/Business Requirement Document + Product Requirement Documents.md",
     "Notes/AI Software Engineering/Workflows/Claude Code Best Practices Article.md",
-    "Notes/AI Software Engineering/Workflows/Code Review Specialist with sub-specialisations.md",
     "Notes/AI Software Engineering/Workflows/BRD, PRD, Backlog, Zen MCP and Memory Bank.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/_note_Learn Hibernate and JPA.md",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Learn Hibernate and JPA Map.md",
