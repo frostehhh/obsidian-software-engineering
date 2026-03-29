@@ -37,6 +37,22 @@
               "icon": "lucide-table",
               "title": "AI Workflows"
             }
+          },
+          {
+            "id": "a737b4c6d2487b48",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/AI Software Engineering/AI Software Engineering.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "AI Software Engineering"
+            }
           }
         ]
       }
@@ -106,8 +122,7 @@
               "title": "Outline of 2 - Entity Relationships and Operations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317
+    "width": 317,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,18 +246,22 @@
   },
   "active": "28c20281786c825e",
   "lastOpenFiles": [
+    "Notes/AI Software Engineering/AI Software Engineering.md",
+    "Reference Notes/HumanLayer/12-Factor Agents - Patterns of reliable LLM applications — Dex Horthy.md",
+    "Reference Notes/HumanLayer/Context-Efficient Backpressure for Coding Agents.md",
+    "Reference Notes/HumanLayer/Advanced Context Engineering for Agents.md",
+    "Reference Notes/HumanLayer/No Vibes Allowed - Solving Hard Problems in Complex Codebases - Dex Horthy HumanLayer.md",
+    "Reference Notes/HumanLayer/Skill-Issue - Harness Engineering for Coding Agents.md",
+    "Reference Notes/HumanLayer/Writing a good CLAUDE.md.md",
+    "Reference Notes/HumanLayer/_note_HumanLayer.md",
+    "Notes/AI Software Engineering/Guides/TDD with AI.md",
+    "Bases/Topics/Artificial Intelligence.base",
     "Notes/AI Software Engineering/Guides/AI Workflows.base",
     "Notes/AI Agent vs Agentic AI.md",
-    "Reference Notes/HumanLayer/Skill-Issue - Harness Engineering for Coding Agents.md",
-    "Reference Notes/HumanLayer/_note_HumanLayer.md",
     "Notes/AI Software Engineering/Guides/Claude Models Smart Zone.md",
     "Reference Notes/HumanLayer/_HumanLayer.base",
-    "Reference Notes/HumanLayer/Writing a good CLAUDE.md.md",
-    "Reference Notes/HumanLayer/Context-Efficient Backpressure for Coding Agents.md",
     "Notes/AI Software Engineering/Guides/_note_Guides.md",
     "Notes/AI Software Engineering/Guides/<important if=\"...\"> block.md",
-    "Reference Notes/HumanLayer/12-Factor Agents - Patterns of reliable LLM applications — Dex Horthy.md",
-    "Reference Notes/HumanLayer/No Vibes Allowed - Solving Hard Problems in Complex Codebases - Dex Horthy HumanLayer.md",
     "Notes/AI Software Engineering/Guides/Requirement-specific custom slash commands.md",
     "Notes/AI Software Engineering/Guides/Prompting Code Review plan for manual review.md",
     "Notes/AI Software Engineering/Guides/Prompt Improver.md",
@@ -255,8 +275,6 @@
     "Notes/AI Software Engineering/Guides/Optimizing CLAUDE.md",
     "--Properties/tier.md",
     "--Properties/knowledge-confidence-level.md",
-    "--Obsidian Template--/Frontmatter/Notes/AI Software Engineering/Workflow.md",
-    "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 3 - Tier 1 Analysis - DevTools/Identify Slow Network Request-Response with DevTools.md",
     "--Obsidian Template--/Frontmatter/Notes/AI Software Engineering",
     "Notes/AI Software Engineering/Guides",
     "Notes/AI Software Engineering",
@@ -265,7 +283,6 @@
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 3 - Core Hibernate and JPA Concepts",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2 - Mappings",
     "Bases/Draft Notes.base",
-    "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 1 - Introduction to Hibernate and JPA",
     "Reference Notes/Untitled.canvas",
     "--Attachments/Pasted image 20260308225527.png",
     "Canvas/Untitled.canvas",

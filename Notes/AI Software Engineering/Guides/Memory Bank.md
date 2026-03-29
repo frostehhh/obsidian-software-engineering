@@ -3,6 +3,8 @@ tags:
   - guide
   - artificial-intelligence/setup
   - notes
+tier:
+  - 5 - Minor
 ---
 
 # Memory Bank

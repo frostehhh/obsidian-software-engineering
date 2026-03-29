@@ -13,3 +13,4 @@ views:
         direction: ASC
     columnSize:
       file.name: 455
+      note.tags: 475

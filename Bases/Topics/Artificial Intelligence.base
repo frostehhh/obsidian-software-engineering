@@ -9,10 +9,11 @@ views:
     order:
       - file.name
       - tags
-      - aliases
       - file.folder
     sort:
       - property: file.name
         direction: ASC
       - property: file.basename
         direction: DESC
+    columnSize:
+      file.name: 425
