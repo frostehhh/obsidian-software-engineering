@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Spring/Spring.md",
+                "file": "Reference Notes/HumanLayer/_note_HumanLayer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring"
+              "title": "_note_HumanLayer"
             }
           }
         ]
@@ -89,8 +89,7 @@
               "title": "Outline of 2 - Entity Relationships and Operations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,12 +227,32 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "00e199123d4d144e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "c98bb3b08fd8d11f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           },
           {
-            "id": "00e199123d4d144e",
+            "id": "e6bd4bc62c92fb71",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -243,7 +262,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
@@ -271,8 +290,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "00e199123d4d144e",
+  "active": "28c20281786c825e",
   "lastOpenFiles": [
+    "Reference Notes/HumanLayer/12-Factor Agents - Patterns of reliable LLM applications — Dex Horthy.md",
+    "Reference Notes/HumanLayer/_note_HumanLayer.md",
+    "Reference Notes/HumanLayer/No Vibes Allowed - Solving Hard Problems in Complex Codebases - Dex Horthy HumanLayer.md",
+    "Notes/Spring/Spring.md",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/2025-12-28 - Design Elevator System Review.md",
     "Notes/AI Software Engineering/Workflows/Code Review Specialist with sub-specialisations.md",
     "Notes/AI Software Engineering/Workflows/PRD(TaskMaster AI).md",
@@ -296,10 +319,6 @@
     "Notes/AI Software Engineering/Workflows/Claude Code Best Practices Article 23150704f72a80469a71ce3ab5f940c8.md",
     "Notes/AI Software Engineering/Workflows/claude Setup 22e50704f72a80fbb902f1a3643db87f.md",
     "Notes/AI Software Engineering/Workflows/Code Review Specialist with sub-specialisations 2a950704f72a806f9ee0dc8bd7210ad0.md",
-    "Notes/AI Software Engineering/Workflows/Create md documentation files for specific modules 23150704f72a803589abe5d15b3f4d5f.md",
-    "Notes/AI Software Engineering/Workflows/Memory Bank 23150704f72a80c1907bc5c049b403ac.md",
-    "Notes/AI Software Engineering/Workflows/Optimizing CLAUDE md 23150704f72a80b8ac23dd36f9f33c90.md",
-    "Notes/AI Software Engineering/Workflows/PRD(TaskMaster AI) 23250704f72a808fb3b1e409d5c7f82b.md",
     "Notes/AI Software Engineering/Workflows",
     "Notes/AI Software Engineering",
     "Notes/Untitled.canvas",
