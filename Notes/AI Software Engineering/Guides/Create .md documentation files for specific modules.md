@@ -1,6 +1,6 @@
 ---
 tags:
   - guide
-  - artificial-intelligence
   - notes
+  - artificial-intelligence/context-engineering
 ---

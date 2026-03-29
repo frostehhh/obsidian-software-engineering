@@ -3,6 +3,8 @@ tags:
   - guide
   - artificial-intelligence/setup
   - notes
+tier:
+  - 1 - High
 ---
 
 # Requirement-specific custom slash commands

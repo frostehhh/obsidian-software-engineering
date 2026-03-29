@@ -4,6 +4,8 @@ tags:
   - artificial-intelligence/workflow
   - notes
   - software/testing
+tier:
+  - 1 - High
 ---
 
 

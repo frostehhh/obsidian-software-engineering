@@ -1,0 +1,32 @@
+filters:
+  and:
+    - file.folder.startsWith("Notes/AI Software Engineering/Guides")
+    - file.name != "_note_Guides"
+    - file.name != "AI Guides.base"
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - tier
+      - tags
+    sort:
+      - property: file.tags
+        direction: ASC
+    columnSize:
+      file.name: 394
+      note.tier: 142
+      note.tags: 641
+  - type: table
+    name: By Tier
+    order:
+      - file.name
+      - tier
+      - tags
+    sort:
+      - property: tier
+        direction: ASC
+    columnSize:
+      file.name: 394
+      note.tier: 142
+      note.tags: 641

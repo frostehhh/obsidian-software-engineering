@@ -1,2 +1,2 @@
 
-![[AI Workflows.base]]
+![[AI Guides.base]]

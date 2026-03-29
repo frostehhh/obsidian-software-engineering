@@ -30,31 +30,30 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Notes/AI Software Engineering/Guides/AI Workflows.base",
-                "viewName": "Table"
+                "file": "Notes/AI Software Engineering/Guides/AI Guides.base",
+                "viewName": "By Tier"
               },
               "pinned": true,
               "icon": "lucide-table",
-              "title": "AI Workflows"
+              "title": "AI Guides"
             }
           },
           {
-            "id": "a737b4c6d2487b48",
+            "id": "e2839317f35f6d59",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/AI Software Engineering/AI Software Engineering.md",
+                "file": "Notes/AI Software Engineering/Guides/Claude Code Best Practices Article.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "AI Software Engineering"
+              "title": "Claude Code Best Practices Article"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -244,37 +243,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "28c20281786c825e",
+  "active": "e2839317f35f6d59",
   "lastOpenFiles": [
+    "Notes/AI Software Engineering/Guides/AI Guides.base",
+    "Reference Notes/HumanLayer/_note_HumanLayer.md",
+    "Notes/AI Software Engineering/Guides/Create .md documentation files for specific modules.md",
+    "Notes/AI Software Engineering/Guides/Workflows.md",
+    "Notes/AI Software Engineering/Guides/PRD(TaskMaster AI).md",
     "Notes/AI Software Engineering/AI Software Engineering.md",
+    "Notes/AI Software Engineering/Guides/BRD, PRD, Backlog, Zen MCP and Memory Bank.md",
+    "Notes/AI Software Engineering/Guides/Specialized prompts instead of all-purpose prompts.md",
+    "Notes/AI Software Engineering/Guides/Harness-engineering by Humanlayer.md",
+    "Reference Notes/HumanLayer/Skill-Issue - Harness Engineering for Coding Agents.md",
+    "Notes/AI Software Engineering/Guides/Requirements and Design(BRD and PRD).md",
+    "Notes/AI Software Engineering/Guides/Requirement-specific custom slash commands.md",
+    "Notes/AI Software Engineering/Guides/Prompting Code Review plan for manual review.md",
+    "Notes/AI Software Engineering/Guides/Prompt Improver.md",
+    "Notes/AI Software Engineering/Guides/Memory Bank.md",
+    "Notes/AI Software Engineering/Guides/<important if=\"...\"> block.md",
+    "Notes/AI Software Engineering/Guides/Claude Code Best Practices Article.md",
+    "Notes/AI Software Engineering/Guides/Claude Models Smart Zone.md",
+    "Notes/AI Software Engineering/Guides/Business Requirement Document + Product Requirement Documents.md",
+    "Notes/AI Software Engineering/Guides/_note_Guides.md",
     "Reference Notes/HumanLayer/12-Factor Agents - Patterns of reliable LLM applications — Dex Horthy.md",
     "Reference Notes/HumanLayer/Context-Efficient Backpressure for Coding Agents.md",
     "Reference Notes/HumanLayer/Advanced Context Engineering for Agents.md",
     "Reference Notes/HumanLayer/No Vibes Allowed - Solving Hard Problems in Complex Codebases - Dex Horthy HumanLayer.md",
-    "Reference Notes/HumanLayer/Skill-Issue - Harness Engineering for Coding Agents.md",
     "Reference Notes/HumanLayer/Writing a good CLAUDE.md.md",
-    "Reference Notes/HumanLayer/_note_HumanLayer.md",
     "Notes/AI Software Engineering/Guides/TDD with AI.md",
     "Bases/Topics/Artificial Intelligence.base",
-    "Notes/AI Software Engineering/Guides/AI Workflows.base",
-    "Notes/AI Agent vs Agentic AI.md",
-    "Notes/AI Software Engineering/Guides/Claude Models Smart Zone.md",
     "Reference Notes/HumanLayer/_HumanLayer.base",
-    "Notes/AI Software Engineering/Guides/_note_Guides.md",
-    "Notes/AI Software Engineering/Guides/<important if=\"...\"> block.md",
-    "Notes/AI Software Engineering/Guides/Requirement-specific custom slash commands.md",
-    "Notes/AI Software Engineering/Guides/Prompting Code Review plan for manual review.md",
-    "Notes/AI Software Engineering/Guides/Prompt Improver.md",
-    "Notes/AI Software Engineering/Guides/PRD(TaskMaster AI).md",
-    "Notes/AI Software Engineering/Guides/Memory Bank.md",
-    "Notes/AI Software Engineering/Guides/Create .md documentation files for specific modules.md",
-    "Notes/AI Software Engineering/Guides/Code Review Specialist with sub-specialisations.md",
-    "Notes/AI Software Engineering/Guides/Claude Code Best Practices Article.md",
-    "Notes/AI Software Engineering/Guides/Business Requirement Document + Product Requirement Documents.md",
-    "Notes/AI Software Engineering/Guides/BRD, PRD, Backlog, Zen MCP and Memory Bank.md",
-    "Notes/AI Software Engineering/Guides/Optimizing CLAUDE.md",
-    "--Properties/tier.md",
-    "--Properties/knowledge-confidence-level.md",
     "--Obsidian Template--/Frontmatter/Notes/AI Software Engineering",
     "Notes/AI Software Engineering/Guides",
     "Notes/AI Software Engineering",
