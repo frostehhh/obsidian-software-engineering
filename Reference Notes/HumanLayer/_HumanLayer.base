@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.folder.startsWith("Reference Notes/HumanLayer")
+views:
+  - type: table
+    name: Table
