@@ -3,6 +3,8 @@ tags:
   - guide
   - artificial-intelligence/workflow
   - notes
+tier:
+  - 4 - Below Average
 ---
 
 # BRD, PRD, Backlog, Zen MCP and Memory Bank

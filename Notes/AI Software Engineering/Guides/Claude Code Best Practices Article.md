@@ -1,7 +1,7 @@
 ---
 tags:
   - guide
-  - artificial-intelligence/practice
+  - artificial-intelligence
   - notes
 ---
 

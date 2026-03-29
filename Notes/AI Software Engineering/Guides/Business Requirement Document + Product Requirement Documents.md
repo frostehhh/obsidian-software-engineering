@@ -3,6 +3,8 @@ tags:
   - guide
   - artificial-intelligence/workflow
   - notes
+tier:
+  - 4 - Below Average
 ---
 
 # Business Requirement Document + Product Requirement Documents

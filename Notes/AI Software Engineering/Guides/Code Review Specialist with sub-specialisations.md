@@ -3,6 +3,8 @@ tags:
   - guide
   - artificial-intelligence/workflow
   - notes
+tier:
+  - 0 - Superior
 ---
 
 # Code Review Specialist with sub-specialisations

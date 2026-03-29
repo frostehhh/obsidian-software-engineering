@@ -1,14 +1,15 @@
 filters:
   and:
-    - file.folder.startsWith("Notes/AI Software Engineering/Workflows")
+    - file.folder.startsWith("Notes/AI Software Engineering/Guides")
 views:
   - type: table
     name: Table
     order:
       - file.name
       - tags
+      - tier
     sort:
       - property: file.tags
         direction: ASC
     columnSize:
-      file.name: 441
+      file.name: 455
