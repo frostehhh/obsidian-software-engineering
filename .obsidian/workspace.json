@@ -37,41 +37,8 @@
               "icon": "lucide-table",
               "title": "AI Workflows"
             }
-          },
-          {
-            "id": "532406e1871e324a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/HumanLayer/Skill-Issue - Harness Engineering for Coding Agents.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Skill-Issue - Harness Engineering for Coding Agents"
-            }
-          },
-          {
-            "id": "985b26f57b3cb8cc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/AI Agent vs Agentic AI.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "AI Agent vs Agentic AI"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "skills",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +106,8 @@
               "title": "Outline of 2 - Entity Relationships and Operations"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,7 +163,7 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": true,
-                "searchQuery": "workflow"
+                "searchQuery": "artificial-"
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -232,12 +200,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 317,
-    "collapsed": true
+    "width": 317
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,12 +228,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "532406e1871e324a",
+  "active": "28c20281786c825e",
   "lastOpenFiles": [
+    "Notes/AI Software Engineering/Guides/AI Workflows.base",
     "Notes/AI Agent vs Agentic AI.md",
     "Reference Notes/HumanLayer/Skill-Issue - Harness Engineering for Coding Agents.md",
     "Reference Notes/HumanLayer/_note_HumanLayer.md",
-    "Notes/AI Software Engineering/Guides/AI Workflows.base",
     "Notes/AI Software Engineering/Guides/Claude Models Smart Zone.md",
     "Reference Notes/HumanLayer/_HumanLayer.base",
     "Reference Notes/HumanLayer/Writing a good CLAUDE.md.md",
@@ -291,7 +258,6 @@
     "--Obsidian Template--/Frontmatter/Notes/AI Software Engineering/Workflow.md",
     "Reference Notes/Hussein Nasser/Udemy - Troubleshooting Backend Performance/Section 3 - Tier 1 Analysis - DevTools/Identify Slow Network Request-Response with DevTools.md",
     "--Obsidian Template--/Frontmatter/Notes/AI Software Engineering",
-    "Notes/Spring/Spring.md",
     "Notes/AI Software Engineering/Guides",
     "Notes/AI Software Engineering",
     "Notes/Untitled.canvas",
