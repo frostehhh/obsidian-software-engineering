@@ -10,6 +10,7 @@
           {
             "id": "28c20281786c825e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,11 +18,58 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "_note_HumanLayer"
             }
+          },
+          {
+            "id": "e7c3f34eb1cdd9ae",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Notes/AI Software Engineering/Workflows/AI Workflows.base",
+                "viewName": "Table"
+              },
+              "pinned": true,
+              "icon": "lucide-table",
+              "title": "AI Workflows"
+            }
+          },
+          {
+            "id": "481a996029a5092c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/HumanLayer/No Vibes Allowed - Solving Hard Problems in Complex Codebases - Dex Horthy HumanLayer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "No Vibes Allowed - Solving Hard Problems in Complex Codebases - Dex Horthy HumanLayer"
+            }
+          },
+          {
+            "id": "1c54f7c7b77916f4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/HumanLayer/Writing a good CLAUDE.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Writing a good CLAUDE.md"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 497.0024719238281
+    "width": 420.0024719238281
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -162,86 +210,6 @@
             }
           },
           {
-            "id": "b0adfd637bde1c78",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "cccdf62f434e0d38",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "108f391b74d71889",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "741938c199963be8",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "7f0137eb28b83a1d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "39a7bc0b2234de65",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "adb01d7110a89749",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "00e199123d4d144e",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
             "id": "c98bb3b08fd8d11f",
             "type": "leaf",
             "state": {
@@ -262,11 +230,12 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 317
+    "width": 317,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,16 +259,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "28c20281786c825e",
+  "active": "1c54f7c7b77916f4",
   "lastOpenFiles": [
-    "Reference Notes/HumanLayer/12-Factor Agents - Patterns of reliable LLM applications — Dex Horthy.md",
-    "Reference Notes/HumanLayer/_note_HumanLayer.md",
     "Reference Notes/HumanLayer/No Vibes Allowed - Solving Hard Problems in Complex Codebases - Dex Horthy HumanLayer.md",
+    "Notes/AI Software Engineering/Workflows/AI Workflows.base",
+    "Reference Notes/HumanLayer/Writing a good CLAUDE.md.md",
+    "Reference Notes/HumanLayer/_note_HumanLayer.md",
+    "Notes/AI Software Engineering/Workflows/Requirement-specific custom slash commands.md",
+    "Notes/AI Software Engineering/Workflows/_note_Workflows.md",
+    "Reference Notes/HumanLayer/12-Factor Agents - Patterns of reliable LLM applications — Dex Horthy.md",
     "Notes/Spring/Spring.md",
     "Reference Notes/HelloInterview/Low Level Design/Question Breakdown/Review/2025-12-28 - Design Elevator System Review.md",
     "Notes/AI Software Engineering/Workflows/Code Review Specialist with sub-specialisations.md",
     "Notes/AI Software Engineering/Workflows/PRD(TaskMaster AI).md",
-    "Notes/AI Software Engineering/Workflows/AI Workflows.base",
     "Notes/AI Software Engineering/Workflows/Business Requirement Document + Product Requirement Documents.md",
     "Notes/AI Software Engineering/Workflows/Claude Code Best Practices Article.md",
     "Notes/AI Software Engineering/Workflows/BRD, PRD, Backlog, Zen MCP and Memory Bank.md",
@@ -313,12 +285,8 @@
     "Notes/AI Software Engineering/Workflows/Requirements and Design(BRD and PRD).md",
     "Notes/AI Software Engineering/Workflows/Prompt Improver.md",
     "Notes/AI Software Engineering/Workflows/Memory Bank.md",
-    "Notes/AI Software Engineering/Workflows/Requirement-specific custom slash commands.md",
     "Notes/AI Software Engineering/Workflows/Optimizing CLAUDE.md.md",
     "Notes/AI Software Engineering/Workflows/TDD with AI.md",
-    "Notes/AI Software Engineering/Workflows/Claude Code Best Practices Article 23150704f72a80469a71ce3ab5f940c8.md",
-    "Notes/AI Software Engineering/Workflows/claude Setup 22e50704f72a80fbb902f1a3643db87f.md",
-    "Notes/AI Software Engineering/Workflows/Code Review Specialist with sub-specialisations 2a950704f72a806f9ee0dc8bd7210ad0.md",
     "Notes/AI Software Engineering/Workflows",
     "Notes/AI Software Engineering",
     "Notes/Untitled.canvas",
