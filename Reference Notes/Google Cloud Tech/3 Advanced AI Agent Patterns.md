@@ -3,7 +3,7 @@ Source: Youtube
 Channel:
   - Google Cloud Tech
 tags:
-  - video-notes
+  - reference-notes/video
 media_link: https://youtu.be/89KKm_a4M7A?list=PLIivdWyY5sqLNeW9MPxldbbevMEJGMWBG
 Draft: true
 ---

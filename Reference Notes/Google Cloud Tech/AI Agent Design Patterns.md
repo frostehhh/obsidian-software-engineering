@@ -3,7 +3,7 @@ Source: Youtube
 Channel:
   - Google Cloud Tech
 tags:
-  - video-notes
+  - reference-notes/video
   - artificial-intelligence/agent
   - design-patterns
 media_link: https://youtu.be/GDm_uH6VxPY?list=PLIivdWyY5sqLNeW9MPxldbbevMEJGMWBG

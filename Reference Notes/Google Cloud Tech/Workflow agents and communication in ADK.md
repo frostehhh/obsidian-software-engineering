@@ -2,7 +2,7 @@
 Source: Youtube
 Channel: Google Cloud Tech
 tags:
-  - video-notes
+  - reference-notes/video
   - artificial-intelligence
   - artificial-intelligence/agent
 media_link: https://www.youtube.com/watch?v=WfJcCeLZD2I&list=PLIivdWyY5sqLNeW9MPxldbbevMEJGMWBG&index=8

@@ -2,7 +2,7 @@
 Source: Youtube
 Channel: Colin Lernell
 tags:
-  - video-notes
+  - reference-notes/video
   - interview
   - interview/salary-negotiation
 media_link: https://youtu.be/5pNZw92CCAo?list=PLQSZrA9kPYjd7MYF80iXE2g1n59wN__cO

@@ -3,7 +3,7 @@ Source: Youtube
 Channel:
   - Google Cloud Tech
 tags:
-  - video-notes
+  - reference-notes/video
   - artificial-intelligence/agent
   - software/testing
   - software/testing/unit

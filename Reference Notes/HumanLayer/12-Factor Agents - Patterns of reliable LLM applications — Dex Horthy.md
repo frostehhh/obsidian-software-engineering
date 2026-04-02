@@ -3,7 +3,7 @@ Source: Youtube
 Channel:
   - AI Engineer
 tags:
-  - video-notes
+  - reference-notes/video
   - software
   - artificial-intelligence
   - artificial-intelligence/workflow

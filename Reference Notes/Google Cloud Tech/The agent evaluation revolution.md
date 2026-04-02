@@ -3,7 +3,7 @@ Source: Youtube
 Channel:
   - Google Cloud Tech
 tags:
-  - video-notes
+  - reference-notes/video
   - artificial-intelligence/agent
   - software/testing
 media_link: https://youtu.be/WZZLtwnZ4w0?list=PLIivdWyY5sqLNeW9MPxldbbevMEJGMWBG

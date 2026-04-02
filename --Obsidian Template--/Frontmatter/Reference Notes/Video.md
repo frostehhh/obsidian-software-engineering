@@ -2,7 +2,7 @@
 Source: Youtube
 Channel: 
 tags:
-  - video-notes
+  - reference-notes/video
 media_link:
 Draft: true
 ---

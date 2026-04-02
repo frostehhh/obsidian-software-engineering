@@ -2,7 +2,7 @@
 Source: Youtube
 Channel: mayuko
 tags:
-  - video-notes
+  - reference-notes/video
   - interview
   - interview/salary-negotiation
 media_link: https://youtu.be/u9BoG1n1948?list=PLQSZrA9kPYjd7MYF80iXE2g1n59wN__cO
