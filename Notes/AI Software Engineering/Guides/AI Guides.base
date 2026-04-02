@@ -1,9 +1,9 @@
 filters:
   and:
-    - file.inFolder(this.file.folder)
     - file.name != "_note_Guides"
     - file.name != "_note_" + this.file.folder
     - file.name != this.file.name
+    - file.inFolder(this.file.folder)
 views:
   - type: table
     name: All

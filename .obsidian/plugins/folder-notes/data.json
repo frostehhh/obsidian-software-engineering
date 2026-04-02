@@ -116,7 +116,7 @@
     "afterRestart": true,
     "afterChangingTab": true
   },
-  "firstTimeInsertOverview": true,
+  "firstTimeInsertOverview": false,
   "fvGlobalSettings": {
     "autoUpdateLinks": false
   }
