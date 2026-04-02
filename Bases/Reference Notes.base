@@ -24,3 +24,4 @@ views:
     limit: 20
     summaries:
       file.name: Empty
+      tags: Empty

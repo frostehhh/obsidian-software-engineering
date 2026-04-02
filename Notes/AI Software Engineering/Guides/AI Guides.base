@@ -1,8 +1,9 @@
 filters:
   and:
-    - file.folder.startsWith("Notes/AI Software Engineering/Guides")
+    - file.inFolder(this.file.folder)
     - file.name != "_note_Guides"
-    - file.name != "AI Guides.base"
+    - file.name != "_note_" + this.file.folder
+    - file.name != this.file.name
 views:
   - type: table
     name: All
@@ -10,6 +11,7 @@ views:
       - file.name
       - tier
       - tags
+      - Draft
     sort:
       - property: file.tags
         direction: ASC
