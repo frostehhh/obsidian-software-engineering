@@ -4,8 +4,11 @@ Channel:
   - Google Cloud Tech
 tags:
   - video-notes
+  - artificial-intelligence/agent
+  - software/testing
 media_link: https://youtu.be/WZZLtwnZ4w0?list=PLIivdWyY5sqLNeW9MPxldbbevMEJGMWBG
 Draft: false
+"Next:": "[[How to evaluate agents in practice]]"
 ---
 
 - agent evaluation or testing is necessary to determine if our tool configuration
