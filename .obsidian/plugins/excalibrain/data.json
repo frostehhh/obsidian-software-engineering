@@ -2,7 +2,7 @@
   "compactView": false,
   "compactingFactor": 1.5,
   "minLinkLength": 18,
-  "excalibrainFilepath": "ExcaliBrain/excalibrain.md",
+  "excalibrainFilepath": "Excalibrain/excalibrain.md",
   "indexUpdateInterval": 5000,
   "hierarchy": {
     "exclusions": [
@@ -213,7 +213,6 @@
     "References/SOLO Taxonomy.md",
     "References/Bloom's Taxonomy.md",
     "Canvas/Untitled.canvas",
-    "Notes/_note_Notes.md",
     "Excalidraw/ExcaliBrain Snapshot - Untitled.excalidraw.md",
     "Excalidraw/Drawing 2025-01-20 00.31.17.excalidraw.md",
     "--Attachments/Eisenhower Matrix.png",
@@ -224,7 +223,8 @@
     "--Attachments/Copy of Map of learning.pdf",
     "Reference Notes/Andrew Huberman - Optimal Protocols for Studying & Learning.md",
     "Notes/Summarized Learning Methodologies, concepts and learning system.md",
-    "--Explore/Primary learning methodologies to focus.md"
+    "--Explore/Primary learning methodologies to focus.md",
+    "Notes/_note_Notes.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "--p",
