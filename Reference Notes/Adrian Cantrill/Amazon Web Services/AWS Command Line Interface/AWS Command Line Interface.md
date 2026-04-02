@@ -1,6 +1,9 @@
 ---
-aliases: [AWSCLI]
-tags: [cli]
+aliases:
+  - AWSCLI
+tags:
+  - cli
+Draft: false
 ---
 
 # Quickstart
