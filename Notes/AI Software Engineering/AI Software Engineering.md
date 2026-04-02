@@ -5,5 +5,3 @@ tags:
 Draft: true
 ---
 
-# Key References
-[[_HumanLayer.base]]

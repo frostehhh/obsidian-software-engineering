@@ -4,7 +4,7 @@ tags:
   - artificial-intelligence/workflow
   - notes
 tier:
-  - 0 - Superior
+  - 1 - High
 ---
 
 # Code Review Specialist with sub-specialisations
