@@ -62,8 +62,8 @@
                 "file": "Notes/AI Software Engineering/AI Software Engineering.excalidraw.md"
               },
               "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "AI Software Engineering.excalidraw"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -248,9 +248,19 @@
               "icon": "viewIcon",
               "title": "Markdown-Autocomplete"
             }
+          },
+          {
+            "id": "9ecb0acd05a33dd1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -278,7 +288,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d3b64228224f53f3",
+  "active": "9ecb0acd05a33dd1",
   "lastOpenFiles": [
     "Reference Notes/Google Cloud Tech/_note_Google Cloud Tech.md",
     "Notes/AI Software Engineering/Guides/Agentic AI Patterns.md",
