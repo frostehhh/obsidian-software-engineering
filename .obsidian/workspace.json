@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Google Cloud Tech/_note_Google Cloud Tech.md",
+                "file": "Notes/AI Software Engineering/Guides/Spec-driven Development - BRD, PRD, Backlog, Zen MCP and Memory Bank.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_note_Google Cloud Tech"
+              "title": "Spec-driven Development - BRD, PRD, Backlog, Zen MCP and Memory Bank"
             }
           },
           {
@@ -280,6 +280,7 @@
   },
   "active": "d3b64228224f53f3",
   "lastOpenFiles": [
+    "Reference Notes/Google Cloud Tech/_note_Google Cloud Tech.md",
     "Notes/AI Software Engineering/Guides/Agentic AI Patterns.md",
     "Notes/AI Software Engineering/AI Software Engineering.excalidraw.md",
     "_note_Google Cloud xTech.md",
@@ -290,9 +291,8 @@
     "Notes/AI Assistance Usage Tips.md",
     "Notes/Angular.md",
     "Notes/AI Software Engineering/Guides/_note_Guides.md",
-    "Notes/AI Software Engineering/Guides/BRD, PRD, Backlog, Zen MCP and Memory Bank.md",
+    "Notes/AI Software Engineering/Guides/Spec-driven Development - BRD, PRD, Backlog, Zen MCP and Memory Bank.md",
     "Notes/AI Software Engineering/Guides/Business Requirement Document + Product Requirement Documents.md",
-    "Reference Notes/Google Cloud Tech/_note_Google Cloud Tech.md",
     "Notes/AI Software Engineering/AI Software Engineering.md",
     "Anki/Cassandra.md",
     "Reference Notes/Google Cloud Tech/3 Advanced AI Agent Patterns.md",
