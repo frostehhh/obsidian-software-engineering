@@ -23,34 +23,35 @@
             }
           },
           {
-            "id": "8fa42b1ace76358e",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Reference Notes/HumanLayer/_HumanLayer.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "_HumanLayer"
-            }
-          },
-          {
             "id": "b459a3c4a00d46a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/HumanLayer/12-Factor Agents - Patterns of reliable LLM applications — Dex Horthy.md",
+                "file": "Notes/_note_Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12-Factor Agents - Patterns of reliable LLM applications — Dex Horthy"
+              "title": "_note_Notes"
+            }
+          },
+          {
+            "id": "be5d871c99239614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/AI Software Engineering/Guides/Agentic AI Patterns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agentic AI Patterns"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,8 +119,7 @@
               "title": "Outline of 2 - Entity Relationships and Operations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -240,18 +240,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b459a3c4a00d46a6",
+  "active": "bd2714a80d3d3c1d",
   "lastOpenFiles": [
+    "Untitled",
+    "Braindump/_note_Braindump.md",
+    "Scratchpads/_note_Scratchpads.md",
+    "Knowledge Confidence/Confidence Levels.base",
+    "Reference Notes/_note_Reference Notes.md",
+    "Reference Notes/HumanLayer/12-Factor Agents - Patterns of reliable LLM applications — Dex Horthy.md",
+    "Reference Notes/HumanLayer/Context-Efficient Backpressure for Coding Agents.md",
     "Reference Notes/HumanLayer/_HumanLayer.base",
-    "Notes/AI Software Engineering/Guides/Spec-driven Development - BRD, PRD, Backlog, Zen MCP and Memory Bank.md",
-    "Reference Notes/Google Cloud Tech/_note_Google Cloud Tech.md",
+    "Notes/AI Software Engineering/Guides/AI Guides.base",
     "Notes/AI Software Engineering/Guides/Agentic AI Patterns.md",
     "Notes/AI Software Engineering/AI Software Engineering.excalidraw.md",
+    "Notes/AI Software Engineering/Guides/Spec-driven Development - BRD, PRD, Backlog, Zen MCP and Memory Bank.md",
+    "Reference Notes/Google Cloud Tech/_note_Google Cloud Tech.md",
     "_note_Google Cloud xTech.md",
     "Reference Notes/Google Cloud Tech/AI Agent Design Patterns.md",
     "Notes/_note_Notes.md",
     "Excalibrain/excalibrain.md",
-    "Notes/AI Software Engineering/Guides/AI Guides.base",
     "Notes/AI Assistance Usage Tips.md",
     "Notes/Angular.md",
     "Notes/AI Software Engineering/Guides/_note_Guides.md",
@@ -264,12 +271,7 @@
     "Reference Notes/Google Cloud Tech/How to evaluate agents in practice.md",
     "Notes/AI Software Engineering/Guides/Harness-engineering by Humanlayer.md",
     "Notes/AI Software Engineering/_note_AI Software Engineering.md",
-    "Mindmaps/System Design.md",
-    "Mindmaps/Backend.md",
-    "Mindmaps/Backend, Database and System Design.md",
     "Notes/AI Software Engineering/Untitled.canvas",
-    "Reference Notes/_note_Reference Notes.md",
-    "Reference Notes/Github - Learn Node.js Hardway/_note_Github - Learn Node.js Hardway.md",
     "Reference Notes/Google Cloud Tech",
     "Bases/Topics/Artificial Intelligence.base",
     "--Obsidian Template--/Frontmatter/Notes/AI Software Engineering",
@@ -278,7 +280,6 @@
     "Notes/Untitled.canvas",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Learn Hibernate and JPA.base",
     "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 3 - Core Hibernate and JPA Concepts",
-    "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 2 - Mappings",
     "Reference Notes/Untitled.canvas",
     "--Attachments/Pasted image 20260308225527.png",
     "Canvas/Untitled.canvas",
