@@ -40,17 +40,17 @@
             }
           },
           {
-            "id": "29876bb6b7690e95",
+            "id": "352da00f7f9fff65",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalibrain/excalibrain.md"
+                "file": "Notes/AI Software Engineering/Guides/Explore, plan, code.md",
+                "mode": "source",
+                "source": false
               },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "excalibrain"
+              "icon": "lucide-file",
+              "title": "Explore, plan, code"
             }
           }
         ],
@@ -122,8 +122,7 @@
               "title": "Outline of 2 - Entity Relationships and Operations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -275,12 +274,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "29876bb6b7690e95",
+  "active": "352da00f7f9fff65",
   "lastOpenFiles": [
-    "Notes/AI Software Engineering/Guides/Spec-driven Development - BRD, PRD, Backlog, Zen MCP and Memory Bank.md",
     "Reference Notes/HumanLayer/Skill-Issue - Harness Engineering for Coding Agents.md",
-    "Excalibrain/excalibrain.md",
     "Notes/AI Software Engineering/Guides/Context Engineering - Basics to Advanced Multi-Agent Systems.md",
+    "Notes/AI Software Engineering/Guides/Explore, plan, code.md",
+    "Notes/AI Software Engineering/Guides/_note_Guides.md",
+    "Notes/AI Software Engineering/Guides/_AI Guides.base",
+    "Excalibrain/excalibrain.md",
+    "Notes/AI Software Engineering/Guides/Spec-driven Development - BRD, PRD, Backlog, Zen MCP and Memory Bank.md",
     "Reference Notes/HumanLayer/No Vibes Allowed - Solving Hard Problems in Complex Codebases - Dex Horthy HumanLayer.md",
     "Reference Notes/HumanLayer/_HumanLayer.base",
     "Reference Notes/HumanLayer/_note_HumanLayer.md",
@@ -293,11 +295,8 @@
     "Notes/AI Software Engineering/Guides/Harness-engineering by Humanlayer.md",
     "Notes/AI Software Engineering/Guides/Context Engineering.md",
     "--Attachments/Pasted image 20260404135939.png",
-    "Notes/AI Software Engineering/Guides/_note_Guides.md",
     "--Obsidian Template--/Frontmatter/Author/Me.md",
-    "Notes/AI Software Engineering/Guides/Untitled.md",
     "--Obsidian Template--/Frontmatter/Author",
-    "Notes/AI Software Engineering/Guides/AI Guides.base",
     "Notes/AI Software Engineering/Guides/Claude Code System Prompts.md",
     "Notes/AI Software Engineering/Guides/Requirements and Design(BRD and PRD).md",
     "Notes/_note_Notes.md",

@@ -13,6 +13,8 @@ views:
       - tags
       - Draft
     sort:
+      - property: file.name
+        direction: ASC
       - property: file.tags
         direction: ASC
     columnSize:
@@ -21,6 +23,22 @@ views:
       note.tags: 641
   - type: table
     name: By Tier
+    order:
+      - file.name
+      - tier
+      - tags
+    sort:
+      - property: tier
+        direction: ASC
+    columnSize:
+      file.name: 394
+      note.tier: 142
+      note.tags: 641
+  - type: table
+    name: Workflows
+    filters:
+      and:
+        - file.tags.contains("artificial-intelligence/workflow")
     order:
       - file.name
       - tier

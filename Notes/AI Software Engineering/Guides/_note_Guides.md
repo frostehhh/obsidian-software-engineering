@@ -1,2 +1,2 @@
 
-![[AI Guides.base]]
+![[_AI Guides.base]]

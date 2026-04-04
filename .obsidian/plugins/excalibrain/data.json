@@ -224,7 +224,10 @@
     "Reference Notes/Andrew Huberman - Optimal Protocols for Studying & Learning.md",
     "Notes/Summarized Learning Methodologies, concepts and learning system.md",
     "--Explore/Primary learning methodologies to focus.md",
-    "Notes/_note_Notes.md"
+    "Notes/_note_Notes.md",
+    "Notes/AI Software Engineering/Guides/Spec-driven Development - BRD, PRD, Backlog, Zen MCP and Memory Bank.md",
+    "Reference Notes/HumanLayer/Skill-Issue - Harness Engineering for Coding Agents.md",
+    "Notes/AI Software Engineering/Guides/Context Engineering - Basics to Advanced Multi-Agent Systems.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "--p",
