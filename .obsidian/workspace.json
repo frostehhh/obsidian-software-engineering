@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/AI Software Engineering/Guides/Untitled.md",
+                "file": "Notes/AI Software Engineering/Guides/Claude Code System Prompts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Claude Code System Prompts"
             }
           },
           {
@@ -243,7 +243,7 @@
   "active": "b459a3c4a00d46a6",
   "lastOpenFiles": [
     "Notes/AI Software Engineering/Guides/_note_Guides.md",
-    "Notes/AI Software Engineering/Guides/Untitled.md",
+    "Notes/AI Software Engineering/Guides/Claude Code System Prompts.md",
     "Notes/AI Software Engineering/Guides/Requirements and Design(BRD and PRD).md",
     "Notes/_note_Notes.md",
     "Untitled",
