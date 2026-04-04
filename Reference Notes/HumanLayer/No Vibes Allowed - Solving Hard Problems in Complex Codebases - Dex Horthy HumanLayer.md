@@ -7,8 +7,11 @@ tags:
   - software
   - artificial-intelligence
   - artificial-intelligence/workflow
+  - artificial-intelligence/spec-driven-development
 media_link: https://www.youtube.com/watch?v=rmvDxxNubIg
 Draft: false
+tier:
+  - 0 - Superior
 ---
 
 # Key takeaways
@@ -52,6 +55,9 @@ More optimally however to guarantee updated steering, summarize on demand unless
 - Figuring out how to manage context for a task will take reps
 
 
+> [!NOTE] Bullish on spec-first
+> This is the way to go for velocity. Read specs and the tests. No need to read every line of code
+
 # Continue Reading
 The article the video is based partially on
 https://www.humanlayer.dev/blog/advanced-context-engineering
@@ -60,3 +66,5 @@ https://www.humanlayer.dev/blog/advanced-context-engineering
 https://www.humanlayer.dev/blog/12-factor-agents
 https://www.humanlayer.dev/blog
 https://blakesmith.me/2015/02/09/code-review-essentials-for-software-teams.html
+
+https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md  ([Youtube](https://www.youtube.com/watch?v=IS_y40zY-hc))- content overlaps with other articles I've already read, but good summary nonetheless

@@ -1,6 +1,12 @@
 filters:
   and:
-    - file.folder.startsWith("Reference Notes/HumanLayer")
+    - file.inFolder(this.file.folder)
+    - file.name != this.file.name
 views:
   - type: table
     name: Table
+    order:
+      - file.name
+      - tier
+    columnSize:
+      file.name: 400

@@ -31,7 +31,7 @@
               "type": "markdown",
               "state": {
                 "file": "Reference Notes/HumanLayer/Skill-Issue - Harness Engineering for Coding Agents.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true,
@@ -53,7 +53,8 @@
               "title": "excalibrain"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kiro",
+                "query": "spec-driven",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,12 +122,12 @@
               "title": "Outline of 2 - Entity Relationships and Operations"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 420.0024719238281,
-    "collapsed": true
+    "width": 420.0024719238281
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -142,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/AI Software Engineering/Guides/Context Engineering - Basics to Advanced Multi-Agent Systems.md",
+                "file": "Reference Notes/HumanLayer/Skill-Issue - Harness Engineering for Coding Agents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Context Engineering - Basics to Advanced Multi-Agent Systems"
+              "title": "Backlinks for Skill-Issue - Harness Engineering for Coding Agents"
             }
           },
           {
@@ -210,8 +211,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -220,15 +221,37 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "1858405add276e83",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "242319d3765b3b66",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 317
+    "width": 317,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,21 +275,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "be5d871c99239614",
+  "active": "29876bb6b7690e95",
   "lastOpenFiles": [
-    "Notes/AI Software Engineering/Guides/Agentic AI Patterns.md",
-    "Notes/AI Software Engineering/Guides/Context Engineering - Basics to Advanced Multi-Agent Systems.md",
-    "Reference Notes/Google Cloud Tech/_note_Google Cloud Tech.md",
+    "Notes/AI Software Engineering/Guides/Spec-driven Development - BRD, PRD, Backlog, Zen MCP and Memory Bank.md",
     "Reference Notes/HumanLayer/Skill-Issue - Harness Engineering for Coding Agents.md",
     "Excalibrain/excalibrain.md",
+    "Notes/AI Software Engineering/Guides/Context Engineering - Basics to Advanced Multi-Agent Systems.md",
+    "Reference Notes/HumanLayer/No Vibes Allowed - Solving Hard Problems in Complex Codebases - Dex Horthy HumanLayer.md",
+    "Reference Notes/HumanLayer/_HumanLayer.base",
+    "Reference Notes/HumanLayer/_note_HumanLayer.md",
+    "Reference Notes/HumanLayer/12-Factor Agents - Patterns of reliable LLM applications — Dex Horthy.md",
+    "Reference Notes/HumanLayer/Context-Efficient Backpressure for Coding Agents.md",
+    "Reference Notes/HumanLayer/Writing a good CLAUDE.md.md",
+    "Notes/AI Software Engineering/Guides/Prompting Code Review plan for manual review.md",
+    "Notes/AI Software Engineering/Guides/Agentic AI Patterns.md",
+    "Reference Notes/Google Cloud Tech/_note_Google Cloud Tech.md",
     "Notes/AI Software Engineering/Guides/Harness-engineering by Humanlayer.md",
     "Notes/AI Software Engineering/Guides/Context Engineering.md",
     "--Attachments/Pasted image 20260404135939.png",
     "Notes/AI Software Engineering/Guides/_note_Guides.md",
-    "Reference Notes/HumanLayer/Writing a good CLAUDE.md.md",
-    "Reference Notes/HumanLayer/No Vibes Allowed - Solving Hard Problems in Complex Codebases - Dex Horthy HumanLayer.md",
-    "Reference Notes/HumanLayer/12-Factor Agents - Patterns of reliable LLM applications — Dex Horthy.md",
-    "Reference Notes/HumanLayer/Context-Efficient Backpressure for Coding Agents.md",
     "--Obsidian Template--/Frontmatter/Author/Me.md",
     "Notes/AI Software Engineering/Guides/Untitled.md",
     "--Obsidian Template--/Frontmatter/Author",
@@ -279,12 +306,8 @@
     "Scratchpads/_note_Scratchpads.md",
     "Knowledge Confidence/Confidence Levels.base",
     "Reference Notes/_note_Reference Notes.md",
-    "Reference Notes/HumanLayer/_HumanLayer.base",
     "Notes/AI Software Engineering/AI Software Engineering.excalidraw.md",
-    "Notes/AI Software Engineering/Guides/Spec-driven Development - BRD, PRD, Backlog, Zen MCP and Memory Bank.md",
     "_note_Google Cloud xTech.md",
-    "Reference Notes/Google Cloud Tech/AI Agent Design Patterns.md",
-    "Notes/AI Assistance Usage Tips.md",
     "Notes/AI Software Engineering/Untitled.canvas",
     "Reference Notes/Google Cloud Tech",
     "Bases/Topics/Artificial Intelligence.base",

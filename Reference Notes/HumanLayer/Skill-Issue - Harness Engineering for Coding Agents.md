@@ -6,6 +6,8 @@ tags:
 source_url: https://www.humanlayer.dev/blog/skill-issue-harness-engineering-for-coding-agents
 Draft: false
 has-questions: false
+tier:
+  - 1 - High
 ---
 
 # Summary
@@ -18,7 +20,7 @@ This article provides a cohesive overview of harness engineering for coding agen
 - every prompt, the agentic AI evaluates it against an MCP's description to decide whether it needs to use the MCP.
 - Given this, remove MCPs that you don't use or rarely use. Enable only when needed
 - If you can optimize such that you can convert your MCP usage to a simpler CLI tool, do so
-# Skills
+# Skills and Tools
 - For reusable knowledge and/or tools
 - Can be used for progressive disclosure
 - Skills can be used to progressively disclose other `.md` files as well
@@ -46,6 +48,40 @@ This article provides a cohesive overview of harness engineering for coding agen
 # See Also
 https://openai.com/index/harness-engineering/
 https://www.aihero.dev/a-complete-guide-to-agents-md
+
+# OpenAI Harness Engineering
+## Example on directory structure for documentation for AI 
+```
+AGENTS.md
+ARCHITECTURE.md
+docs/
+├── design-docs/
+│   ├── index.md
+│   ├── core-beliefs.md
+│   └── ...
+├── exec-plans/
+│   ├── active/
+│   ├── completed/
+│   └── tech-debt-tracker.md
+├── generated/
+│   └── db-schema.md
+├── product-specs/
+│   ├── index.md
+│   ├── new-user-onboarding.md
+│   └── ...
+├── references/
+│   ├── design-system-reference-llms.txt
+│   ├── nixpacks-llms.txt
+│   ├── uv-llms.txt
+│   └── ...
+├── DESIGN.md
+├── FRONTEND.md
+├── PLANS.md
+├── PRODUCT_SENSE.md
+├── QUALITY_SCORE.md
+├── RELIABILITY.md
+└── SECURITY.md
+```
 
 # Questions
 - What subagents would I need?

@@ -6,6 +6,8 @@ tags:
   - reference-notes
 source_url: https://www.humanlayer.dev/blog/context-efficient-backpressure
 Draft: false
+tier:
+  - 2 - Above Average
 ---
 
 - Optimize reading of logs for AI

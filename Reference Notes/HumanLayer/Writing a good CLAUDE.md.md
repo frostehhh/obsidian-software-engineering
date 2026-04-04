@@ -5,6 +5,8 @@ tags:
   - reference-notes
 source_url: https://www.humanlayer.dev/blog/writing-a-good-claude-md
 Draft: false
+tier:
+  - 2 - Above Average
 ---
 
 # Notes

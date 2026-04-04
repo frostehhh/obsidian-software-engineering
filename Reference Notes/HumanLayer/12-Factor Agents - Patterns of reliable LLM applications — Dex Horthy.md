@@ -9,6 +9,8 @@ tags:
   - artificial-intelligence/workflow
 media_link: https://youtu.be/8kMaTybvDUw
 Draft: false
+tier:
+  - 1 - High
 ---
 
 Based on https://github.com/humanlayer/12-factor-agents

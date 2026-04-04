@@ -5,6 +5,8 @@ tags:
   - notes
   - artificial-intelligence/prompt-engineering
   - artificial-intelligence/harness-engineering
+  - artificial-intelligence/context-engineering
+  - artificial-intelligence/spec-driven-development
 Draft: true
 ---
 
@@ -32,6 +34,8 @@ Draft: true
 	 - Deployment
 	 - Observability and log tracing
 	 - Code reviews
+	 - Evaluations
+	 - Guardrails
 
 # References
 https://www.bluetickconsultants.com/the-evolution-of-prompt-engineering/#:~:text=Prompt%20engineering%20has%20evolved%20significantly,consistency%2C%20and%20interactive%20feedback%20mechanisms.

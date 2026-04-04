@@ -3,6 +3,9 @@ tags:
   - guide
   - artificial-intelligence/workflow
   - notes
+  - artificial-intelligence/spec-driven-development
+  - artificial-intelligence/harness-engineering
+  - artificial-intelligence/context-engineering
 tier:
   - 4 - Below Average
 Draft:
