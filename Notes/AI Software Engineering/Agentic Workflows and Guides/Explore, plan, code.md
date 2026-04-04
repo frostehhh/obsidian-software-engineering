@@ -9,3 +9,4 @@ tier:
   - 0 - Superior
 ---
 
+Additionally, it can be explore, plan, code and verify
