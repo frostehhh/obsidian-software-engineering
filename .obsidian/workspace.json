@@ -210,9 +210,19 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "ae12aef1edbbb013",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -240,7 +250,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b459a3c4a00d46a6",
+  "active": "ae12aef1edbbb013",
   "lastOpenFiles": [
     "Notes/AI Software Engineering/Guides/_note_Guides.md",
     "Notes/AI Software Engineering/Guides/Claude Code System Prompts.md",
