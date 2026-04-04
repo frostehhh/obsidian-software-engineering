@@ -50,3 +50,36 @@ views:
       file.name: 394
       note.tier: 142
       note.tags: 641
+  - type: table
+    name: Draft
+    filters:
+      and:
+        - Draft == true
+    order:
+      - file.name
+      - tier
+      - tags
+    sort:
+      - property: tier
+        direction: ASC
+    columnSize:
+      file.name: 386
+      note.tier: 142
+      note.tags: 641
+  - type: table
+    name: Skills
+    filters:
+      and:
+        - file.tags.contains("artificial-intelligence/skills")
+    order:
+      - file.name
+      - tier
+      - tags
+      - Draft
+    sort:
+      - property: tier
+        direction: ASC
+    columnSize:
+      file.name: 386
+      note.tier: 142
+      note.tags: 675
