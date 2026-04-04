@@ -10,15 +10,47 @@
           {
             "id": "be5d871c99239614",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/AI Software Engineering/Guides/Prompt Engineering - From one shot to advanced harness engineering.md",
+                "file": "Notes/AI Software Engineering/Guides/Context Engineering - Basics to Advanced Multi-Agent Systems.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Prompt Engineering - From one shot to advanced harness engineering"
+              "title": "Context Engineering - Basics to Advanced Multi-Agent Systems"
+            }
+          },
+          {
+            "id": "01a87c0d42ea4df5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/HumanLayer/Skill-Issue - Harness Engineering for Coding Agents.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Skill-Issue - Harness Engineering for Coding Agents"
+            }
+          },
+          {
+            "id": "29876bb6b7690e95",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalibrain/excalibrain.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "excalibrain"
             }
           }
         ]
@@ -93,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.0024719238281
+    "width": 420.0024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -109,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excalibrain.md",
+                "file": "Notes/AI Software Engineering/Guides/Context Engineering - Basics to Advanced Multi-Agent Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +152,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for excalibrain"
+              "title": "Backlinks for Context Engineering - Basics to Advanced Multi-Agent Systems"
             }
           },
           {
@@ -191,8 +224,7 @@
               "title": "Notes Review Queue"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,13 +254,22 @@
   },
   "active": "be5d871c99239614",
   "lastOpenFiles": [
-    "Notes/AI Software Engineering/Guides/_note_Guides.md",
-    "Notes/AI Software Engineering/Guides/Prompt Engineering - From one shot to advanced harness engineering.md",
     "Notes/AI Software Engineering/Guides/Agentic AI Patterns.md",
+    "Notes/AI Software Engineering/Guides/Context Engineering - Basics to Advanced Multi-Agent Systems.md",
+    "Reference Notes/Google Cloud Tech/_note_Google Cloud Tech.md",
+    "Reference Notes/HumanLayer/Skill-Issue - Harness Engineering for Coding Agents.md",
+    "Excalibrain/excalibrain.md",
+    "Notes/AI Software Engineering/Guides/Harness-engineering by Humanlayer.md",
+    "Notes/AI Software Engineering/Guides/Context Engineering.md",
+    "--Attachments/Pasted image 20260404135939.png",
+    "Notes/AI Software Engineering/Guides/_note_Guides.md",
+    "Reference Notes/HumanLayer/Writing a good CLAUDE.md.md",
+    "Reference Notes/HumanLayer/No Vibes Allowed - Solving Hard Problems in Complex Codebases - Dex Horthy HumanLayer.md",
+    "Reference Notes/HumanLayer/12-Factor Agents - Patterns of reliable LLM applications — Dex Horthy.md",
+    "Reference Notes/HumanLayer/Context-Efficient Backpressure for Coding Agents.md",
     "--Obsidian Template--/Frontmatter/Author/Me.md",
     "Notes/AI Software Engineering/Guides/Untitled.md",
     "--Obsidian Template--/Frontmatter/Author",
-    "Notes/AI Software Engineering/Guides/Harness-engineering by Humanlayer.md",
     "Notes/AI Software Engineering/Guides/AI Guides.base",
     "Notes/AI Software Engineering/Guides/Claude Code System Prompts.md",
     "Notes/AI Software Engineering/Guides/Requirements and Design(BRD and PRD).md",
@@ -238,21 +279,12 @@
     "Scratchpads/_note_Scratchpads.md",
     "Knowledge Confidence/Confidence Levels.base",
     "Reference Notes/_note_Reference Notes.md",
-    "Reference Notes/HumanLayer/12-Factor Agents - Patterns of reliable LLM applications — Dex Horthy.md",
-    "Reference Notes/HumanLayer/Context-Efficient Backpressure for Coding Agents.md",
     "Reference Notes/HumanLayer/_HumanLayer.base",
     "Notes/AI Software Engineering/AI Software Engineering.excalidraw.md",
     "Notes/AI Software Engineering/Guides/Spec-driven Development - BRD, PRD, Backlog, Zen MCP and Memory Bank.md",
-    "Reference Notes/Google Cloud Tech/_note_Google Cloud Tech.md",
     "_note_Google Cloud xTech.md",
     "Reference Notes/Google Cloud Tech/AI Agent Design Patterns.md",
-    "Excalibrain/excalibrain.md",
     "Notes/AI Assistance Usage Tips.md",
-    "Notes/Angular.md",
-    "Notes/AI Software Engineering/Guides/Business Requirement Document + Product Requirement Documents.md",
-    "Notes/AI Software Engineering/AI Software Engineering.md",
-    "Anki/Cassandra.md",
-    "Reference Notes/Google Cloud Tech/3 Advanced AI Agent Patterns.md",
     "Notes/AI Software Engineering/Untitled.canvas",
     "Reference Notes/Google Cloud Tech",
     "Bases/Topics/Artificial Intelligence.base",
@@ -271,7 +303,6 @@
     "--Attachments/Pasted image 20250224011920.png",
     "--Attachments/Pasted image 20250223200513.png",
     "--Attachments/Pasted image 20250222013906.png",
-    "--Attachments/Pasted image 20250222005308.png",
     "Canvas/canvas 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"

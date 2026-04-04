@@ -3,6 +3,7 @@ tags:
   - software
   - artificial-intelligence
   - artificial-intelligence/context-engineering
+  - reference-notes
 source_url: https://www.humanlayer.dev/blog/context-efficient-backpressure
 Draft: false
 ---

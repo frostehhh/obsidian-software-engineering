@@ -2,6 +2,7 @@
 tags:
   - software
   - artificial-intelligence/context-engineering
+  - reference-notes
 source_url: https://www.humanlayer.dev/blog/writing-a-good-claude-md
 Draft: false
 ---
