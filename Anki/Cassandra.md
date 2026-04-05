@@ -24,8 +24,9 @@ Storage Engine (LSM - Log structure merge tree):
 - Commit Log: Write-Ahead Log
 - Memtable: In-memory data to be committed to disk
 - SSTABLE: Immutable list of data from flushed Memtable
-<!--SR:!2026-02-14,124,280-->
+
 +++
+<!--SR:!2026-04-05,1,260-->
 
 How does Cassandra's Gossip Protocol work
 ?
@@ -51,5 +52,6 @@ What are the consistency configuration options available in Cassandra?
 - ALL
 - LOCAL_ONE
 - QUORUM
-<!--SR:!2026-01-29,165,310-->
-+++ 
+
++++
+<!--SR:!2028-03-13,708,330--> 
