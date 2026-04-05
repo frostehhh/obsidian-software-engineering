@@ -68,7 +68,8 @@
               "title": "Explore, plan, code"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -257,9 +258,19 @@
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
+          },
+          {
+            "id": "801aa77831e2bcb0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -280,18 +291,23 @@
       "omnisearch:Omnisearch": false,
       "open-vscode:VSCode": false,
       "media-extended:Open external media": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "be5d871c99239614",
+  "active": "2f2fb43feed9af90",
   "lastOpenFiles": [
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Context Engineering - Basics to Advanced Multi-Agent Systems.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Explore, plan, code.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/_AI Guides.base",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/_note_Agentic Workflows and Guides.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Skill for working with dates.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Agentic AI Patterns.md",
     "Reference Notes/HumanLayer/Skill-Issue - Harness Engineering for Coding Agents.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Context Engineering - Basics to Advanced Multi-Agent Systems.md",
     "Excalibrain/excalibrain.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Spec-driven Development - BRD, PRD, Backlog, Zen MCP and Memory Bank.md",
     "Reference Notes/HumanLayer/No Vibes Allowed - Solving Hard Problems in Complex Codebases - Dex Horthy HumanLayer.md",
