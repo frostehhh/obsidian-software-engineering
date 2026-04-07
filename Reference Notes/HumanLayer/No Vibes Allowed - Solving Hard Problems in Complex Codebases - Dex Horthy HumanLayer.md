@@ -4,7 +4,6 @@ Channel:
   - AI Engineer
 tags:
   - reference-notes/video
-  - software
   - artificial-intelligence
   - artificial-intelligence/workflow
   - artificial-intelligence/spec-driven-development

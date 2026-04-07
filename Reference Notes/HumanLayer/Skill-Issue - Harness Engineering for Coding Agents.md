@@ -1,6 +1,5 @@
 ---
 tags:
-  - software
   - artificial-intelligence/harness-engineering
   - reference-notes
 source_url: https://www.humanlayer.dev/blog/skill-issue-harness-engineering-for-coding-agents

@@ -1,6 +1,5 @@
 ---
 tags:
-  - software
   - artificial-intelligence
   - artificial-intelligence/context-engineering
   - reference-notes

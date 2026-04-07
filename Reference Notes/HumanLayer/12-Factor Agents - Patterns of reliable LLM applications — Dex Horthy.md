@@ -4,7 +4,6 @@ Channel:
   - AI Engineer
 tags:
   - reference-notes/video
-  - software
   - artificial-intelligence
   - artificial-intelligence/workflow
 media_link: https://youtu.be/8kMaTybvDUw
