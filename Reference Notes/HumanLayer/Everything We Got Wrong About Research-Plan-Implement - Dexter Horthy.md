@@ -7,6 +7,8 @@ tags:
   - artificial-intelligence/workflow
 media_link: https://youtu.be/YwZR6tc7qYg
 Draft: true
+tier:
+  - 0 - Superior
 ---
 
 # Draft
@@ -36,22 +38,20 @@ Draft: true
 	- They spent ~6 months not reading the code, only plans. It did not end well.
 - PLEASE READ YOUR CODE. I'M BEGGING YOU
 - Shoot for 2-3x whil realistically
+- the dumb zone. already referenced in his previous talks
+- too many MCPs
+- - Use prompts for control flow
+	- switch case directing to specific context depending on prompt
+- Research patterns to follow
+- Matt Pocock - The Design Concept?
+	- look into this
 # Goals
 - leverage planning
 - don't outsource thinking
 - read the code
 - magic words
-# Better Research
-- keep things objective
-- hide ticket from researcher agent
-- query planning
 
----
-- the dumb zone. already referenced in his previous talks
-- too many MCPs
-- prompts for control flow
-	- switch case directing to specific context depending on prompt
-# Alternative for Research, Plan, Implement
+# Alternative for Research, Plan, Implement - QRSPI
 1. Question
 2. Research
 3. Design - where we're going
@@ -60,7 +60,30 @@ Draft: true
 6. Worktree
 7. Implement
 8. Pull Request
+## Questions
+A phase where questions are generated based on the ticket needed to be done. 
+## Research
+- keep things objective
+- hide ticket from researcher agent
+- "Query planning", but for LLMs and reading codebases
+- Questions and Research flow must be in separate context windows
+- Iterate questions and research phase
+## Design
+- Equivalent to sprint planning
+- What needs to be done
+- Description of the expected outputs
+## Structure Outline
+- equivalent to architecture review
+- technical designs
+## Plan, Worktree, Implement
+- models love horizontal plans -> database, endpoints, frontend all at the same time
+	- ideally, do vertical planning. Make steps small enough to easily
+- the usual task list and implementation
+- spot check the plan
+- Save deep review for the actual code
 
+## Pull Request
+- Deep review of code by humans
 ---
 - mind your instruction budget
 - Research patterns to follow
@@ -68,12 +91,8 @@ Draft: true
 	- look into this
 - goal is human-agent alignment
 - structure outline = leverage
-- models love horizontal plans -> database, endpoints, frontend all at the same time
-	- ideally, do vertical + micro planning
-- plan, implement
-	- the usual task list and implementation
-	- spot check the plan
-	- Save deep review for the actual code
+
+	
 - Testing and verifying
 	- he dunno. This is a whole different topic to talk about
 # What's next?
@@ -82,8 +101,16 @@ Draft: true
 - There will be an upcoming and updated version of this talk on April 20-21, 2026
 - ![[Pasted image 20260408022214.png]]
 
+# Personal Thoughts
+- I think ideally, we want to make it so that our standards will be automated via agent Skills so that we can give less effort in collaborating with AI
+- This can be an openspec schema
 # Questions
 - Is there an article that shows the context he showed in this video?
+- What is question part?
+- What is research part?
+- How would you do design part?
+- How would you do structure part?
+- What is query planning?
 
 # See Also
 ## Articles that discuss the points from the video

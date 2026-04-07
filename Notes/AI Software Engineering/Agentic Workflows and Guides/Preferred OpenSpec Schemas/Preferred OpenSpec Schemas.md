@@ -9,5 +9,9 @@ tags:
 Draft: false
 ---
 
-See repository of preferred schemas in the `schemas` directory. Note that the schemas will be updated over time.
+See repository of preferred schemas in the `schemas` directory. Note that the schemas will be updated over time. 
+
+> [!note]
+> Update your `claude-tools` personal repository to include these schemas
+
 
