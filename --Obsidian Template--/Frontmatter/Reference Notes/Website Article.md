@@ -1,6 +1,8 @@
 ---
 tags:
-source_url: 
-Source: 
-author: 
+  - reference-notes/article
+source_url:
+Source:
+author:
+Draft: true
 ---

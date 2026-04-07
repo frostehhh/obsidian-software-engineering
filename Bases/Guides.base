@@ -19,7 +19,7 @@ views:
       - property: file.basename
         direction: DESC
     columnSize:
-      note.tags: 321
+      note.tags: 419
   - type: table
     name: System Design
     filters:
@@ -30,3 +30,8 @@ views:
     filters:
       and:
         - file.tags.contains("artificial-intelligence")
+  - type: table
+    name: Setup
+    filters:
+      and:
+        - file.tags.contains("setup")

@@ -4,52 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "4ae16bff6037b386",
+        "id": "202bd6bf1dcf5c6a",
         "type": "tabs",
         "children": [
           {
-            "id": "be5d871c99239614",
+            "id": "7efda4ca17f9c926",
             "type": "leaf",
             "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/AI Software Engineering/Agentic Workflows and Guides/Context Engineering - Basics to Advanced Multi-Agent Systems.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Context Engineering - Basics to Advanced Multi-Agent Systems"
-            }
-          },
-          {
-            "id": "01a87c0d42ea4df5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/HumanLayer/Skill-Issue - Harness Engineering for Coding Agents.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Skill-Issue - Harness Engineering for Coding Agents"
-            }
-          },
-          {
-            "id": "352da00f7f9fff65",
-            "type": "leaf",
             "state": {
               "type": "bases",
               "state": {
-                "file": "Bases/Guides.base",
+                "file": "Notes/AI Software Engineering/Agentic Workflows and Guides/_AI Guides.base",
                 "viewName": "All"
               },
+              "pinned": true,
               "icon": "lucide-table",
-              "title": "Guides"
+              "title": "_AI Guides"
+            }
+          },
+          {
+            "id": "9636801d84d41203",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/AI Software Engineering/Spec-driven Development.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Spec-driven Development"
+            }
+          },
+          {
+            "id": "d3904cd81f65381b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Martin Fowler/Understand Spec-driven Development - Kiro, Spec Kit and Tessl.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Understand Spec-driven Development - Kiro, Spec Kit and Tessl"
             }
           }
         ],
@@ -73,7 +75,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -85,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spec-driven",
+                "query": "openspec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -293,18 +295,33 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "352da00f7f9fff65",
+  "active": "d3904cd81f65381b",
   "lastOpenFiles": [
+    "Notes/AI Software Engineering/Spec-driven Development.md",
+    "Reference Notes/Martin Fowler/Understand Spec-driven Development - Kiro, Spec Kit and Tessl.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/With Source.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Website Article.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/Video.md",
+    "Reference Notes/Martin Fowler",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Setting up OpenSpec.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/Preferred OpenSpec Schemas.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/schemas/tasks-only/templates/tasks.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/schemas/tasks-only/templates",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/schemas/tasks-only/schema.yaml",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/schemas/tasks-only",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/schemas",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/_AI Guides.base",
+    "Bases/Guides.base",
+    "Reference Notes/HumanLayer/Skill-Issue - Harness Engineering for Coding Agents.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Skill for working with dates.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/_note_Agentic Workflows and Guides.md",
     "Notes/AI Software Engineering/_note_AI Software Engineering.md",
     "Reference Notes/_note_Reference Notes.md",
     "Reference Notes/HumanLayer/_note_HumanLayer.md",
-    "Reference Notes/HumanLayer/Skill-Issue - Harness Engineering for Coding Agents.md",
     "Notes/Digital Signatures.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Explore, plan, code.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Context Engineering - Basics to Advanced Multi-Agent Systems.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Skill for working with dates.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Agentic AI Patterns.md",
     "Excalibrain/excalibrain.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Spec-driven Development - BRD, PRD, Backlog, Zen MCP and Memory Bank.md",
@@ -315,23 +332,9 @@
     "Reference Notes/HumanLayer/Writing a good CLAUDE.md.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Prompting Code Review plan for manual review.md",
     "Reference Notes/Google Cloud Tech/_note_Google Cloud Tech.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Harness-engineering by Humanlayer.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Context Engineering.md",
     "--Attachments/Pasted image 20260404135939.png",
-    "--Obsidian Template--/Frontmatter/Author/Me.md",
     "--Obsidian Template--/Frontmatter/Author",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Claude Code System Prompts.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Requirements and Design(BRD and PRD).md",
-    "Notes/_note_Notes.md",
-    "Untitled",
-    "Braindump/_note_Braindump.md",
-    "Knowledge Confidence/Confidence Levels.base",
     "Notes/AI Software Engineering/Untitled.canvas",
-    "Reference Notes/Google Cloud Tech",
-    "Bases/Topics/Artificial Intelligence.base",
-    "--Obsidian Template--/Frontmatter/Notes/AI Software Engineering",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides",
-    "Notes/AI Software Engineering",
     "Notes/Untitled.canvas",
     "Reference Notes/Untitled.canvas",
     "--Attachments/Pasted image 20260308225527.png",
