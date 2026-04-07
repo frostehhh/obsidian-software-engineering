@@ -18,6 +18,8 @@ views:
         direction: ASC
       - property: file.basename
         direction: DESC
+    columnSize:
+      note.tags: 321
   - type: table
     name: System Design
     filters:
