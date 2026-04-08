@@ -6,9 +6,10 @@ tags:
   - reference-notes/video
   - artificial-intelligence/workflow
 media_link: https://youtu.be/YwZR6tc7qYg
-Draft: false
+Draft: true
 tier:
   - 0 - Superior
+has-questions: true
 ---
 # Introduction
 ## Problem with their initial proposal of specs-only development
@@ -58,13 +59,15 @@ tier:
 7. Implement
 8. Pull Request
 ## Questions
-A phase where questions are generated based on the ticket needed to be done. 
+- Depends on ticket description
+- A phase where questions are generated based on the ticket needed to be done. 
+- Iterate as needed
 ## Research
+- Depends on Questions ONLY. Not ticket
 - keep things objective
 - hide ticket from researcher agent
-- "Query planning", but for LLMs and reading codebases
-- Questions and Research flow must be in separate context windows
-- Iterate questions and research phase
+- "Query planning", but for LLMs reading through codebases
+- Iterate as needed
 ## Design
 - Depends on Research, Ticket
 - Equivalent to sprint planning
