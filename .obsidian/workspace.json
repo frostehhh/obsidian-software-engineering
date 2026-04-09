@@ -24,72 +24,17 @@
             }
           },
           {
-            "id": "37353f42208c9e64",
+            "id": "d55e07074763901c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
-                "mode": "source",
+                "file": "Reference Notes/HumanLayer/humanlayer talk.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Question, Research, Structure Outline, Plan, Implementation"
-            }
-          },
-          {
-            "id": "a3fac7a253a9f4fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/HumanLayer/Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "c3a96faa109baa93",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fc78338f139b499d",
-            "type": "leaf",
-            "state": {
-              "type": "mx-url",
-              "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "NKu3T9FUjmU",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=NKu3T9FUjmU"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    }
-                  }
-                }
-              },
-              "icon": "youtube",
-              "title": "LIVE: Chat with AI Coding Wizard Dex Horthy"
+              "title": "humanlayer talk"
             }
           }
         ]
@@ -318,12 +263,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "141b1c7b8968df11",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
@@ -352,12 +307,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a3fac7a253a9f4fe",
+  "active": "bab1c5f7b2f20bfe",
   "lastOpenFiles": [
-    "Reference Notes/Martin Fowler/Understand Spec-driven Development - Kiro, Spec Kit and Tessl.md",
-    "Reference Notes/HumanLayer/Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
+    "Reference Notes/HumanLayer/humanlayer talk.md",
     "Reference Notes/HumanLayer/_note_HumanLayer.md",
+    "Reference Notes/HumanLayer/Untitled",
+    "Reference Notes/HumanLayer/Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy.md",
+    "Reference Notes/Martin Fowler/Understand Spec-driven Development - Kiro, Spec Kit and Tessl.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/_AI Guides.base",
     "Reference Notes/Matt Pocock/How I use Claude Code for real engineering.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/Preferred OpenSpec Schemas.md",
@@ -390,7 +347,6 @@
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Agentic AI Patterns.md",
     "Reference Notes/HumanLayer/_HumanLayer.base",
     "--Attachments/Pasted image 20260404135939.png",
-    "--Obsidian Template--/Frontmatter/Author",
     "Notes/AI Software Engineering/Untitled.canvas",
     "Notes/Untitled.canvas",
     "Reference Notes/Untitled.canvas",
