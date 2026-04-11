@@ -24,24 +24,9 @@
             }
           },
           {
-            "id": "8fd4a7318ef5557d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/HumanLayer/Context Engineering Lessons from Manus.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Context Engineering Lessons from Manus"
-            }
-          },
-          {
             "id": "2f66a63fb52e7d91",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -49,8 +34,25 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Bash vs MCP for Coding Agents"
+            }
+          },
+          {
+            "id": "6752eee723edfddb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/HumanLayer/Date, Time and LLMs.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Date, Time and LLMs"
             }
           }
         ],
@@ -364,11 +366,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f66a63fb52e7d91",
+  "active": "6752eee723edfddb",
   "lastOpenFiles": [
-    "Reference Notes/HumanLayer/Context Engineering Lessons from Manus.md",
     "Reference Notes/HumanLayer/Bash vs MCP for Coding Agents.md",
+    "Reference Notes/HumanLayer/Date, Time and LLMs.md",
     "Reference Notes/HumanLayer/_note_HumanLayer.md",
+    "Reference Notes/HumanLayer/Context Engineering Lessons from Manus.md",
     "Reference Notes/HumanLayer/humanlayer talk.md",
     "Reference Notes/_note_Reference Notes.md",
     "Reference Notes/Context Engineering for AI Agents - Lessons from Building Manus.md",
@@ -401,7 +404,6 @@
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Skill for working with dates.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/_note_Agentic Workflows and Guides.md",
     "Notes/AI Software Engineering/_note_AI Software Engineering.md",
-    "Notes/Digital Signatures.md",
     "Reference Notes/HumanLayer/_HumanLayer.base",
     "--Attachments/Pasted image 20260404135939.png",
     "Notes/AI Software Engineering/Untitled.canvas",
