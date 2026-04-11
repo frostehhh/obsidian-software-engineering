@@ -5,7 +5,6 @@
 
 # Reading List
 https://github.com/ai-that-works/ai-that-works?tab=readme-ov-file#sessions
-- Dates, Times, and LLMs
 - Building a Prompt Optimizer
 - Founding HumanLayer: Dex's Journey
 - Founding Boundary: Vaibhav's Journey
