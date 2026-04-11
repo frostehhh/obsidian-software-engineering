@@ -293,12 +293,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "de01a8881e07d2bc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "horizontal",
@@ -327,7 +337,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "532454c8f4151366",
+  "active": "de01a8881e07d2bc",
   "lastOpenFiles": [
     "Reference Notes/HumanLayer/humanlayer talk.md",
     "Reference Notes/HumanLayer/_note_HumanLayer.md",
