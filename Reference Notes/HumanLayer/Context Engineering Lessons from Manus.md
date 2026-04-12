@@ -14,3 +14,5 @@ Draft: false
 # References
 https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus - video revolves around this
 https://gloochat.notion.site/BAML-Advanced-Prompting-Workshop-Dec-2024-161bb2d26216807b892fed7d9d978a37
+- partial few shot
+- dynamic shot
