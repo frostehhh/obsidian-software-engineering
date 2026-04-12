@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "32443e6e05eee8f4",
+        "id": "cf36a87ed4a4923d",
         "type": "tabs",
         "children": [
           {
-            "id": "c1ee06a84d1c2c70",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Go/Go.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Go"
-            }
-          },
-          {
-            "id": "79c0bae5969dad8b",
+            "id": "c7d52dd7a3105a32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/AI Software Engineering/Agentic Workflows and Guides/Context Engineering - Basics to Advanced Multi-Agent Systems.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Context Engineering - Basics to Advanced Multi-Agent Systems"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -410,12 +389,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "e150b8b76ea9bf96",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 28
+        "currentTab": 29
       }
     ],
     "direction": "horizontal",
@@ -430,7 +419,6 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
@@ -444,8 +432,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "79c0bae5969dad8b",
+  "active": "b0c2dedb11ea3190",
   "lastOpenFiles": [
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Context Engineering - Basics to Advanced Multi-Agent Systems.md",
     "Notes/Go/Go.md",
     "Notes/Go/_note_Go.md",
     "--Obsidian Template--/Frontmatter/Notes/Note.md",
@@ -474,7 +463,6 @@
     "Reference Notes/Martin Fowler/Understand Spec-driven Development - Kiro, Spec Kit and Tessl.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/_AI Guides.base",
-    "Reference Notes/Matt Pocock/How I use Claude Code for real engineering.md",
     "--Attachments/Pasted image 20260408022214.png",
     "Reference Notes/Martin Fowler",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/schemas/tasks-only/templates",
