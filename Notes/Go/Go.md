@@ -2,7 +2,7 @@
 tags:
   - notes
   - go
-Draft: true
+Draft: false
 ---
 
 

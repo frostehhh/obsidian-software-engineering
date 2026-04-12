@@ -39,3 +39,4 @@ Draft: true
 
 # References
 https://www.bluetickconsultants.com/the-evolution-of-prompt-engineering/#:~:text=Prompt%20engineering%20has%20evolved%20significantly,consistency%2C%20and%20interactive%20feedback%20mechanisms.
+https://res.cloudinary.com/total-typescript/image/upload/v1743077873/aihero.dev/ai-roadmap/ai-engineer-roadmap_qeny18.pdf
