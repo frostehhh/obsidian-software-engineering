@@ -10,5 +10,4 @@ https://github.com/ai-that-works/ai-that-works?tab=readme-ov-file#sessions
 - Founding Boundary: Vaibhav's Journey
 - Applying 12-Factor Principles to Coding Agent SDKs
 - Prompting Is Becoming a Product Surface
-- Claude Agent Skills Deep Dive
 - MCP is Dead?
