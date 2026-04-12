@@ -4,59 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "202bd6bf1dcf5c6a",
+        "id": "32443e6e05eee8f4",
         "type": "tabs",
         "children": [
           {
-            "id": "2440fc2f00d0ec6f",
+            "id": "c1ee06a84d1c2c70",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/HumanLayer/_note_HumanLayer.md",
-                "mode": "source",
+                "file": "Notes/Go/Go.md",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "_note_HumanLayer"
-            }
-          },
-          {
-            "id": "2f66a63fb52e7d91",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/HumanLayer/Bash vs MCP for Coding Agents.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Bash vs MCP for Coding Agents"
-            }
-          },
-          {
-            "id": "c7707681b169bbcb",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/HumanLayer/_note_HumanLayer.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "_note_HumanLayer"
+              "title": "Go"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "multi-phase",
+                "query": "\"agentic\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,27 +75,12 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "d2667930fede267f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Reference Notes/Baeldung/Learn Hibernate and JPA/Module 3 - Core Hibernate and JPA Concepts/2 - Entity Relationships and Operations.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 2 - Entity Relationships and Operations"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 420.0024719238281
+    "width": 488.0024719238281
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -144,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference Notes/HumanLayer/Skill-Issue - Harness Engineering for Coding Agents.md",
+                "file": "excalibrain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +106,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Skill-Issue - Harness Engineering for Coding Agents"
+              "title": "Backlinks for excalibrain"
             }
           },
           {
@@ -178,12 +130,22 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": true,
-                "searchQuery": "video"
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
+            }
+          },
+          {
+            "id": "d2667930fede267f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "excalibrain.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of excalibrain"
             }
           },
           {
@@ -192,22 +154,32 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
-            "id": "6565bdcd6ad5beec",
+            "id": "fa3086fb0ad06606",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
               "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
+              "icon": "lucide-ghost",
+              "title": "side-panel-control-view"
             }
           },
           {
-            "id": "9ecb0acd05a33dd1",
+            "id": "4265431c93419ccb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "c4dbbf95ba70402a",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -217,7 +189,7 @@
             }
           },
           {
-            "id": "ae12aef1edbbb013",
+            "id": "7df5dec70930346e",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -227,7 +199,7 @@
             }
           },
           {
-            "id": "1858405add276e83",
+            "id": "719401fdd824ab82",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -237,7 +209,7 @@
             }
           },
           {
-            "id": "242319d3765b3b66",
+            "id": "1a7d1534cb2d8281",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -247,7 +219,7 @@
             }
           },
           {
-            "id": "801aa77831e2bcb0",
+            "id": "4e896662f66c6cc0",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -257,7 +229,7 @@
             }
           },
           {
-            "id": "9d2637f553adc779",
+            "id": "b0a02477d29e3c99",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -267,7 +239,7 @@
             }
           },
           {
-            "id": "340dd197b4b83348",
+            "id": "10a0a820094efe54",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -277,7 +249,7 @@
             }
           },
           {
-            "id": "2dc36d5af82f52f4",
+            "id": "fe7037aa12c38cb4",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -287,7 +259,7 @@
             }
           },
           {
-            "id": "141b1c7b8968df11",
+            "id": "29acb437588167fe",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -297,7 +269,7 @@
             }
           },
           {
-            "id": "564a51d3a4829b2b",
+            "id": "3712fe75f8757d2e",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -307,7 +279,7 @@
             }
           },
           {
-            "id": "532454c8f4151366",
+            "id": "c062703131aaecd2",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -317,7 +289,7 @@
             }
           },
           {
-            "id": "de01a8881e07d2bc",
+            "id": "42e2fd7eace27647",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -327,7 +299,7 @@
             }
           },
           {
-            "id": "7676196b3ff4e0b5",
+            "id": "1f802fadbb2aa8bc",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -337,7 +309,87 @@
             }
           },
           {
-            "id": "c4d46a16be2ae69c",
+            "id": "8177ddd2b898a8e3",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "de068f198ea24cf5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "f0ca837db0552bd0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "2a51301e4e58420d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "5a799761ad102b74",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "f4ef8595398efe98",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "0e5a5e4a826eb42d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "a691eca81ea1d92d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "0c2c7de3df3dc565",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -347,15 +399,16 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 28
       }
     ],
     "direction": "horizontal",
-    "width": 317,
+    "width": 407,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "open-vscode:VS Code": false,
       "bases:Create new base": false,
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
@@ -368,7 +421,6 @@
       "omnisearch:Omnisearch": false,
       "media-extended:Open external media": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "open-vscode:VS Code": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
@@ -376,12 +428,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c4d46a16be2ae69c",
+  "active": "c1ee06a84d1c2c70",
   "lastOpenFiles": [
+    "Notes/Go/_note_Go.md",
+    "--Obsidian Template--/Frontmatter/Notes/Note.md",
+    "--Obsidian Template--/Frontmatter/Notes/Folder Note.md",
+    "--Obsidian Template--/Frontmatter/Notes/Java.md",
+    "--Obsidian Template--/Frontmatter/Notes/Terraform.md",
+    "Reference Notes/Anthropic/Prompt Engineering Guide.md",
+    "Notes/AI Agent vs Agentic AI.md",
+    "Reference Notes/HumanLayer/12-Factor Agents - Patterns of reliable LLM applications — Dex Horthy.md",
+    "Reference Notes/HumanLayer/No Vibes Allowed - Solving Hard Problems in Complex Codebases - Dex Horthy HumanLayer.md",
+    "Notes/Java/_note_Java.md",
+    "Notes/Go/Go.md",
+    "Notes/_note_Notes.md",
+    "Notes/Go",
+    "Notes/AI Software Engineering/_note_AI Software Engineering.md",
+    "Reference Notes/HumanLayer/_note_HumanLayer.md",
     "Reference Notes/HumanLayer/Untitled.md",
     "Reference Notes/HumanLayer/Skill-Issue - Harness Engineering for Coding Agents.md",
     "Reference Notes/HumanLayer/Context Engineering Lessons from Manus.md",
-    "Reference Notes/HumanLayer/_note_HumanLayer.md",
     "Reference Notes/HumanLayer/Bash vs MCP for Coding Agents.md",
     "Reference Notes/HumanLayer/Date, Time and LLMs.md",
     "Reference Notes/HumanLayer/humanlayer talk.md",
@@ -393,28 +459,14 @@
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/_AI Guides.base",
     "Reference Notes/Matt Pocock/How I use Claude Code for real engineering.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/Preferred OpenSpec Schemas.md",
     "--Attachments/Pasted image 20260408022214.png",
-    "Reference Notes/HumanLayer/Context-Efficient Backpressure for Coding Agents.md",
-    "Reference Notes/HumanLayer/Writing a good CLAUDE.md.md",
-    "Reference Notes/HumanLayer/No Vibes Allowed - Solving Hard Problems in Complex Codebases - Dex Horthy HumanLayer.md",
-    "Reference Notes/HumanLayer/12-Factor Agents - Patterns of reliable LLM applications — Dex Horthy.md",
-    "Notes/AI Software Engineering/Spec-driven Development.md",
-    "--Obsidian Template--/Frontmatter/Reference Notes/With Source.md",
-    "--Obsidian Template--/Frontmatter/Reference Notes/Website Article.md",
-    "--Obsidian Template--/Frontmatter/Reference Notes/Video.md",
     "Reference Notes/Martin Fowler",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Setting up OpenSpec.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/schemas/tasks-only/templates/tasks.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/schemas/tasks-only/templates",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/schemas/tasks-only/schema.yaml",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/schemas/tasks-only",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/schemas",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas",
     "Bases/Guides.base",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Skill for working with dates.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/_note_Agentic Workflows and Guides.md",
-    "Reference Notes/HumanLayer/_HumanLayer.base",
     "--Attachments/Pasted image 20260404135939.png",
     "Notes/AI Software Engineering/Untitled.canvas",
     "Notes/Untitled.canvas",

@@ -1,0 +1,1 @@
+<% tp.file.include("[[--Obsidian Template--/Frontmatter/Notes/Note]]") %>
