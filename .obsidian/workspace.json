@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/HumanLayer/Context Engineering Lessons from Manus.md",
+                "file": "Reference Notes/HumanLayer/Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Context Engineering Lessons from Manus"
+              "title": "Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "magic words",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -466,8 +466,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb0b338921e0bf9b",
+  "active": "c7d52dd7a3105a32",
   "lastOpenFiles": [
+    "Reference Notes/HumanLayer/Context Engineering Lessons from Manus.md",
     "Reference Notes/HumanLayer/_note_HumanLayer.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Context Engineering - Basics to Advanced Multi-Agent Systems.md",
     "Notes/Go/Go.md",
@@ -486,7 +487,6 @@
     "Notes/AI Software Engineering/_note_AI Software Engineering.md",
     "Reference Notes/HumanLayer/Untitled.md",
     "Reference Notes/HumanLayer/Skill-Issue - Harness Engineering for Coding Agents.md",
-    "Reference Notes/HumanLayer/Context Engineering Lessons from Manus.md",
     "Reference Notes/HumanLayer/Bash vs MCP for Coding Agents.md",
     "Reference Notes/HumanLayer/Date, Time and LLMs.md",
     "Reference Notes/HumanLayer/humanlayer talk.md",
