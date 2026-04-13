@@ -423,12 +423,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "bb0b338921e0bf9b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 31
+        "currentTab": 32
       }
     ],
     "direction": "horizontal",
@@ -456,7 +466,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "22e09fa19fd3a15a",
+  "active": "bb0b338921e0bf9b",
   "lastOpenFiles": [
     "Reference Notes/HumanLayer/_note_HumanLayer.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Context Engineering - Basics to Advanced Multi-Agent Systems.md",
