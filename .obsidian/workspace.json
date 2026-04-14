@@ -433,12 +433,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "2b479c67feaa6a9d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 32
+        "currentTab": 33
       }
     ],
     "direction": "horizontal",
@@ -466,7 +476,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c7d52dd7a3105a32",
+  "active": "2b479c67feaa6a9d",
   "lastOpenFiles": [
     "Reference Notes/HumanLayer/Context Engineering Lessons from Manus.md",
     "Reference Notes/HumanLayer/_note_HumanLayer.md",
