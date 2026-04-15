@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/Mockito Introduction.md",
+                "file": "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mockito Introduction"
+              "title": "Question, Research, Structure Outline, Plan, Implementation"
             }
           }
         ]
@@ -485,13 +485,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8d4b528005b452e7",
+  "active": "c7d52dd7a3105a32",
   "lastOpenFiles": [
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Requirement-specific custom slash commands.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Requirements and Design(BRD and PRD).md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Skill for working with dates.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/_AI Guides.base",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/<important if=\"...\"> block.md",
+    "Notes/AI Software Engineering/Spec-driven Development.md",
+    "Notes/AI Software Engineering/AI Software Engineering.excalidraw.md",
+    "Notes/AI Software Engineering/AI Software Engineering.md",
+    "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/Mockito Introduction.md",
     "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/5 - Stubbing Methods for Controlled Behavior.md",
     "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/1 - Introduction to Unit Testing and Mocking Concepts.md",
     "Reference Notes/Baeldung/Learn Mockito/_note_Learn Mockito.md",
     "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/6 - Verifying Interactions with Mocks.md",
-    "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/Mockito Introduction.md",
     "Reference Notes/HumanLayer/Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy.md",
     "Reference Notes/HumanLayer/Context Engineering Lessons from Manus.md",
     "Reference Notes/HumanLayer/_note_HumanLayer.md",
@@ -506,16 +514,8 @@
     "Notes/AI Agent vs Agentic AI.md",
     "Reference Notes/HumanLayer/12-Factor Agents - Patterns of reliable LLM applications — Dex Horthy.md",
     "Reference Notes/HumanLayer/No Vibes Allowed - Solving Hard Problems in Complex Codebases - Dex Horthy HumanLayer.md",
-    "Notes/Java/_note_Java.md",
-    "Notes/_note_Notes.md",
     "Notes/Go",
-    "Notes/AI Software Engineering/_note_AI Software Engineering.md",
-    "Reference Notes/HumanLayer/Untitled.md",
-    "Reference Notes/HumanLayer/Skill-Issue - Harness Engineering for Coding Agents.md",
-    "Reference Notes/HumanLayer/Bash vs MCP for Coding Agents.md",
-    "Reference Notes/HumanLayer/Date, Time and LLMs.md",
     "Reference Notes/HumanLayer/Untitled",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/_AI Guides.base",
     "--Attachments/Pasted image 20260408022214.png",
     "Reference Notes/Martin Fowler",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/schemas/tasks-only/templates",
