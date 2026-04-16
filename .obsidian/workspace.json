@@ -10,15 +10,17 @@
           {
             "id": "c7d52dd7a3105a32",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
+                "file": "Reference Notes/HumanLayer/Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Question, Research, Structure Outline, Plan, Implementation"
+              "title": "Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy"
             }
           }
         ]
@@ -487,6 +489,7 @@
   },
   "active": "c7d52dd7a3105a32",
   "lastOpenFiles": [
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Requirement-specific custom slash commands.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Requirements and Design(BRD and PRD).md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Skill for working with dates.md",
@@ -513,7 +516,6 @@
     "Reference Notes/Anthropic/Prompt Engineering Guide.md",
     "Notes/AI Agent vs Agentic AI.md",
     "Reference Notes/HumanLayer/12-Factor Agents - Patterns of reliable LLM applications — Dex Horthy.md",
-    "Reference Notes/HumanLayer/No Vibes Allowed - Solving Hard Problems in Complex Codebases - Dex Horthy HumanLayer.md",
     "Notes/Go",
     "Reference Notes/HumanLayer/Untitled",
     "--Attachments/Pasted image 20260408022214.png",
