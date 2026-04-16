@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Reference Notes/HumanLayer/Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
@@ -454,12 +454,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "442aa1c7039b7068",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 34
+        "currentTab": 35
       }
     ],
     "direction": "horizontal",
