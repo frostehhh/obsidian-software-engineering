@@ -8,22 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7d52dd7a3105a32",
+            "id": "cc6b0d0203610f96",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/HumanLayer/Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy.md",
-                "mode": "preview",
+                "file": "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
+                "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy"
+              "title": "Question, Research, Structure Outline, Plan, Implementation"
+            }
+          },
+          {
+            "id": "6445c68cf9add6c5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "--Attachments/Question, Research, Structure Outline, Plan, Implementation 2026-04-17 23.45.20.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Question, Research, Structure Outline, Plan, Implementation 2026-04-17 23.45.20.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -513,12 +526,16 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "7d73db0e372ce1f7",
+  "active": "6445c68cf9add6c5",
   "lastOpenFiles": [
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
+    "--Attachments/Question, Research, Structure Outline, Plan, Implementation 2026-04-17 23.45.20.excalidraw.md",
+    "Reference Notes/HumanLayer/Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy.md",
+    "Notes/AI Software Engineering/_note_AI Software Engineering.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Requirement-specific custom slash commands.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Requirements and Design(BRD and PRD).md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Skill for working with dates.md",
@@ -532,7 +549,6 @@
     "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/1 - Introduction to Unit Testing and Mocking Concepts.md",
     "Reference Notes/Baeldung/Learn Mockito/_note_Learn Mockito.md",
     "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/6 - Verifying Interactions with Mocks.md",
-    "Reference Notes/HumanLayer/Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy.md",
     "Reference Notes/HumanLayer/Context Engineering Lessons from Manus.md",
     "Reference Notes/HumanLayer/_note_HumanLayer.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Context Engineering - Basics to Advanced Multi-Agent Systems.md",
@@ -543,8 +559,6 @@
     "--Obsidian Template--/Frontmatter/Notes/Java.md",
     "--Obsidian Template--/Frontmatter/Notes/Terraform.md",
     "Reference Notes/Anthropic/Prompt Engineering Guide.md",
-    "Notes/AI Agent vs Agentic AI.md",
-    "Reference Notes/HumanLayer/12-Factor Agents - Patterns of reliable LLM applications — Dex Horthy.md",
     "Notes/Go",
     "Reference Notes/HumanLayer/Untitled",
     "--Attachments/Pasted image 20260408022214.png",
