@@ -474,12 +474,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "7d73db0e372ce1f7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 36
+        "currentTab": 37
       }
     ],
     "direction": "horizontal",
@@ -506,7 +516,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "25a034b3ec45acf3",
+  "active": "7d73db0e372ce1f7",
   "lastOpenFiles": [
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Requirement-specific custom slash commands.md",
