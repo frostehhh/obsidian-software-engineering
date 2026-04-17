@@ -67,6 +67,7 @@ has-questions: true
 - keep things objective
 - hide ticket from researcher agent
 - "Query planning", but for LLMs reading through codebases
+	- What questions are needed for the LLM will gather all the needed research?
 - Iterate as needed
 ## Design
 - Depends on Research, Ticket
