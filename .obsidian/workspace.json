@@ -187,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407
+    "width": 407,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,11 +211,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d2667930fede267f",
+  "active": "cc6b0d0203610f96",
   "lastOpenFiles": [
-    "--Attachments/Question, Research, Structure Outline, Plan, Implementation 2026-04-17 23.45.20.excalidraw.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
     "Reference Notes/HumanLayer/Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
+    "--Attachments/Question, Research, Structure Outline, Plan, Implementation 2026-04-17 23.45.20.excalidraw.md",
     "Notes/AI Software Engineering/_note_AI Software Engineering.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Requirement-specific custom slash commands.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Requirements and Design(BRD and PRD).md",

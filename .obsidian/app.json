@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "--Attachments",
   "propertiesInDocument": "source",
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": false
 }

@@ -11,6 +11,7 @@ source::
 
 # References
 [[Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy]]
+[Comparison of RPI Agentic AI Harnesses ](https://notebooklm.google.com/notebook/a91bf552-99f2-4136-9e87-f0df2456415a)
 
 # References to Explore
 https://github.com/addyosmani/agent-skills
@@ -36,11 +37,23 @@ https://github.com/affaan-m/everything-claude-code
 - Plan
 - Implementation
 - Validation and Testing
+	- Verification Gates
 - Review
-# Output Components
+	- Quality review
+	- Human code review
+# Input Components
+- Source Code
 - Problem/Task/Ticket
-- Source code
+# Output Components
 - Exploration docs of source code
+	- Existing code
+	- Code components
+	- Infrastructure components
+	- Libraries
+	- Packages used
+	- Patterns used
+	- Features
+	- Utilities
 - Product requirements
 	- functional requirements
 	- non-functional requirements
@@ -71,6 +84,21 @@ https://github.com/affaan-m/everything-claude-code
 ![[Question, Research, Structure Outline, Plan, Implementation 2026-04-17 23.45.20.excalidraw]]
 # Commands, Skill, Agents that I can reference from other Repos
 
-| Repository                                                            | Commands          | Skills | Agents |
-| --------------------------------------------------------------------- | ----------------- | ------ | ------ |
-| [get-shit-done](https://github.com/gsd-build/get-shit-done/tree/main) | `gsd-new-project` |        |        |
+| Command Functionality           | **get-shit-done** (GSD)        | **superpowers**                  | **agent-skills**                       | **everything-claude-code** (ECC)             |
+| ------------------------------- | ------------------------------ | -------------------------------- | -------------------------------------- | -------------------------------------------- |
+| ==**Codebase Exploration**==    | `/gsd-map-codebase`,           | n/a (Auto-triggered at start)    | n/a                                    | `explorer` agent,                            |
+| ==**Project/Spec Definition**== | `/gsd-new-project`,            | `brainstorming` skill,           | `/spec`; `spec-driven-development`     | `/ecc:plan`; `deep-research`                 |
+| ==**Task Planning**==           | `/gsd-plan-phase`,             | `writing-plans` skill,           | `/plan`; `planning-and-task-breakdown` | `/multi-plan`,; `strategic-compact`          |
+| **Core Implementation**         | `/gsd-execute-phase`,          | `executing-plans` skill,         | `/build`; `incremental-implementation` | `/multi-execute`,; `verification-loop`       |
+| **Test-Driven Dev (TDD)**       | n/a (Built into XML plans)     | `test-driven-development`,       | `/test`; `test-driven-development`     | `/tdd`; `tdd-workflow`                       |
+| **Code Review**                 | `/gsd-review`                  | `requesting-code-review`,        | `/review`; `code-review-and-quality`   | `/code-review`,; `typescript-reviewer`       |
+| **Security Review**             | `/gsd-secure-phase`,           | n/a                              | `security-and-hardening`               | `/security-scan`,; `security-review`         |
+| ==**Debugging**==               | `/gsd-debug`                   | `systematic-debugging`           | `debugging-and-error-recovery`         | `/build-fix`,; `pytorch-build-resolver`      |
+| **Deployment/Shipping**         | `/gsd-ship`,                   | `finishing-a-development-branch` | `/ship`; `shipping-and-launch`         | n/a                                          |
+| **Parallel Execution**          | `Wave Execution`,              | `dispatching-parallel-agents`    | n/a                                    | `/pm2`,; `/multi-workflow`                   |
+| **Quick/Ad-hoc Tasks**          | `/gsd-quick`,                  | n/a (Mandatory workflow)         | n/a                                    | `/gsd-fast` (OpenCode shim)                  |
+| **Context Management**          | `CONTEXT.md`,                  | `using-git-worktrees`            | `context-engineering`                  | `/compact`; `/clear`; `/model-route`         |
+| ==**Discovery/Experiments**==   | `/gsd-spike`,                  | `brainstorming`                  | `idea-refine`                          | `exa-search`; `documentation-lookup`         |
+| **Learning/Improvement**        | `/learn`                       | `writing-skills`                 | n/a                                    | `/instinct-import`; `/evolve`                |
+| **Project UI Design**           | `/gsd-ui-phase`; `/gsd-sketch` | n/a                              | `frontend-ui-engineering`              | `frontend-slides`; `remotion-video-creation` |
+|                                 |                                |                                  |                                        |                                              |
