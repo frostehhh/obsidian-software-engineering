@@ -21,6 +21,8 @@ https://github.com/affaan-m/everything-claude-code
 
 As of <u>2026-04-20 00:07</u>, seems that what I can refer from above are the following:
 - superpowers brainstorming https://github.com/obra/superpowers/blob/main/skills/brainstorming/SKILL.md
+- https://github.com/addyosmani/agent-skills/blob/44dac80216da709913fb410f632a65547866346f/skills/incremental-implementation/SKILL.md#L4
+- and humanlayer itself
 
 > [!note]
 > I elaborated the components related to research, planning and implementation below. This is so that I can find ways to improve the workflow as I need
@@ -40,7 +42,6 @@ As of <u>2026-04-20 00:07</u>, seems that what I can refer from above are the fo
 	- new implementation with refactoring of existing code
 ## Workflow Phases
 - Questions
-	- 
 - Research
 - Plan
 - Implementation
