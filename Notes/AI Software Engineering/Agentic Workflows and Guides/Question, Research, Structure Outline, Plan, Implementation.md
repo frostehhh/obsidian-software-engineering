@@ -13,11 +13,17 @@ source::
 [[Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy]]
 [Comparison of RPI Agentic AI Harnesses ](https://notebooklm.google.com/notebook/a91bf552-99f2-4136-9e87-f0df2456415a)
 
-# References to Explore
+# References to Explore(DONE)
 https://github.com/addyosmani/agent-skills
 https://github.com/obra/superpowers
 https://github.com/gsd-build/get-shit-done/tree/main
 https://github.com/affaan-m/everything-claude-code
+
+As of <u>2026-04-20 00:07</u>, seems that what I can refer from above are the following:
+- superpowers brainstorming https://github.com/obra/superpowers/blob/main/skills/brainstorming/SKILL.md
+
+> [!note]
+> I elaborated the components related to research, planning and implementation below. This is so that I can find ways to improve the workflow as I need
 
 # How to go about exploring this
 - Understanding the basic needs of the plan - why we're doing research, plan and implement in the first place
@@ -33,6 +39,8 @@ https://github.com/affaan-m/everything-claude-code
 	- new implementation
 	- new implementation with refactoring of existing code
 ## Workflow Phases
+- Questions
+	- 
 - Research
 - Plan
 - Implementation

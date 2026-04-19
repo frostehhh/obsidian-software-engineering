@@ -62,6 +62,9 @@ has-questions: true
 - Depends on ticket description
 - A phase where questions are generated based on the ticket needed to be done. 
 - Iterate as needed
+> [!question]
+> What questions?
+
 ## Research
 - Depends on Questions ONLY. Not ticket
 - keep things objective

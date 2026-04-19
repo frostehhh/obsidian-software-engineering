@@ -53,7 +53,8 @@
               "title": "Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +74,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -85,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"<% tp.\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,12 +107,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 488.0024719238281,
-    "collapsed": true
+    "width": 488.0024719238281
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -173,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
+                "file": "Reference Notes/HumanLayer/Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Question, Research, Structure Outline, Plan, Implementation"
+              "title": "Outline of Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy"
             }
           }
         ],
@@ -211,11 +212,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cc6b0d0203610f96",
+  "active": "5c0f7b4b0657d0a7",
   "lastOpenFiles": [
-    "Reference Notes/HumanLayer/Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
+    "Reference Notes/HumanLayer/Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy.md",
     "--Attachments/Question, Research, Structure Outline, Plan, Implementation 2026-04-17 23.45.20.excalidraw.md",
+    "--Obsidian Template--/Templater/Current Date and Time.md",
+    "--Obsidian Template--/Templater",
     "Notes/AI Software Engineering/_note_AI Software Engineering.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Requirement-specific custom slash commands.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Requirements and Design(BRD and PRD).md",
@@ -239,7 +242,6 @@
     "--Obsidian Template--/Frontmatter/Notes/Folder Note.md",
     "--Obsidian Template--/Frontmatter/Notes/Java.md",
     "--Obsidian Template--/Frontmatter/Notes/Terraform.md",
-    "Reference Notes/Anthropic/Prompt Engineering Guide.md",
     "Notes/Go",
     "Reference Notes/HumanLayer/Untitled",
     "--Attachments/Pasted image 20260408022214.png",
@@ -249,7 +251,6 @@
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/schemas/tasks-only",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/schemas",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas",
-    "Bases/Guides.base",
     "--Attachments/Pasted image 20260404135939.png",
     "Notes/AI Software Engineering/Untitled.canvas",
     "Notes/Untitled.canvas",
