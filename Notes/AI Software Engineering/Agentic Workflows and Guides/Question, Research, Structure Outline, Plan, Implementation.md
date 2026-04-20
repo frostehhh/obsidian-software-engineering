@@ -9,6 +9,10 @@ source::
  - "[[Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy]]"
 ---
 
+# Issues Encountered with QRSPI OpenSpec schema
+- On prompt to create a new OpenSpec spec with a description of the task, the query already did an initial research prior to reaching the `questions` artifact.
+- In the `questions` artifact, the questions produced
+
 # References
 [[Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy]]
 [Comparison of RPI Agentic AI Harnesses ](https://notebooklm.google.com/notebook/a91bf552-99f2-4136-9e87-f0df2456415a)

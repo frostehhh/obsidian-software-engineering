@@ -22,25 +22,8 @@
               "icon": "lucide-file",
               "title": "Question, Research, Structure Outline, Plan, Implementation"
             }
-          },
-          {
-            "id": "5c0f7b4b0657d0a7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/HumanLayer/Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,10 +191,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5c0f7b4b0657d0a7",
+  "active": "cc6b0d0203610f96",
   "lastOpenFiles": [
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
     "Reference Notes/HumanLayer/Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
     "--Attachments/Question, Research, Structure Outline, Plan, Implementation 2026-04-17 23.45.20.excalidraw.md",
     "--Obsidian Template--/Templater/Current Date and Time.md",
     "--Obsidian Template--/Templater",
