@@ -158,12 +158,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "6644ee798dd40ea5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -191,7 +201,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cc6b0d0203610f96",
+  "active": "6644ee798dd40ea5",
   "lastOpenFiles": [
     "Reference Notes/HumanLayer/Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
