@@ -27,12 +27,14 @@
             "id": "a21c687f97668482",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "--Attachments/Question, Research, Structure Outline, Plan, Implementation 2026-04-17 23.45.20.excalidraw.md"
+                "file": "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Question, Research, Structure Outline, Plan, Implementation 2026-04-17 23.45.20.excalidraw"
+              "icon": "lucide-file",
+              "title": "Question, Research, Structure Outline, Plan, Implementation"
             }
           }
         ],
@@ -89,8 +91,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,36 +225,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d0679e69744dd39e",
+  "active": "a21c687f97668482",
   "lastOpenFiles": [
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Requirements and Design(BRD and PRD).md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Setting up OpenSpec.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Skill for working with dates.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/TDD with AI.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Spec-driven Development - BRD, PRD, Backlog, Zen MCP and Memory Bank.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Specialized prompts instead of all-purpose prompts.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Requirement-specific custom slash commands.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Memory Bank.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Explore, plan, code.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/PRD(TaskMaster AI).md",
+    "Notes/AI Software Engineering/AI Software Engineering.md",
+    "Notes/AI Software Engineering/_note_AI Software Engineering.md",
     "--Attachments/Question, Research, Structure Outline, Plan, Implementation 2026-04-17 23.45.20.excalidraw.md",
     "Question, Research, Structure Outline, Pxlan, Implementation 2026-04-17 23.45.20.excalidraw.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
     "Reference Notes/HumanLayer/Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy.md",
     "--Obsidian Template--/Templater/Current Date and Time.md",
     "--Obsidian Template--/Templater",
-    "Notes/AI Software Engineering/_note_AI Software Engineering.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Requirement-specific custom slash commands.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Requirements and Design(BRD and PRD).md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Skill for working with dates.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/_AI Guides.base",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/<important if=\"...\"> block.md",
     "Notes/AI Software Engineering/Spec-driven Development.md",
     "Notes/AI Software Engineering/AI Software Engineering.excalidraw.md",
-    "Notes/AI Software Engineering/AI Software Engineering.md",
     "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/Mockito Introduction.md",
     "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/5 - Stubbing Methods for Controlled Behavior.md",
     "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/1 - Introduction to Unit Testing and Mocking Concepts.md",
     "Reference Notes/Baeldung/Learn Mockito/_note_Learn Mockito.md",
     "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/6 - Verifying Interactions with Mocks.md",
     "Reference Notes/HumanLayer/Context Engineering Lessons from Manus.md",
-    "Reference Notes/HumanLayer/_note_HumanLayer.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Context Engineering - Basics to Advanced Multi-Agent Systems.md",
-    "Notes/Go/Go.md",
-    "Notes/Go/_note_Go.md",
-    "--Obsidian Template--/Frontmatter/Notes/Note.md",
-    "--Obsidian Template--/Frontmatter/Notes/Folder Note.md",
-    "--Obsidian Template--/Frontmatter/Notes/Java.md",
     "Notes/Go",
     "Reference Notes/HumanLayer/Untitled",
     "--Attachments/Pasted image 20260408022214.png",

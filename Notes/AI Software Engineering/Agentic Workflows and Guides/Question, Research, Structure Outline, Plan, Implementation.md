@@ -11,7 +11,8 @@ source::
 
 # Issues Encountered with QRSPI OpenSpec schema
 - On prompt to create a new OpenSpec spec with a description of the task, the query already did an initial research prior to reaching the `questions` artifact.
-- In the `questions` artifact, the questions produced
+- In the `questions` artifact, the questions produced are sometimes not focused on researching the code. There are questions that may not be resolved by exploring the codebase.
+	- On second thought, this may be fine since it is not guaranteed that these may not aid code exploration
 
 # References
 [[Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy]]
