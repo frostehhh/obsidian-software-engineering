@@ -13,6 +13,10 @@ source::
 - On prompt to create a new OpenSpec spec with a description of the task, the query already did an initial research prior to reaching the `questions` artifact.
 - In the `questions` artifact, the questions produced are sometimes not focused on researching the code. There are questions that may not be resolved by exploring the codebase.
 	- On second thought, this may be fine since it is not guaranteed that these may not aid code exploration
+- When I was working on the plan artifact, I wanted to revise it. It's not clear which OpenSpec skill or artifact was suitable for it. It seems that there is none. I think my options here are the following:
+	- Manually create a prompt that mentions that I want to revise `plan.md` (plan artifact)
+	- Create a skill + prompt that will include instructions for viewing a spec + specific artifact.
+		- Afterwards, I can freely prompt what I want the AI agent to do next. In this case, I can instruct it to review
 
 # References
 [[Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy]]
