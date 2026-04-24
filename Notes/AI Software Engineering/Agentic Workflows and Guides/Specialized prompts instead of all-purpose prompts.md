@@ -1,8 +1,7 @@
 ---
 tags:
   - guide
-  - artificial-intelligence/practice
-  - notes
+  - artificial-intelligence/prompt-engineering
 tier:
   - 2 - Above Average
 ---

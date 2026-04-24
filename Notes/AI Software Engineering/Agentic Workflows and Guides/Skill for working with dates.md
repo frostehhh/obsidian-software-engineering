@@ -1,8 +1,9 @@
 ---
 tags:
   - guide
-  - artificial-intelligence/skills
   - notes
+  - artificial-intelligence/harness-engineering/skills
+  - datetime
 Draft: true
 tier:
   - 0 - Superior

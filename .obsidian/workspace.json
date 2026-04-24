@@ -24,21 +24,36 @@
             }
           },
           {
-            "id": "a21c687f97668482",
+            "id": "a75b4657e05c6f76",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
-                "mode": "source",
+                "file": "Notes/AI Software Engineering/Agentic Workflows and Guides/_note_Agentic Workflows and Guides.md",
+                "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Question, Research, Structure Outline, Plan, Implementation"
+              "title": "_note_Agentic Workflows and Guides"
+            }
+          },
+          {
+            "id": "d5a5a0d9a62ab955",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Notes/AI Software Engineering/Agentic Workflows and Guides/_AI Guides.base",
+                "viewName": "All"
+              },
+              "icon": "lucide-table",
+              "title": "_AI Guides"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"<% tp.\"",
+                "query": "tag:artificial-intelligence/harness-engineering",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,11 +106,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 488.0024719238281
+    "width": 404.0024719238281
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -225,36 +241,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a21c687f97668482",
+  "active": "b0c2dedb11ea3190",
   "lastOpenFiles": [
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/Preferred OpenSpec Schemas.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/_AI Guides.base",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/_note_Agentic Workflows and Guides.md",
+    "Notes/AI Software Engineering/AI Software Engineering.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Plan mode prompt.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
+    "--Obsidian Template--/Frontmatter/With Source URL.md",
+    "--Obsidian Template--/Frontmatter/Reference Notes/With Source.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Skill for working with dates.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Requirements and Design(BRD and PRD).md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Setting up OpenSpec.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Skill for working with dates.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/TDD with AI.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Spec-driven Development - BRD, PRD, Backlog, Zen MCP and Memory Bank.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Specialized prompts instead of all-purpose prompts.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Requirement-specific custom slash commands.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Memory Bank.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Explore, plan, code.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/PRD(TaskMaster AI).md",
-    "Notes/AI Software Engineering/AI Software Engineering.md",
     "Notes/AI Software Engineering/_note_AI Software Engineering.md",
     "--Attachments/Question, Research, Structure Outline, Plan, Implementation 2026-04-17 23.45.20.excalidraw.md",
     "Question, Research, Structure Outline, Pxlan, Implementation 2026-04-17 23.45.20.excalidraw.md",
     "Reference Notes/HumanLayer/Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy.md",
     "--Obsidian Template--/Templater/Current Date and Time.md",
     "--Obsidian Template--/Templater",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/_AI Guides.base",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/<important if=\"...\"> block.md",
     "Notes/AI Software Engineering/Spec-driven Development.md",
     "Notes/AI Software Engineering/AI Software Engineering.excalidraw.md",
     "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/Mockito Introduction.md",
-    "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/5 - Stubbing Methods for Controlled Behavior.md",
-    "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/1 - Introduction to Unit Testing and Mocking Concepts.md",
-    "Reference Notes/Baeldung/Learn Mockito/_note_Learn Mockito.md",
-    "Reference Notes/Baeldung/Learn Mockito/Module 1 - Introduction to Unit Testing and Mockito/6 - Verifying Interactions with Mocks.md",
-    "Reference Notes/HumanLayer/Context Engineering Lessons from Manus.md",
     "Notes/Go",
     "Reference Notes/HumanLayer/Untitled",
     "--Attachments/Pasted image 20260408022214.png",

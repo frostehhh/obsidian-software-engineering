@@ -3,6 +3,7 @@ tags:
   - guide
   - artificial-intelligence/setup
   - notes
+  - artificial-intelligence/prompt-engineering
 tier:
   - 1 - High
 ---
