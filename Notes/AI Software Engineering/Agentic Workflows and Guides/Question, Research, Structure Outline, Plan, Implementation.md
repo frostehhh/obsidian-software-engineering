@@ -91,7 +91,7 @@ As of <u>2026-04-20 00:07</u>, seems that what I can refer from above are the fo
 	- Brainstorming
 - Planning of how to produce an output
 	- Produce guidelines and questions in exploring a codebase implementation
-	- 
+
 # Diagram
 
 ![[Question, Research, Structure Outline, Plan, Implementation 2026-04-17 23.45.20.excalidraw]]

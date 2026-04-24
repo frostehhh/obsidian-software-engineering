@@ -22,8 +22,21 @@
               "icon": "lucide-file",
               "title": "Question, Research, Structure Outline, Plan, Implementation"
             }
+          },
+          {
+            "id": "a21c687f97668482",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "--Attachments/Question, Research, Structure Outline, Plan, Implementation 2026-04-17 23.45.20.excalidraw.md"
+              },
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,8 +181,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
@@ -193,19 +206,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "omnisearch:Omnisearch": false,
       "media-extended:Open external media": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6644ee798dd40ea5",
+  "active": "a21c687f97668482",
   "lastOpenFiles": [
-    "Reference Notes/HumanLayer/Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
+    "Question, Research, Structure Outline, Pxlan, Implementation 2026-04-17 23.45.20.excalidraw.md",
     "--Attachments/Question, Research, Structure Outline, Plan, Implementation 2026-04-17 23.45.20.excalidraw.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
+    "Reference Notes/HumanLayer/Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy.md",
     "--Obsidian Template--/Templater/Current Date and Time.md",
     "--Obsidian Template--/Templater",
     "Notes/AI Software Engineering/_note_AI Software Engineering.md",
@@ -230,7 +239,6 @@
     "--Obsidian Template--/Frontmatter/Notes/Note.md",
     "--Obsidian Template--/Frontmatter/Notes/Folder Note.md",
     "--Obsidian Template--/Frontmatter/Notes/Java.md",
-    "--Obsidian Template--/Frontmatter/Notes/Terraform.md",
     "Notes/Go",
     "Reference Notes/HumanLayer/Untitled",
     "--Attachments/Pasted image 20260408022214.png",
