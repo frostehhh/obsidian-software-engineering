@@ -229,12 +229,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "b45709f6f8e97992",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -262,7 +272,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d670135b43652d95",
+  "active": "b45709f6f8e97992",
   "lastOpenFiles": [
     "Notes/AI Software Engineering/Agentic Workflows and Guides/_AI Guides.base",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/Preferred OpenSpec Schemas.md",
