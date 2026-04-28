@@ -1,4 +1,4 @@
 ---
-date: "{{date}}T{{time}}"
+date: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
 Draft: true
 ---
