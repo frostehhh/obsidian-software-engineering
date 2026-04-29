@@ -34,10 +34,11 @@ Draft: true
 - Grouped via sections as needed
 - May lack structure such that they are many ways to improve it to improve coherency
 - have slack integration
-- showcase how much d
+- showcase how much detail is written in the doc
 # General
 - creating from scratch is easier than refactoring a plan
 - If the initial specs or plan is incorrect, it is more efficient to create a fresh set of specs.
 	- Be careful about the sunk cost fallacy. Refactoring the plan is more likely not worth it especially with more complexity
 - Spend more time designing and reviewing plans
-- 
+
+https://beps.boundaryml.com/
