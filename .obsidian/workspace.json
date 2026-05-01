@@ -38,23 +38,9 @@
               "icon": "lucide-file",
               "title": "_note_Agentic Workflows and Guides"
             }
-          },
-          {
-            "id": "b10b4f6482752139",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scratchpads/ai that works - how to build design docs using AI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ai that works - how to build design docs using AI"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -259,12 +245,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "0b44b5a8acaeb733",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "horizontal",
@@ -292,7 +288,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8929e0c8c90cbaeb",
+  "active": "0b44b5a8acaeb733",
   "lastOpenFiles": [
     "Notes/AI Software Engineering/Agentic Workflows and Guides/_note_Agentic Workflows and Guides.md",
     "--Obsidian Template--/Frontmatter/Scratchpad/Note.md",
