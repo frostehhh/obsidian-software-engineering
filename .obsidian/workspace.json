@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.0024719238281,
-    "collapsed": true
+    "width": 404.0024719238281
   },
   "right": {
     "id": "2e5b03630ad99a9e",
@@ -265,12 +264,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "458e6197f8665241",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "horizontal",
@@ -298,7 +307,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68d415d2daef7b6c",
+  "active": "458e6197f8665241",
   "lastOpenFiles": [
     "Notes/AI Software Engineering/Agentic Workflows and Guides/_note_Agentic Workflows and Guides.md",
     "--Obsidian Template--/Frontmatter/Scratchpad/Note.md",
