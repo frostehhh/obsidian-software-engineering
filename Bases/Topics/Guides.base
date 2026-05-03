@@ -11,8 +11,14 @@ views:
       - tags
       - aliases
       - file.folder
+      - Draft
     sort:
+      - property: Draft
+        direction: ASC
       - property: file.name
         direction: ASC
       - property: file.basename
         direction: DESC
+    columnSize:
+      note.tags: 328
+      file.folder: 276

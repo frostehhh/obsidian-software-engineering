@@ -38,9 +38,22 @@
               "icon": "lucide-file",
               "title": "_note_Agentic Workflows and Guides"
             }
+          },
+          {
+            "id": "2b59bc923ec9d25a",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Bases/Topics/Guides.base",
+                "viewName": "All"
+              },
+              "icon": "lucide-table",
+              "title": "Guides"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tp.date.now",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -274,12 +287,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "7472ce72a3467cc0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "horizontal",
@@ -307,8 +330,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "458e6197f8665241",
+  "active": "2b59bc923ec9d25a",
   "lastOpenFiles": [
+    "Bases/Topics/Database.base",
+    "Bases/Topics/Computer Science.base",
+    "Bases/Topics/Backend.base",
+    "Bases/Topics/Artificial Intelligence.base",
+    "Bases/Topics/System Design.base",
+    "Bases/Topics/Software Testing.base",
+    "Bases/Topics/Security.base",
+    "Bases/Mindmaps.base",
+    "Bases/Draft Notes.base",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/_note_Agentic Workflows and Guides.md",
     "--Obsidian Template--/Frontmatter/Scratchpad/Note.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
@@ -335,16 +367,8 @@
     "--Attachments/Question, Research, Structure Outline, Plan, Implementation 2026-04-17 23.45.20.excalidraw.md",
     "Question, Research, Structure Outline, Pxlan, Implementation 2026-04-17 23.45.20.excalidraw.md",
     "Reference Notes/HumanLayer/Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy.md",
-    "--Obsidian Template--/Templater",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/<important if=\"...\"> block.md",
-    "Notes/Go",
-    "Reference Notes/HumanLayer/Untitled",
     "--Attachments/Pasted image 20260408022214.png",
-    "Reference Notes/Martin Fowler",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/schemas/tasks-only/templates",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/schemas/tasks-only/schema.yaml",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/schemas/tasks-only",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/schemas",
     "--Attachments/Pasted image 20260404135939.png",
     "Notes/AI Software Engineering/Untitled.canvas",
     "Notes/Untitled.canvas",
