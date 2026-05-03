@@ -255,12 +255,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "68d415d2daef7b6c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
@@ -288,7 +298,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0b44b5a8acaeb733",
+  "active": "68d415d2daef7b6c",
   "lastOpenFiles": [
     "Notes/AI Software Engineering/Agentic Workflows and Guides/_note_Agentic Workflows and Guides.md",
     "--Obsidian Template--/Frontmatter/Scratchpad/Note.md",
