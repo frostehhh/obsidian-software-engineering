@@ -187,8 +187,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -312,7 +312,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -340,7 +340,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d42da045bb6e1b05",
+  "active": "0fadc97a8c0e8039",
   "lastOpenFiles": [
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/_note_Agentic Workflows and Guides.md",
