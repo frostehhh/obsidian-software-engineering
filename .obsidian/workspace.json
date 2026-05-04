@@ -297,8 +297,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
@@ -322,16 +322,14 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "omnisearch:Omnisearch": false,
       "media-extended:Open external media": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "2b59bc923ec9d25a",
   "lastOpenFiles": [
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/_note_Agentic Workflows and Guides.md",
+    "Bases/Topics/Guides.base",
     "Bases/Topics/Database.base",
     "Bases/Topics/Computer Science.base",
     "Bases/Topics/Backend.base",
@@ -341,14 +339,10 @@
     "Bases/Topics/Security.base",
     "Bases/Mindmaps.base",
     "Bases/Draft Notes.base",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/_note_Agentic Workflows and Guides.md",
     "--Obsidian Template--/Frontmatter/Scratchpad/Note.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
     "--Obsidian Template--/Templater/Current Date and Time.md",
     "--Obsidian Template--/Frontmatter/With Source URL.md",
     "Scratchpads/ai that works - how to build design docs using AI.md",
-    "Scratchpads/Scratchpads.base",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/_AI Guides.base",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/Preferred OpenSpec Schemas.md",
     "Notes/AI Software Engineering/AI Software Engineering.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Plan mode prompt.md",
