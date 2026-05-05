@@ -187,8 +187,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -322,7 +322,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -331,6 +331,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "open-vscode:VS Code": false,
       "bases:Create new base": false,
       "workspaces:Manage workspace layouts": false,
@@ -349,7 +350,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b9ee15a5f7983164",
+  "active": "0fadc97a8c0e8039",
   "lastOpenFiles": [
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/_note_Agentic Workflows and Guides.md",
