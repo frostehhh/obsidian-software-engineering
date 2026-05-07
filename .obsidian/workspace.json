@@ -348,12 +348,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "c3cc2f3e5e3f66e7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "horizontal",
@@ -381,7 +391,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2b59bc923ec9d25a",
+  "active": "c3cc2f3e5e3f66e7",
   "lastOpenFiles": [
     "Reference Notes/Matt Pocock/_note_Matt Pocock.md",
     "Reference Notes/Boundary/_note_Boundary.md",
