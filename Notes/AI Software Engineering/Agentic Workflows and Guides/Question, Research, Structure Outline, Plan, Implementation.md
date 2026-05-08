@@ -4,9 +4,12 @@ tags:
   - guide
   - artificial-intelligence/workflow
   - notes
+  - artificial-intelligence/spec-driven-development
 Draft: true
-source:: 
- - "[[Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy]]"
+"source:":
+  - "[[Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy]]"
+tier:
+  - 0 - Superior
 ---
 
 # Issues Encountered with QRSPI OpenSpec schema

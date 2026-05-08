@@ -3,6 +3,8 @@ tags:
   - guide
   - artificial-intelligence
   - notes
+tier:
+  - 1 - High
 ---
 
 # Claude Code Best Practices Article

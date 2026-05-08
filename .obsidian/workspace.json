@@ -40,21 +40,63 @@
             }
           },
           {
-            "id": "2b59bc923ec9d25a",
+            "id": "d44a29b0f9ce47a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Boundary/_note_Boundary.md",
+                "file": "Notes/AI Software Engineering/Agentic Workflows and Guides/Agentic AI Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_note_Boundary"
+              "title": "Agentic AI Patterns"
+            }
+          },
+          {
+            "id": "3172180bd9b4cc8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/AI Software Engineering/Agentic Workflows and Guides/Synthesis of Optimal Harness Engineering Practices and Workflows.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Synthesis of Optimal Harness Engineering Practices and Workflows"
+            }
+          },
+          {
+            "id": "c767a77cef82ff90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/Preferred OpenSpec Schemas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Preferred OpenSpec Schemas"
+            }
+          },
+          {
+            "id": "b52dc14d2966e37e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/AI Software Engineering/Agentic Workflows and Guides/Prompting Code Review plan for manual review.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prompting Code Review plan for manual review"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "zechn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +149,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -411,17 +454,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d9180ffcefa0a670",
+  "active": "b0c2dedb11ea3190",
   "lastOpenFiles": [
-    "Reference Notes/Matt Pocock/_note_Matt Pocock.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/_note_Agentic Workflows and Guides.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Synthesis of Optimal Harness Engineering Practices and Workflows.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/Preferred OpenSpec Schemas.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Prompting Code Review plan for manual review.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/schemas/tasks-only/templates/tasks.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Agentic AI Patterns.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Harness-engineering by Humanlayer.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Claude Code System Prompts.md",
     "Reference Notes/Boundary/_note_Boundary.md",
+    "Reference Notes/Matt Pocock/_note_Matt Pocock.md",
     "Reference Notes/Boundary",
     "Reference Notes/Matt Pocock/Untitled.md",
     "Reference Notes/HumanLayer/_note_HumanLayer.md",
     "Reference Notes/Matt Pocock/How I use Claude Code for real engineering.md",
     "Bases/Topics/Guides.base",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/_note_Agentic Workflows and Guides.md",
     "Bases/Topics/Database.base",
     "Bases/Topics/Computer Science.base",
     "Bases/Topics/Backend.base",
@@ -434,7 +484,6 @@
     "--Obsidian Template--/Templater/Current Date and Time.md",
     "--Obsidian Template--/Frontmatter/With Source URL.md",
     "Scratchpads/ai that works - how to build design docs using AI.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/Preferred OpenSpec Schemas.md",
     "Notes/AI Software Engineering/AI Software Engineering.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Plan mode prompt.md",
     "--Obsidian Template--/Frontmatter/Reference Notes/With Source.md",
@@ -443,12 +492,6 @@
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Setting up OpenSpec.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/TDD with AI.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Spec-driven Development - BRD, PRD, Backlog, Zen MCP and Memory Bank.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Specialized prompts instead of all-purpose prompts.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Requirement-specific custom slash commands.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Memory Bank.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Explore, plan, code.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/PRD(TaskMaster AI).md",
-    "Notes/AI Software Engineering/_note_AI Software Engineering.md",
     "--Attachments/Pasted image 20260408022214.png",
     "--Attachments/Pasted image 20260404135939.png",
     "Notes/AI Software Engineering/Untitled.canvas",

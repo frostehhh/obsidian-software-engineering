@@ -3,6 +3,8 @@ tags:
   - guide
   - artificial-intelligence/workflow
   - notes
+tier:
+  - 5 - Minor
 ---
 
 # Prompting Code Review plan for manual review

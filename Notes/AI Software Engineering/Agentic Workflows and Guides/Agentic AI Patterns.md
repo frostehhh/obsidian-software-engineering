@@ -4,6 +4,8 @@ tags:
   - notes
   - artificial-intelligence/agent
 Draft: false
+tier:
+  - 1 - High
 ---
 
 1. Loop

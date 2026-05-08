@@ -7,6 +7,8 @@ tags:
   - artificial-intelligence/setup
   - artificial-intelligence/open-spec
 Draft: false
+tier:
+  - 1 - High
 ---
 # Source
 https://github.com/Fission-AI/OpenSpec
