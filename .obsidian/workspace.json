@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,8 +121,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -394,12 +393,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "768cae02aef0397d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 24
       }
     ],
     "direction": "horizontal",
@@ -427,16 +436,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1c4db3b1a684e8f1",
+  "active": "3172180bd9b4cc8c",
   "lastOpenFiles": [
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Synthesis of Optimal Harness Engineering Practices and Workflows.md",
     "--Attachments/Synthesis of Optimal Harness Engineering Practices and Workflows 2026-05-09 00.28.54.excalidraw.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Synthesis of Optimal Harness Engineering Practices and Workflows.md",
+    "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/_note_Agentic Workflows and Guides.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Prompting Code Review plan for manual review.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/Preferred OpenSpec Schemas.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Agentic AI Patterns.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Preferred OpenSpec Schemas/schemas/tasks-only/templates/tasks.md",
-    "Notes/AI Software Engineering/Agentic Workflows and Guides/Question, Research, Structure Outline, Plan, Implementation.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Harness-engineering by Humanlayer.md",
     "Notes/AI Software Engineering/Agentic Workflows and Guides/Claude Code System Prompts.md",
     "Reference Notes/Boundary/_note_Boundary.md",

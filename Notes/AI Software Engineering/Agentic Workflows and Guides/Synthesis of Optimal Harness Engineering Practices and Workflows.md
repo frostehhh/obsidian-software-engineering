@@ -22,7 +22,6 @@ Draft: true
 ## [[Question, Research, Structure Outline, Plan, Implementation]]
 - Don't outsource the thinking
 - Mental alignment with AI model as much as possible
-- 
 ## Others
 - Rewatch the philosophy engineering video. Understand the flows 
 # Tooling
