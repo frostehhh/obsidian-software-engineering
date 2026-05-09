@@ -23,7 +23,11 @@ Draft: true
 - Don't outsource the thinking
 - Mental alignment with AI model as much as possible
 - 
-
+## Others
+- Rewatch the philosophy engineering video. Understand the flows 
 # Tooling
+- 
 
 [^1]: [[Question, Research, Structure Outline, Plan, Implementation]]
+
+![[Synthesis of Optimal Harness Engineering Practices and Workflows 2026-05-09 00.28.54.excalidraw]]
