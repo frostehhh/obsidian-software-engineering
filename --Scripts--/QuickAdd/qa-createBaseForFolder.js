@@ -23,6 +23,8 @@ module.exports = async (params) => {
     - file.inFolder(this.file.folder)
 `;
 
-  await app.vault.create(basePath, content);
+  const newFile = await app.vault.create(basePath, content);
   new Notice(`Created "${folderName}.base" in "${folderPath || "/"}"`);
+  const leaf = app.workspace.getLeaf(false);
+  await leaf.openFile(newFile);
 };
