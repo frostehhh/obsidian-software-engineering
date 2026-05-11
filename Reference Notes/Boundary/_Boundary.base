@@ -1,0 +1,13 @@
+filters:
+  and:
+    - file.name != "_note_" + this.file.folder
+    - file.name != this.file.name
+    - file.inFolder(this.file.folder)
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Draft
+    columnSize:
+      file.name: 374
