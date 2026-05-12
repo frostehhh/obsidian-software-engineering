@@ -188,12 +188,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "58673bc93a95de5d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -212,18 +222,17 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "omnisearch:Omnisearch": false,
-      "media-extended:Open external media": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
+      "media-extended:Open media library": false,
+      "media-extended:Open media quick switcher": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false,
-      "media-extended:Open media library": false,
-      "media-extended:Open media quick switcher": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "d4a842b5430b126c",
+  "active": "58673bc93a95de5d",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Reference Notes/Andrej Karpathy/_note_Andrej Karpathy.md",
